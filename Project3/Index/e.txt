@@ -1,0 +1,1 @@
+[('http://asterix.ics.uci.edu//publications.html', 0.004132231404958678, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/', 0.0011876484560570072, False, True), ('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.0019267822736030828, False, False)]

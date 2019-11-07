@@ -1,0 +1,1 @@
+[('http://alderis.ics.uci.edu/dresystems.html', 0.003952569169960474, False, False), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 5.556481635828194e-05, False, True)]

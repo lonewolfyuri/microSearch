@@ -1,0 +1,1 @@
+[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0036199095022624436, False, True)]

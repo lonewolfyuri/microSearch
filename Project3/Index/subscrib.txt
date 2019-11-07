@@ -1,0 +1,1 @@
+[('http://asterix.ics.uci.edu/bigactivedata/index.html', 0.002890173410404624, False, True), ('http://asterix.ics.uci.edu/bigactivedata/', 0.002890173410404624, False, True), ('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.005813953488372093, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 4.953683063357606e-05, False, True)]

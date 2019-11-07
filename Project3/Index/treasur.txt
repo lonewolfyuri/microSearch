@@ -1,0 +1,1 @@
+[('https://aiclub.ics.uci.edu/', 0.003663003663003663, False, True), ('https://aiclub.ics.uci.edu/#body', 0.003663003663003663, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.003663003663003663, False, True)]

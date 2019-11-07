@@ -1,0 +1,1 @@
+[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.00831353919239905, False, True)]

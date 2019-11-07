@@ -1,0 +1,1 @@
+[('http://alderis.ics.uci.edu/dresystems.html', 0.018867924528301886, False, True), ('http://alderis.ics.uci.edu/downloads.html', 0.014705882352941176, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/', 0.002004008016032064, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.004901960784313725, False, True)]

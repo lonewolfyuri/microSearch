@@ -1,0 +1,1 @@
+[('http://asterix.ics.uci.edu/bigactivedata/team.html', 0.005847953216374269, False, True), ('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.0035211267605633804, False, False)]

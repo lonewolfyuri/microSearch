@@ -1,0 +1,1 @@
+[('http://asterix.ics.uci.edu/bigactivedata/talks.html', 0.0022727272727272726, False, False)]

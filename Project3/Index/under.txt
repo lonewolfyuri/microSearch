@@ -1,0 +1,1 @@
+[('http://alderis.ics.uci.edu/links.html', 0.015625, False, False), ('http://asterix.ics.uci.edu/fuzzyjoin/README.html', 0.002583979328165375, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/FAQ.html', 0.0029585798816568047, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/', 0.004310344827586207, False, False)]

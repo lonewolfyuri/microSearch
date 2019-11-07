@@ -1,0 +1,1 @@
+[('https://asterix-gerrit.ics.uci.edu/#/q/author:taewoo+status:merged', 0.05, False, True)]

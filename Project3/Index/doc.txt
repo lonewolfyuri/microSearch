@@ -1,0 +1,1 @@
+[('http://alderis.ics.uci.edu/links.html', 0.012195121951219513, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/README.html', 0.0018975332068311196, False, True)]

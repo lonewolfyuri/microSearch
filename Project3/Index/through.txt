@@ -1,0 +1,1 @@
+[('https://aiclub.ics.uci.edu/', 0.01020408163265306, False, True), ('https://aiclub.ics.uci.edu/#body', 0.01020408163265306, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.01020408163265306, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 5.798446016467587e-05, False, True)]

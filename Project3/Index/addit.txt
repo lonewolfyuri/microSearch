@@ -1,0 +1,1 @@
+[('http://asterix.ics.uci.edu/fuzzyjoin/README.html', 0.0007429420505200594, False, False), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 6.69478476266988e-05, False, True)]
