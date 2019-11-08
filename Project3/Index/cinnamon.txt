@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.002564102564102564, False, True)]

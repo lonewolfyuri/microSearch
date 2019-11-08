@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption', 0.0029069767441860465, False, True)]

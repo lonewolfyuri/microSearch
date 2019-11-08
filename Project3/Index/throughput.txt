@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.002793296089385475, False, True)]
+[('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.002793296089385475, False, True), ('http://archive.ics.uci.edu/ml/datasets/SECOM', 0.0027247956403269754, False, True)]

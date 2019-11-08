@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+', 0.1, True, True), ('http://archive.ics.uci.edu/ml/datasets/Audiology+(Standardized)', 0.0018315018315018315, False, True), ('http://archive.ics.uci.edu/ml/datasets/Audiology+%28Standardized%29', 0.0018315018315018315, False, True)]

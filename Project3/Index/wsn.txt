@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Indoor+User+Movement+Prediction+from+RSS+data', 0.002702702702702703, False, True), ('http://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29', 0.0029498525073746312, False, True)]

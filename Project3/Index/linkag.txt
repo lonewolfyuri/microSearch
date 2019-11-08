@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Servo', 0.002617801047120419, False, True), ('http://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Patterns', 0.1, True, True)]

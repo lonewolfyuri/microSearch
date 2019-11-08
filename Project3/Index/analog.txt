@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Insurance+Company+Benchmark+(COIL+2000)#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.003355704697986577, False, False), ('http://archive.ics.uci.edu/ml/datasets/EMG+dataset+in+Lower+Limb', 0.002188183807439825, False, True), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.0026109660574412533, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Statlog+(Australian+Credit+Approval)', 0.002898550724637681, False, True), ('http://archive.ics.uci.edu/ml/datasets/Credit+Approval', 0.0032679738562091504, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29', 0.002898550724637681, False, True)]

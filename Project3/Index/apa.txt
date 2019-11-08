@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation', 0.0012594458438287153, False, True), ('http://archive.ics.uci.edu/ml/citation_policy.html', 0.004629629629629629, False, True), ('http://archive.ics.uci.edu/ml/datasets/Paper+Reviews', 0.0011098779134295228, False, True)]

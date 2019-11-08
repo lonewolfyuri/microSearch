@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center', 0.005050505050505051, False, False), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength', 0.00390625, False, True), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test', 0.0036101083032490976, False, True)]

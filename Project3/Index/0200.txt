@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Qualitative+Structure+Activity+Relationships', 0.00390625, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dynamic+Features+of+VirusShare+Executables', 0.002570694087403599, False, True)]

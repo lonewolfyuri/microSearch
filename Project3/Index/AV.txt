@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Vehicle+Silhouettes%29', 0.0011614401858304297, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.001984126984126984, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)', 0.0011614401858304297, False, True)]

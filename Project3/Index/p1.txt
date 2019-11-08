@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants', 0.0014577259475218659, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wave+Energy+Converters', 0.0022222222222222222, False, True)]

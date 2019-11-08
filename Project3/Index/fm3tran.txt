@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.001402524544179523, False, True)]

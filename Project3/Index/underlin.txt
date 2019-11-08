@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.00018508236165093466, False, True)]
+[('http://archive.ics.uci.edu/ml/support/Wine#a32ab1b3da96c9ae515a685b4fcf50e857708f24', 0.00044583147570218456, False, False), ('http://archive.ics.uci.edu/ml/support/Ionosphere#49b5aef7a515640b1dde8f9f777d5a1f0c014022', 0.0002801905295601009, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.00018508236165093466, False, True)]

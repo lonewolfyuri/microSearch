@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions', 0.0010131712259371835, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE', 0.004830917874396135, False, False)]

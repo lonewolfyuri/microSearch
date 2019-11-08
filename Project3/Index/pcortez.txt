@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Student+Performance', 0.004291845493562232, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wine+Quality', 0.0038314176245210726, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+Fires', 0.004032258064516129, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/ISOLET#9fe9e6630b7b953504726b9b36281c4f738b964e', 0.0015105740181268882, False, False), ('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0025906735751295338, False, True)]

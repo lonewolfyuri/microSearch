@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+%28COIL+2000%29', 0.0018214936247723133, False, True), ('http://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+(COIL+2000)', 0.0018214936247723133, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/', 0.02564102564102564, False, True)]

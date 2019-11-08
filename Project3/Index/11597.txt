@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Character+Font+Images', 0.002777777777777778, False, True), ('http://archive.ics.uci.edu/ml/datasets/IDA2016Challenge', 0.0045662100456621, False, True)]

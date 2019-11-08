@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Breast+Cancer#3e78257004181e6dbbdfa3ec12399520412e9c5c', 0.0005817335660267597, False, False), ('http://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Patterns', 0.00392156862745098, False, True)]

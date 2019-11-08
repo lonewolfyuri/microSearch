@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice', 0.003105590062111801, False, True), ('http://archive.ics.uci.edu/ml/datasets/Audit+Data', 0.002570694087403599, False, True), ('http://archive.ics.uci.edu/ml/datasets/Firm-Teacher_Clave-Direction_Classification', 0.002304147465437788, False, True)]

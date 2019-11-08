@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version2/', 0.045454545454545456, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.001893939393939394, False, True)]

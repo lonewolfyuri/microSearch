@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Ecoli#f006e50cdba5e00538e2b48452e1d0bab8ed02b9', 0.0008771929824561404, False, False), ('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.0005633802816901409, False, False)]

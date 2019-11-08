@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.0019267822736030828, False, True), ('http://archive.ics.uci.edu/ml/support/Hepatitis#61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5', 0.00042936882782310007, False, False), ('http://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation', 0.00267379679144385, False, True)]

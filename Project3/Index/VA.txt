@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.002, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/', 0.02702702702702703, False, True), ('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.0009633911368015414, False, True)]

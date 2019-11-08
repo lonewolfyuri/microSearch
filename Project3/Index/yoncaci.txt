@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.0015873015873015873, False, True), ('http://archive.ics.uci.edu/ml/support/Adult#cefc3da70b90693b8046b574392c86d2db1f196a', 0.000999000999000999, False, True)]

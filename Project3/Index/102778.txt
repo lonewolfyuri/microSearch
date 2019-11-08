@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/EEG+Eye+State', 0.004347826086956522, False, True)]

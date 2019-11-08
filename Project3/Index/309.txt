@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.0016750418760469012, False, True), ('http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation', 0.004975124378109453, False, False), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.0022271714922048997, False, True)]

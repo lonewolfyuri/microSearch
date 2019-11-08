@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.125, True, True), ('http://archive.ics.uci.edu/ml/support/Trains#d8d6151f296628418779cbc9a42cdba8ee766415', 0.004, False, True)]

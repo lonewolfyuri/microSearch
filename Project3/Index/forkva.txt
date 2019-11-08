@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Tamilnadu+Electricity+Board+Hourly+Readings', 0.0035587188612099642, False, True)]

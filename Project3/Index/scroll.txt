@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0010746910263299302, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1998+Data', 0.0020161290322580645, False, False), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0010746910263299302, False, True)]

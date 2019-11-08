@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 0.0019569471624266144, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/logic/probs/', 0.025, False, True)]

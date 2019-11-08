@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+%281990%29', 0.001215066828675577, False, True), ('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990)', 0.001215066828675577, False, True)]

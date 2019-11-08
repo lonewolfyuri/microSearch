@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.00036036036036036037, False, True), ('http://archive.ics.uci.edu/ml/support/Abalone#ae82a44ada49c66439b67eae7ff10392ff209df9', 0.0004123711340206186, False, False), ('http://archive.ics.uci.edu/ml/datasets/BlogFeedback', 0.001375515818431912, False, True)]

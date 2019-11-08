@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms', 0.00390625, False, True)]

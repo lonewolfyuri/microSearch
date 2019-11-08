@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Movie', 0.0023094688221709007, False, True), ('http://archive.ics.uci.edu/ml/support/Adult#cefc3da70b90693b8046b574392c86d2db1f196a', 0.0007037297677691766, False, False), ('http://archive.ics.uci.edu/ml/support/Protein+Data#6a9871da32f3042a5de9082a36a11d5aecda6df8', 0.0008298755186721991, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor', 0.0015337423312883436, False, True), ('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.002136752136752137, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multiple+Features', 0.001937984496124031, False, True)]

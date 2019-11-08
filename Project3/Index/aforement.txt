@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.001095290251916758, False, True), ('http://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip', 0.0030959752321981426, False, True), ('http://archive.ics.uci.edu/ml/support/Servo#5657ca96b13a51d96b97c4f8d8f5e724a616b9e6', 0.0010787486515641855, False, False)]

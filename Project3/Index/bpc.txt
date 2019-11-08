@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6', 0.0009149130832570906, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics', 0.0022522522522522522, False, True)]

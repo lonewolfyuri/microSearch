@@ -1,1 +1,1 @@
-[('https://aiclub.ics.uci.edu/', 0.004694835680751174, False, True), ('https://aiclub.ics.uci.edu/#body', 0.004694835680751174, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.004694835680751174, False, True)]
+[('http://archive.ics.uci.edu/ml/support/Hepatitis#61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5', 0.0011574074074074073, False, False)]

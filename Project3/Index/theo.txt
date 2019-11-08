@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/E.+Coli+Genes', 0.001838235294117647, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.004, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.00398406374501992, False, True)]

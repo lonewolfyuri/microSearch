@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 4.9326690672322796e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Labor+Relations', 0.004597701149425287, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29', 0.001893939393939394, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)', 0.001893939393939394, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 4.9326690672322796e-05, False, True)]

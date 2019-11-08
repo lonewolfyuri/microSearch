@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 4.776689754000478e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/MEx', 0.001652892561983471, False, True)]

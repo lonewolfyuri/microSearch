@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Iris', 0.0019120458891013384, False, True), ('http://archive.ics.uci.edu/ml/datasets/First-order+theorem+proving', 0.0037593984962406013, False, True)]

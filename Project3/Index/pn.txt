@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0009523809523809524, False, True), ('http://archive.ics.uci.edu/ml/datasets/Discrete+Tone+Image+Dataset', 0.002544529262086514, False, True)]

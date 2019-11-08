@@ -1,0 +1,1 @@
+[("http://archive.ics.uci.edu/ml/support/Haberman's+Survival#8432b52f06e00a68cb8a7a49e3938190338231de", 0.002320185614849188, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.00030950170225936243, False, True)]

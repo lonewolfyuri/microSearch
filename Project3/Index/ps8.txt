@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/schedworld/probsets/', 0.024390243902439025, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/blocksworld/probsets/', 0.024390243902439025, False, True)]

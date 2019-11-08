@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Movie', 0.0023094688221709007, False, True), ('http://archive.ics.uci.edu/ml/datasets/Abalone', 0.0024449877750611247, False, True), ('http://archive.ics.uci.edu/ml/datasets/Automobile', 0.0016286644951140066, False, True), ('http://archive.ics.uci.edu/ml/datasets/Annealing', 0.0025906735751295338, False, True)]

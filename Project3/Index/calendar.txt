@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/PEMS-SF', 0.001483679525222552, False, True), ('http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption', 0.0024691358024691358, False, True)]

@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 9.169264624977077e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Mobile+Robots', 0.0036496350364963502, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 9.169264624977077e-05, False, True)]

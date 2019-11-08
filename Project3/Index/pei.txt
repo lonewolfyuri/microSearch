@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set', 0.0022371364653243847, False, True), ('http://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Dataset_Weekly', 0.0033112582781456954, False, True)]

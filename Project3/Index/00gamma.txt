@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.0008203445447087777, False, False)]

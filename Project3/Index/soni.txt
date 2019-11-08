@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Dataset', 0.0038461538461538464, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0012674271229404308, False, True), ('http://archive.ics.uci.edu/ml/datasets/Abscisic+Acid+Signaling+Network', 0.0036101083032490976, False, True)]

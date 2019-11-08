@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/banknote+authentication', 0.004201680672268907, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dataset+for+Sensorless+Drive+Diagnosis', 0.004016064257028112, False, True)]

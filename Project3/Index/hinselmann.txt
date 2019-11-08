@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29', 0.002331002331002331, False, True), ('http://archive.ics.uci.edu/ml/datasets/Quality+Assessment+of+Digital+Colposcopies', 0.003048780487804878, False, True)]

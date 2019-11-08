@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Pen-Based+Recognition+of+Handwritten+Digits#00b6f77ab5353f8974383e14fbef4cd03a846f8a', 0.0015772870662460567, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gisette', 0.003787878787878788, False, True)]

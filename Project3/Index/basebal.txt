@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dodgers+Loop+Sensor', 0.0028169014084507044, False, True), ('http://archive.ics.uci.edu/ml/support/Servo#5657ca96b13a51d96b97c4f8d8f5e724a616b9e6', 0.0038910505836575876, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/Provision_PT_838_Security_Camera/', 0.08333333333333333, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/', 0.023809523809523808, False, True)]

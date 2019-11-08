@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.00042643923240938164, False, True), ('http://archive.ics.uci.edu/ml/datasets/EEG+Database', 0.001182033096926714, False, True)]

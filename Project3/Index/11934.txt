@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 0.004, False, True), ('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants', 0.0045045045045045045, False, True)]

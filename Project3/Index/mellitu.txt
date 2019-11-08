@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data', 0.00196078431372549, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease', 0.00273224043715847, False, True)]

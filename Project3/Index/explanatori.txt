@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients', 0.002061855670103093, False, True), ('http://archive.ics.uci.edu/ml/datasets/NYSK', 0.002932551319648094, False, True), ('http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition', 0.0022522522522522522, False, True)]

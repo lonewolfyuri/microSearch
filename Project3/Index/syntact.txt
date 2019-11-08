@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.0013531799729364006, False, True), ('http://archive.ics.uci.edu/ml/support/Heart+Disease#cb68337ad074a5f5ce7d8ca8a7a0b7bad1931070', 0.002638522427440633, False, True)]

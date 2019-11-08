@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Letter+Recognition', 0.0022172949002217295, False, True)]

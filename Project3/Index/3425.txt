@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.001183431952662722, False, True), ('http://archive.ics.uci.edu/ml/datasets/Corel+Image+Features', 0.003816793893129771, False, True), ('http://archive.ics.uci.edu/ml/datasets/Syskill+and+Webert+Web+Page+Ratings', 0.0037313432835820895, False, True)]

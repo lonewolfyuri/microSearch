@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0001034875297526648, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.0030581039755351682, False, True), ('http://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log', 0.002036659877800407, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.0029239766081871343, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0001034875297526648, False, True)]

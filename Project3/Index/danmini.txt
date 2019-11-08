@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/Danmini_Doorbell/', 0.1111111111111111, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/', 0.05555555555555555, False, True)]

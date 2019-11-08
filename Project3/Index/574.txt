@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset+at+Different+Concentrations', 0.0008203445447087777, False, True), ('http://archive.ics.uci.edu/ml/datasets/FMA%3A+A+Dataset+For+Music+Analysis', 0.004739336492890996, False, False), ('http://archive.ics.uci.edu/ml/datasets/EEG+Database', 0.0014184397163120568, False, True)]

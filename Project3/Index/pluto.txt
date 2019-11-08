@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.00425531914893617, False, False), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.00392156862745098, False, False)]

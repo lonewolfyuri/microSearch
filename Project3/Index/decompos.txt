@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6', 0.0008849557522123894, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0005770340450086555, False, True), ('http://archive.ics.uci.edu/ml/datasets/Planning+Relax', 0.001177856301531213, False, True)]

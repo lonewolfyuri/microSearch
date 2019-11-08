@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset', 0.0020408163265306124, False, True), ('http://archive.ics.uci.edu/ml/datasets/AutoUniv', 0.0019157088122605363, False, True), ('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait', 0.0009372071227741331, False, True)]

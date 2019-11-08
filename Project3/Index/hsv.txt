@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Corel+Image+Features', 0.002288329519450801, False, True), ('http://archive.ics.uci.edu/ml/datasets/Quality+Assessment+of+Digital+Colposcopies', 0.001226993865030675, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.0037593984962406013, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.003745318352059925, False, True)]

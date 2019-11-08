@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/El+Nino', 0.001763668430335097, False, True), ('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants', 0.0022522522522522522, False, True), ('http://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics', 0.0041841004184100415, False, True)]

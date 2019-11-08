@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime', 0.0014534883720930232, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0014005602240896359, False, True), ('http://archive.ics.uci.edu/ml/datasets/Repeat+Consumption+Matrices', 0.0030959752321981426, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime', 0.001321003963011889, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0009389671361502347, False, True)]

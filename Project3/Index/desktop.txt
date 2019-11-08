@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.327617791455998e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Character+Font+Images', 0.0033783783783783786, False, True), ('http://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance', 0.002277904328018223, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.327617791455998e-05, False, True)]

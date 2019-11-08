@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports', 0.0022624434389140274, False, True), ('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0008787346221441124, False, False), ('http://archive.ics.uci.edu/ml/datasets/Thyroid+Disease', 0.002551020408163265, False, True)]

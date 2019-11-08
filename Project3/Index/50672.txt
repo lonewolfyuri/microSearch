@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data', 0.0049261083743842365, False, True)]

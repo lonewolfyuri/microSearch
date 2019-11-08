@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0002748007694421544, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.002857142857142857, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0002748007694421544, False, True)]

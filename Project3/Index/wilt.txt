@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Wilt', 0.14285714285714285, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00285/', 0.05555555555555555, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.001226993865030675, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Fertility', 0.0027472527472527475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients', 0.006472491909385114, False, True), ('http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations', 0.00437636761487965, False, True)]

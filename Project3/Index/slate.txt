@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6', 0.0013003901170351106, False, False), ('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.0005274261603375527, False, True), ('http://archive.ics.uci.edu/ml/datasets/Letter+Recognition', 0.004484304932735426, False, True)]

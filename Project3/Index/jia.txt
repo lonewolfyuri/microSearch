@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//thesis.html', 0.008403361344537815, False, True), ('http://asterix.ics.uci.edu//publications.html', 0.005747126436781609, False, True)]
+[('http://asterix.ics.uci.edu//thesis.html', 0.008403361344537815, False, True), ('http://asterix.ics.uci.edu//publications.html', 0.005747126436781609, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 0.0009099181073703367, False, True)]

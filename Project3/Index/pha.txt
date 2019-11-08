@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/HCC+Survival', 0.0036900369003690036, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.001430615164520744, False, True)]

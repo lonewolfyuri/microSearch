@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.0024691358024691358, False, True), ('http://archive.ics.uci.edu/ml/datasets/Student+Academics+Performance', 0.0033444816053511705, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.0024630541871921183, False, True)]

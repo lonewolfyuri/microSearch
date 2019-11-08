@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0047169811320754715, False, True), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.0018484288354898336, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0003570153516601214, False, False)]

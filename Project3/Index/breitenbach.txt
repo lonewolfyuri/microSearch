@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Ionosphere', 0.0007022471910112359, False, True), ('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.0037313432835820895, False, True), ('http://archive.ics.uci.edu/ml/support/Ionosphere#49b5aef7a515640b1dde8f9f777d5a1f0c014022', 0.0002768549280177187, False, True)]

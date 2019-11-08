@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/CMU+Face+Images', 0.0035778175313059034, False, True)]

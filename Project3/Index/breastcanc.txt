@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Diabetes#ded3146242d6b322f31afbf57a8afde22e4ec8e1', 0.0010214504596527069, False, False)]

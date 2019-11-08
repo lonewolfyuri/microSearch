@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Cloud', 0.006622516556291391, False, True), ('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.0021551724137931034, False, True), ('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.0018484288354898336, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0012674271229404308, False, True)]

@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.004016064257028112, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.582075972401244e-05, False, True)]
+[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.004016064257028112, False, True), ('http://archive.ics.uci.edu/ml/datasets/SIFT10M', 0.0049261083743842365, False, False), ('http://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment', 0.00554016620498615, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.582075972401244e-05, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/UbiqLog+%28smartphone+lifelogging%29', 0.0025380710659898475, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00410/', 0.05555555555555555, False, True), ('http://archive.ics.uci.edu/ml/datasets/Paper+Reviews', 0.0025, False, True)]

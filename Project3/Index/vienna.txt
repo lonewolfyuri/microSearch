@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.003952569169960474, False, False)]
+[('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.003952569169960474, False, False), ('http://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Dataset', 0.0035587188612099642, False, True)]

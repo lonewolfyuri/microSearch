@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/NSF+Research+Award+Abstracts+1990-2003', 0.0026246719160104987, False, True)]

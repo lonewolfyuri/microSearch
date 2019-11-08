@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Leaf', 0.007462686567164179, False, True), ('http://archive.ics.uci.edu/ml/datasets/Student+Performance', 0.002702702702702703, False, True), ('http://archive.ics.uci.edu/ml/datasets/Breast+Tissue', 0.0021231422505307855, False, True), ('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection', 0.002242152466367713, False, True)]

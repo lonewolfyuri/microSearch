@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Hayes-Roth', 0.002398081534772182, False, True), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.0030959752321981426, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00012166930283489475, False, True)]

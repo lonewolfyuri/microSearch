@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.0018148820326678765, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dexter', 0.006493506493506494, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/', 0.125, True, True)]

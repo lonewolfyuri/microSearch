@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)', 0.00516795865633075, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census-Income+%28KDD%29', 0.00516795865633075, False, True)]

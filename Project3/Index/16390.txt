@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data', 0.00398406374501992, False, True)]

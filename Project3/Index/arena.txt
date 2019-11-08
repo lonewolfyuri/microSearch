@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.002288329519450801, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.002352941176470588, False, True), ('http://archive.ics.uci.edu/ml/datasets/Firm-Teacher_Clave-Direction_Classification', 0.0017953321364452424, False, True)]

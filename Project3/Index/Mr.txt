@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.0012239902080783353, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+(Domain+Theories)', 0.00390625, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+%28Domain+Theories%29', 0.00390625, False, True)]

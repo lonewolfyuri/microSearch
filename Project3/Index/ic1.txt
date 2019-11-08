@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/IPUMS+Census+Database#8931d2a4a8256ea88abea3ea3ac820fd421ce0b1', 0.0023094688221709007, False, True), ('http://archive.ics.uci.edu/ml/support/KDD+Cup+1998+Data#48dc427a3536d7bef34e910efc1f34171bf98729', 0.0035087719298245615, False, False)]

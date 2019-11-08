@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities', 0.001976284584980237, False, True), ('http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations', 0.0024154589371980675, False, True)]

@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.26797005596337e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings', 0.001287001287001287, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00445/', 0.047619047619047616, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.26797005596337e-05, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/BAUM-1', 0.0075046904315197, False, True)]

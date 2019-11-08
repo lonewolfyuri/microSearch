@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Facebook+metrics', 0.004273504273504274, False, True), ('http://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip', 0.004081632653061225, False, True), ('http://archive.ics.uci.edu/ml/datasets/Eco-hotel', 0.0040650406504065045, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wholesale+customers', 0.004032258064516129, False, False)]

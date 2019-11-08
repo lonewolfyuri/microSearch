@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra', 0.002849002849002849, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients', 0.003257328990228013, False, True)]

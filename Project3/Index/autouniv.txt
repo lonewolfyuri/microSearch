@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/AutoUniv', 0.14285714285714285, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00197/', 0.045454545454545456, False, True)]

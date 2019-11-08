@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset', 0.0036101083032490976, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.0009727626459143969, False, True)]

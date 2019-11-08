@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Hill-Valley', 0.0045871559633027525, False, False), ('http://archive.ics.uci.edu/ml/datasets/seismic-bumps', 0.125, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00266/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/Steel+Plates+Faults', 0.0035971223021582736, False, True)]

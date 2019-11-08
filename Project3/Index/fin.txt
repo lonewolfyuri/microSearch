@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0010504201680672268, False, True), ('http://archive.ics.uci.edu/ml/support/Lenses#efbc8c38877792e6ade1634043235d238ac9ec8d', 0.001314060446780552, False, True), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.0022727272727272726, False, True)]

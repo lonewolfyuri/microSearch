@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Connect-4', 0.0017889087656529517, False, False), ('http://archive.ics.uci.edu/ml/support/Connect-4#dfce0da4e5e3d501a92e3be7e4b0cc43d46fd057', 0.0045662100456621, False, False)]

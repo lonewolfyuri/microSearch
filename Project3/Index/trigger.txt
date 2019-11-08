@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0005973715651135006, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset', 0.0014749262536873156, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0005973715651135006, False, True)]

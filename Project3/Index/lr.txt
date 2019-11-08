@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.0056657223796034, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/', 0.047619047619047616, False, True), ('http://archive.ics.uci.edu/ml/datasets/DrivFace', 0.001996007984031936, False, True)]

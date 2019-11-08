@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/', 0.029411764705882353, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pseudo+Periodic+Synthetic+Time+Series', 0.002257336343115124, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Opinion+Corpus+for+Lebanese+Arabic+Reviews+%28OCLAR%29', 0.003003003003003003, False, False)]

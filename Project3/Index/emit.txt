@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 6.69478476266988e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/LED+Display+Domain', 0.003125, False, True), ('http://archive.ics.uci.edu/ml/datasets/Greenhouse+Gas+Observing+Network', 0.0017152658662092624, False, True), ('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.0023584905660377358, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 6.69478476266988e-05, False, True)]

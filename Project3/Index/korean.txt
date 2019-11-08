@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 6.361323155216285e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+%281990%29', 0.0016339869281045752, False, True), ('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0018281535648994515, False, True), ('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990)', 0.0016339869281045752, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 6.361323155216285e-05, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.009433962264150943, False, True), ('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data', 0.0008503401360544217, False, True)]

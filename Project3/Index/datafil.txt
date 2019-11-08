@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0009242144177449168, False, False), ('http://archive.ics.uci.edu/ml/donation_form.php', 0.0057306590257879654, False, True)]

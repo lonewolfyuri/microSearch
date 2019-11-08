@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.0072992700729927005, False, True), ('http://archive.ics.uci.edu/ml/datasets/NoisyOffice', 0.003472222222222222, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.003389830508474576, False, True)]

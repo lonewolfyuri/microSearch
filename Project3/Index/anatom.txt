@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set', 0.0026109660574412533, False, True)]

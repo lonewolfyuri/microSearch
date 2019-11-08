@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Movie', 0.005, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/', 0.03125, False, True), ('http://archive.ics.uci.edu/ml/support/El+Nino#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.0037313432835820895, False, True)]

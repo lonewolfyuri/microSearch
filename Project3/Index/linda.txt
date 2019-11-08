@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Post-Operative+Patient', 0.0041841004184100415, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.003115264797507788, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection', 0.0011947431302270011, False, True)]

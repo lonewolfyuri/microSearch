@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Audiology+(Standardized)', 0.003278688524590164, False, True), ('http://archive.ics.uci.edu/ml/datasets/Audiology+%28Standardized%29', 0.003278688524590164, False, True), ('http://archive.ics.uci.edu/ml/datasets/chipseq', 0.0010193679918450561, False, True)]

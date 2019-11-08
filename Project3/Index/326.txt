@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Automobile', 0.0016835016835016834, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00022143489813994686, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+type+mapping', 0.004830917874396135, False, True)]

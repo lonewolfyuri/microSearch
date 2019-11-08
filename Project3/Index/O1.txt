@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals', 0.003669724770642202, False, True)]

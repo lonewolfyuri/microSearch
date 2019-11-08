@@ -1,1 +1,1 @@
-[('http://alderis.ics.uci.edu/publications.html', 0.00390625, False, True), ('http://asterix.ics.uci.edu//publications.html', 0.001183431952662722, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/', 0.0049504950495049506, False, True)]
+[('http://alderis.ics.uci.edu/publications.html', 0.00390625, False, True), ('http://asterix.ics.uci.edu//publications.html', 0.001183431952662722, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/', 0.0049504950495049506, False, True), ('http://archive.ics.uci.edu/ml/datasets/microblogPCU', 0.002242152466367713, False, True)]

@@ -1,1 +1,1 @@
-[('https://aiclub.ics.uci.edu/', 0.0051813471502590676, False, True), ('https://aiclub.ics.uci.edu/#body', 0.0051813471502590676, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.0051813471502590676, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/HIGGS', 0.0021231422505307855, False, True), ('http://archive.ics.uci.edu/ml/datasets/SUSY', 0.0044742729306487695, False, True)]

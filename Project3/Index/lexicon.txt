@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters', 0.0011560693641618498, False, True), ('http://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis', 0.004672897196261682, False, False), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.0028653295128939827, False, True)]

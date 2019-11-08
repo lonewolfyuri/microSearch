@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//index.html', 0.0029411764705882353, False, True), ('http://asterix.ics.uci.edu/', 0.0029411764705882353, False, True)]
+[('http://asterix.ics.uci.edu//index.html', 0.0029411764705882353, False, True), ('http://asterix.ics.uci.edu/', 0.0029411764705882353, False, True), ('http://archive.ics.uci.edu/ml/datasets/Northix', 0.005235602094240838, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0013717421124828531, False, True)]

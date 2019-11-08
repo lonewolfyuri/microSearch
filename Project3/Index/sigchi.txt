@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Weight+Lifting+Exercises+monitored+with+Inertial+Measurement+Units', 0.00641025641025641, False, True), ('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.0022172949002217295, False, True)]

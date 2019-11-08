@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/El+Nino', 0.00411522633744856, False, True), ('http://archive.ics.uci.edu/ml/datasets/Demospongiae', 0.0034129692832764505, False, True), ('http://archive.ics.uci.edu/ml/datasets/Climate+Model+Simulation+Crashes', 0.002320185614849188, False, True)]

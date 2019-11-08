@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Spoken+Arabic+Digit', 0.0035211267605633804, False, True), ('http://archive.ics.uci.edu/ml/datasets/Opinion+Corpus+for+Lebanese+Arabic+Reviews+%28OCLAR%29', 0.0034602076124567475, False, True)]

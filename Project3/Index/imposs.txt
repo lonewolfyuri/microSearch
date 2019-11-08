@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.002824858757062147, False, True), ('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)', 0.0022026431718061676, False, True), ('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Vowel+Recognition+-+Deterding+Data%29', 0.0022026431718061676, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.07692307692307693, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/', 0.03571428571428571, False, True)]

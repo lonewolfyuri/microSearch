@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0004982561036372695, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00021939447125932427, False, True), ('http://archive.ics.uci.edu/ml/datasets/YearPredictionMSD', 0.003472222222222222, False, True)]

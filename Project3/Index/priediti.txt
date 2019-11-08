@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Prognostic)', 0.001447178002894356, False, True), ('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Prognostic%29', 0.001447178002894356, False, True)]

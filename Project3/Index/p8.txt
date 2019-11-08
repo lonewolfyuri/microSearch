@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities', 0.0015873015873015873, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/blocksworld/probs/', 0.014925373134328358, False, True)]

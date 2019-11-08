@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.004219409282700422, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/CHANGELOG.html', 0.003703703703703704, False, True)]
+[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.004219409282700422, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/CHANGELOG.html', 0.003703703703703704, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00216/', 0.047619047619047616, False, True), ('http://archive.ics.uci.edu/ml/datasets/Amazon+Access+Samples', 0.003436426116838488, False, True)]

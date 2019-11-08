@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Diabetes', 0.003257328990228013, False, True), ('http://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+', 0.0049261083743842365, False, False), ('http://archive.ics.uci.edu/ml/datasets/Hayes-Roth', 0.002398081534772182, False, True), ('http://archive.ics.uci.edu/ml/datasets/SECOM', 0.004405286343612335, False, True)]

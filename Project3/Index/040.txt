@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Corel+Image+Features', 0.0031446540880503146, False, False), ('http://archive.ics.uci.edu/ml/datasets/QSAR+aquatic+toxicity', 0.0024330900243309003, False, True)]

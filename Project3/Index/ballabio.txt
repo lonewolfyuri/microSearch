@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity', 0.0078125, False, True), ('http://archive.ics.uci.edu/ml/datasets/QSAR+aquatic+toxicity', 0.00423728813559322, False, True), ('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.004166666666666667, False, True)]

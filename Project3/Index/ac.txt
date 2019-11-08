@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Document+Understanding', 0.003215434083601286, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings', 0.0011001100110011, False, True), ('http://archive.ics.uci.edu/ml/datasets/Cardiotocography', 0.002840909090909091, False, True)]

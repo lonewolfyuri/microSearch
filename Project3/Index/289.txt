@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer', 0.002347417840375587, False, True)]

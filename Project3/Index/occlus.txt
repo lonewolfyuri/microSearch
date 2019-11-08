@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/BAUM-1', 0.002386634844868735, False, True), ('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.003278688524590164, False, True), ('http://archive.ics.uci.edu/ml/datasets/Motion+Capture+Hand+Postures', 0.004739336492890996, False, False), ('http://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures', 0.004761904761904762, False, False)]

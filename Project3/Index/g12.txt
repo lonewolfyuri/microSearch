@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data', 0.0036496350364963502, False, False), ('http://archive.ics.uci.edu/ml/datasets/Query+Analytics+Workloads+Dataset', 0.003703703703703704, False, True), ('http://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data+Set+2', 0.0036101083032490976, False, True)]

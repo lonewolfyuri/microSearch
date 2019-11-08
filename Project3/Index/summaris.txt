@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0013850415512465374, False, True), ('http://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports', 0.0022624434389140274, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0002204585537918871, False, False)]

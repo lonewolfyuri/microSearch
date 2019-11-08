@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks', 0.0009157509157509158, False, True), ('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29', 0.0011376564277588168, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/r1/probs/', 0.019230769230769232, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Plants', 0.0029154518950437317, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.0023923444976076554, False, True), ('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection', 0.0031746031746031746, False, True)]

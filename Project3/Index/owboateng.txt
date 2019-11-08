@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Smartphone+Dataset+for+Human+Activity+Recognition+%28HAR%29+in+Ambient+Assisted+Living+%28AAL%29', 0.0033333333333333335, False, True)]

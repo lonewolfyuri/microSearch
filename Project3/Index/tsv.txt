@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29', 0.002386634844868735, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Dataset', 0.007633587786259542, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29', 0.0026109660574412533, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/donation_policy.html', 0.003484320557491289, False, False)]

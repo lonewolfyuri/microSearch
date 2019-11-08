@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Lenses#efbc8c38877792e6ade1634043235d238ac9ec8d', 0.0016313213703099511, False, True), ('http://archive.ics.uci.edu/ml/datasets/Lenses', 0.00199203187250996, False, True)]

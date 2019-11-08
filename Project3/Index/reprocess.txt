@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/', 0.018518518518518517, False, True)]

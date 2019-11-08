@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Auto+MPG', 0.004032258064516129, False, True), ('http://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data', 0.0024330900243309003, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0008097165991902834, False, True)]

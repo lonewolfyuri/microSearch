@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/fuzzyjoin/README.html', 0.0013333333333333333, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Mobile+Robots', 0.0031645569620253164, False, True)]

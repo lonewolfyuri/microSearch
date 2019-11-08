@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29', 0.001422475106685633, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)', 0.001422475106685633, False, True)]

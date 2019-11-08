@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter', 0.004464285714285714, False, True), ('http://archive.ics.uci.edu/ml/support/Trains#d8d6151f296628418779cbc9a42cdba8ee766415', 0.003401360544217687, False, False)]

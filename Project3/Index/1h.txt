@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.0015290519877675841, False, True), ('http://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume', 0.0031645569620253164, False, True)]

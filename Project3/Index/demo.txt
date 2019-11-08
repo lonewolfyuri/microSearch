@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.005263157894736842, False, True)]
+[('http://asterix.ics.uci.edu//publications.html', 0.005263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/microblogPCU', 0.003436426116838488, False, True)]

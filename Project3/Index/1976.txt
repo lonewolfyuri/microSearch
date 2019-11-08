@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Balance+Scale', 0.0044444444444444444, False, True), ("http://archive.ics.uci.edu/ml/datasets/Haberman's+Survival", 0.002898550724637681, False, True), ('http://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival', 0.002898550724637681, False, True)]

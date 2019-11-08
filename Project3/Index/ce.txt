@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems', 0.0018148820326678765, False, True), ('http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition', 0.0015313935681470138, False, True)]

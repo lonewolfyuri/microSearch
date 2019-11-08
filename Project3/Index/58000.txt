@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29', 0.0049261083743842365, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Shuttle)', 0.0049261083743842365, False, True), ('http://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter', 0.004651162790697674, False, True)]

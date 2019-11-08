@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Data', 0.0018315018315018315, False, True)]

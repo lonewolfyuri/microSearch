@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling', 0.0022675736961451248, False, True), ('http://archive.ics.uci.edu/ml/datasets/ser+Knowledge+Modeling+Data+%28Students%27+Knowledge+Levels+on+DC+Electrical+Machines%29', 0.0021598272138228943, False, True), ('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.0038910505836575876, False, True)]

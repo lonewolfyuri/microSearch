@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/HIV-1+protease+cleavage', 0.0015060240963855422, False, True), ('http://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation', 0.007547169811320755, False, True)]

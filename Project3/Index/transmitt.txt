@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs', 0.0019665683382497543, False, True), ('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.00477326968973747, False, True)]

@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.0016313213703099511, False, True)]
+[('http://asterix.ics.uci.edu//publications.html', 0.0016313213703099511, False, True), ('http://archive.ics.uci.edu/ml/datasets/Bach+Chorales', 0.003745318352059925, False, True), ('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.0022371364653243847, False, True), ('http://archive.ics.uci.edu/ml/datasets/Query+Analytics+Workloads+Dataset', 0.0014184397163120568, False, True)]

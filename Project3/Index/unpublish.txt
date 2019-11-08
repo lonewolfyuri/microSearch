@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring', 0.0014858841010401188, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.00186219739292365, False, True), ('http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1998+Data', 0.004889975550122249, False, True)]

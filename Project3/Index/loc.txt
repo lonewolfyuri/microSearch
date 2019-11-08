@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.001694915254237288, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parkinson+Dataset+with+replicated+acoustic+features+', 0.0018148820326678765, False, True), ('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.0010214504596527069, False, True)]

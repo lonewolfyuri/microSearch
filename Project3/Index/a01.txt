@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities', 0.0016286644951140066, False, True), ('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.0027247956403269754, False, True), ('http://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation', 0.002105263157894737, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle/', 0.03125, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00284/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/Perfume+Data', 0.125, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00303/', 0.05263157894736842, False, True)]

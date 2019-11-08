@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set', 0.0026109660574412533, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0013513513513513514, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification', 0.003937007874015748, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings', 0.0030581039755351682, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset', 0.00390625, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.001095290251916758, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King)', 0.0036496350364963502, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King%29', 0.0036496350364963502, False, True)]

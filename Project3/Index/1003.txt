@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/SimpleHome_XCS7_1003_WHT_Security_Camera/', 0.07692307692307693, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/', 0.01694915254237288, False, True)]

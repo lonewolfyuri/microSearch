@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance', 0.001718213058419244, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wave+Energy+Converters', 0.002257336343115124, False, True), ('http://archive.ics.uci.edu/ml/datasets/Artificial+Characters', 0.001841620626151013, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.002770083102493075, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/arcene/', 0.14285714285714285, True, True), ('http://archive.ics.uci.edu/ml/datasets/Arcene', 0.14285714285714285, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/arcene/ARCENE/', 0.25, True, True)]

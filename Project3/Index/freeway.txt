@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.013513513513513514, False, True), ('http://archive.ics.uci.edu/ml/datasets/PEMS-SF', 0.0048543689320388345, False, False), ('http://archive.ics.uci.edu/ml/datasets/Dodgers+Loop+Sensor', 0.005128205128205128, False, False)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Function+Finding', 0.004347826086956522, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+(Shuttle)#4dac55f2daa66b00a555405664b6f275370782ac', 0.0016207455429497568, False, False)]

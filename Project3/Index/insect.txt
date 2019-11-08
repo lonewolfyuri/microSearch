@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0005934718100890207, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0022727272727272726, False, True)]

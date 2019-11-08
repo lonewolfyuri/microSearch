@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 6.361323155216285e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails', 0.004975124378109453, False, False), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 6.361323155216285e-05, False, True)]

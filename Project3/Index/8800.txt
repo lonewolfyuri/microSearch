@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Spoken+Arabic+Digit', 0.004694835680751174, False, True)]

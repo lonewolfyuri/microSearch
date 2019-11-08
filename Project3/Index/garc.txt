@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0018148820326678765, False, True), ('http://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Labels', 0.003115264797507788, False, True)]

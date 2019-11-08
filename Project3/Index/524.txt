@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.002136752136752137, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.001095290251916758, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.00037537537537537537, False, False)]

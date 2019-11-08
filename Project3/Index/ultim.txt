@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//index.html', 0.0029411764705882353, False, True), ('http://asterix.ics.uci.edu/', 0.0029411764705882353, False, True)]
+[('http://asterix.ics.uci.edu//index.html', 0.0029411764705882353, False, True), ('http://asterix.ics.uci.edu/', 0.0029411764705882353, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.0026109660574412533, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0026954177897574125, False, True)]

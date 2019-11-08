@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Kinship', 0.14285714285714285, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.0021008403361344537, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/kinship/', 0.14285714285714285, True, True)]

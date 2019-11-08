@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.001272264631043257, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.0008613264427217916, False, True)]

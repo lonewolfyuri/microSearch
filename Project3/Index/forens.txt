@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0007137758743754461, False, True), ('http://archive.ics.uci.edu/ml/datasets/Glass+Identification', 0.005076142131979695, False, False)]

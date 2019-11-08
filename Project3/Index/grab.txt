@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Motion+Capture+Hand+Postures', 0.00243605359317905, False, True), ('http://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures', 0.0024906600249066002, False, True)]

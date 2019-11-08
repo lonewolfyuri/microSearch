@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.002145922746781116, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.00034674063800277393, False, False)]

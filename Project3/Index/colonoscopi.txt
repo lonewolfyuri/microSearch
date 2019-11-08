@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Liver+Disorders#f6f302674e1188614eaa6f23c782d8d1c0ea2320', 0.002188183807439825, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gastrointestinal+Lesions+in+Regular+Colonoscopy', 0.09090909090909091, True, True)]

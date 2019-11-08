@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/frozenblocksworld/', 0.041666666666666664, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/blocksworld/', 0.041666666666666664, False, True)]

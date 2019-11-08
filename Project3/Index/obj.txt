@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Mobile+Robots', 0.003401360544217687, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/multirobot/probs/', 0.023255813953488372, False, True), ('http://archive.ics.uci.edu/ml/datasets/EEG+Database', 0.001455604075691412, False, True)]

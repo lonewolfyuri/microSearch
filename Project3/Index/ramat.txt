@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Computer+Hardware', 0.004166666666666667, False, True)]

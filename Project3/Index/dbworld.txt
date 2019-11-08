@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0018656716417910447, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00219/', 0.05555555555555555, False, True), ('http://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails', 0.1111111111111111, True, True)]

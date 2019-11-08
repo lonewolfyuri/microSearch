@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Internet+Advertisements#811517480cb8dca1073ee39a37c9a343a1179aab', 0.0035335689045936395, False, True), ('http://archive.ics.uci.edu/ml/datasets/Internet+Advertisements', 0.0025, False, True), ('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.0017730496453900709, False, True)]

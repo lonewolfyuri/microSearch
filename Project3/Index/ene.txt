@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Iris', 0.0004185851820845542, False, True), ('http://archive.ics.uci.edu/ml/datasets/Fertility', 0.0024154589371980675, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00012379301807378064, False, True)]

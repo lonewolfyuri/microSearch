@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases', 0.003484320557491289, False, True)]

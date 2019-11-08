@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set', 0.09090909090909091, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00477/', 0.045454545454545456, False, True)]

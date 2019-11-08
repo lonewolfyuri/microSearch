@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Spambase', 0.004464285714285714, False, True), ('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.00045662100456621003, False, True), ('http://archive.ics.uci.edu/ml/datasets/Thyroid+Disease', 0.0010214504596527069, False, True)]

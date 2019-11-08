@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Lenses#efbc8c38877792e6ade1634043235d238ac9ec8d', 0.0009099181073703367, False, True), ('http://archive.ics.uci.edu/ml/support/Ionosphere#49b5aef7a515640b1dde8f9f777d5a1f0c014022', 0.001184834123222749, False, True), ('http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition', 0.0015313935681470138, False, True)]

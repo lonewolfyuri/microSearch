@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset', 0.0017094017094017094, False, True), ('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait', 0.004807692307692308, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00245/', 0.05, False, True)]

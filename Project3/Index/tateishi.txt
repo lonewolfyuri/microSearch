@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Wilt', 0.00205761316872428, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+type+mapping', 0.002320185614849188, False, True)]

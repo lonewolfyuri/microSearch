@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Demospongiae', 0.010238907849829351, False, True), ('http://archive.ics.uci.edu/ml/datasets/Plants', 0.0034602076124567475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29', 0.00510204081632653, False, False), ('http://archive.ics.uci.edu/ml/datasets/MicroMass', 0.0024752475247524753, False, True)]

@@ -1,1 +1,1 @@
-[('https://aiclub.ics.uci.edu/', 0.005952380952380952, False, True), ('https://aiclub.ics.uci.edu/#body', 0.005952380952380952, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.005952380952380952, False, True)]
+[('https://aiclub.ics.uci.edu/', 0.005952380952380952, False, True), ('https://aiclub.ics.uci.edu/#body', 0.005952380952380952, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.005952380952380952, False, True), ('http://archive.ics.uci.edu/ml/datasets/MEx', 0.0015290519877675841, False, True)]

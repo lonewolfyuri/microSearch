@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data', 0.002617801047120419, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.0009140767824497258, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29', 0.0019230769230769232, False, False), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Mag', 0.004246284501061571, False, True), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.0030165912518853697, False, True)]

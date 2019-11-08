@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gastrointestinal+Lesions+in+Regular+Colonoscopy', 0.0044742729306487695, False, True), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.001287001287001287, False, True)]

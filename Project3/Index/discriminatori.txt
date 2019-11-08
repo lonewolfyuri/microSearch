@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Hepatitis#61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5', 0.0014388489208633094, False, False), ('http://archive.ics.uci.edu/ml/datasets/TTC-3600%3A+Benchmark+dataset+for+Turkish+text+categorization', 0.002398081534772182, False, True)]

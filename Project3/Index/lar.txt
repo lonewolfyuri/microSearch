@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Data', 0.0009074410163339383, False, True), ('http://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE', 0.0025380710659898475, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0014792899408284023, False, True)]

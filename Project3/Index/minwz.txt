@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)#e5d994d772cfe5ec4d0f3e6d669f0bc28180a3ae', 0.0019305019305019305, False, True), ("http://archive.ics.uci.edu/ml/support/Haberman's+Survival#8432b52f06e00a68cb8a7a49e3938190338231de", 0.003968253968253968, False, True)]

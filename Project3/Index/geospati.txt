@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping', 0.0029154518950437317, False, True), ('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0016313213703099511, False, True), ('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.003389830508474576, False, True)]

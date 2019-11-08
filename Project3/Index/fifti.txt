@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0011013215859030838, False, True), ('http://archive.ics.uci.edu/ml/support/Lymphography#d342517262ff52ffd3566bd8f520b36723486aa3', 0.001519756838905775, False, False), ('http://archive.ics.uci.edu/ml/datasets/Victorian+Era+Authorship+Attribution', 0.001440922190201729, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dermatology', 0.005376344086021506, False, False)]

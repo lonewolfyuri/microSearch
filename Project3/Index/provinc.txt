@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/BLOGGER', 0.005076142131979695, False, False), ('http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music', 0.002232142857142857, False, True), ('http://archive.ics.uci.edu/ml/support/Labor+Relations#55a7f45a6b42ceb9097c7260032694bcbd8a2fd2', 0.0021645021645021645, False, False)]

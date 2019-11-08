@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Dataset', 0.004651162790697674, False, False), ('http://archive.ics.uci.edu/ml/datasets/Optical+Interconnection+Network+', 0.001349527665317139, False, True), ('http://archive.ics.uci.edu/ml/datasets/University+of+Tehran+Question+Dataset+2016+%28UTQD.2016%29', 0.005025125628140704, False, False)]

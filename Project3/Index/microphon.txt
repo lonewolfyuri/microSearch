@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification', 0.002070393374741201, False, True), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs', 0.0022172949002217295, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Vehicle+Silhouettes%29', 0.003787878787878788, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.002857142857142857, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)', 0.003787878787878788, False, True)]

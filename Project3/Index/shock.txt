@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.0038095238095238095, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.002717391304347826, False, True)]

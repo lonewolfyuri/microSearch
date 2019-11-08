@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Mturk+User-Perceived+Clusters+over+Images', 0.0029940119760479044, False, True), ('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.004761904761904762, False, False)]

@@ -13,6 +13,7 @@ import tokenizer
 import transformer
 from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
+from collections import defaultdict
 
 
 class HTMLPrsr(HTMLParser):
@@ -39,22 +40,18 @@ class HTMLPrsr(HTMLParser):
         
         result = tokenizer.tokenList(data)
         self.tknSize += len(result)
-        curDict = {}
+        curDict = defaultdict(lambda: 0)
         newResult = []
         for term in result:
             term = self.ps.stem(term)
-            if term in curDict:
-                curDict[term] += 1
-            else:
-                curDict[term] = 1
+            curDict[term] += 1
             newResult.append(term)
         for term in newResult:
-            if term not in index:
-                index[term] = []
             isIn = False
             for url, score, title, head in index[term]:
                 if curUrl == url:
                     isIn = True
+                    break
             if not isIn:
                 tfidf = (curDict[term] / self.tknSize)
                 index[term].append((curUrl, tfidf, self.title, self.head))
@@ -76,7 +73,7 @@ class HTMLPrsr(HTMLParser):
 
 if __name__ == '__main__':
     global index
-    index = dict()
+    index = defaultdict(list)
     global curUrl
     curUrl = ""
     path = ""
@@ -93,7 +90,7 @@ if __name__ == '__main__':
     docCount = 0
     for file in files:
         with open(file) as iFile:
-#                print(iFile)
+            print(iFile)
             jsn = iFile.read()
             docCount += 1
             parsed = json.loads(jsn)
@@ -103,10 +100,6 @@ if __name__ == '__main__':
                 elif name == "content":
                     parser = HTMLPrsr()
                     parser.feed(val)
-                else:
-                    pass
-#                with open("test_out.txt", "w") as f:
-#                    f.write(str(index))
     tokenCount = 0
     for name, val in index.items():
         tokenCount += 1

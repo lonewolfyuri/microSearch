@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Hepatitis', 0.001941747572815534, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime', 0.0005379236148466917, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0006345177664974619, False, True)]

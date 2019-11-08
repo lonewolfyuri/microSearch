@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)#77fb0a2e40e1c957295bfa6bffb09ffc1d1bebc7', 0.00045934772622875517, False, False), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00025176233635448137, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 0.0009699321047526673, False, True), ('http://archive.ics.uci.edu/ml/support/Lenses#efbc8c38877792e6ade1634043235d238ac9ec8d', 0.0021413276231263384, False, True), ('http://archive.ics.uci.edu/ml/datasets/Lenses', 0.0021413276231263384, False, True)]

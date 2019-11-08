@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.003484320557491289, False, False), ('http://asterix.ics.uci.edu/fuzzyjoin/CHANGELOG.html', 0.0034482758620689655, False, True)]
+[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.003484320557491289, False, False), ('http://asterix.ics.uci.edu/fuzzyjoin/CHANGELOG.html', 0.0034482758620689655, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.0019011406844106464, False, True), ('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0006067961165048543, False, True)]

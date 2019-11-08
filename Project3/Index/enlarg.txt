@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.0018050541516245488, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0020964360587002098, False, True)]

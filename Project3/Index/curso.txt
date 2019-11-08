@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Behavior+of+the+urban+traffic+of+the+city+of+Sao+Paulo+in+Brazil', 0.003003003003003003, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.0031746031746031746, False, True), ('http://archive.ics.uci.edu/ml/datasets/Container+Crane+Controller+Data+Set', 0.0030211480362537764, False, True)]

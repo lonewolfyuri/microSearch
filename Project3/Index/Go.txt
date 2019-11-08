@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.324397568300007e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/GPS+Trajectories', 0.0051813471502590676, False, False), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.324397568300007e-05, False, True)]

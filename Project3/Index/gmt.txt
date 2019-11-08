@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/News+Aggregator', 0.0019193857965451055, False, True), ('http://archive.ics.uci.edu/ml/datasets/GPS+Trajectories', 0.0021551724137931034, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0010626992561105207, False, True)]

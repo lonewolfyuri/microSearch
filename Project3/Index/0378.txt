@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/SML2010', 0.001851851851851852, False, True), ('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 0.001455604075691412, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Wine', 0.002652519893899204, False, True), ('http://archive.ics.uci.edu/ml/datasets/Glass+Identification', 0.0024271844660194173, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.002197802197802198, False, True), ('http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music', 0.0028011204481792717, False, True), ('http://archive.ics.uci.edu/ml/datasets/wiki4HE', 0.00205761316872428, False, True)]

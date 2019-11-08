@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00431/', 0.05, False, True), ('http://archive.ics.uci.edu/ml/datasets/Discrete+Tone+Image+Dataset', 0.1, True, True)]

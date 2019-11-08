@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29', 0.0038910505836575876, False, True), ('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0005688282138794084, False, False), ('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29', 0.004016064257028112, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet', 0.003676470588235294, False, True)]

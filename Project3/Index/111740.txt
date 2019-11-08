@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.004524886877828055, False, True)]

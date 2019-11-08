@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/BAUM-1', 0.004901960784313725, False, False), ('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.002570694087403599, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.002277904328018223, False, True), ('http://archive.ics.uci.edu/ml/datasets/Planning+Relax', 0.005050505050505051, False, False)]

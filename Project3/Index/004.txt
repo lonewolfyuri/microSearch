@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame#48d6beec2a36a87d9d88b6de85dd85a75e5ed24d', 0.0033112582781456954, False, False), ('http://archive.ics.uci.edu/ml/support/Contraceptive+Method+Choice#2a4fe2f7469eef9d4cc985d6caaa0afe249facf3', 0.003787878787878788, False, True)]

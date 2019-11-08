@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice', 0.003105590062111801, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.00025342118601115053, False, True), ('http://archive.ics.uci.edu/ml/datasets/Caesarian+Section+Classification+Dataset', 0.0049261083743842365, False, False)]

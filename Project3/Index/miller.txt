@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Labels', 0.003484320557491289, False, True), ('http://archive.ics.uci.edu/ml/support/KDD+Cup+1999+Data#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.0036900369003690036, False, True)]

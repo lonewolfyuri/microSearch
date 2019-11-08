@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.004651162790697674, False, False), ('http://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases', 0.0027548209366391185, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.0028011204481792717, False, True)]

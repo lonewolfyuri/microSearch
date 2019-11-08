@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports', 0.0017699115044247787, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.0016366612111292963, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0005931198102016608, False, True), ('http://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance', 0.0020833333333333333, False, True)]

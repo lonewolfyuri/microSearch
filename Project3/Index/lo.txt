@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/bigactivedata/talks.html', 0.002717391304347826, False, False)]
+[("http://archive.ics.uci.edu/ml/datasets/Haberman's+Survival", 0.002551020408163265, False, True), ('http://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival', 0.002551020408163265, False, True)]

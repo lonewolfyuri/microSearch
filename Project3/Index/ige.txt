@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Wilt', 0.003861003861003861, False, False), ('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping', 0.004149377593360996, False, True), ('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.004, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+type+mapping', 0.004149377593360996, False, False)]

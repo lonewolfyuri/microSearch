@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29', 0.002631578947368421, False, True), ('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.00234192037470726, False, True)]

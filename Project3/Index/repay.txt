@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Student+Loan+Relational', 0.0035842293906810036, False, True), ('http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients', 0.006514657980456026, False, True)]

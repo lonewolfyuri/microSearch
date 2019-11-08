@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.002898550724637681, False, True), ('http://archive.ics.uci.edu/ml/datasets/Geo-Magnetic+field+and+WLAN+dataset+for+indoor+localisation+from+wristband+and+smartphone', 0.0018050541516245488, False, True)]

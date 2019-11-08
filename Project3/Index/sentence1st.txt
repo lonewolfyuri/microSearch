@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.0014727540500736377, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0009624639076034649, False, True), ('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.001037344398340249, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0002664535038635758, False, True)]

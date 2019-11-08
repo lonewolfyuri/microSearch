@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/HIGGS', 0.0028328611898017, False, True), ('http://archive.ics.uci.edu/ml/datasets/SUSY', 0.0027624309392265192, False, True)]

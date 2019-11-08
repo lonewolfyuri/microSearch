@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Leaf', 0.0030211480362537764, False, True)]

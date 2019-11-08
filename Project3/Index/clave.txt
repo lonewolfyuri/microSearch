@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Firm-Teacher_Clave-Direction_Classification', 0.09090909090909091, True, True)]

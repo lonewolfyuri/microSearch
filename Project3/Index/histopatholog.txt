@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dermatology', 0.006666666666666667, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gastrointestinal+Lesions+in+Regular+Colonoscopy', 0.0015625, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Artificial+Characters', 0.0024096385542168677, False, True), ('http://archive.ics.uci.edu/ml/datasets/First-order+theorem+proving', 0.004694835680751174, False, False)]

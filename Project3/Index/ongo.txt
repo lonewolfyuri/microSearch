@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//index.html', 0.001984126984126984, False, True), ('http://asterix.ics.uci.edu/', 0.001984126984126984, False, True)]
+[('http://asterix.ics.uci.edu//index.html', 0.001984126984126984, False, True), ('http://asterix.ics.uci.edu/', 0.001984126984126984, False, True), ('http://archive.ics.uci.edu/ml/donation_policy.html', 0.0047169811320754715, False, True), ('http://archive.ics.uci.edu/ml/datasets/wiki4HE', 0.003236245954692557, False, True)]

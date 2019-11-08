@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Superconductivty+Data', 0.002849002849002849, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0009416195856873823, False, True), ('http://archive.ics.uci.edu/ml/datasets/DGP2+-+The+Second+Data+Generation+Program', 0.002421307506053269, False, True)]

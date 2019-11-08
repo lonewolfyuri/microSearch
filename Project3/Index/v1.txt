@@ -1,1 +1,1 @@
-[('http://alderis.ics.uci.edu/publications.html', 0.004219409282700422, False, False)]
+[('http://archive.ics.uci.edu/ml/datasets/Arrhythmia', 0.0014326647564469914, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0026666666666666666, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.0037174721189591076, False, True)]

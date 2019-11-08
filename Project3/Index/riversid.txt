@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//index.html', 0.018518518518518517, False, True), ('http://asterix.ics.uci.edu/', 0.018518518518518517, False, True)]
+[('http://asterix.ics.uci.edu//index.html', 0.018518518518518517, False, True), ('http://asterix.ics.uci.edu/', 0.018518518518518517, False, True), ('http://archive.ics.uci.edu/ml/datasets/UbiqLog+%28smartphone+lifelogging%29', 0.004132231404958678, False, False)]

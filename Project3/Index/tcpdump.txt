@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/KDD+Cup+1999+Data#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.0032679738562091504, False, False)]

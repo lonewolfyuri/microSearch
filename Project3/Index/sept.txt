@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+', 0.0017921146953405018, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gastrointestinal+Lesions+in+Regular+Colonoscopy', 0.000992063492063492, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+type+mapping', 0.002824858757062147, False, True)]

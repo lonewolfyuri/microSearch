@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dexter', 0.003134796238244514, False, False), ('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection', 0.004149377593360996, False, True)]

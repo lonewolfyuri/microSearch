@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/HCC+Survival', 0.0014705882352941176, False, True), ('http://archive.ics.uci.edu/ml/datasets/Ecoli', 0.0027548209366391185, False, True), ('http://archive.ics.uci.edu/ml/datasets/Yeast', 0.002717391304347826, False, True)]

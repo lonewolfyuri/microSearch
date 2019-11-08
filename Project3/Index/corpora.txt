@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter', 0.002881844380403458, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.0013227513227513227, False, True)]

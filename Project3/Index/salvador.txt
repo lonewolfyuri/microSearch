@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.002079002079002079, False, True), ('http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records', 0.002631578947368421, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.002074688796680498, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.0027397260273972603, False, True)]

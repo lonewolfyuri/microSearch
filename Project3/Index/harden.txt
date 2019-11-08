@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//index.html', 0.0043859649122807015, False, True), ('http://asterix.ics.uci.edu/', 0.0043859649122807015, False, True)]
+[('http://asterix.ics.uci.edu//index.html', 0.0043859649122807015, False, True), ('http://asterix.ics.uci.edu/', 0.0043859649122807015, False, True), ('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.0015455950540958269, False, True)]

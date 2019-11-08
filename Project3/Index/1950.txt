@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Iris', 0.00228310502283105, False, True), ('http://archive.ics.uci.edu/ml/datasets/IPUMS+Census+Database', 0.002506265664160401, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dorothea', 0.004608294930875576, False, True)]

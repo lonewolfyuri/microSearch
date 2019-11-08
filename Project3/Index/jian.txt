@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.0013227513227513227, False, True)]
+[('http://asterix.ics.uci.edu//publications.html', 0.0013227513227513227, False, True), ('http://archive.ics.uci.edu/ml/support/Ecoli#f006e50cdba5e00538e2b48452e1d0bab8ed02b9', 0.0036231884057971015, False, True), ('http://archive.ics.uci.edu/ml/datasets/Ecoli', 0.001937984496124031, False, True)]

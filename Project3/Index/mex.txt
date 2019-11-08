@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/MEx', 0.14285714285714285, True, True), ('http://archive.ics.uci.edu/ml/index.php', 0.0024154589371980675, False, True), ('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0011337868480725624, False, True)]

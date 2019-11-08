@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.004694835680751174, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0018814675446848542, False, True)]

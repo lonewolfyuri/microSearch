@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/CNAE-9', 0.003257328990228013, False, True), ('http://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Labels', 0.0029940119760479044, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gesture+Phase+Segmentation', 0.0015723270440251573, False, True)]

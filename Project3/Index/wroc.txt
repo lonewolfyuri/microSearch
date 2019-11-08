@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data', 0.003472222222222222, False, False), ('http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data', 0.00749063670411985, False, True)]

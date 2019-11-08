@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/URL+Reputation', 0.0034965034965034965, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.0029850746268656717, False, True)]

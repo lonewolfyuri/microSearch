@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29', 0.0017825311942959, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vertebral+Column', 0.002109704641350211, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29', 0.001949317738791423, False, True)]

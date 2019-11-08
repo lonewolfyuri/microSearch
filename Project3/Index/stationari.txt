@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Pioneer-1+Mobile+Robot+Data', 0.0010976948408342481, False, True), ('http://archive.ics.uci.edu/ml/support/EEG+Database#d328ae33fb50756832a1c6cd703f7176c361923f', 0.003937007874015748, False, True), ('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.001288659793814433, False, True)]

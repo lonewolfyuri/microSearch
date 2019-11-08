@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.00211864406779661, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.002150537634408602, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.002554278416347382, False, True)]

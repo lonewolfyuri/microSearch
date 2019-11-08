@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Bag+of+Words', 0.0027624309392265192, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/', 0.041666666666666664, False, True)]

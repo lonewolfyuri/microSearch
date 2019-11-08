@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.001092896174863388, False, True), ('http://archive.ics.uci.edu/ml/datasets/MiniBooNE+particle+identification', 0.002967359050445104, False, True)]

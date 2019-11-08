@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation', 0.004807692307692308, False, False)]

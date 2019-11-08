@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Reuter_50_50', 0.002840909090909091, False, True)]

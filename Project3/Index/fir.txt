@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.005253940455341506, False, True)]

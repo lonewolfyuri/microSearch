@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00421/', 0.05, False, True), ('http://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks', 0.09090909090909091, True, True), ('http://archive.ics.uci.edu/ml/datasets/IDA2016Challenge', 0.003745318352059925, False, True)]

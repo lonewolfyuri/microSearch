@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.003816793893129771, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computing', 0.0036363636363636364, False, True)]

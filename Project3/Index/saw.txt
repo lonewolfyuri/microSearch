@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dermatology', 0.0014792899408284023, False, True), ('http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data', 0.0016233766233766235, False, True)]

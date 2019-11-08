@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.005434782608695652, False, True)]

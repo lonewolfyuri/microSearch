@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/OCT+data+%26+Color+Fundus+Images+of+Left+%26+Right+Eyes', 0.0024154589371980675, False, True), ('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29', 0.0016778523489932886, False, True), ('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)', 0.0016778523489932886, False, True)]

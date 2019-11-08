@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.00043346337234503684, False, True), ('http://archive.ics.uci.edu/ml/datasets/University+of+Tehran+Question+Dataset+2016+%28UTQD.2016%29', 0.0026666666666666666, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset', 0.0006035003017501509, False, True)]

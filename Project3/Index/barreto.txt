@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Data', 0.003875968992248062, False, True), ('http://archive.ics.uci.edu/ml/datasets/GPS+Trajectories', 0.004201680672268907, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vertebral+Column', 0.004132231404958678, False, True)]

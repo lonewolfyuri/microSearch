@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters', 0.0053475935828877, False, False), ('http://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits', 0.0033783783783783786, False, True)]

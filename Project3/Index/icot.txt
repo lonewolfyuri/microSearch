@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King)', 0.001287001287001287, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King%29', 0.001287001287001287, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups', 0.0037735849056603774, False, True), ('http://archive.ics.uci.edu/ml/datasets/CMU+Face+Images', 0.0017064846416382253, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.0003244646333549643, False, False)]

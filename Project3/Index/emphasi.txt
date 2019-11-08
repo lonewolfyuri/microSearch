@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0012254901960784314, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/University', 0.0037174721189591076, False, True), ('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait', 0.002531645569620253, False, True), ('http://archive.ics.uci.edu/ml/datasets/Data+for+Software+Engineering+Teamwork+Assessment+in+Education+Setting', 0.0013605442176870747, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0012254901960784314, False, True)]

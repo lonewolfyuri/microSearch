@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring', 0.0016025641025641025, False, True), ('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset', 0.002207505518763797, False, True)]

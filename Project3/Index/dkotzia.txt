@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences', 0.0043859649122807015, False, True), ('http://archive.ics.uci.edu/ml/datasets/Repeat+Consumption+Matrices', 0.0040650406504065045, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00021939447125932427, False, True), ('http://archive.ics.uci.edu/ml/datasets/Skin+Segmentation', 0.0022522522522522522, False, True)]

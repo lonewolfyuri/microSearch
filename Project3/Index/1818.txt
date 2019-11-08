@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.0009699321047526673, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.002652519893899204, False, True)]

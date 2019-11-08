@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computing', 0.0028169014084507044, False, True), ('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.000731528895391368, False, True), ('http://archive.ics.uci.edu/ml/datasets/Planning+Relax', 0.0014064697609001407, False, True)]

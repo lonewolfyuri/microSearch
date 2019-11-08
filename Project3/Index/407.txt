@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0010660980810234541, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.0010504201680672268, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0004982561036372695, False, True)]

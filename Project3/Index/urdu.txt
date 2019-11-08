@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Roman+Urdu+Data+Set', 0.1, True, True), ('http://archive.ics.uci.edu/ml/datasets/PMU-UD', 0.004878048780487805, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00458/', 0.05, False, True)]

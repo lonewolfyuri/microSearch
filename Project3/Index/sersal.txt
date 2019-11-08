@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digit', 0.001890359168241966, False, True), ('http://archive.ics.uci.edu/ml/datasets/Steel+Plates+Faults', 0.004032258064516129, False, True)]

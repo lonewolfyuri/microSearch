@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Soybean+%28Small%29', 0.003367003367003367, False, True), ('http://archive.ics.uci.edu/ml/datasets/University', 0.004524886877828055, False, True), ('http://archive.ics.uci.edu/ml/datasets/Soybean+(Small)', 0.003367003367003367, False, True)]

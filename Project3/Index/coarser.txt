@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0009643201542912247, False, True), ('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.00196078431372549, False, True)]

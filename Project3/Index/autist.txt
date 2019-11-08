@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Adolescent+++', 0.07692307692307693, True, True), ('http://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++', 0.07692307692307693, True, True), ('http://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult', 0.0051813471502590676, False, False)]

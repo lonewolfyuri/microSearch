@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/seeds', 0.0020964360587002098, False, True), ('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.0017574692442882249, False, True), ('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.000864304235090752, False, True)]

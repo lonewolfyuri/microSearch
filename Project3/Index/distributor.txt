@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Wholesale+customers', 0.005025125628140704, False, False)]

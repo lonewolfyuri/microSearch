@@ -1,0 +1,1 @@
+[("http://archive.ics.uci.edu/ml/datasets/Haberman's+Survival", 0.003401360544217687, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00020580366330520683, False, True), ('http://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival', 0.003401360544217687, False, True)]

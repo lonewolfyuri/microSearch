@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.0018248175182481751, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parking+Birmingham', 0.004016064257028112, False, False)]

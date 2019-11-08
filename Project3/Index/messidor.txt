@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/00329/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.00145985401459854, False, True), ('http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set', 0.0049261083743842365, False, False)]

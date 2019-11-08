@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.001718213058419244, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/', 0.125, True, True), ('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.0009861932938856016, False, True), ('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 0.0053475935828877, False, True)]

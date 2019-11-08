@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Insurance+Company+Benchmark+(COIL+2000)#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.00749063670411985, False, True)]

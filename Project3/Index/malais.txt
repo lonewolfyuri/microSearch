@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Hepatitis', 0.0033112582781456954, False, True), ('http://archive.ics.uci.edu/ml/support/Hepatitis#61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5', 0.0006906077348066298, False, False)]

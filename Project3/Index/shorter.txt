@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 0.0015105740181268882, False, True), ('http://archive.ics.uci.edu/ml/donation_form.php', 0.0028653295128939827, False, True)]

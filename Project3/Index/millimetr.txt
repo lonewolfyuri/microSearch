@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.004651162790697674, False, True), ('http://archive.ics.uci.edu/ml/datasets/Grammatical+Facial+Expressions', 0.0017857142857142857, False, True)]

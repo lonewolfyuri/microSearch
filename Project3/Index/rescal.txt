@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.0044742729306487695, False, True), ('http://archive.ics.uci.edu/ml/datasets/Indoor+User+Movement+Prediction+from+RSS+data', 0.002232142857142857, False, True)]

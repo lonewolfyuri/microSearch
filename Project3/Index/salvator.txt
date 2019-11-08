@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data', 0.003472222222222222, False, True), ('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0008628127696289905, False, True), ('http://archive.ics.uci.edu/ml/datasets/Thyroid+Disease', 0.001394700139470014, False, True)]

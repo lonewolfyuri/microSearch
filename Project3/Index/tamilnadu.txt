@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease', 0.00392156862745098, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tamilnadu+Electricity+Board+Hourly+Readings', 0.09090909090909091, True, True)]

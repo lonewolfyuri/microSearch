@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data', 0.002398081534772182, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parking+Birmingham', 0.007220216606498195, False, True), ('http://archive.ics.uci.edu/ml/datasets/Car+Evaluation', 0.003076923076923077, False, True)]

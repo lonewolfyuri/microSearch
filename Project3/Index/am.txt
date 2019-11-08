@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/PEMS-SF', 0.002506265664160401, False, True), ('http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set', 0.0018248175182481751, False, True), ('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29', 0.003472222222222222, False, True)]

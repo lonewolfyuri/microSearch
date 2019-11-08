@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Corel+Image+Features', 0.002183406113537118, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/', 0.030303030303030304, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.0011086474501108647, False, True), ('http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations', 0.0027472527472527475, False, True)]

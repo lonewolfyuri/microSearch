@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Avila', 0.0025380710659898475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Lenses', 0.004273504273504274, False, True), ('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.0004807692307692308, False, True)]

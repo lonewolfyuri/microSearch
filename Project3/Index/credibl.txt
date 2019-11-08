@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Qualitative_Bankruptcy', 0.0029850746268656717, False, True), ('http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients', 0.004415011037527594, False, True)]

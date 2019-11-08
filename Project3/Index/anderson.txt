@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.0031746031746031746, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hayes-Roth', 0.0018656716417910447, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection', 0.0011947431302270011, False, True)]

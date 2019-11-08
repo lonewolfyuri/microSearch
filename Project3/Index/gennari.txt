@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Quadruped+Mammals', 0.00425531914893617, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/Heart+Disease', 0.0008278145695364238, False, True)]

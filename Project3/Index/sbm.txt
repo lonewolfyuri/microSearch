@@ -1,0 +1,1 @@
+[("http://archive.ics.uci.edu/ml/support/MONK's+Problems#4695569c53cd581fcc193415a8a94a1f92abf607", 0.0006729475100942127, False, False), ('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.0002581977794990963, False, True)]

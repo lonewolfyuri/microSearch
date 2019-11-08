@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.001869158878504673, False, True)]
+[('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.001869158878504673, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00400/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping', 0.125, True, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data', 0.0035587188612099642, False, False)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Balance+Scale', 0.0020325203252032522, False, True), ('http://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring', 0.0025188916876574307, False, True), ('http://archive.ics.uci.edu/ml/datasets/seismic-bumps', 0.002336448598130841, False, True)]

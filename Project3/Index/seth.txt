@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/about.html', 0.0027548209366391185, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0009017132551848512, False, True), ('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.0007616146230007616, False, True)]

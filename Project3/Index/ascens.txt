@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.0028328611898017, False, True), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs+(High+Quality)', 0.003134796238244514, False, True), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs+%28High+Quality%29', 0.003134796238244514, False, True)]

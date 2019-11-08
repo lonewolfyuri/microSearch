@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0013774104683195593, False, False), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0029498525073746312, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/', 0.047619047619047616, False, True)]

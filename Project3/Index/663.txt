@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength', 0.0017793594306049821, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King)', 0.0036496350364963502, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King%29', 0.0036496350364963502, False, True)]

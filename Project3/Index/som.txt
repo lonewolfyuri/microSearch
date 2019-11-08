@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)#77fb0a2e40e1c957295bfa6bffb09ffc1d1bebc7', 0.0004478280340349306, False, True), ('http://archive.ics.uci.edu/ml/support/ISOLET#9fe9e6630b7b953504726b9b36281c4f738b964e', 0.001736111111111111, False, False)]

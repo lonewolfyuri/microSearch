@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/NoisyOffice', 0.003472222222222222, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.003389830508474576, False, True)]

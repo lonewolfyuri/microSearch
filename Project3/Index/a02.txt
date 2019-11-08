@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities', 0.0016286644951140066, False, True), ('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.0025252525252525255, False, True)]

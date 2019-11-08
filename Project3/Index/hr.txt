@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 9.302325581395348e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Labor+Relations', 0.0026595744680851063, False, True), ('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset', 0.002061855670103093, False, True), ('http://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset', 0.002150537634408602, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 9.302325581395348e-05, False, True)]

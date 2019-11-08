@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.0019267822736030828, False, True), ('http://archive.ics.uci.edu/ml/datasets/Glass+Identification', 0.0030581039755351682, False, True)]

@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu/bigactivedata/talks.html', 0.003076923076923077, False, False)]
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle-II/probs/', 0.03333333333333333, False, True), ('http://archive.ics.uci.edu/ml/support/ISOLET#9fe9e6630b7b953504726b9b36281c4f738b964e', 0.001736111111111111, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle-II/', 0.03225806451612903, False, True)]

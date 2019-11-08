@@ -1,1 +1,1 @@
-[('http://asterix.ics.uci.edu//index.html', 0.009259259259259259, False, True), ('http://asterix.ics.uci.edu/', 0.009259259259259259, False, True)]
+[('http://asterix.ics.uci.edu//index.html', 0.009259259259259259, False, True), ('http://asterix.ics.uci.edu/', 0.009259259259259259, False, True), ('http://archive.ics.uci.edu/ml/datasets/BAUM-1', 0.001876172607879925, False, True), ('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.0022172949002217295, False, True), ('http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1998+Data', 0.0022172949002217295, False, True)]

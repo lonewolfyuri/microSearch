@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring', 0.0016260162601626016, False, True), ('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 0.0022123893805309734, False, True), ('http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption', 0.001869158878504673, False, True)]

@@ -1,1 +1,1 @@
-[('http://alderis.ics.uci.edu/publications.html', 0.0058823529411764705, False, False)]
+[('http://alderis.ics.uci.edu/publications.html', 0.0058823529411764705, False, False), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0015772870662460567, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wholesale+customers', 0.004032258064516129, False, False)]

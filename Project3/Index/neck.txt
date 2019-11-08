@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Primary+Tumor', 0.002932551319648094, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales', 0.012012012012012012, False, True), ('http://archive.ics.uci.edu/ml/datasets/Quadruped+Mammals', 0.002304147465437788, False, True)]

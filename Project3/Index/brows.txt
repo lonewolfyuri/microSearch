@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.00015436068947774633, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/News+Aggregator', 0.004739336492890996, False, True), ('http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data', 0.002145922746781116, False, True), ('http://archive.ics.uci.edu/ml/support/Anonymous+Microsoft+Web+Data#4133f6bdbdc248e6e8cac9083cf934be0dd0fa31', 0.00684931506849315, False, False), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.00015436068947774633, False, True)]

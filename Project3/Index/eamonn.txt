@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/about.html', 0.0027548209366391185, False, True), ('http://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Series', 0.002352941176470588, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pseudo+Periodic+Synthetic+Time+Series', 0.003968253968253968, False, True)]

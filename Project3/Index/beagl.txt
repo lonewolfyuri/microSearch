@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.0020876826722338203, False, True), ('http://archive.ics.uci.edu/ml/datasets/Flags', 0.0015337423312883436, False, True), ('http://archive.ics.uci.edu/ml/datasets/Glass+Identification', 0.0061162079510703364, False, True)]

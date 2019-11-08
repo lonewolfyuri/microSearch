@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.002680965147453083, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.002577319587628866, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/pendigits/', 0.037037037037037035, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/', 0.037037037037037035, False, True)]

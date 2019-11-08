@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 5.286529921759357e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Landsat+Satellite%29', 0.0030165912518853697, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite)', 0.0030165912518853697, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 5.286529921759357e-05, False, True)]

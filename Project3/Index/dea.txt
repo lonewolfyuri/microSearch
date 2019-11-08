@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Statlog+(German+Credit+Data)#d64d2705cabed449e8cb2ecc3c3c77c54ee71051', 0.001430615164520744, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29', 0.0011185682326621924, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)', 0.001088139281828074, False, True)]

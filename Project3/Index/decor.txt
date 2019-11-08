@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0012254901960784314, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales', 0.0036496350364963502, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0012254901960784314, False, True)]

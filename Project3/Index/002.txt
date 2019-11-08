@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/University+of+Tehran+Question+Dataset+2016+%28UTQD.2016%29', 0.0026666666666666666, False, True), ('http://archive.ics.uci.edu/ml/support/Cylinder+Bands#bcf7a3acb12b41b9b37ec937c2c9aea2d1d1c855', 0.008928571428571428, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.002, False, True)]

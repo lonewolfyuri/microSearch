@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Cryotherapy+Dataset+', 0.002347417840375587, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00428/', 0.05555555555555555, False, True), ('http://archive.ics.uci.edu/ml/datasets/Immunotherapy+Dataset', 0.125, True, True)]

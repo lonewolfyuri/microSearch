@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters', 0.003134796238244514, False, True), ('http://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set', 0.0026455026455026454, False, True), ('http://archive.ics.uci.edu/ml/datasets/TTC-3600%3A+Benchmark+dataset+for+Turkish+text+categorization', 0.0027548209366391185, False, True)]

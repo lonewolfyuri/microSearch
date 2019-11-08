@@ -1,1 +1,1 @@
-[('http://alderis.ics.uci.edu/', 0.002403846153846154, False, False), ('http://alderis.ics.uci.edu/index.html', 0.002403846153846154, False, False)]
+[('http://alderis.ics.uci.edu/', 0.002403846153846154, False, False), ('http://alderis.ics.uci.edu/index.html', 0.002403846153846154, False, False), ('http://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring', 0.005037783375314861, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0013280212483399733, False, True)]

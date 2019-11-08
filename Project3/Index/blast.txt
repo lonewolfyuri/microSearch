@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/E.+Coli+Genes', 0.003289473684210526, False, False), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength', 0.0027247956403269754, False, True), ('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 0.0033003300330033004, False, False)]

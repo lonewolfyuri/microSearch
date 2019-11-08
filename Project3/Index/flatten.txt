@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/IPUMS+Census+Database', 0.002506265664160401, False, True)]

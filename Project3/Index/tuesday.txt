@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index', 0.0029940119760479044, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity', 0.002793296089385475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.0016501650165016502, False, True)]

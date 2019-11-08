@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Accelerometer', 0.0022222222222222222, False, True)]

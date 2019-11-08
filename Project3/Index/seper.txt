@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Pioneer-1+Mobile+Robot+Data', 0.0014124293785310734, False, True), ('http://archive.ics.uci.edu/ml/datasets/Syskill+and+Webert+Web+Page+Ratings', 0.004629629629629629, False, False), ('http://archive.ics.uci.edu/ml/datasets/SECOM', 0.001218026796589525, False, True)]

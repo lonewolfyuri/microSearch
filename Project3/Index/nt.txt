@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients', 0.001976284584980237, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0012165450121654502, False, True), ('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.0009541984732824427, False, True)]

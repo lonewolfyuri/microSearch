@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Travel+Reviews', 0.004032258064516129, False, True), ('http://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set', 0.004201680672268907, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings', 0.004098360655737705, False, True)]

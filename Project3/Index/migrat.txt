@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 5.145356315924878e-05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)', 0.001834862385321101, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census-Income+%28KDD%29', 0.001834862385321101, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 5.145356315924878e-05, False, True)]

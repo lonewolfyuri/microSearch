@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset', 0.0037313432835820895, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.006289308176100629, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.006269592476489028, False, True), ('http://archive.ics.uci.edu/ml/datasets/Bank+Marketing', 0.001336898395721925, False, True)]

@@ -1,1 +1,1 @@
-[('http://alderis.ics.uci.edu/amba2.html', 0.0022675736961451248, False, True)]
+[('http://alderis.ics.uci.edu/amba2.html', 0.0022675736961451248, False, True), ('http://archive.ics.uci.edu/ml/datasets/Educational+Process+Mining+%28EPM%29%3A+A+Learning+Analytics+Data+Set', 0.002044989775051125, False, True), ('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data', 0.004830917874396135, False, False), ('http://archive.ics.uci.edu/ml/datasets/MicroMass', 0.002577319587628866, False, True)]

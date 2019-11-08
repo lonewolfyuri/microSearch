@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0006618133686300463, False, True), ('http://archive.ics.uci.edu/ml/datasets/Motion+Capture+Hand+Postures', 0.0009532888465204957, False, True), ('http://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures', 0.0009699321047526673, False, True)]

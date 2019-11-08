@@ -1,1 +1,1 @@
-[('https://asterix-gerrit.ics.uci.edu/#/q/author:taewoo+status:merged', 0.05, False, True)]
+[('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.0018181818181818182, False, True)]

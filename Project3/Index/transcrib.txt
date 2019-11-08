@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.0018050541516245488, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/reuters_transcribed-mld/', 0.1111111111111111, True, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+Transcribed+Subset', 0.1111111111111111, True, True)]

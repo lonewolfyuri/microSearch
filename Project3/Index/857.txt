@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/CNAE-9', 0.004629629629629629, False, True), ('http://archive.ics.uci.edu/ml/datasets/Spambase', 0.004048582995951417, False, True)]

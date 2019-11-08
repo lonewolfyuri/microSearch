@@ -1,0 +1,1 @@
+[("http://archive.ics.uci.edu/ml/datasets/Haberman's+Survival", 0.002680965147453083, False, True), ('http://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival', 0.002680965147453083, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection', 0.0021231422505307855, False, True)]

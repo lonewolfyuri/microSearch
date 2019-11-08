@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring', 0.007905138339920948, False, True), ('http://archive.ics.uci.edu/ml/datasets/PPG-DaLiA', 0.003968253968253968, False, True), ('http://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29', 0.0037735849056603774, False, True)]

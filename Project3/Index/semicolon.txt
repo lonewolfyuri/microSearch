@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.0033783783783783786, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.0008230452674897119, False, False)]

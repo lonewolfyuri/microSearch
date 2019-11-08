@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)', 0.00510204081632653, False, True), ('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29', 0.00510204081632653, False, True), ('http://archive.ics.uci.edu/ml/datasets/DGP2+-+The+Second+Data+Generation+Program', 0.0019230769230769232, False, True)]

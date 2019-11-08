@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Hepatitis#61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5', 0.0008417508417508417, False, False), ('http://archive.ics.uci.edu/ml/datasets/Wine', 0.0033333333333333335, False, True), ('http://archive.ics.uci.edu/ml/datasets/MicroMass', 0.002785515320334262, False, True)]

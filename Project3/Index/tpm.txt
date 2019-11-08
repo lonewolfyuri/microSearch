@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Promoter+Gene+Sequences)#f624e93bd6b670bc3dc31925c1c885b538131534', 0.0013386880856760374, False, False)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Fertility', 0.0022988505747126436, False, True), ('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection', 0.002242152466367713, False, True)]

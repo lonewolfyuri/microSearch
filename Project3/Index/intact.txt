@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Victorian+Era+Authorship+Attribution', 0.0016260162601626016, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dataset+for+Sensorless+Drive+Diagnosis', 0.0049261083743842365, False, False)]

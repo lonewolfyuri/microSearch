@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)', 0.0014534883720930232, False, True), ('http://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digit', 0.002352941176470588, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census-Income+%28KDD%29', 0.0014534883720930232, False, True)]

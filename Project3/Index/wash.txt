@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/SCADI', 0.006, False, True), ('http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption', 0.001869158878504673, False, True)]

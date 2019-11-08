@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 0.002, False, True), ('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems', 0.004761904761904762, False, False), ('http://archive.ics.uci.edu/ml/datasets/Breast+Tissue', 0.005319148936170213, False, False)]

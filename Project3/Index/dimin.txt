@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Lymphography#d342517262ff52ffd3566bd8f520b36723486aa3', 0.002004008016032064, False, False), ('http://archive.ics.uci.edu/ml/support/Heart+Disease#cb68337ad074a5f5ce7d8ca8a7a0b7bad1931070', 0.0006188118811881188, False, False), ('http://archive.ics.uci.edu/ml/datasets/Lymphography', 0.0026041666666666665, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Japanese+Vowels', 0.005633802816901409, False, True), ('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.0011025358324145535, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+(Shuttle)#4dac55f2daa66b00a555405664b6f275370782ac', 0.0006345177664974619, False, True)]

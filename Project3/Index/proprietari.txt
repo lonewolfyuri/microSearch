@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Cloud#4bcdbeaa8f46590fca87d041c66b18a6622b82b3', 0.0028169014084507044, False, True), ('http://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks', 0.0012903225806451613, False, True), ('http://archive.ics.uci.edu/ml/datasets/IDA2016Challenge', 0.001336898395721925, False, True)]

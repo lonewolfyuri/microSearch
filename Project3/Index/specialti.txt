@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008', 0.0021321961620469083, False, True), ('http://archive.ics.uci.edu/ml/datasets/Adult', 0.0025380710659898475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.002531645569620253, False, True)]

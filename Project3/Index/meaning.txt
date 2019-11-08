@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Spambase#48d6beec2a36a87d9d88b6de85dd85a75e5ed24d', 0.002242152466367713, False, True), ('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.0011587485515643105, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime', 0.0015822784810126582, False, True)]

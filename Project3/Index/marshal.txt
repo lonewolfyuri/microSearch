@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Iris', 0.00909090909090909, False, True), ('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.007905138339920948, False, True), ('http://archive.ics.uci.edu/ml/datasets/Ultrasonic+flowmeter+diagnostics', 0.004310344827586207, False, True)]

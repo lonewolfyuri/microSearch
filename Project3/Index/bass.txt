@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Bach+Choral+Harmony', 0.00516795865633075, False, True), ('http://archive.ics.uci.edu/ml/datasets/Abalone', 0.0037593984962406013, False, True), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.0027247956403269754, False, True)]

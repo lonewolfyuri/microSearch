@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Multiple+Features#4f52834d0595282e8454f617706fbec7589c8de6', 0.0019880715705765406, False, False), ('http://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics', 0.005235602094240838, False, False), ('http://archive.ics.uci.edu/ml/datasets/Multiple+Features', 0.0041841004184100415, False, True)]

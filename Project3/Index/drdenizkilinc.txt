@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/TTC-3600%3A+Benchmark+dataset+for+Turkish+text+categorization', 0.003676470588235294, False, True)]

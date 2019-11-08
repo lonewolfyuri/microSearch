@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)#77fb0a2e40e1c957295bfa6bffb09ffc1d1bebc7', 0.0007097232079489, False, True), ('http://archive.ics.uci.edu/ml/support/Breast+Cancer#3e78257004181e6dbbdfa3ec12399520412e9c5c', 0.0008771929824561404, False, False), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.002531645569620253, False, True)]

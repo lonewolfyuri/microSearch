@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice', 0.0019305019305019305, False, False), ('http://archive.ics.uci.edu/ml/support/Contraceptive+Method+Choice#2a4fe2f7469eef9d4cc985d6caaa0afe249facf3', 0.003067484662576687, False, False), ('http://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Patterns', 0.0034129692832764505, False, True)]

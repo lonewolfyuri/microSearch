@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Dermatology#692880d7b3356df64bfa0f06a683f89e4ce6955b', 0.0013192612137203166, False, True)]

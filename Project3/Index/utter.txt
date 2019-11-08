@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Japanese+Vowels', 0.008450704225352112, False, True), ('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)', 0.0029850746268656717, False, True), ('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Vowel+Recognition+-+Deterding+Data%29', 0.0029850746268656717, False, True)]

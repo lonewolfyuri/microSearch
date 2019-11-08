@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/MEx', 0.0015625, False, True)]

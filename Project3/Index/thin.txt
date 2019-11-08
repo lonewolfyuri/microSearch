@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Dermatology', 0.0015479876160990713, False, True), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.001996007984031936, False, True)]

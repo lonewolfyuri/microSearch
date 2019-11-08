@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set', 0.0018248175182481751, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0019646365422396855, False, True), ('http://archive.ics.uci.edu/ml/datasets/Cardiotocography', 0.002793296089385475, False, True)]

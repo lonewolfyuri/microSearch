@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Character+Font+Images', 0.002320185614849188, False, True), ('http://archive.ics.uci.edu/ml/datasets/Flags', 0.0019646365422396855, False, True)]

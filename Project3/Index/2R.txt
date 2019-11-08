@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Statlog+(Image+Segmentation)', 0.00202020202020202, False, True), ('http://archive.ics.uci.edu/ml/datasets/Image+Segmentation', 0.0020876826722338203, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Image+Segmentation%29', 0.00202020202020202, False, True)]

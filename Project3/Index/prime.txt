@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/support/Diabetes#ded3146242d6b322f31afbf57a8afde22e4ec8e1', 0.0008038585209003215, False, False), ('http://archive.ics.uci.edu/ml/support/Heart+Disease#cb68337ad074a5f5ce7d8ca8a7a0b7bad1931070', 0.0008410428931875525, False, False), ('http://archive.ics.uci.edu/ml/datasets/Computer+Hardware', 0.0030581039755351682, False, True)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 0.001226993865030675, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0029498525073746312, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+(Shuttle)#4dac55f2daa66b00a555405664b6f275370782ac', 0.0012610340479192938, False, True)]

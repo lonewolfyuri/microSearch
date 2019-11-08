@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.004694835680751174, False, False), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.004784688995215311, False, False)]

@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/BAUM-1', 0.003115264797507788, False, True), ('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.003134796238244514, False, True), ('http://archive.ics.uci.edu/ml/datasets/Optical+Interconnection+Network+', 0.00411522633744856, False, True)]

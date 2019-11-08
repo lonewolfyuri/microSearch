@@ -1,0 +1,1 @@
+[('http://archive.ics.uci.edu/ml/datasets/Quality+Assessment+of+Digital+Colposcopies', 0.0010162601626016261, False, True)]
