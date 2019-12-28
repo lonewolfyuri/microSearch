@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Spoken+Arabic+Digi', (0.0035971223021582736, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Opinion+Corpus+for+Lebanese+Arabic+Reviews+%28OCLAR%2', (0.0034602076124567475, False, True))])

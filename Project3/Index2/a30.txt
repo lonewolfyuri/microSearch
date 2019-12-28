@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Datase', (0.0017301038062283738, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%2', (0.002150537634408602, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data', (0.002150537634408602, False, True))])

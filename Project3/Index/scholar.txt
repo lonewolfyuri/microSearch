@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease', 0.003816793893129771, False, True), ('http://archive.ics.uci.edu/ml/datasets/Discrete+Tone+Image+Dataset', 0.003968253968253968, False, True)]

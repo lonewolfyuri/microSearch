@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FEVWBModel.tx', (0.01, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FEVWBModel1.tx', (0.015384615384615385, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9Rcode.tx', (0.004291845493562232, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPageTextVariables', (0.0008833922261484099, False, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.002008032128514056, False, True)), ('http://sli.ics.uci.edu/PmWiki/TableDirective', (0.0006779661016949153, False, True))])

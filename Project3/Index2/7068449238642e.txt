@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/gwas.tx', (0.0009295643723327841, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0009746588693957114, False, True), ('http://archive.ics.uci.edu/ml/datasets/Heart+Disease', 0.0009041591320072332, False, True), ('http://archive.ics.uci.edu/ml/support/Mushroom#ccd4e75ad23df528a465f79fc83a186aa23ebebe', 0.000513347022587269, False, False)]

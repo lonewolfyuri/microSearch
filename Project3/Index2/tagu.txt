@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Datase', (0.000689655172413793, False, True)), ('http://archive.ics.uci.edu/ml/datasets/MHEALTH+Datase', (0.0008726003490401396, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

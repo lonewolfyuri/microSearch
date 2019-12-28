@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Netherlands.htm', (0.02127659574468085, False, True)), ('https://ngs.ics.uci.edu/media-gap', (0.0016051364365971107, False, True))])

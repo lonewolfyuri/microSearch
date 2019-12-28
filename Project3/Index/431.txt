@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Iris', 0.0019120458891013384, False, True), ('http://archive.ics.uci.edu/ml/datasets/PANDOR', 0.003436426116838488, False, True), ('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data', 0.00211864406779661, False, True)]

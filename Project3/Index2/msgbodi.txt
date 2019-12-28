@@ -1,0 +1,1 @@
+dict_items([('http://scale.ics.uci.edu/dashboard/list.htm', (0.004580152671755725, False, True)), ('http://scale.ics.uci.edu/dashboard/map.htm', (0.002927400468384075, False, True)), ('https://www.ics.uci.edu/~irus/wisen/wisen98/presentations/Aggarwal/tsld008.ht', (0.00980392156862745, False, True))])

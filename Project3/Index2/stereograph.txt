@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/herbert.edelsbrunne', (0.0029702970297029703, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.0778249328602818e-05, False, False))])

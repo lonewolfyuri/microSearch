@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/MAJIQ/voila-Wt-hind', (5.210368633580826e-06, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/MAJIQ/voila-KO-cort', (4.602991944764097e-06, False, True))])

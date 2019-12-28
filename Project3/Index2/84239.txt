@@ -1,0 +1,1 @@
+dict_items([('https://today.uci.edu/department/information_computer_sciences?calendar=', (0.0006373486297004461, False, True)), ('https://today.uci.edu/department/information_computer_science', (0.0006373486297004461, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/3-179.htm', (0.0005402485143165856, False, True))])

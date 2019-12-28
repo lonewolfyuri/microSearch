@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/', 0.025, False, True), ('http://archive.ics.uci.edu/ml/datasets/USPTO+Algorithm+Challenge%2C+run+by+NASA-Harvard+Tournament+Lab+and+TopCoder++++Problem%3A+Pat', 0.0031847133757961785, False, True)]

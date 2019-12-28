@@ -1,0 +1,1 @@
+dict_items([('http://mondego.ics.uci.edu/projects/dejavu', (0.0027100271002710027, False, True))])

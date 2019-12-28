@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/wordprob.htm', (0.001260239445494644, False, True)), ('http://computableplant.ics.uci.edu/arabidopsis-2004.htm', (0.0014947683109118087, False, True))])

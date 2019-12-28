@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set', 0.0028328611898017, False, True)]

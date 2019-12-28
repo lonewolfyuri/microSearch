@@ -1,0 +1,1 @@
+dict_items([('https://cradl.ics.uci.edu/publications', (0.0005851375073142189, False, True)), ('https://cradl.ics.uci.edu/publications/', (0.0005851375073142189, False, True))])

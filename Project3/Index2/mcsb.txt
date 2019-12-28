@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/msc.htm', (0.0011933174224343676, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/vvhvc04/FrozenDecember.htm', (0.0625, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/vvhvc04/MerryChristmasToMe.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/vvhvc04/WinterSleighride.htm', (0.5, True, True))])

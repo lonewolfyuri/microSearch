@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/meshgen.htm', (0.0017452006980802793, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/graphics.htm', (0.0029940119760479044, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/sci.htm', (0.004739336492890996, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

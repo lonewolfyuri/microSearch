@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Basser.htm', (0.0022675736961451248, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Spanlang.htm', (0.00410958904109589, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Treibicz.htm', (0.0008695652173913044, False, False))])

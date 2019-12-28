@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Pattern', (0.0012300123001230013, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/DrivFace', 0.003952569169960474, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.0027397260273972603, False, True)]

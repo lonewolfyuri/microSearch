@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/cgt/color-game.htm', (0.009375, False, True))])

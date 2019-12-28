@@ -1,0 +1,1 @@
+dict_items([('https://evoke.ics.uci.edu/values-in-design-fellows-honored-at-iconference-2013', (0.000723589001447178, False, True)), ('https://evoke.ics.uci.edu/values-in-design-fellows-honored-at-iconference-2013/', (0.000723589001447178, False, True))])

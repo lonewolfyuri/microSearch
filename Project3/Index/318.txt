@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00022941041523285156, False, True), ('http://archive.ics.uci.edu/ml/datasets/Cardiotocography', 0.0020161290322580645, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Dataset', 0.0009891196834817012, False, True), ('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data', 0.0009140767824497258, False, True), ('http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations', 0.0027472527472527475, False, True)]

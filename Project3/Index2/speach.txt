@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/obama-era-of-responsible-optimism', (0.0016666666666666668, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=3', (0.0002192982456140351, False, True))])

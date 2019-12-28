@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/GPS+Trajectorie', (0.0019880715705765406, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Braciejowka.htm', (0.0037313432835820895, False, False))])

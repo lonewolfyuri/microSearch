@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Hepatitis', (0.00038595137012736397, False, False)), ('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.0003109452736318408, False, False)), ('https://www.ics.uci.edu/~dechter/courses/ics-270a/winter-03/project.htm', (0.001081081081081081, False, True))])

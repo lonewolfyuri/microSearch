@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6', 0.000757002271006813, False, False), ('http://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation', 0.004694835680751174, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wholesale+customers', 0.002777777777777778, False, True)]

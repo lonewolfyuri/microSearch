@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yuzok/death_valley_trip', (0.016666666666666666, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

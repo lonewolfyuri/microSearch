@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/cnns-hologram-immersive-video', (0.0014792899408284023, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/AllinBER_NSRE_2010', (0.01293103448275862, False, True)), ('http://archive.ics.uci.edu/ml/datasets/FMA%3A+A+Dataset+For+Music+Analysi', (0.08333333333333333, True, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00386', (0.05555555555555555, False, True))])

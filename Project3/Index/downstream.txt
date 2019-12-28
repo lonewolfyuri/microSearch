@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0013280212483399733, False, True), ('http://archive.ics.uci.edu/ml/datasets/SECOM', 0.0027247956403269754, False, True)]

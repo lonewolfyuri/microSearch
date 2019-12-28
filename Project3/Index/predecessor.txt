@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ecoli', 0.0033783783783783786, False, True), ('http://archive.ics.uci.edu/ml/datasets/Yeast', 0.0033222591362126247, False, True)]

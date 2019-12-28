@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00292/', 0.05, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.0033444816053511705, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.0031746031746031746, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wholesale+customers', 0.125, True, True)]

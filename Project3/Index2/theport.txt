@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (5.82682671017364e-05, False, True)), ('https://wics.ics.uci.edu/event/week-2-portal-tech-career-fair', (0.0003992015968063872, False, True)), ('https://wics.ics.uci.edu/event/the-portal-career-fair', (0.00039856516540454366, False, True))])

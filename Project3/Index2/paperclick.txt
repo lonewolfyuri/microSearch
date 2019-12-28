@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics10A/LabManual/08-Assignment5.htm', (0.0006138735420503376, False, True)), ('https://ngs.ics.uci.edu/visual-search-on-mobile-phones', (0.0015220700152207, False, True))])

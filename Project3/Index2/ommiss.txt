@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/gdl-menu-items.ht', (0.004761904761904762, False, False)), ('https://www.ics.uci.edu/~wscacchi/Papers/Vintage/Software_Productivity.htm', (0.00022331397945511388, False, True))])

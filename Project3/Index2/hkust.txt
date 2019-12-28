@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/faculty2/harandizadeh-bahareh', (0.0002501876407305479, False, False))])

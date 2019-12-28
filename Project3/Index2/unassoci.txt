@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/notes/notes_2009.ph', (0.0001567152483936687, False, True)), ('https://www.ics.uci.edu/community/news/notes/notes_2010.ph', (0.0003386386725364037, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

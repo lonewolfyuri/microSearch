@@ -1,0 +1,1 @@
+dict_items([('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (5.0484652665589664e-05, False, True))])

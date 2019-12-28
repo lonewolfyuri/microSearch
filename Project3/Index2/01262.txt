@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0004344048653344917, False, True)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Data/gr/q100', (0.0027247956403269754, False, False))])

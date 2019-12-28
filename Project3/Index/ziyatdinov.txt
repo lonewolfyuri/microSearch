@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.007751937984496124, False, True)]

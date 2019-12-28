@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sjordan/courses/ics11/case_studies/staffer.htm', (0.0008417508417508417, False, False))])

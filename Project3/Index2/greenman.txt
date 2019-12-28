@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/etka-h3.ht', (0.007751937984496124, False, False)), ('https://www.ics.uci.edu/~feldman/lec7F00.htm', (0.0016339869281045752, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/q-triangle.htm', (0.0021691973969631237, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

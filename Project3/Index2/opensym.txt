@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~iftekha/', (0.00033068783068783067, False, True)), ('https://www.ics.uci.edu/~iftekha', (0.00033068783068783067, False, True)), ('https://www.ics.uci.edu/~iftekha/publication/the-impact-of-automatic-crash-reports-on-bug-triaging-and-development-in-mozilla', (0.004672897196261682, False, True))])

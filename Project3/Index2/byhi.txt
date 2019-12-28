@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute', (0.0015600624024961, False, True))])

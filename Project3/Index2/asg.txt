@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+%28Directed%2', (0.0016129032258064516, False, True)), ('http://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Reaction+Network+%28Undirected%2', (0.0015290519877675841, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://today.uci.edu/department/information_computer_sciences?calendar=', (0.0005820721769499418, False, True)), ('https://today.uci.edu/department/information_computer_science', (0.0005820721769499418, False, True))])

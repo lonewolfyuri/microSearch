@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Nettalk+Corpus)', 0.0021413276231263384, False, True), ('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Nettalk+Corpus%29', 0.0021413276231263384, False, True)]

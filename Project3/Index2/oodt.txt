@@ -1,0 +1,1 @@
+dict_items([('https://jgarcia.ics.uci.edu/%5C%22https:%5C/%5C/jgarcia.ics.uci.edu%5C/?page_id=295%5C', (0.001443001443001443, False, True)), ('https://jgarcia.ics.uci.edu/?page_id=29', (0.001443001443001443, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.529018027056633e-05, False, False))])

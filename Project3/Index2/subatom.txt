@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-namespaces.htm', (0.01020408163265306, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/FXR/nearestGenes.tx', (0.00010967918837400603, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/MAJIQ/voila-Wt-hind', (4.525275928699752e-06, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/MAJIQ/voila-KO-hind', (4.455950699361462e-06, False, True))])

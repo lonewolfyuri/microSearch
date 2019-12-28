@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.0015174506828528073, False, True), ('http://archive.ics.uci.edu/ml/support/UNIX+User+Data#6858832ba8e9e4ac002900af151a8ffcc1796f8f', 0.003703703703703704, False, True), ('http://archive.ics.uci.edu/ml/datasets/YearPredictionMSD', 0.003067484662576687, False, True)]

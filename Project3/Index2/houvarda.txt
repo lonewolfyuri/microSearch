@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Reuter_50_5', (0.0024875621890547263, False, True))])

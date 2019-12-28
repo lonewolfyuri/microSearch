@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/arvr-theater-syllabus', (0.00027862914460852607, False, True)), ('http://sli.ics.uci.edu/Classes-2008F/Financ', (0.0024330900243309003, False, True)), ('https://ngs.ics.uci.edu/extreme-stories-1', (0.0009267840593141798, False, True))])

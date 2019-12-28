@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PEMS-SF', 0.003875968992248062, False, True)]

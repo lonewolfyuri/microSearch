@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/teach/cs295/syll.htm', (0.002070393374741201, False, True)), ('https://www.ics.uci.edu/~goodrich/teach/cs295', (0.002688172043010753, False, True))])

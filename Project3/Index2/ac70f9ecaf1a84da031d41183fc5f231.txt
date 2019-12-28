@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.0/src/partenum/src/.svn/entrie', (0.009345794392523364, False, False)), ('http://flamingo.ics.uci.edu/releases/4.1/src/partenum/src/.svn/entrie', (0.009345794392523364, False, False))])

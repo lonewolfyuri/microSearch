@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics131-FQ03/week09IP/131UCPatent.tx', (0.002325581395348837, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

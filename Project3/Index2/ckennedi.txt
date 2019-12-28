@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/contact', (0.001451378809869376, False, True)), ('https://www.ics.uci.edu/~smyth/padhraic_smyth_contact.htm', (0.006622516556291391, False, True)), ('https://www.ics.uci.edu/about/search/search_dept_cs-staff.ph', (0.003816793893129771, False, True))])

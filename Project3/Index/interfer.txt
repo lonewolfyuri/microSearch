@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0021645021645021645, False, True), ('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data', 0.0009049773755656109, False, True), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.0029585798816568047, False, True)]

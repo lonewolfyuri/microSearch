@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset', 0.0027247956403269754, False, True), ('http://archive.ics.uci.edu/ml/datasets/Poker+Hand', 0.0029411764705882353, False, True)]

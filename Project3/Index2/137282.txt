@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/CMU+Face+Image', (0.004098360655737705, False, True))])

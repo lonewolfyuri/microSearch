@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~duboisc/research.htm', (0.09090909090909091, False, True)), ('https://www.stat.uci.edu/employers-of-statistics-grad-students', (0.0016806722689075631, False, False))])

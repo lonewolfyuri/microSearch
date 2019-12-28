@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Motion+Capture+Hand+Posture', (0.0012195121951219512, False, True)), ('http://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Posture', (0.0012468827930174563, False, True))])

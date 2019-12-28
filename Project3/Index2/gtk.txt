@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_2.html', (0.0005767012687427913, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.5817427866103101e-06, False, False))])

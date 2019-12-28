@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~bic/os/GIF/Ch08', (0.02631578947368421, False, True)), ('https://www.ics.uci.edu/~bic/os/TIFF/Ch08', (0.02631578947368421, False, True)), ('https://www.ics.uci.edu/~bic/os/GIF/Ch08/_vti_cnf', (0.023809523809523808, False, True))])

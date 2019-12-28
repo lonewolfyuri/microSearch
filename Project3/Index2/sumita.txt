@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~klefstad/vita.html', (0.0005138746145940391, False, False)), ('http://sdcl.ics.uci.edu/people/previous-members', (0.0008756567425569177, False, True))])

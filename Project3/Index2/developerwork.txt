@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aburtsev/238P/2018fall/lectures/lecture14-scheduling/readme-scheduler.tx', (0.004098360655737705, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/implementation.htm', (0.0017064846416382253, False, False))])

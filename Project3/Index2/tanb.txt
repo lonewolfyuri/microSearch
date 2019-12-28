@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Nursery', (0.00199203187250996, False, False)), ('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Splice-junction+Gene+Sequences)', (0.0010834236186348862, False, True))])

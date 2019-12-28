@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/spui/YellowFace.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/spui/Encore.htm', (0.1, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/spui/LoveThex.htm', (0.5, True, True))])

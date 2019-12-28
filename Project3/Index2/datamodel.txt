@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/dc/draft-ietf-webdav-dublin-core-01.tx', (0.0010515247108307045, False, True)), ('https://ngs.ics.uci.edu/list-of-publications', (0.00017953321364452425, False, True)), ('https://ngs.ics.uci.edu/uncertainty-in-databases', (0.001394700139470014, False, True))])

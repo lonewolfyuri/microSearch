@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Forest+Fires', 0.002840909090909091, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/euler/all.htm', (0.00021537798836958864, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/binary.htm', (0.0012106537530266344, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

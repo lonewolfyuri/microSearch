@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones', 0.0032679738562091504, False, True)]

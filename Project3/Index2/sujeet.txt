@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/semantics-comes-to-google-search', (0.0015060240963855422, False, True))])

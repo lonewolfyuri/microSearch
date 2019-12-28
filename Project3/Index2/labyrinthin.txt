@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/explore/faculty-profiles/james-a-jones/', (0.0008143322475570033, False, True)), ('https://www.informatics.uci.edu/explore/faculty-profiles/james-a-jones', (0.0008143322475570033, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~enalisni/ShakespeareExplorer.htm', (0.0013280212483399733, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (3.376465515897958e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/WebAPIs', (0.00039603960396039607, False, False))])

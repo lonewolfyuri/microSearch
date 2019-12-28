@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (0.00031377470975839345, False, False)), ('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271', (0.0196078431372549, False, True))])

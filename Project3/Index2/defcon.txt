@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/teaching/cs295-2019-Spring/attacks_and_tools.htm', (0.0015432098765432098, False, True)), ('https://www.ics.uci.edu/~harris/publications.htm', (0.0009689922480620155, False, True)), ('https://cyberclub.ics.uci.edu', (0.003194888178913738, False, True)), ('https://cyberclub.ics.uci.edu/', (0.003194888178913738, False, True))])

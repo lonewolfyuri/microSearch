@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset', 0.003937007874015748, False, True), ('http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms', 0.003968253968253968, False, True)]

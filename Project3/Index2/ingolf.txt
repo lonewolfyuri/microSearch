@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/people.htm', (0.005076142131979695, False, True)), ('https://www.ics.uci.edu/~aces/projects.ht', (0.0008396305625524769, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=7', (0.00018953752843062926, False, True))])

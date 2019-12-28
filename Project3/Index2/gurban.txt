@@ -1,0 +1,1 @@
+dict_items([('https://mailman.ics.uci.edu/mailman/subscribe/mlr', (0.04, False, True)), ('https://mailman.ics.uci.edu/mailman/options/mlr', (0.005747126436781609, False, True)), ('https://mailman.ics.uci.edu/mailman/listinfo/mlr', (0.003194888178913738, False, True)), ('https://mailman.ics.uci.edu/mailman/admin/mlr', (0.009900990099009901, False, True))])

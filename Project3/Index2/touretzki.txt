@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/ISOLE', (0.0020408163265306124, False, True)), ('https://www.ics.uci.edu/~kay/courses/131/s04readings.htm', (0.0003123048094940662, False, True)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (8.400537634408603e-05, False, True))])

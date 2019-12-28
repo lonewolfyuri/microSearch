@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Facebook+metrics', 0.005376344086021506, False, False), ('http://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand', 0.004784688995215311, False, False)]

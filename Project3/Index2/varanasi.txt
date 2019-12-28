@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/interesting-approach-to-make-your-team-victorious', (0.001851851851851852, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/heaps.tx', (0.00016823687752355316, False, False)), ('https://www.ics.uci.edu/~thornton/cs141/ProjectGuide/Project2', (0.0016570008285004142, False, True)), ('https://www.ics.uci.edu/~stasio/winter06/Homeworks/sol5.tx', (0.00149812734082397, False, True))])

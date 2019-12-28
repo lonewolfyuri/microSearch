@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Automobile', 0.002079002079002079, False, True)]

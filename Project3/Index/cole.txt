@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/ISOLET', 0.004464285714285714, False, True), ('http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6', 0.0010604453870625664, False, False), ('http://archive.ics.uci.edu/ml/datasets/Opinosis+Opinion+%26frasl%3B+Review', 0.0026954177897574125, False, True)]

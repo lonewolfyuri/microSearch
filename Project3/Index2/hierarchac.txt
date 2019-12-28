@@ -1,0 +1,1 @@
+dict_items([('https://sli.ics.uci.edu/Site/AllRecentChange', (0.0009505703422053232, False, True)), ('http://sli.ics.uci.edu/Classes-CS178-Notes/HierarchA', (0.2, True, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-CS178-Notes%2FRecentChange', (0.002967359050445104, False, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.0037313432835820895, False, True))])

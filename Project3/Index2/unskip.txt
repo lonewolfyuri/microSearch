@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node258.htm', (0.003205128205128205, False, True)), ('https://www.ics.uci.edu/~chenli/pods05/sig-alternate.cl', (0.0004385003288752467, False, True)), ('https://www.ics.uci.edu/~chenli/pods05/acm_proc_article-sp.cl', (0.00044306601683650863, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://support.ics.uci.edu/studentID/assets/c2b2f595', (0.2, True, True)), ('https://support.ics.uci.edu/studentID/assets', (0.07692307692307693, False, True))])

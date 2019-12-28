@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/apply-to-wics-committee', (0.0002986857825567503, False, True)), ('https://wics.ics.uci.edu/apply-to-wics-committee/', (0.0002986857825567503, False, True))])

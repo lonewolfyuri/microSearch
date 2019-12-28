@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+1)#19d5e6db33eb1a6c31be626538ea656f79e901b1', 0.000791765637371338, False, False), ('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+2)#49c65a0dfe258129414e27f6a3b7c42b7fbe426e', 0.0006949270326615705, False, False)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/GuitarFactory/GIG/GigReadme.ht', (0.0008123476848090983, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

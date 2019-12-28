@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/YouTube+Multiview+Video+Games+Dataset', 0.0025188916876574307, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0004982561036372695, False, True), ('http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation', 0.0016233766233766235, False, True)]

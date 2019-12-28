@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gesture+Phase+Segmentation', 0.0018587360594795538, False, True)]

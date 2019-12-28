@@ -1,0 +1,1 @@
+dict_items([('https://helpdesk.ics.uci.edu/NoAuth/Login.htm', (0.006578947368421052, False, True))])

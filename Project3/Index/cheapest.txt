@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Breast+Cancer#3e78257004181e6dbbdfa3ec12399520412e9c5c', 0.0002050440844781628, False, False)]

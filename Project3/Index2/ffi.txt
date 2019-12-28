@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%2', (0.002207505518763797, False, True)), ('http://archive.ics.uci.edu/ml/support/Diabetes', (0.0005491488193300384, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.3840249382840212e-06, False, False))])

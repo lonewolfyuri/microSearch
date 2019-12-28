@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-2008F%2FFlockin', (0.0022471910112359553, False, True))])

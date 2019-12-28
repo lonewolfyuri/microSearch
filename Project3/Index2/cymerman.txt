@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/brknmilr.ht', (0.0015313935681470138, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/othrmilr.ht', (0.0001124859392575928, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pitzele.htm', (0.0002340276152586005, False, False))])

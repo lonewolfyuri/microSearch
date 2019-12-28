@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/doku.php/publication', (0.0003853564547206166, False, True)), ('https://cbcl.ics.uci.edu/doku.php/publications?rev=153440071', (0.0003852080123266564, False, True)), ('https://cbcl.ics.uci.edu/doku.php?id=publication', (0.0003853564547206166, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016/HSV1-KOS.fast', (0.0004585052728106373, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016/HSV1-KOS.fasta.fa', (0.16666666666666666, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016/HSV1-KOS.gff', (0.048405466970387244, False, False))])

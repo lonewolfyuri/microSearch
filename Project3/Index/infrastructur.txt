@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//thesis.html', 0.005434782608695652, False, True), ('http://asterix.ics.uci.edu/bigactivedata/talks.html', 0.005154639175257732, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computing', 0.0047169811320754715, False, False)]

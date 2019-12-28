@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jpd/software.shtm', (0.009900990099009901, False, True))])

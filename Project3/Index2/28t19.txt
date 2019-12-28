@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/util/src/.svn/entrie', (0.003179650238473768, False, False)), ('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collectio', (0.002702702702702703, False, True))])

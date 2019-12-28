@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data', 0.00196078431372549, False, True)]

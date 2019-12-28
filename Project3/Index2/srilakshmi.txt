@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad', (0.00129366106080207, False, True)), ('https://www.ics.uci.edu/ugrad/index.ph', (0.00129366106080207, False, True)), ('https://www.ics.uci.edu/ugrad/inde', (0.00129366106080207, False, True))])

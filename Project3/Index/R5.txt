@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 0.0010626992561105207, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring', 0.0012254901960784314, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00018474043968224645, False, False)]

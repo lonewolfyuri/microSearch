@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/vision-andor-hype-in-search', (0.0009970089730807576, False, True)), ('https://ngs.ics.uci.edu/taxonomy-and-folksonomy', (0.0011013215859030838, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://graphics.ics.uci.edu/news.htm', (0.00641025641025641, False, True)), ('http://graphics.ics.uci.edu/publication.htm', (0.0014947683109118087, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Liver+Disorder', (0.002288329519450801, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/70', (0.00196078431372549, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/70', (0.0019723865877712033, False, True)), ('https://ngs.ics.uci.edu/3-d-viewfinder-for-photos', (0.002008032128514056, False, True)), ('https://ngs.ics.uci.edu/category/experiential-computing/page/25', (0.001364256480218281, False, True))])

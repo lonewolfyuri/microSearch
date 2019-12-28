@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/scientific-reviews-pagerank', (0.0010672358591248667, False, True))])

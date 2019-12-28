@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gerstenfeld.htm', (0.002688172043010753, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/review.tx', (3.2588150948315195e-05, False, True))])

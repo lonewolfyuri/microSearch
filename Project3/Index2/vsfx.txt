@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/vl/float.t', (0.07675438596491228, False, False))])

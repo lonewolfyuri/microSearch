@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Freiman.htm', (0.0008424599831508003, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pufeles.htm', (0.0010146103896103895, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

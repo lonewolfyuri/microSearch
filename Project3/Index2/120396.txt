@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collectio', (0.0013089005235602095, False, True))])

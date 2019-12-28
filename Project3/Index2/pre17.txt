@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Dat', (0.00196078431372549, False, True))])

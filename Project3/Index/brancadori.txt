@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.0018181818181818182, False, True)]

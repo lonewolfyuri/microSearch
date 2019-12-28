@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/collection/dt/CollSpec032.tx', (6.46830530401035e-05, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/collection/dt/CollSpec031.tx', (6.490134994807892e-05, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/collection/dt/CollSpec033.tx', (5.940358797671379e-05, False, False))])

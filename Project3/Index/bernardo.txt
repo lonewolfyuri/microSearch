@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/bigactivedata/talks.html', 0.004975124378109453, False, False), ('http://archive.ics.uci.edu/ml/datasets/Facebook+metrics', 0.004273504273504274, False, True)]

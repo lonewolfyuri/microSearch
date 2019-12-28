@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/20180116-PASSeq-tempAnalysis/Both_upintronsites_vs_LastPAS/dreme.htm', (0.0008665511265164644, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/20180116-PASSeq-tempAnalysis/Both_upintronsites_vs_LastPAS/dreme.tx', (0.0009532888465204957, False, False))])

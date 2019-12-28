@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitte', (0.004098360655737705, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.000966183574879227, False, True))])

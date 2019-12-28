@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+', 0.004132231404958678, False, True), ('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 0.004149377593360996, False, True)]

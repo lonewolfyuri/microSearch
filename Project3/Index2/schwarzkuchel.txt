@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Janczalek.htm', (0.003784295175023652, False, False))])

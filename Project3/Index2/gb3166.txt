@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/awards-and-accomplishments/', (0.003829160530191458, False, True)), ('https://wics.ics.uci.edu/awards-and-accomplishments', (0.003829160530191458, False, True))])

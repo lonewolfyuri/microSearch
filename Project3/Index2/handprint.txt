@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Character+Font+Image', (0.0032679738562091504, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digit', (0.002717391304347826, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Se', (0.0011248593925759281, False, True)), ('http://archive.ics.uci.edu/ml/support/Wine', (0.002617801047120419, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Win', (0.001287001287001287, False, True))])

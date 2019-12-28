@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/dr-andrey-balmin-and-mayank-pradhan-workday-workday-prism-analytics-unifying-interactive-and-batch-data-processing-using-apache-spark', (0.0003466204506065858, False, True))])

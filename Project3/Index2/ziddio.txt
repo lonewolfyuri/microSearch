@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/video-will-bring-facebook-and-comcast-closer', (0.001834862385321101, False, True))])

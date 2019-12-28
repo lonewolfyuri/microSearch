@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kibler', (0.00029163021289005544, False, False)), ('https://www.ics.uci.edu/~kibler/', (0.00029163021289005544, False, False)), ('https://www.ics.uci.edu/~kibler/WorkSchedule.htm', (0.016129032258064516, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9771784832628877e-07, False, False))])

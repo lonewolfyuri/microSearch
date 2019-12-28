@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~stasio/winter06/Lectures/Lec7code/ComparableExample/Comparable.htm', (0.0016611295681063123, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/collectionsi/lecture.htm', (0.0023094688221709007, False, True))])

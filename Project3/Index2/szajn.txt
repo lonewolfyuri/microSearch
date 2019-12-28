@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Farber.htm', (0.005952380952380952, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Frenkel.htm', (0.0006917223887479825, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/k26.tx', (4.9431537320810677e-05, False, False))])

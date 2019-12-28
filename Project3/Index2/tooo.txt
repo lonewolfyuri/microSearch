@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/giving-back-to-society-gates-and-buffett', (0.0011350737797956867, False, True)), ('https://ngs.ics.uci.edu/the-white-tiger', (0.001422475106685633, False, True))])

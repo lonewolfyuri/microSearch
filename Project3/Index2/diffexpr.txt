@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/DESeq2-HCT116-DMSO-5uM', (0.038461538461538464, False, True))])

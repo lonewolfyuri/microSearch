@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics33/ProjectGuide/Project1/currency.tx', (0.004807692307692308, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.0012970168612191958, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/csg.htm', (0.007692307692307693, False, True))])

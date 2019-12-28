@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Markheim.htm', (0.000819000819000819, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Feldman.htm', (0.0012642225031605564, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.fr.htm', (3.106554830692762e-05, False, True))])

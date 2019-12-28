@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Meta-data', 0.0017331022530329288, False, True), ('http://archive.ics.uci.edu/ml/datasets/Labor+Relations', 0.0019267822736030828, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.004166666666666667, False, True)]

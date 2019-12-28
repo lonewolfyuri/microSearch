@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schnurer.htm', (0.003219575016097875, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Sender.htm', (0.0045871559633027525, False, True))])

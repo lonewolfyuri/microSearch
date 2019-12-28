@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gelblicht.htm', (0.0625, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c90.tx', (6.104260774020266e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Weiskertz.htm', (0.0017889087656529517, False, True))])

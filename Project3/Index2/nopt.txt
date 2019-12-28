@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/nostalgia', (0.0009551098376313276, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+senso', (0.003484320557491289, False, True)), ('https://ngs.ics.uci.edu/nagpur', (0.00028256569652444194, False, True))])

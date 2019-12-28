@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.00205761316872428, False, True), ('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping', 0.00199203187250996, False, True)]

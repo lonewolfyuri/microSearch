@@ -1,0 +1,1 @@
+dict_items([('http://hai.ics.uci.edu/publications.htm', (0.00020521239482864764, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schamroth.htm', (0.0001988862370723946, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

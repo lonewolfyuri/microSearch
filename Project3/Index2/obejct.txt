@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics33/CodeExamples/ImplementingContainersPart2', (0.000683526999316473, False, False)), ('https://www.ics.uci.edu/~thornton/ics32/Notes/PythonBasics', (8.262414277451872e-05, False, True))])

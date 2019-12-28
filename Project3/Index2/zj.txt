@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/extras/cs178/LinearSVM_Demo.htm', (3.108003108003108e-05, False, True)), ('https://www.ics.uci.edu/~eppstein/261/w11-hw4-key.tx', (0.004171011470281543, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.931535449788662e-07, False, False))])

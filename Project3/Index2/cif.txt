@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/uuid-guid/draft-leach-uuids-guids-01.tx', (0.00558659217877095, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.3840249382840212e-06, False, False))])

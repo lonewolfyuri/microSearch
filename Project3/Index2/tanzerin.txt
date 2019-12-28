@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/prague/misc/GoldenBridge.htm', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/prague/misc/StephanBalkenholTanzerin.htm', (0.3333333333333333, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/prague/misc/Metronome.htm', (0.2, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/f03-outline/08.spla', (0.008333333333333333, False, False)), ('https://www.ics.uci.edu/~wmt/ecoRaft/craig.htm', (0.002457002457002457, False, False))])

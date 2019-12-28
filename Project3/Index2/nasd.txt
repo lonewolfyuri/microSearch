@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/research-areas', (0.0014858841010401188, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/UbiqLog+%28smartphone+lifelogging%29', 0.1111111111111111, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.006507592190889371, False, True)]

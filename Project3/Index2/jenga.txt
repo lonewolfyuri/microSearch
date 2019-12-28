@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/wics-winter-quarter-week-10-wics-potluck/', (0.0003843197540353574, False, True)), ('https://wics.ics.uci.edu/wics-winter-quarter-week-10-wics-potluck', (0.0003843197540353574, False, True))])

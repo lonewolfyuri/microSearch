@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+predictio', (0.0024691358024691358, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00016110842597067828, False, False))])

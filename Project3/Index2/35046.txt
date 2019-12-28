@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/dpsi_helawt_snd1kdhela/majiq.lo', (0.0004697040864255519, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9771784832628877e-07, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (1.6713185031671487e-05, False, True)), ('https://www.ics.uci.edu/~magda/Courses/ics156/old_Lab_1.htm', (0.0002886002886002886, False, False)), ('https://www.ics.uci.edu/~ics1c/doc/www_faq.htm', (0.00017699115044247788, False, True))])

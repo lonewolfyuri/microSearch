@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/egg/index.htm', (0.02631578947368421, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.931535449788662e-07, False, False))])

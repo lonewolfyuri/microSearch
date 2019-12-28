@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alexv/154/modelsim-openlab.ht', (0.5, True, True)), ('https://www.ics.uci.edu/~alexv/154', (0.02702702702702703, False, True)), ('https://www.ics.uci.edu/~eli/courses/cs153-f09/cs-153-f09.htm', (0.0007479431563201197, False, True)), ('https://www.ics.uci.edu/~lab/labs_specs/software.ph', (0.002325581395348837, False, True))])

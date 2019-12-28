@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics142/MidtermScores.htm', (0.001226993865030675, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/dpsi_293wt_snd1kd/majiq.lo', (0.00044072278536800354, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

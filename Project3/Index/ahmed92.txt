@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales', 0.004081632653061225, False, True)]

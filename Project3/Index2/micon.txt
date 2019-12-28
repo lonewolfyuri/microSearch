@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/191', (0.0014684287812041115, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/69', (0.001953125, False, True)), ('https://ngs.ics.uci.edu/blinkx-has-better-interface', (0.001876172607879925, False, False)), ('https://ngs.ics.uci.edu/author/ramesh/page/191', (0.0014749262536873156, False, True))])

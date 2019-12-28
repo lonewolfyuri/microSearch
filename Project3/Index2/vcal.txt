@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ICS_52_FQ04/unical-req.htm', (0.000449034575662326, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/very-top-footer-menu-items/people/', (0.000655307994757536, False, True)), ('https://www.informatics.uci.edu/very-top-footer-menu-items/people', (0.000655307994757536, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Rakower.htm', (0.0009216589861751152, False, False))])

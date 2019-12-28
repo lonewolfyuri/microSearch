@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/sw/CambiumPlenum', (0.0136986301369863, False, True))])

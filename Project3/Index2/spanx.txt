@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/quotations.htm', (0.0003785011355034065, False, True))])

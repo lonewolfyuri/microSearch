@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/to-do-or-to-have-that-is-the-question', (0.001594896331738437, False, True))])

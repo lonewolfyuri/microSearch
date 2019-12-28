@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/articles/view_article?id=8', (0.004310344827586207, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False)), ('http://sdcl.ics.uci.edu/research/chatbots', (0.0010111223458038423, False, False))])

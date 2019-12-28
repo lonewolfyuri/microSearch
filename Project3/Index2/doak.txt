@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lipman.htm', (0.0023781212841854932, False, False)), ('https://www.ics.uci.edu/~rohit/IEEE-L7-names-trust.htm', (0.0010735373054213634, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/165/compilers.htm', (0.022222222222222223, False, True)), ('https://www.ics.uci.edu/~lab/labs_specs/software.ph', (0.0024691358024691358, False, True))])

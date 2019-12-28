@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/sanmateo/Intro.htm', (0.004032258064516129, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw4/21.htm', (0.000578368999421631, False, True)), ('https://ngs.ics.uci.edu/searching-real-world-using-images-from-mobile', (0.0017452006980802793, False, True))])

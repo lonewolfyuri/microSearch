@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00000', (0.002004008016032064, False, True)), ('http://archive.ics.uci.edu/ml/datasets/BlogFeedbac', (0.004048582995951417, False, False)), ('https://www.ics.uci.edu/~eppstein/cgt/dodgem.htm', (0.0025380710659898475, False, True))])

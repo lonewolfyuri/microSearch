@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Echocardiogram', 0.006607929515418502, False, True), ('http://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Data', 0.002008032128514056, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.0011682242990654205, False, True)]

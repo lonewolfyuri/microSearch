@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SCADI', 0.004032258064516129, False, True), ('http://archive.ics.uci.edu/ml/datasets/Cryotherapy+Dataset+', 0.002347417840375587, False, True), ('http://archive.ics.uci.edu/ml/datasets/Immunotherapy+Dataset', 0.002347417840375587, False, True)]

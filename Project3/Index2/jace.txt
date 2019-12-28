@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/previous-officers/', (0.0003869969040247678, False, False)), ('https://wics.ics.uci.edu/previous-officers', (0.0003869969040247678, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.1533541152366844e-05, False, False))])

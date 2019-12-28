@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-location', (0.0015923566878980893, False, True)), ('https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-location/', (0.0015923566878980893, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

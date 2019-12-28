@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet049.ht', (0.010101010101010102, False, True)), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet033.ht', (0.004784688995215311, False, True)), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet009.ht', (0.0003727171077152441, False, True))])

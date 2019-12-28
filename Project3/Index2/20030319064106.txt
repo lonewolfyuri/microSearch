@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/priv01.htm', (0.001221001221001221, False, True)), ('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/priv02.htm', (0.0018148820326678765, False, True))])

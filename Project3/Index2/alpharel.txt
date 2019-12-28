@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/sanmateo/whitehead_slides/tsld010.ht', (0.018518518518518517, False, True))])

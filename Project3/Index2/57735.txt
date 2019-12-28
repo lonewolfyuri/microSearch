@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications/?limit=', (0.00014332807797047442, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/robertd/tetrahedron.htm', (0.012145748987854251, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

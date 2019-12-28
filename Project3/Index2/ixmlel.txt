@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/PVXMLio.htm', (0.010416666666666666, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/class-use/PVNodeInfo.htm', (0.023255813953488372, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-2.htm', (0.021505376344086023, False, True))])

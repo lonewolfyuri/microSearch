@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/b.tx', (6.48046140885231e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Probstein.htm', (0.0014903129657228018, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Bazes.htm', (0.011494252873563218, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.0019047619047619048, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0006697923643670462, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0016194331983805667, False, True)]

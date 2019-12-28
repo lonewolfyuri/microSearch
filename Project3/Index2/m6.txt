@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics131-FQ04/schedule.htm', (0.0005154639175257732, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.755359817814867e-05, False, False))])

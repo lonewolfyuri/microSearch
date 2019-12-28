@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/informatics-accepting-applications-for-tenured-faculty-position-in-digital-media-learning-and-design', (0.0007251631617113851, False, True)), ('https://www.informatics.uci.edu/informatics-accepting-applications-for-tenured-faculty-position-in-digital-media-learning-and-design/', (0.0007251631617113851, False, True))])

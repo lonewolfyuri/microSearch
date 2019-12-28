@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/Weber_TCBB_2008', (0.023809523809523808, False, True)), ('http://vision.ics.uci.edu/projects/biological_images', (0.0016638935108153079, False, True)), ('http://vision.ics.uci.edu/publications.htm', (0.00040064102564102563, False, True)), ('http://vision.ics.uci.edu/people/23.htm', (0.0006583278472679394, False, True))])

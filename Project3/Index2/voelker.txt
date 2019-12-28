@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/URL+Reputatio', (0.00392156862745098, False, True)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/references.ht', (0.0002835270768358378, False, True)), ('https://www.ics.uci.edu/~alfchen/teaching/cs295-2019-Spring/readings.htm', (0.0010964912280701754, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Splice-junction+Gene+Sequences)#da329267bf8880c2becb15eae121a5b002347349', 0.0004894762604013706, False, False)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/class.tx', (0.00016254876462938882, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/inheritancei.tx', (0.00017067759003242875, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.fr.htm', (3.02416306287235e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/classes/inf-242', (0.0003746721618583739, False, True)), ('https://www.ics.uci.edu/~gbowker/classification', (9.440196356084207e-05, False, True)), ('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (0.00010114291493880854, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

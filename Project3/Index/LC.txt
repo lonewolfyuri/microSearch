@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection', 0.006535947712418301, False, True)]

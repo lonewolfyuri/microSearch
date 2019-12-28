@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.fr.htm', (0.0005208333333333333, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/parallel-pentagon.htm', (0.007194244604316547, False, False))])

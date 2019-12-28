@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics215', (0.006944444444444444, False, True)), ('https://ngs.ics.uci.edu/the-web-you-trust', (0.0013440860215053765, False, True)), ('http://cert.ics.uci.edu/partnerships.htm', (0.006578947368421052, False, True))])

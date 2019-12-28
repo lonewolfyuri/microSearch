@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0011723329425556857, False, True), ('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.004901960784313725, False, True), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.001876172607879925, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/common/handouts/cygwinclion/clion.htm', (0.0004472271914132379, False, False)), ('https://www.ics.uci.edu/~pattis/common/handouts/macclion/clion.htm', (0.0008285004142502071, False, False))])

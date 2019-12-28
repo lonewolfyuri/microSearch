@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/79-python-resources/107-while-basic', (0.0022271714922048997, False, True)), ('http://graphics.ics.uci.edu/publication.htm', (6.41972138409193e-05, False, True))])

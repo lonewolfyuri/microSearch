@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/eventweb-towards-events', (0.001049317943336831, False, True))])

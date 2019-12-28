@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/long-tail-always-deams-of-becoming-the-head', (0.0009643201542912247, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/camera-with-3d-effects', (0.0015625, False, True))])

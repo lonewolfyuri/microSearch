@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Student+Academics+Performanc', (0.0031847133757961785, False, True)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-1.tx', (9.812579727210283e-05, False, True))])

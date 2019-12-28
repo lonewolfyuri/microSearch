@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Data/-g12/c100', (0.005235602094240838, False, False)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Data/-g12/m100', (0.005361930294906166, False, False))])

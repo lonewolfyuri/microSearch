@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle/psix1', (0.1, True, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle', (0.027777777777777776, False, True))])

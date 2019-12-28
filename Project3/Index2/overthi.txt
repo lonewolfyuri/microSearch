@@ -1,0 +1,1 @@
+dict_items([('http://graphics.ics.uci.edu/publication.htm', (8.43810648890389e-05, False, True))])

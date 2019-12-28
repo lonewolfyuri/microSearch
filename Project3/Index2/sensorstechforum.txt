@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/projects/thermanator', (0.00141643059490085, False, True))])

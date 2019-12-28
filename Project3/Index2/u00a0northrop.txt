@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/week-6-northrop-grumman', (0.0003979307600477517, False, True))])

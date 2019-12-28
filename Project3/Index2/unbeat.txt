@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/polyomino.htm', (0.0004780114722753346, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/all.htm', (4.536793394428818e-05, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

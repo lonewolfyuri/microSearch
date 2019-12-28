@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00432/Data/', 0.027777777777777776, False, True), ('http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms', 0.0018832391713747645, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Multiple+Features', (0.003816793893129771, False, True)), ('http://archive.ics.uci.edu/ml/support/Letter+Recognition', (0.0030864197530864196, False, True)), ('http://archive.ics.uci.edu/ml/support/Glass+Identification', (0.0015822784810126582, False, False))])

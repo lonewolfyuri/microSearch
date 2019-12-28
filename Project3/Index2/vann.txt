@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/origami.htm', (0.002061855670103093, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/all.htm', (9.029345372460496e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pitzele.htm', (5.161290322580645e-05, False, False))])

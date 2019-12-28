@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/research-at-fuji-xerox-lab-fxpal', (0.0012578616352201257, False, True))])

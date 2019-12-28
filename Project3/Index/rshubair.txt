@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.0036900369003690036, False, True)]

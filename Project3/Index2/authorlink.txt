@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/LayoutVariable', (0.0012121212121212121, False, True)), ('http://sli.ics.uci.edu/PmWiki/AuthUse', (0.0006064281382656155, False, True)), ('http://sli.ics.uci.edu/PmWiki/TextFormattingRule', (0.0005970149253731343, False, False)), ('http://sli.ics.uci.edu/PmWiki/WebFeed', (0.0005081300813008131, False, True))])

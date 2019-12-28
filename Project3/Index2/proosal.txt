@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/58', (0.001366120218579235, False, True)), ('https://ngs.ics.uci.edu/carrot-works-in-research', (0.0034423407917383822, False, True)), ('https://ngs.ics.uci.edu/blog/page/58', (0.0013605442176870747, False, True)), ('https://ngs.ics.uci.edu/category/general-updates/page/17', (0.001597444089456869, False, True))])

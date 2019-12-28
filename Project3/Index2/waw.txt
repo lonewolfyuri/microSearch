@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/seed', (0.003076923076923077, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Acute+Inflammation', (0.003663003663003663, False, False)), ('https://www.ics.uci.edu/~goodrich', (0.0016611295681063123, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

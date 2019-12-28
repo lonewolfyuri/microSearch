@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.tx', (0.00034569181574626223, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.tx', (0.0003785459105212104, False, False))])

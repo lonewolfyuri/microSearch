@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Manne.htm', (0.02, False, False)), ('https://www.ics.uci.edu/~amrm/slides/amrm_structure/pta/tsld031.ht', (0.05555555555555555, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Friedner.htm', (0.00028694404591104734, False, False))])

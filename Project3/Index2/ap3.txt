@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/119-cpp-big-thre', (0.0028328611898017, False, False))])

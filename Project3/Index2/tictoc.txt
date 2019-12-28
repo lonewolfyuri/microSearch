@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/xiangyao-yu-transaction-processing-at-scale', (0.00019708316909735908, False, True)), ('https://isg.ics.uci.edu/event/xiangyao-yu-transaction-processing-at-scale/?ical=', (0.0027548209366391185, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications', (0.00021920210434020167, False, True)), ('https://isg.ics.uci.edu/publications/?limit=', (0.00021920210434020167, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (7.410701052319549e-05, False, True))])

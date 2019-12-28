@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00327/', 0.045454545454545456, False, True), ('http://archive.ics.uci.edu/ml/datasets/Phishing+Websites', 0.125, True, True), ('http://archive.ics.uci.edu/ml/datasets/Website+Phishing', 0.125, True, True)]

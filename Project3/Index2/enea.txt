@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Air+Qualit', (0.004032258064516129, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Air+qualit', (0.004032258064516129, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.00013090718680455556, False, True))])

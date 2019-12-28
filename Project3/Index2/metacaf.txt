@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/user-generated-content-self-expression', (0.001658374792703151, False, True))])

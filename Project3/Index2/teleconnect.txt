@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/uci-news-uci-joins-in-launch-of-new-nsf-funded-data-science-and-climate-initiative', (0.0010548523206751054, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=142', (0.001838235294117647, False, True))])

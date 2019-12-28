@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Abalone#ae82a44ada49c66439b67eae7ff10392ff209df9', 0.0006027727546714888, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0005931198102016608, False, True)]

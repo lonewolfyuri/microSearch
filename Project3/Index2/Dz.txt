@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/inversion-preserves-circles.htm', (0.006060606060606061, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.htm', (0.001152073732718894, False, True))])

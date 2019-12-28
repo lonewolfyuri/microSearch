@@ -1,0 +1,1 @@
+dict_items([('http://riscit.ics.uci.edu/events/tainter/tainter.htm', (0.0021645021645021645, False, True))])

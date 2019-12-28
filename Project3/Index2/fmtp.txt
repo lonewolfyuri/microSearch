@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/FmtPageNam', (0.0022675736961451248, False, True)), ('http://sli.ics.uci.edu/PmWiki/Variable', (0.002531645569620253, False, True)), ('http://sli.ics.uci.edu/PmWiki/Function', (0.0017123287671232876, False, True)), ('http://sli.ics.uci.edu/PmWiki/OtherVariable', (0.003401360544217687, False, True))])

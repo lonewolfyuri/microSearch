@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/roseparade/MountedPolice.htm', (0.037037037037037035, False, True))])

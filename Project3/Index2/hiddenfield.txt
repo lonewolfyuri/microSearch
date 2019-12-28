@@ -1,0 +1,1 @@
+dict_items([('http://motifmap-rna.ics.uci.edu/hel', (0.0038255547054322878, False, True)), ('http://motifmap-rna.ics.uci.edu', (0.012853470437017995, False, True))])

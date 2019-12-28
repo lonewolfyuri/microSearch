@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/DeepCons', (0.2, True, True)), ('https://cbcl.ics.uci.edu/public_data', (0.06666666666666667, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/index.htm', (0.0008503401360544217, False, True)), ('http://flamingo.ics.uci.edu', (0.0008503401360544217, False, True)), ('https://www.ics.uci.edu/community/news/notes/notes_2007.ph', (0.000354735721887194, False, True)), ('https://chenli.ics.uci.edu/publications', (0.00042265426880811494, False, True))])

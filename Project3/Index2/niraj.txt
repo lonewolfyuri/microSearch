@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/notes/notes_2009.ph', (0.0001487652484379649, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_studentshowcase.ph', (0.0008539709649871904, False, True)), ('https://www.ics.uci.edu/community/events/extreme/hitec_awards_2009.ph', (0.002717391304347826, False, False))])

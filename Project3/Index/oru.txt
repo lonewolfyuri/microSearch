@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0034602076124567475, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures', 0.003401360544217687, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://cradl.ics.uci.edu/news/page/3', (0.0012285012285012285, False, False)), ('https://cradl.ics.uci.edu/news/page/3/', (0.0012285012285012285, False, False)), ('https://cradl.ics.uci.edu/cradl-rocks-at-cscw/', (0.0018181818181818182, False, False)), ('https://cradl.ics.uci.edu/cradl-rocks-at-cscw', (0.0018181818181818182, False, False))])

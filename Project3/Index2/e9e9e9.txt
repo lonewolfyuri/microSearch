@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/sponsers', (0.0006847751654873316, False, True))])

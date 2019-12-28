@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/class-use/QueryNode.htm', (0.010752688172043012, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/ParseEngine.htm', (0.004545454545454545, False, False))])

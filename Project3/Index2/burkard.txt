@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (4.8273032270522073e-05, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/all.htm', (9.149130832570906e-05, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/combinatorial.htm', (0.001182033096926714, False, False))])

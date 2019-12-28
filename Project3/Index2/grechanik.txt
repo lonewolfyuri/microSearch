@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~andre/publications.htm', (0.000657030223390276, False, True)), ('http://sdcl.ics.uci.edu/papers', (0.00047961630695443646, False, True))])

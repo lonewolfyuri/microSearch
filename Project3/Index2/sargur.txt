@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~qlou/', (0.005128205128205128, False, False)), ('https://www.ics.uci.edu/~xhx/publications.htm', (0.006711409395973154, False, False)), ('https://www.ics.uci.edu/~qlou', (0.005128205128205128, False, False)), ('https://ngs.ics.uci.edu/memories-uday-sengupta', (0.0008375209380234506, False, True))])

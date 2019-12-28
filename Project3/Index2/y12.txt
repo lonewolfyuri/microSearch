@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch7/Ch7Rcode.tx', (0.037037037037037035, False, False))])

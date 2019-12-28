@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/src/rstartree/.svn/entrie', (0.006944444444444444, False, False))])

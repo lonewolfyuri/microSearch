@@ -1,0 +1,1 @@
+dict_items([('http://scale.ics.uci.edu/research.htm', (0.00026014568158168577, False, True)), ('http://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+se', (0.0022271714922048997, False, True))])

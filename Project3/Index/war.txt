@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computing', 0.0047169811320754715, False, False)]

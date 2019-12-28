@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/bal.ht', (0.0001563232765358762, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (4.415377982328099e-05, False, False))])

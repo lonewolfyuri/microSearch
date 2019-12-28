@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.00045310376076121433, False, True)]

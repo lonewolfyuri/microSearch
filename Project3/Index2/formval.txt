@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~vitus/ics1c/doc', (0.043478260869565216, False, True)), ('https://www.ics.uci.edu/~vitus/ics1c/doc/forms.plaintex', (0.04, False, True)), ('https://www.ics.uci.edu/~vitus/ics1c/doc/formval.plaintex', (0.013888888888888888, False, False)), ('https://www.ics.uci.edu/~vitus/ics1c/doc/forms.htm', (0.04, False, True))])

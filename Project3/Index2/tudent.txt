@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wmt/socialCodeGroup/people.htm', (0.005917159763313609, False, False)), ('https://mswe.ics.uci.edu/faq/', (0.0003663003663003663, False, True)), ('https://mswe.ics.uci.edu/faq', (0.0003663003663003663, False, True))])

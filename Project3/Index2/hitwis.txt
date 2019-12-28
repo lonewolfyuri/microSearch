@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/multimedia-story-telling', (0.001718213058419244, False, True))])

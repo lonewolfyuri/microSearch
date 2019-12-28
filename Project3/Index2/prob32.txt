@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/matrix-algebra/probs', (0.024390243902439025, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9RcodeANOVA.tx', (0.003424657534246575, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DiasorinANOVAModel.tx', (0.010752688172043012, False, False))])

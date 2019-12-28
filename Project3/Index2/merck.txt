@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://www.stat.uci.edu/statistics-internships-employment-opportunities', (0.0017391304347826088, False, True)), ('https://www.stat.uci.edu/employers-of-statistics-grad-students', (0.0016207455429497568, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/classes/117/integration-test.htm', (0.25, True, True))])

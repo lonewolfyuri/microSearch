@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/Courses/ics156/Man_TCPDUMP.htm', (0.00027662517289073305, False, False)), ('https://www.ics.uci.edu/~dan/class/165/notes/memory.htm', (0.0008756567425569177, False, True))])

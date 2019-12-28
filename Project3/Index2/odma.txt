@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/cambridge/minutes.htm', (0.00145985401459854, False, True)), ('https://www.ics.uci.edu/~ejw/authoring', (0.0006180469715698393, False, False))])

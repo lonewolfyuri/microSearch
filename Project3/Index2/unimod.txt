@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/articles/view_article?id=8', (0.0035587188612099642, False, True)), ('https://www.stat.uci.edu/seminar-series/seminar-series-2011-2012', (0.0012048192771084338, False, False)), ('http://mondego.ics.uci.edu', (0.002770083102493075, False, False))])

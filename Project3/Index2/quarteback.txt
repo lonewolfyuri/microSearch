@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/general-updates/page/23', (0.0017730496453900709, False, True)), ('https://ngs.ics.uci.edu/tom-brady-a-fighter', (0.002008032128514056, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/75', (0.0016286644951140066, False, True)), ('https://ngs.ics.uci.edu/blog/page/75', (0.0016207455429497568, False, True))])

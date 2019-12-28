@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Syskill+and+Webert+Web+Page+Ratings', 0.0020161290322580645, False, True), ('http://archive.ics.uci.edu/ml/datasets/Firm-Teacher_Clave-Direction_Classification', 0.003703703703703704, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/resources/Title_IX_Resources.ph', (0.0033783783783783786, False, True))])

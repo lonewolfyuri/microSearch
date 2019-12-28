@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/i42/wildride', (0.015151515151515152, False, True))])

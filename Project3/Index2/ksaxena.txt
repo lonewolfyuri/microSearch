@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/2013-fq-cs171/CS-171-FQ-2013.ht', (0.0003312355084465055, False, True)), ('http://radicle.ics.uci.edu/people.htm', (0.000856898029134533, False, True))])

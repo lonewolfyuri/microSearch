@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fielding/pubs/dissertation/references.ht', (0.0013089005235602095, False, True))])

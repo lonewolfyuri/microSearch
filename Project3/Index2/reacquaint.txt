@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics23/LabManual/Probably', (0.00033444816053511704, False, True)), ('https://www.ics.uci.edu/~kay/courses/4/hw/hw6.htm', (0.0025575447570332483, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.8180968162527466e-05, False, False))])

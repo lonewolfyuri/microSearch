@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/copenhagen/Amagertorv.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/copenhagen/RaadhuspladsenDragon.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/copenhagen/Kastellet.htm', (0.1111111111111111, False, True))])

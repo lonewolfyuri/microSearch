@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/cgt/bib.htm', (0.0007593014426727411, False, False)), ('https://ngs.ics.uci.edu/first-day-at-acm-multimedia', (0.0015337423312883436, False, True))])

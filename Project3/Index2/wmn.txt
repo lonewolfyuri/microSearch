@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Chess+(King-Rook+vs.+King-Pawn)', (0.0009871668311944718, False, True)), ('http://archive.ics.uci.edu/ml/support/Chess+(King-Rook+vs.+King-Knight)', (0.0009871668311944718, False, True)), ('http://archive.ics.uci.edu/ml/support/Chess+(King-Rook+vs.+King)', (0.0009900990099009901, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Iris', (0.00035056967572304995, False, True)), ('http://archive.ics.uci.edu/ml/support/Glass+Identification', (0.0004893564962074871, False, True)), ('http://archive.ics.uci.edu/ml/support/Horse+Colic', (0.001869158878504673, False, True))])

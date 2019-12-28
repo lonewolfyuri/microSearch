@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)#e5d994d772cfe5ec4d0f3e6d669f0bc28180a3ae', 0.0002975304968759298, False, True), ('http://archive.ics.uci.edu/ml/support/Wine#a32ab1b3da96c9ae515a685b4fcf50e857708f24', 0.0008650519031141869, False, False), ('http://archive.ics.uci.edu/ml/datasets/Wine', 0.0033333333333333335, False, True)]

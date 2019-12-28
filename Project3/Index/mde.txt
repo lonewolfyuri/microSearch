@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/NYSK', 0.0038910505836575876, False, True)]

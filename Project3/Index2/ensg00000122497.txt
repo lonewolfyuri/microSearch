@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/DE_Genes_edgeR/Entirelist_CFI68_vs_293T-modified.tx', (6.144770800049158e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/DE_Genes_edgeR/Entirelist_CFI25_vs_293T-modified.tx', (2.1173879901753197e-05, False, False))])

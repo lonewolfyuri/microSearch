@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/stats170ab-2018/postgresloading.sq', (0.009900990099009901, False, True)), ('https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/stats170ab-2018/postgresloading.sq', (0.0205761316872428, False, False))])

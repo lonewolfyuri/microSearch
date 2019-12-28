@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/folk-computing-a-scenario-from-2013', (0.0011160714285714285, False, False))])

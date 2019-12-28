@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jutts/201-F13/PhysicalData.tx', (0.0012121212121212121, False, False)), ('https://www.ics.uci.edu/~jutts/110/PhysicalData.tx', (0.0012121212121212121, False, False)), ('https://www.ics.uci.edu/~jutts/8/readme.htm', (0.00031635558367605187, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False)), ('http://tutors.ics.uci.edu/index.php/tutor-resources/82-assembly-resources/111-assembly-syntax-registe', (0.0007067137809187279, False, True))])

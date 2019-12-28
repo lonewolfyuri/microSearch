@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Discrete+Tone+Image+Dataset', 0.00392156862745098, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/smpdb.tx', (0.003179650238473768, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/kegg.tx', (6.268217005672736e-05, False, False))])

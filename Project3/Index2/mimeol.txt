@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/s11_22/Project5/facile.gr', (0.03389830508474576, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/l5-3-8-2.ht', (0.0019305019305019305, False, True))])

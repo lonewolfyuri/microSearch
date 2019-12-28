@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)', 0.002770083102493075, False, True), ('http://archive.ics.uci.edu/ml/datasets/Molecular+Biology+%28Promoter+Gene+Sequences%29', 0.002770083102493075, False, True), ('http://archive.ics.uci.edu/ml/support/Yeast#4dbb0e14d9556fd1099e129462d0bedcf35bd82b', 0.0010427528675703858, False, False)]

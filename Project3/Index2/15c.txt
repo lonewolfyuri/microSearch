@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/teach/geom/hw/hw6.htm', (0.007692307692307693, False, False))])

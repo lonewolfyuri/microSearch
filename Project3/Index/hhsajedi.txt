@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/University+of+Tehran+Question+Dataset+2016+%28UTQD.2016%29', 0.0036900369003690036, False, True)]

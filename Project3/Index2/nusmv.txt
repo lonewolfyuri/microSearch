@@ -1,0 +1,1 @@
+dict_items([('http://alderis.ics.uci.edu/amba2.htm', (0.015384615384615385, False, True)), ('http://alderis.ics.uci.edu', (0.012658227848101266, False, False)), ('http://alderis.ics.uci.edu/index.htm', (0.012658227848101266, False, False))])

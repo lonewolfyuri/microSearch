@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Optical+Interconnection+Network', (0.00390625, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Datase', (0.0037313432835820895, False, True))])

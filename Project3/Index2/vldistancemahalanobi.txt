@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/mathop_8h.htm', (0.0018726591760299626, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/globals_v.htm', (0.00019577133907595928, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/globals_eval.htm', (0.0027472527472527475, False, True))])

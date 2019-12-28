@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/bny-yscr.ht', (0.022222222222222223, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam.htm', (0.003745318352059925, False, True))])

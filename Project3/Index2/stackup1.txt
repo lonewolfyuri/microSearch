@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/extended-bw/probs', (0.022222222222222223, False, True))])

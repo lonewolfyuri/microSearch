@@ -1,0 +1,1 @@
+dict_items([('http://mondego.ics.uci.edu/projects/clonedetection', (0.002070393374741201, False, False))])

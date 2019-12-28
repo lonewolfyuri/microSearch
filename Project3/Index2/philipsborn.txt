@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Deutscher.htm', (0.0034904013961605585, False, False))])

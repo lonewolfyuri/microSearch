@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~marymr', (0.045454545454545456, False, True)), ('https://www.stat.uci.edu/tutoring-resources', (0.0011792452830188679, False, True)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/main.htm', (0.0035460992907801418, False, True))])

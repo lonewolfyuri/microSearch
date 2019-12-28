@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29', 0.002398081534772182, False, True)]

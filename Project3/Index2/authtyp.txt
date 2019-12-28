@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/teach/ics247/notes/.htacces', (0.030303030303030304, False, False)), ('https://www.ics.uci.edu/~taylor/ics126/wq99_syllabus.html', (0.00045998160073597056, False, True))])

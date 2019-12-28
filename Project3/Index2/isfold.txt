@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/props/draft-hopmann-collection-props-00.tx', (0.003303964757709251, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/orlando/minutes.htm', (0.0003787878787878788, False, True))])

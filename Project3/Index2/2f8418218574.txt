@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/letter-of-recommendation-workshop/8418218574_2cba1ef2c0_c', (0.0003169572107765452, False, True))])

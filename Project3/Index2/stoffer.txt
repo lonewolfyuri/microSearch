@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/?s=grant', (0.0045662100456621, False, True)), ('https://hombao.ics.uci.edu/?s=publication', (0.010101010101010102, False, True)), ('https://hombao.ics.uci.edu/R-Computing-TIMEDOMAIN.tx', (0.018867924528301886, False, False)), ('https://www.stat.uci.edu/seminar-series/seminar-series-2014-2015', (0.0010482180293501049, False, True))])

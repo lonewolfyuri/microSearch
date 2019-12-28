@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Statlog+(Vehicle+Silhouettes)#4eff6dda32898a8bdc8268d2a790a96b93f2e262', 0.0013504388926401081, False, True), ('http://archive.ics.uci.edu/ml/support/Dermatology#692880d7b3356df64bfa0f06a683f89e4ce6955b', 0.0024271844660194173, False, False)]

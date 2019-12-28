@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/interesting-uses-of-mass-photography', (0.001851851851851852, False, True))])

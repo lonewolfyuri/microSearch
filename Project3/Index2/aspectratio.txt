@@ -1,0 +1,1 @@
+dict_items([('https://cwicsocal18.ics.uci.edu/photos', (0.00020896458050360465, False, True)), ('https://cwicsocal18.ics.uci.edu/photos/', (0.00020896458050360465, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_printsize.htm', (0.0028089887640449437, False, True))])

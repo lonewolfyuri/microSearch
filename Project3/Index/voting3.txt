@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Lenses#efbc8c38877792e6ade1634043235d238ac9ec8d', 0.0010214504596527069, False, False)]

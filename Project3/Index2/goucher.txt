@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/maxlngsm.ht', (0.009022556390977444, False, True)), ('https://www.ics.uci.edu/~eppstein/ca/replicators/b36s23.htm', (0.00437636761487965, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/zvi.ht', (0.005813953488372093, False, True))])

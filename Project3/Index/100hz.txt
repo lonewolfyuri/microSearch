@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring', 0.003048780487804878, False, True), ('http://archive.ics.uci.edu/ml/datasets/MEx', 0.002457002457002457, False, True), ('http://archive.ics.uci.edu/ml/datasets/Twin+gas+sensor+arrays', 0.002793296089385475, False, True)]

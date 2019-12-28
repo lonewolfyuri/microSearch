@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%2', (0.0018867924528301887, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data', (0.0018867924528301887, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.63623797768385e-07, False, False))])

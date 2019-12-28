@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=', (0.0036231884057971015, False, False)), ('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/game-design.ht', (0.125, False, True)), ('http://tastier.ics.uci.edu', (0.015873015873015872, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.001968503937007874, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.0023584905660377358, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0015082956259426848, False, True)]

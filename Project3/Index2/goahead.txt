@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/inf45/LabManual/PicturesOfYou', (0.0002918855808523059, False, True))])

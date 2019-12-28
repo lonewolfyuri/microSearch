@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/friendster-and-youtube-or-myspace', (0.0014326647564469914, False, True))])

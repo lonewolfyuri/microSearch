@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/pictureal-producing-home-videos', (0.0011198208286674132, False, True))])

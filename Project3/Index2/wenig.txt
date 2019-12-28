@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.tx', (5.607424229680096e-05, False, False)), ('https://ngs.ics.uci.edu/web20-buzzwords', (0.001447178002894356, False, True))])

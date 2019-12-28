@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/nagpur', (0.0006693440428380187, False, False))])

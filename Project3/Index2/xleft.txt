@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jmoorkan/vhdlref/attrib.htm', (0.005988023952095809, False, True))])

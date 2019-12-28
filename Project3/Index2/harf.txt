@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Munk.htm', (0.0009389671361502347, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Spanlang.htm', (0.003875968992248062, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/b.tx', (3.240230704426155e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/ScenarioML.htm', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~alspaugh', (0.017699115044247787, False, True)), ('https://www.ics.uci.edu/~alspaugh/index.htm', (0.017699115044247787, False, True))])

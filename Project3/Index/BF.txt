@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Soybean+(Large)#75334c6670ccfe65b0bcd8e7a6f01c5711511e70', 0.0002643404705260375, False, True), ('http://archive.ics.uci.edu/ml/datasets/Annealing', 0.003257328990228013, False, True), ('http://archive.ics.uci.edu/ml/support/Soybean+(Small)#72c214298c31cc6c0701010f03fc82f44f22969f', 0.0002585983966899405, False, True)]

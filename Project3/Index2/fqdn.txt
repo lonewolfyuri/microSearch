@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/doc/html_good.htm', (0.0013679890560875513, False, False)), ('https://www.ics.uci.edu/~rohit/IEEE-L7-namespaces.htm', (0.0009578544061302681, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime', 0.0004861448711716091, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0005621135469364812, False, True), ('http://archive.ics.uci.edu/ml/support/Breast+Cancer#3e78257004181e6dbbdfa3ec12399520412e9c5c', 0.0002873150409423933, False, True)]

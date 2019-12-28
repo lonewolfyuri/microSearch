@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+%28Directed%2', (0.0016666666666666668, False, True)), ('http://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Reaction+Network+%28Undirected%2', (0.0015772870662460567, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schwartz.htm', (0.0017889087656529517, False, False))])

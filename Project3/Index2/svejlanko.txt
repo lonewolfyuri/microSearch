@@ -1,0 +1,1 @@
+dict_items([('http://mondego.ics.uci.edu/projects/SourcererCC', (0.004608294930875576, False, True))])

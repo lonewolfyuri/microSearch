@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (8.058017727639001e-05, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/saragrad/SaraOnStage.htm', (0.030303030303030304, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/mammoth/SaraDiana1.htm', (0.01282051282051282, False, True))])

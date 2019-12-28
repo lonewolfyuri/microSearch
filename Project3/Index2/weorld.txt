@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/computer-vision-for-developing-countries', (0.0016778523489932886, False, True))])

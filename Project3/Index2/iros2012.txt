@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (2.8647549202165755e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/CourseReference.htm', (0.0022222222222222222, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Hoffman.htm', (0.004395604395604396, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

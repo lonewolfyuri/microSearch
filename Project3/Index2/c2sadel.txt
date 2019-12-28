@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~neno', (0.010526315789473684, False, True)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/software_arch.ht', (0.0002168256721595837, False, False))])

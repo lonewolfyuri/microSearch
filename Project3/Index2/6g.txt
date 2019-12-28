@@ -1,0 +1,1 @@
+dict_items([('https://www.stat.uci.edu/minor-in-statistics', (0.0014367816091954023, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/observation-systems-functionality', (0.0009487666034155598, False, True))])

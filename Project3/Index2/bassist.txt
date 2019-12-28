@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (4.192344778434578e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/ca-brths.ht', (0.01098901098901099, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

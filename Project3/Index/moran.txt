@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/AAAI+2014+Accepted+Papers', 0.0029585798816568047, False, True), ('http://archive.ics.uci.edu/ml/datasets/AAAI+2013+Accepted+Papers', 0.002976190476190476, False, True)]

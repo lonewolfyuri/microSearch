@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Austrian-english.htm', (0.01020408163265306, False, False)), ('https://www.ics.uci.edu/~kobsa/privacy/German.htm', (0.06896551724137931, False, False))])

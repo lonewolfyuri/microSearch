@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/uri-mail.ht', (0.003234152652005175, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gruner.htm', (0.0008097165991902834, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Landau.htm', (0.0002591344908007256, False, False))])

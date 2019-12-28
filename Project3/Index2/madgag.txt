@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/covert/ICC_allSols.tx', (0.008844122343692421, False, False)), ('https://seal.ics.uci.edu/projects/covert/ICC_allSols.tx', (0.008844122343692421, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (8.383236769034644e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ICS280_fq01.htm', (0.0009115770282588879, False, True)), ('http://sdcl.ics.uci.edu/people/previous-members', (0.0008833922261484099, False, True))])

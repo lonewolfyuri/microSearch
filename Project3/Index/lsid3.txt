@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame#48d6beec2a36a87d9d88b6de85dd85a75e5ed24d', 0.00390625, False, True), ('http://archive.ics.uci.edu/ml/support/Breast+Cancer#3e78257004181e6dbbdfa3ec12399520412e9c5c', 0.006369426751592357, False, True)]

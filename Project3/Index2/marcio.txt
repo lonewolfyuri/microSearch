@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Container+Crane+Controller+Data+Se', (0.0038910505836575876, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-270a/winter-03/project.htm', (0.0026455026455026454, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=7', (0.00016297262059973924, False, True))])

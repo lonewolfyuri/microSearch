@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digit', 0.005025125628140704, False, False)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)', (0.0033112582781456954, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Japanese+Vowel', (0.0023094688221709007, False, True))])

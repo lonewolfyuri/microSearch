@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/78', (0.00196078431372549, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/78', (0.0019723865877712033, False, True)), ('https://ngs.ics.uci.edu/category/general-updates/page/24', (0.0014771048744460858, False, True)), ('https://ngs.ics.uci.edu/open-cable-platform', (0.001996007984031936, False, True))])

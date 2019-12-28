@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ardalan/publications.htm', (0.0012077294685990338, False, True)), ('https://www.ics.uci.edu/~irani/SouthernCaliforniaTheoryDay2018.htm', (0.01098901098901099, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0005537098560354374, False, True))])

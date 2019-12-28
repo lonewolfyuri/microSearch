@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/legoland/SaraMakingCar.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/legoland/NewEngland.htm', (0.1, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/legoland/VaillancourtFountain.htm', (0.5, True, True))])

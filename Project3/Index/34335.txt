@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset', 0.0035211267605633804, False, True)]

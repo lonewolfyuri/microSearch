@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (9.735676386116926e-05, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.74522835983093e-06, False, False))])

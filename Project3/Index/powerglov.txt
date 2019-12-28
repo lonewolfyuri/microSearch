@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs', 0.006600660066006601, False, True)]

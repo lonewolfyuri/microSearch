@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aburtsev/publications.htm', (0.004629629629629629, False, True)), ('https://www.ics.uci.edu/~aburtsev/education.htm', (0.013513513513513514, False, True)), ('https://www.ics.uci.edu/~aburtsev/index.htm', (0.0006476683937823834, False, True)), ('https://www.ics.uci.edu/~aburtsev', (0.0006476683937823834, False, True))])

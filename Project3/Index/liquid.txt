@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ultrasonic+flowmeter+diagnostics', 0.005434782608695652, False, False)]

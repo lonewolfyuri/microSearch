@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/gdraw.htm', (0.0027247956403269754, False, True))])

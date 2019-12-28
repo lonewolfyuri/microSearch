@@ -1,0 +1,1 @@
+dict_items([('https://helpdesk.ics.uci.edu/NoAuth/Login.html?next=ae7a4f311c21d1ac1ece084c4a9109e', (0.0136986301369863, False, True)), ('https://helpdesk.ics.uci.edu/NoAuth/Login.htm', (0.0136986301369863, False, True))])

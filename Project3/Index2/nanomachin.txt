@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/annualreport/2006-07/events.ph', (0.0013869625520110957, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (7.451564828614009e-05, False, True)), ('https://www.ics.uci.edu/community/news/notes/notes_2007.ph', (0.00040225261464199515, False, True))])

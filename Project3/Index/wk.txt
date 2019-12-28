@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)', 0.002173913043478261, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index', 0.0021413276231263384, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census-Income+%28KDD%29', 0.002173913043478261, False, True)]

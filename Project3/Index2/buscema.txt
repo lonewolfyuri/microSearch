@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digi', (0.0036231884057971015, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Steel+Plates+Fault', (0.002638522427440633, False, True))])

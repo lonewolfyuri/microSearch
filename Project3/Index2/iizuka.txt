@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mappin', (0.00199203187250996, False, True))])

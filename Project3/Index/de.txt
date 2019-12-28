@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Greenhouse+Gas+Observing+Network', 0.003194888178913738, False, True), ('http://archive.ics.uci.edu/ml/datasets/Climate+Model+Simulation+Crashes', 0.0026666666666666666, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00021299254526091586, False, True)]

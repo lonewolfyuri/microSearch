@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Yeast#4dbb0e14d9556fd1099e129462d0bedcf35bd82b', 0.0015220700152207, False, True)]

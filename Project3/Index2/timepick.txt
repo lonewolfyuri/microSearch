@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/abou', (0.02702702702702703, False, True)), ('https://grape.ics.uci.edu/wiki/asterix/abou', (0.02702702702702703, False, True))])

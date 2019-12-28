@@ -1,0 +1,1 @@
+dict_items([('http://cert.ics.uci.edu/EMWS09/index.htm', (0.0007855459544383347, False, False)), ('http://www-db.ics.uci.edu/pages/links/research_groups.shtm', (0.027777777777777776, False, False))])

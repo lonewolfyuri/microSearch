@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Annealin', (0.002849002849002849, False, True)), ('https://www.ics.uci.edu/~dan/pubs/DC-references.htm', (0.0007220216606498195, False, True)), ('https://www.ics.uci.edu/~dan/pubs/DC-Sec1.htm', (0.0009111617312072893, False, True))])

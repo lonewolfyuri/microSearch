@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics131-FQ03/week09IP/131MusicLegaIissues.tx', (0.0017391304347826088, False, False))])

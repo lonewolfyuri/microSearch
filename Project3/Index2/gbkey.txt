@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016/HSV1-KOS.gff', (0.048405466970387244, False, False))])

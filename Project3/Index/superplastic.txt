@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength', 0.0024937655860349127, False, True), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test', 0.0026666666666666666, False, True)]

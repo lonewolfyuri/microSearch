@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+%28Directed%2', (0.0018867924528301887, False, True)), ('https://www.ics.uci.edu/~eppstein/cgt/mancala-connectivity.htm', (0.0006172839506172839, False, False))])

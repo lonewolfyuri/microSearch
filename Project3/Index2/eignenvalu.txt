@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/covdet-corner-types.htm', (0.001422475106685633, False, True))])

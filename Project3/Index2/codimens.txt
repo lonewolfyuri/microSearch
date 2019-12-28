@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/hilbert-regular-polytope.htm', (0.010958904109589041, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/skewer.htm', (0.0014245014245014246, False, False))])

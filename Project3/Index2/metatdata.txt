@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/requirements/vers-req-091296.htm', (0.0004522840343735866, False, True)), ('https://ngs.ics.uci.edu/photo-eco-system-i-need-to-solve-my-problem', (0.0014204545454545455, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/systems-in-india', (0.0011507479861910242, False, True))])

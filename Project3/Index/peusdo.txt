@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Chess+(Domain+Theories)', 0.0029585798816568047, False, False), ('http://archive.ics.uci.edu/ml/datasets/Chess+%28Domain+Theories%29', 0.0029585798816568047, False, False)]

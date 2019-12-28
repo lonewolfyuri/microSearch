@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/atlas-of-science.htm', (0.004651162790697674, False, True))])

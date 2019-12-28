@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/AutoUniv', 0.0022371364653243847, False, True), ('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection', 0.0038461538461538464, False, True)]

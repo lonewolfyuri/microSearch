@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/El+Nin', (0.005128205128205128, False, False)), ('http://archive.ics.uci.edu/ml/support/El+Nino', (0.003367003367003367, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

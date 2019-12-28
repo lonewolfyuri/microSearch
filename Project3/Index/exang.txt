@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Heart+Disease', 0.002232142857142857, False, True)]

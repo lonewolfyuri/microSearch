@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/stanford-class-series-how-to-build-products-users-love-pt-1', (0.00039824771007566706, False, True)), ('https://wics.ics.uci.edu/event/stanford-class-series-how-to-build-products-users-love-pt-2', (0.00039824771007566706, False, True))])

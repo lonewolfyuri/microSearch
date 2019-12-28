@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/RaccoonApplet.htm', (0.006756756756756757, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-7.htm', (0.0049504950495049506, False, True))])

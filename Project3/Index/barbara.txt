@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Sponge', 0.00423728813559322, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Accelerometer', 0.003952569169960474, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hayes-Roth', 0.0045662100456621, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29', 0.003048780487804878, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+(Heart)#dd4500e327a5f555d2f594711dc50b0f9faccd30', 0.003278688524590164, False, True)]

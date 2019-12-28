@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Group/Grou', (0.0023094688221709007, False, True)), ('https://www.ics.uci.edu/~ihler/papers/bib.html', (0.00023348120476301658, False, True)), ('https://www.ics.uci.edu/~ihler/index.htm', (0.002352941176470588, False, True)), ('https://www.ics.uci.edu/~ihler', (0.002352941176470588, False, True))])

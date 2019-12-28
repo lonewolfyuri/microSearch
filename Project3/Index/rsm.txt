@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)#77fb0a2e40e1c957295bfa6bffb09ffc1d1bebc7', 0.000427715996578272, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/?s=publication', (0.002680965147453083, False, True)), ('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/handheld.ht', (0.008064516129032258, False, True)), ('https://www.ics.uci.edu/~dechter/acp_award.htm', (0.0025974025974025974, False, True))])

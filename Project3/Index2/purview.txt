@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Austrian-english.htm', (5.409499080385156e-05, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/extreme-stories13', (0.0011737089201877935, False, True))])

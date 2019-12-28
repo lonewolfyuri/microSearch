@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/financial', (0.005249343832020997, False, False)), ('https://www.ics.uci.edu/ugrad/financial/index.ph', (0.005249343832020997, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/asterix/wiki/cs122a-2018-spring?action=diff&version=3', (0.0056179775280898875, False, True)), ('https://www.ics.uci.edu/~ics1c/hw3/44.htm', (0.010752688172043012, False, True))])

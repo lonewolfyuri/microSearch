@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Liver+Disorders#f6f302674e1188614eaa6f23c782d8d1c0ea2320', 0.0006493506493506494, False, False), ('http://archive.ics.uci.edu/ml/support/Diabetes#ded3146242d6b322f31afbf57a8afde22e4ec8e1', 0.0002482005460412013, False, False)]

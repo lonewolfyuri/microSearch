@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-http-gopher.htm', (0.00027078256160303275, False, True)), ('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (8.864462370357238e-05, False, True))])

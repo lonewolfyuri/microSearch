@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/sw.htm', (0.0024096385542168677, False, True)), ('http://computableplant.ics.uci.edu/sw', (0.0024630541871921183, False, True)), ('http://computableplant.ics.uci.edu/alphasite/software.htm', (0.002717391304347826, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/ProSim-2K', (0.014492753623188406, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/ProSim-2K/SAPA/WS_FTP.LO', (0.03664921465968586, False, False))])

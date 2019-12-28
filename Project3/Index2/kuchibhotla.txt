@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wics/contact.htm', (0.005076142131979695, False, True)), ('https://wics.ics.uci.edu/previous-officers/', (0.0003237293622531564, False, False)), ('https://wics.ics.uci.edu/previous-officers', (0.0003237293622531564, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (5.433601391001956e-05, False, True)), ('https://www.ics.uci.edu/~gbowker/classification', (0.00015390534821085032, False, False)), ('https://www.ics.uci.edu/~gbowker/tb.htm', (0.0001893939393939394, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

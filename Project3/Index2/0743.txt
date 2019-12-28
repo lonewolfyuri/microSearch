@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/hikm.htm', (0.0014727540500736377, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.tx', (8.331250520703158e-06, False, False))])

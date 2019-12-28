@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/US+Census+Data+(1990)', (0.0020408163265306124, False, False)), ('http://archive.ics.uci.edu/ml/support/Adult', (0.00025284450063211124, False, False)), ('http://archive.ics.uci.edu/ml/support/Census+Income', (0.0004909180166912126, False, False))])

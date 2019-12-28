@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ReleaseNote', (9.086778736937755e-05, False, True)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (0.00020940946530783192, False, True))])

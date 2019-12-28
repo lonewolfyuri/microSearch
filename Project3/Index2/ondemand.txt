@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~keldefra/manet.ht', (0.000946969696969697, False, True)), ('https://ngs.ics.uci.edu/social-search', (0.0014970059880239522, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.1863070899577325e-06, False, False))])

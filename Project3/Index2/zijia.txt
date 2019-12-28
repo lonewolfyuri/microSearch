@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/news/page/11', (0.00078125, False, True)), ('https://www.cs.uci.edu/senior-spotlight-kevin-kes-journey-from-guangzhou-to-uci-to-amazon', (0.0016750418760469012, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=131', (0.00510204081632653, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/fatemeh-nargesian-data-enrichment-for-data-science/?ical=', (0.004662004662004662, False, False))])

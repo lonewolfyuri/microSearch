@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/shape-metric.htm', (0.0005181347150259067, False, False)), ('https://ngs.ics.uci.edu/bulgarian-experience', (0.0008880994671403197, False, True))])

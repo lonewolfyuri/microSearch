@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.004273504273504274, False, True), ('http://archive.ics.uci.edu/ml/support/Auto+MPG#ae50055cb7507aa6cad70a2adf7d0f55a25268c7', 0.0015105740181268882, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.0026041666666666665, False, True)]

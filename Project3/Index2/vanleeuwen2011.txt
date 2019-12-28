@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ajfrank/pubs/jgr11.bi', (0.012658227848101266, False, False))])

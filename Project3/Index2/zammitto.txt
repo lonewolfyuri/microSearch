@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/research/publications', (0.00078125, False, True)), ('https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2014-2015/', (0.0008438818565400844, False, True)), ('https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2014-2015', (0.0008438818565400844, False, True))])

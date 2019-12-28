@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/BasicVariable', (0.0012738853503184713, False, True)), ('http://sli.ics.uci.edu/PmWiki/Variable', (0.0028011204481792717, False, True))])

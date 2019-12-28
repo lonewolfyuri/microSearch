@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/netherlands/MarkenLighthouse3.htm', (0.07692307692307693, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/netherlands/MarkenDike.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/netherlands/DikesideStream.htm', (0.5, True, True))])

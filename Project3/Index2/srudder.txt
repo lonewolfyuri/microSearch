@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/kfflab', (0.0031545741324921135, False, False)), ('https://www.ics.uci.edu/about/kfflab/index.ph', (0.0031545741324921135, False, False)), ('https://www.ics.uci.edu/about/search/search_sao.ph', (0.002857142857142857, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data', 0.0016313213703099511, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.0003363605785401951, False, True)]

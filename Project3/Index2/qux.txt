@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/2013-wq-cs271/CS-271-WQ-2013.htm', (0.000177430801987225, False, False))])

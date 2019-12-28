@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lewi.htm', (0.021621621621621623, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lack.htm', (0.000365764447695684, False, True)), ('https://ngs.ics.uci.edu/web-science-2', (0.0017605633802816902, False, True))])

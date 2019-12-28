@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/f03-outline/02.has', (0.0009699321047526673, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

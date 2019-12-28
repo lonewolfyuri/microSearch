@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1', (0.03125, False, True)), ('https://www.ics.uci.edu/~andre/ics223w2006.htm', (0.00390625, False, True))])

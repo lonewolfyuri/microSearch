@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sysarch/projects/OpenCV.htm', (0.007547169811320755, False, False))])

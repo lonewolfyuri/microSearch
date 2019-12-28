@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Glucklich.htm', (0.001272264631043257, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kops.htm', (0.006896551724137931, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.63623797768385e-07, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation', 0.0037593984962406013, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics', 0.0037174721189591076, False, True)]

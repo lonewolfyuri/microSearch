@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/dsift.htm', (0.0018450184501845018, False, False))])

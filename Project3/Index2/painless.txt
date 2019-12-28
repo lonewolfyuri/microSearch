@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/Sockets', (0.00037650602409638556, False, True)), ('https://www.ics.uci.edu/~ics1c/doc/www_faq.htm', (0.0001120699316373417, False, True)), ('https://www.ics.uci.edu/~gts', (0.004975124378109453, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

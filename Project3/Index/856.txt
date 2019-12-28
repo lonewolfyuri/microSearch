@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/CNAE-9', 0.0024752475247524753, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hayes-Roth', 0.004347826086956522, False, False), ('http://archive.ics.uci.edu/ml/datasets/Heart+Disease', 0.0035971223021582736, False, False), ('http://archive.ics.uci.edu/ml/datasets/Computer+Hardware', 0.00392156862745098, False, False)]

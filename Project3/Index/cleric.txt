@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.0025380710659898475, False, True), ('http://archive.ics.uci.edu/ml/support/Auto+MPG#ae50055cb7507aa6cad70a2adf7d0f55a25268c7', 0.002183406113537118, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.002531645569620253, False, True)]

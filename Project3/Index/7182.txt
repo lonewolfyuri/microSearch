@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports', 0.0017699115044247787, False, True)]

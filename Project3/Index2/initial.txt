@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-31/lectures/dictionaryprocessing/dictionaryreview.tx', (0.0005096839959225281, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.fr.htm', (0.00013575889220743959, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

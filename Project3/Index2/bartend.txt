@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/pl-occ.tx', (0.002105263157894737, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/angela+chris/reception/31.htm', (0.02197802197802198, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.8180968162527466e-05, False, False))])

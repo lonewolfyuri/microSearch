@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0010787486515641855, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.0014749262536873156, False, True), ('http://archive.ics.uci.edu/ml/datasets/Heart+Disease', 0.0016891891891891893, False, True)]

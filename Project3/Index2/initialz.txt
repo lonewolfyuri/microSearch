@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/dijkstra.tx', (0.0005844535359438924, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-21/announcements.htm', (8.727526618956188e-05, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/decoratorspackages.tx', (0.0002149151085321298, False, False))])

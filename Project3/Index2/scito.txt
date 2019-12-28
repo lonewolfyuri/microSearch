@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Dat', (0.004694835680751174, False, False)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000', (0.0024875621890547263, False, True))])

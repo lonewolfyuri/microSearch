@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/StoneFlake', (0.0035714285714285713, False, False)), ('https://www.ics.uci.edu/~rohit/IEEE-L7-names-trust.htm', (0.0024096385542168677, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper', (0.0002724424465331699, False, False))])

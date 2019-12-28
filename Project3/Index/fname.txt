@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Patterns', 0.0016611295681063123, False, True)]

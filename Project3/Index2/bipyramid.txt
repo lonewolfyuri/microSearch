@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/tangencies/octahedron.htm', (0.003389830508474576, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/hecatohedron.htm', (0.0026246719160104987, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

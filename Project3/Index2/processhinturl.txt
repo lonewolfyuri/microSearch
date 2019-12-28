@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/PeerViewBrowser.htm', (0.002544529262086514, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-16.htm', (0.0009149130832570906, False, True))])

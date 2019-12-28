@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_uci_constructors_acm.ph', (0.0024096385542168677, False, False)), ('https://www.ics.uci.edu/community/news/notes/notes_2013.ph', (0.0008650519031141869, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

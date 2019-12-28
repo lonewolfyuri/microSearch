@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Mturk+User-Perceived+Clusters+over+Image', (0.004784688995215311, False, False)), ('https://www.ics.uci.edu/~wmt/ecoRaft/bill.htm', (0.002932551319648094, False, False))])

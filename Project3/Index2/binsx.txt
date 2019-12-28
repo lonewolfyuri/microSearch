@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/applications/caltech-101-code.htm', (0.0006747638326585695, False, True))])

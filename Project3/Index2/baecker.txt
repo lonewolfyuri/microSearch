@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics205-FQ05', (0.0007112375533428165, False, True)), ('https://www.ics.uci.edu/~emilyo/SimSE/se_rules.htm', (0.0003527336860670194, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (4.879238838741156e-05, False, False))])

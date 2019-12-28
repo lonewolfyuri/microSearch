@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Eisenthal.htm', (0.001519756838905775, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Sperling.htm', (0.0078125, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pitzele.htm', (5.4341919356591676e-05, False, True))])

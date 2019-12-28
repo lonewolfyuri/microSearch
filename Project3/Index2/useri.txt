@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/undergrad/student-profiles/jason-heckard', (0.0007961783439490446, False, True)), ('https://www.informatics.uci.edu/undergrad/student-profiles/jason-heckard/', (0.0007961783439490446, False, True))])

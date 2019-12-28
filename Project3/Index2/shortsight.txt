@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/versioning/arch/0155.htm', (0.001763668430335097, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/irvine/minutes.tx', (0.0005015045135406219, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

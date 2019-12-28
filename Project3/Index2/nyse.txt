@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Machine+Learning+based+ZZAlpha+Ltd.+Stock+Recommendations+2012-201', (0.0013717421124828531, False, True)), ('https://www.ics.uci.edu/~irus/wisen/wisen98/presentations/Low/tsld006.ht', (0.04, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

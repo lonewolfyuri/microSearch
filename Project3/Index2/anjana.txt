@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/ME', (0.004098360655737705, False, True)), ('https://www.ics.uci.edu/~cs237/prevprojects.htm', (0.0004657661853749418, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0009165902841429881, False, True))])

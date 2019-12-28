@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/gdl-color-blindness.ht', (0.011235955056179775, False, True))])

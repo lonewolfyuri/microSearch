@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fowlkes/sceneunderstanding.htm', (0.0019157088122605363, False, True)), ('https://www.ics.uci.edu/~fowlkes/publications.htm', (0.0012360939431396785, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.tx', (8.331250520703158e-06, False, False))])

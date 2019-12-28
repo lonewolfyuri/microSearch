@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Balance+Scale', 0.00425531914893617, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.0014727540500736377, False, True), ('http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1998+Data', 0.004484304932735426, False, True)]

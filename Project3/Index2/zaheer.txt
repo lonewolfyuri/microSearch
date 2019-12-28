@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_appjam_2012.ph', (0.0015723270440251573, False, False)), ('https://www.ics.uci.edu/~dechter/courses/ics-295/fall-2019', (0.0005847953216374269, False, True))])

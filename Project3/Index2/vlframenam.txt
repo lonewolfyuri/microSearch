@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/globals_v.htm', (0.00019519812609798947, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/covdet_8h.htm', (0.0009532888465204957, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/globals_vars.htm', (0.002898550724637681, False, True))])

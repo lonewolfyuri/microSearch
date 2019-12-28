@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/topk/src/perftest_exps.c', (0.002304147465437788, False, True)), ('http://flamingo.ics.uci.edu/releases/3.0/src/topk/perftest_exps.c', (0.0023094688221709007, False, True)), ('http://flamingo.ics.uci.edu/releases/4.0/src/topk/src/perftest_exps.c', (0.002304147465437788, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping', 0.004608294930875576, False, True), ('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.0020876826722338203, False, True)]

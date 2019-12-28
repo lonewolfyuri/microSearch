@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.0023148148148148147, False, True), ('http://archive.ics.uci.edu/ml/datasets/Computer+Hardware', 0.0025906735751295338, False, True)]

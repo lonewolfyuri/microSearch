@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.00040317161671818305, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Landau.htm', (0.00012968486577616392, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.tx', (0.00042055681722600723, False, False))])

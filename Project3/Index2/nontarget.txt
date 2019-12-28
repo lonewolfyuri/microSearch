@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_10062016/normalized-plot-round1', (0.037037037037037035, False, True))])

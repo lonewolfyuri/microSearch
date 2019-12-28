@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/UNIX+User+Data#6858832ba8e9e4ac002900af151a8ffcc1796f8f', 0.003703703703703704, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.005970149253731343, False, True)]

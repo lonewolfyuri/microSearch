@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics104-WQ06/assignments/assignment1.ht', (0.0025188916876574307, False, True))])

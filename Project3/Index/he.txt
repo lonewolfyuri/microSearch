@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Hepatitis#61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5', 0.0011574074074074073, False, False)]

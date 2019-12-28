@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Adult', (0.000513347022587269, False, False)), ('http://archive.ics.uci.edu/ml/support/Mushroom', (0.0015552099533437014, False, True))])

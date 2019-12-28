@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Heart%29', 0.0033333333333333335, False, True), ('http://archive.ics.uci.edu/ml/datasets/Heart+Disease', 0.0015527950310559005, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Heart)', 0.0033333333333333335, False, True)]

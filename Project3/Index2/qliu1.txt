@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes/2012F-17', (0.0030120481927710845, False, False)), ('http://sli.ics.uci.edu/Code/GPRTimeshif', (0.0015408320493066256, False, True))])

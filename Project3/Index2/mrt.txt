@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+se', (0.00273224043715847, False, True)), ('https://www.ics.uci.edu/~eppstein/bibs/eppstein.htm', (7.888923950773115e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/j4p05/PaulBunyan.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/j4p05/MiniatureBull.htm', (0.08333333333333333, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/j4p05/Sidesaddle.htm', (0.25, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

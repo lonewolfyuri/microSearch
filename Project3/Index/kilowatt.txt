@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ionosphere', 0.003125, False, True), ('http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption', 0.0022988505747126436, False, True)]

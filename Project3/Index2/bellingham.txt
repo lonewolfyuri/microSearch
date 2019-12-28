@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Fragner.htm', (0.0029498525073746312, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/othrmilr.ht', (0.00018338529249954154, False, True))])

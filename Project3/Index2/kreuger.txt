@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aces/conferences.ht', (0.00016911889058007779, False, True)), ('https://www.ics.uci.edu/~mopy/publications.htm', (0.0010660980810234541, False, True)), ('https://www.ics.uci.edu/~dsm/publications.htm', (0.00014530659691950015, False, True)), ('https://www.ics.uci.edu/~dsm/pubscon.htm', (0.0007757951900698216, False, True))])

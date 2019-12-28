@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/aib.htm', (0.003215434083601286, False, False)), ('https://www.ics.uci.edu/~taylor/ICS_52_FQ02/syllabus.htm', (0.007407407407407408, False, True)), ('https://www.ics.uci.edu/~thornton/cs141/Schedule.htm', (0.0017889087656529517, False, True))])

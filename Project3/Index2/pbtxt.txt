@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/DANN/readm', (0.00691699604743083, False, False)), ('https://cbcl.ics.uci.edu/public_data/DANN/deepnet/train.pbtx', (0.03571428571428571, False, False)), ('https://cbcl.ics.uci.edu/public_data/DANN/deepnet', (0.03571428571428571, False, True))])

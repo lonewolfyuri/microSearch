@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/ASEvents/fromGTF.RI.tx', (2.2826880934989044e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/bush_science.ht', (0.0018450184501845018, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

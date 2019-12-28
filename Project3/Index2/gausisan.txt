@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/scalespace-fundamentals.htm', (0.0007961783439490446, False, True))])

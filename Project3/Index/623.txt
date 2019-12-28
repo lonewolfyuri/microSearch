@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Climate+Model+Simulation+Crashes', 0.001607717041800643, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0019646365422396855, False, True)]

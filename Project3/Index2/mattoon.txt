@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Cylinder+Band', (0.002197802197802198, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Neukorn.htm', (0.0007209805335255948, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

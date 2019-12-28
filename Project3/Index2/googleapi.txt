@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/WebAPIs', (0.0005219206680584551, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.5966944080185923e-05, False, False))])

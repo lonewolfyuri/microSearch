@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/eppstein-shares-research-at-conferences-in-australia-canada-and-tokyo', (0.0016339869281045752, False, True)), ('https://www.cs.uci.edu/news/page/13', (0.0006816632583503749, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=126', (0.004694835680751174, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/WikiPag', (0.004219409282700422, False, True)), ('http://sli.ics.uci.edu/PmWiki/WikiStructur', (0.3333333333333333, True, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.0019230769230769232, False, True))])

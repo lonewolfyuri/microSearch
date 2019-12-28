@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/career/additional-skills-resources', (0.0014619883040935672, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_butterworth_beall_2014_winners.ph', (0.0006472491909385113, False, False)), ('https://mswe.ics.uci.edu/career/additional-resources', (0.0012484394506866417, False, True))])

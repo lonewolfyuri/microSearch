@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/rickl-patent-5526281.htm', (8.137358613394092e-05, False, True)), ('https://www.ics.uci.edu/~asuncion/homochirality.ht', (0.006896551724137931, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-05, False, False))])

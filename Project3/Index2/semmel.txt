@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/shabsib.ht', (0.0011467889908256881, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Wexner.htm', (0.0005963029218843172, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/email.ht', (0.0037313432835820895, False, True))])

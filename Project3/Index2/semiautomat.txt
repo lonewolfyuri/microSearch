@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-2008F%2FJigsawPuzzleSolver', (0.002506265664160401, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/seraja-updates-september-18-2006', (0.0016891891891891893, False, True))])

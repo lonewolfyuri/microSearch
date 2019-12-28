@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.002398081534772182, False, True), ('http://archive.ics.uci.edu/ml/support/Covertype#c4ef47232a73d5e27b14e63096634eb70dcbddce', 0.0035211267605633804, False, False)]

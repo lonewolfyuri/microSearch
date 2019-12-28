@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter', 0.002881844380403458, False, True)]

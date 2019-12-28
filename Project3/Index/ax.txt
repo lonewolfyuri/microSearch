@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Mag', 0.002277904328018223, False, True), ('http://archive.ics.uci.edu/ml/datasets/Abscisic+Acid+Signaling+Network', 0.0034129692832764505, False, True)]

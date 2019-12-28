@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~schark/simulator/javadoc/Network.html', (0.004149377593360996, False, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/AllNames.htm', (0.0002846569883290635, False, True)), ('https://www.ics.uci.edu/~ejw/versioning/whitehead_proposal.htm', (0.0005411255411255411, False, True))])

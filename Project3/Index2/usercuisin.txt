@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+dat', (0.002564102564102564, False, True))])

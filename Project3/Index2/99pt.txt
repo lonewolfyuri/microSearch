@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet047.ht', (0.0036496350364963502, False, True))])

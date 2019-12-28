@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False)), ('https://ngs.ics.uci.edu/a-really-important-video-news-ieeetv', (0.0015174506828528073, False, True))])

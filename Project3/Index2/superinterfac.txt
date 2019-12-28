@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-21/lectures/abstractclasses/lecture.htm', (0.0006251953735542357, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/NET/NetModule.htm', (0.018518518518518517, False, True))])

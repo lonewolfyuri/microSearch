@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Ma', (0.0036900369003690036, False, True)), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLo', (0.004149377593360996, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%2', (0.0017889087656529517, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data', (0.0017889087656529517, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/gcc.htm', (0.002702702702702703, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/gorlick/tsld013.ht', (0.02631578947368421, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/gorlick/gorlick-qna.htm', (0.0078125, False, False)), ('https://wics.ics.uci.edu/event/witi-waterfall-to-lean-with-agile-in-between', (0.0002891844997108155, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge%2C+ECML+PKDD+2015', 0.00390625, False, True), ('http://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails', 0.004166666666666667, False, True)]

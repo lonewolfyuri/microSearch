@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.00013226638449837975, False, True)), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipyn', (0.00020567667626491157, False, True))])

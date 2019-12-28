@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pazzani/Syskill.htm', (0.0006146281499692685, False, True)), ('https://www.ics.uci.edu/~pazzani/Coldlist.htm', (0.0008074283407347598, False, True)), ('https://www.ics.uci.edu/~pazzani/RTF/AAAI.htm', (0.0004069175991861648, False, True))])

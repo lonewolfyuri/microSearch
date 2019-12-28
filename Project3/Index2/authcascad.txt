@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPasswordsAdmi', (0.0005425935973955507, False, True)), ('http://sli.ics.uci.edu/PmWiki/Function', (0.00048146364949446316, False, False)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.00022016732716864817, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/parser.htm', (0.0047169811320754715, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-7.htm', (0.0018975332068311196, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/developing-an-antrepreneurial-spirit', (0.0009124087591240876, False, True)), ('https://www.cs.uci.edu/developing-an-antrepreneurial-spirit/', (0.0009124087591240876, False, True))])

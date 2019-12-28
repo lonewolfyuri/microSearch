@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/farkas.ht', (0.007751937984496124, False, True))])

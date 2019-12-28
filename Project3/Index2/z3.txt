@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Wearable+Computing%3A+Classification+of+Body+Postures+and+Movements+%28PUC-Rio%2', (0.0015822784810126582, False, True)), ('https://www.ics.uci.edu/~eppstein/261/w11-hw4-key.tx', (0.0010427528675703858, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.htm', (0.0026857654431512983, False, False))])

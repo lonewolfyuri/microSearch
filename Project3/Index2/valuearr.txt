@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/serialized-form.htm', (0.005208333333333333, False, True))])

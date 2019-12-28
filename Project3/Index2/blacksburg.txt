@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/cgt/twixt.htm', (0.0003112356053532524, False, False)), ('https://www.ics.uci.edu/~eppstein/cgt/subsquare.htm', (0.02, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

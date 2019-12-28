@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/professor-crista-lopes-recognized-for-excellence-in-undergraduate-teaching', (0.0009514747859181732, False, True)), ('https://www.informatics.uci.edu/professor-crista-lopes-recognized-for-excellence-in-undergraduate-teaching/', (0.0009514747859181732, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/video-analysis-and-content-extraction-vace', (0.0009140767824497258, False, True))])

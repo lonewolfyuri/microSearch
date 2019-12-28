@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/tess-tanenbaum', (0.0010152284263959391, False, False)), ('https://transformativeplay.ics.uci.edu/Tess-Tanenbaum', (0.0010152284263959391, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

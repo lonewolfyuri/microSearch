@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ajfrank/pubs/thesis.bi', (0.04, False, False))])

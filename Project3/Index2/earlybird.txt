@@ -1,0 +1,1 @@
+dict_items([('https://wearablegames.ics.uci.edu', (0.0020876826722338203, False, True)), ('https://wearablegames.ics.uci.edu/%5C%22https:%5C/%5C/wearablegames.ics.uci.edu%5C/%5C', (0.0020876826722338203, False, True))])

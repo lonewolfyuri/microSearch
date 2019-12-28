@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+%281990%29', 0.004901960784313725, False, False), ('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990)', 0.004901960784313725, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/', 0.021739130434782608, False, True)]

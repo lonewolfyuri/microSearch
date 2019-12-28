@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/gis-and-cad.htm', (0.14285714285714285, False, True))])

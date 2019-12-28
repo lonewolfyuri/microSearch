@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~amezasor', (0.009009009009009009, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Bader.htm', (0.0002973535533749628, False, False)), ('https://www.ics.uci.edu/~amezasor/index.htm', (0.009009009009009009, False, True))])

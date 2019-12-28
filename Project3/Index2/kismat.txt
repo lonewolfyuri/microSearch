@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Zoo', (0.002369668246445498, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Zo', (0.00196078431372549, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

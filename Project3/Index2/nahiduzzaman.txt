@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/s11_22/schedule.htm', (0.022222222222222223, False, False)), ('https://www.ics.uci.edu/~irani/s11_22/courseinfo.htm', (0.020833333333333332, False, False)), ('https://www.ics.uci.edu/~kay/courses/31/f13.htm', (0.002369668246445498, False, True)), ('http://i-sensorium.ics.uci.edu/people.htm', (0.0196078431372549, False, True))])

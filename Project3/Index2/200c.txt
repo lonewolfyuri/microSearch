@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dgillen/teaching.htm', (0.00199203187250996, False, True)), ('https://www.ics.uci.edu/~zhaoxia', (0.0010706638115631692, False, True)), ('https://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=AL', (0.0010183299389002036, False, True))])

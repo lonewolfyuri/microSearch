@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=127', (0.003703703703703704, False, True)), ('https://www.stat.uci.edu/news/page/4', (0.0010449320794148381, False, True)), ('https://www.stat.uci.edu/utts-discusses-statistics-for-good-governance-at-international-conference-in-sri-lanka', (0.0016, False, True))])

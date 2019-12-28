@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Kinship', 0.0027397260273972603, False, True), ('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0028011204481792717, False, True), ('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.009478672985781991, False, False)]

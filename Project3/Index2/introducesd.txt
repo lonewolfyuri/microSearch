@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/experiential-computing/page/12', (0.0014792899408284023, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/33', (0.0016181229773462784, False, True)), ('https://ngs.ics.uci.edu/whats-here-on-google-maps', (0.001953125, False, True)), ('https://ngs.ics.uci.edu/blog/page/33', (0.001610305958132045, False, True))])

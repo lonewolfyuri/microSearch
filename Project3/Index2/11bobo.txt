@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/ca/b35s236/2-0.li', (0.022222222222222223, False, False)), ('https://www.ics.uci.edu/~eppstein/ca/replicators/b36s124-rng2.li', (0.06896551724137931, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/SPECTF+Heart', (0.1111111111111111, True, True)), ('http://archive.ics.uci.edu/ml/datasets/SPECTF+Hear', (0.125, True, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/spect', (0.038461538461538464, False, True))])

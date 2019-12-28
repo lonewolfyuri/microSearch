@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/karen-tanenbaum', (0.0010395010395010396, False, True))])

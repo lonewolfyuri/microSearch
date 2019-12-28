@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu/bigactivedata/publications.htm', (0.002702702702702703, False, False)), ('https://www.ics.uci.edu/~dvk/code/Grid.htm', (0.0018115942028985507, False, False)), ('https://www.ics.uci.edu/~dvk/pub.htm', (0.001256281407035176, False, False))])

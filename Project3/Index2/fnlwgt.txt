@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Car+Evaluation', (0.0012422360248447205, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Adul', (0.003125, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Census+Incom', (0.003115264797507788, False, True)), ('http://archive.ics.uci.edu/ml/support/Census+Income', (0.002932551319648094, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/tb.htm', (0.00010124531740407007, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/slumdog', (0.0008539709649871904, False, False)), ('https://ngs.ics.uci.edu/folk-computing-sub-100-computer', (0.0017482517482517483, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistic', (0.0020408163265306124, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/New/FOSSRRI-Scacchi-Gasser.htm', (0.006993006993006993, False, True))])

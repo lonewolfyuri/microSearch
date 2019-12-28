@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FUpload', (0.001037344398340249, False, True)), ('https://www.ics.uci.edu/~jacobson/ics10A/LabManual/08-Assignment5.htm', (0.0005617977528089888, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.003540863039726e-05, False, False))])

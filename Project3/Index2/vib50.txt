@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/dagstuhl/FallColor2.htm', (0.017241379310344827, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/korea/Deoksugung2.htm', (0.016666666666666666, False, True))])

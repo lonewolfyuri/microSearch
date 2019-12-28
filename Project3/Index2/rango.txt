@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/inf-190-games-from-concept-to-pitchable-prototype', (0.0015748031496062992, False, True)), ('https://www.informatics.uci.edu/impact/community-engagement', (0.001026694045174538, False, True)), ('https://www.informatics.uci.edu/impact/community-engagement/', (0.001026694045174538, False, True))])

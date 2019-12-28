@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/likes-loyalties-and-choices', (0.0012048192771084338, False, True))])

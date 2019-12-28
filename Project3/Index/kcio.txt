@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008', 0.0035211267605633804, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.002840909090909091, False, True)]

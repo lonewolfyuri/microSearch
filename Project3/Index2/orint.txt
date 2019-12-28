@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.00014592149423610097, False, True)), ('https://ngs.ics.uci.edu/confusing-cultural-diversity', (0.0011337868480725624, False, False))])

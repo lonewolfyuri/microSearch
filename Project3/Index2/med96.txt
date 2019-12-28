@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~neno/dsl/dsl97.htm', (0.001736111111111111, False, True)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/specify-change.htm', (0.02127659574468085, False, True)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/references.htm', (0.001984126984126984, False, True))])

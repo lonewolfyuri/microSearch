@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/google-phone-a-step-towards-folk-computing', (0.0016025641025641025, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/INF231/17F/syllabus.ht', (0.00099601593625498, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

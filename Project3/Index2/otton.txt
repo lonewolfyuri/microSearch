@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Birnbaum.htm', (0.0002042483660130719, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/SCHOOLdata.tx', (0.00015413070283600493, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/k26.tx', (4.9431537320810677e-05, False, False))])

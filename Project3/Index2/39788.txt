@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/sazhin-275a-project-tables.htm', (0.01, False, True)), ('https://cbcl.ics.uci.edu/public_data/FXR/nearestGenes.tx', (5.4839594187003014e-05, False, False))])

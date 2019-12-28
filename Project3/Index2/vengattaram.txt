@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Discrete+Tone+Image+Datase', (0.0036101083032490976, False, True))])

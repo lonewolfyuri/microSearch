@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Movi', (0.004081632653061225, False, True)), ('https://www.ics.uci.edu/~andre/ics223w2006.htm', (0.0019157088122605363, False, False)), ('https://chenli.ics.uci.edu/publications', (0.00031446540880503143, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/xmlSchema.htm', (0.0024691358024691358, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.458783045325432e-05, False, False))])

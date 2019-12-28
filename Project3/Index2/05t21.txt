@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/week-2-wics-games', (0.0004127115146512588, False, True)), ('https://wics.ics.uci.edu/event/acm-x-wics-mock-technical-interview', (0.00041050903119868636, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~agarwal/bugproject/index.htm', (0.002457002457002457, False, True)), ('https://www.ics.uci.edu/~agarwal/quadricLoss/index.htm', (0.002457002457002457, False, True)), ('https://www.ics.uci.edu/~agarwal/mouseBrain/index.htm', (0.002457002457002457, False, True))])

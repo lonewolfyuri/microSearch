@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/interpolate.htm', (0.0027548209366391185, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/delaunay.htm', (0.00546448087431694, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/edgetan.po', (0.006993006993006993, False, False)), ('https://www.ics.uci.edu/~eppstein/180a/projects/fanorona/source/Black.po', (0.0016051364365971107, False, True))])

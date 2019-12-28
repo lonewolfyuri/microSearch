@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Data+for+Software+Engineering+Teamwork+Assessment+in+Education+Settin', (0.0038022813688212928, False, True)), ('https://www.ics.uci.edu/~mjcarey/MJCarey_Publications.htm', (0.000657030223390276, False, True)), ('https://ngs.ics.uci.edu/list-of-publications', (0.00015552099533437013, False, True))])

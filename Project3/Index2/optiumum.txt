@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/kterm-minden.htm', (0.0016638935108153079, False, True))])

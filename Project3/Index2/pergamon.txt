@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (4.879238838741156e-05, False, False)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/references.htm', (0.013157894736842105, False, False))])

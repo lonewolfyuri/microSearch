@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/smarter-planet-by-ibm', (0.0012091898428053204, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kibler/ics172/syllabus', (0.003003003003003003, False, False))])

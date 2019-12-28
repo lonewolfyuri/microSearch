@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/MicroMas', (0.005291005291005291, False, False)), ('https://www.ics.uci.edu/~gbowker/records.htm', (0.0004042037186742118, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition', 0.0015527950310559005, False, True)]

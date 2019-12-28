@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/0-emj-2017-wq/cultural_enrichment', (0.0196078431372549, False, True))])

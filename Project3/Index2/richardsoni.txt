@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/arcadia_papers/analysis/slicing_abstract.htm', (0.05, False, False))])

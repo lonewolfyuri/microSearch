@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/menagerie/Fred.htm', (0.1111111111111111, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/menagerie/Bastet.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/menagerie/FrontPorchCat.htm', (0.2, False, True))])

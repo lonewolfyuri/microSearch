@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/herbert.edelsbrunne', (0.0019801980198019802, False, False))])

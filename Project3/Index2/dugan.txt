@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/tova.ht', (0.0014084507042253522, False, True)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (0.00016165535079211123, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.001763668430335097, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

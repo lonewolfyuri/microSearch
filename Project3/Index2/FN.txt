@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-21/lectures/style/lecture.htm', (0.0010857763300760044, False, True)), ('https://www.ics.uci.edu/~arcadia/Teamware/docs/Foundation.Toolbox.TMWMessageHandler.htm', (0.008928571428571428, False, False))])

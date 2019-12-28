@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.0003645643456069996, False, True)), ('https://www.ics.uci.edu/~eppstein/261/f03-outline/15.integer-searchin', (0.002183406113537118, False, False))])

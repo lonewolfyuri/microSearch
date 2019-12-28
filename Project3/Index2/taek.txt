@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/Sangmin_CVPR_2011', (0.002967359050445104, False, False)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0006770480704129993, False, True))])

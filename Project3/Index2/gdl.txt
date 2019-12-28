@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/gdl-color.ht', (0.3333333333333333, True, True)), ('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/gdl-advance-info.ht', (0.25, True, True)), ('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/gdl-eye-physiology.ht', (0.25, True, True))])

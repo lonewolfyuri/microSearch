@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Dataset_Weekly', 0.0027624309392265192, False, True)]

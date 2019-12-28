@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/quotations.htm', (9.025270758122743e-05, False, True)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/argument.htm', (0.0013869625520110957, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

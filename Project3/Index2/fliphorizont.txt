@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/Gallery/FlippedOut.htm', (0.0019157088122605363, False, True)), ('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/reference.htm', (0.0020876826722338203, False, False))])

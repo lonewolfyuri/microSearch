@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29', 0.002702702702702703, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Shuttle)', 0.002702702702702703, False, True)]

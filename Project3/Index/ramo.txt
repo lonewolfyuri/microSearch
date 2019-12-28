@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters', 0.0008496176720475786, False, True), ('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29', 0.003472222222222222, False, True), ('http://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals', 0.0014492753623188406, False, True)]

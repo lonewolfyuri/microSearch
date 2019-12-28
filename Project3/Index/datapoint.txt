@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Pseudo+Periodic+Synthetic+Time+Series', 0.0024937655860349127, False, True), ('http://archive.ics.uci.edu/ml/support/Primary+Tumor#e140ecaac8486469d0ef5b237f4fa08d7315c5ed', 0.008032128514056224, False, True), ('http://archive.ics.uci.edu/ml/datasets/Grammatical+Facial+Expressions', 0.0036900369003690036, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/202', (0.001375515818431912, False, True)), ('https://ngs.ics.uci.edu/prague-is-pretty-impressive', (0.001890359168241966, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/73', (0.001610305958132045, False, True)), ('https://ngs.ics.uci.edu/blog/page/202', (0.0013698630136986301, False, True))])

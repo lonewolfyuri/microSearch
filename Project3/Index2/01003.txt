@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Pioneer-1+Mobile+Robot+Dat', (0.0035714285714285713, False, True)), ('https://www.ics.uci.edu/~arcadia/system_pages/pic_ada.htm', (0.004032258064516129, False, True)), ('https://www.ics.uci.edu/~arcadia/system_pages/tess.htm', (0.002145922746781116, False, True))])

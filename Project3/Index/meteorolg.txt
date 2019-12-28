@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/El+Nino', 0.0009871668311944718, False, True)]

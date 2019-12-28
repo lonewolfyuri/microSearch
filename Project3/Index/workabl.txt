@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/fuzzyjoin/', 0.0034129692832764505, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/CHANGELOG.html', 0.003067484662576687, False, True), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test', 0.002380952380952381, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper', (0.0010897697861326796, False, False)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (6.49308486461918e-05, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (9.758477677482313e-05, False, False))])

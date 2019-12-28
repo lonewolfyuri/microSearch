@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kibler/JavaTexts.htm', (0.005649717514124294, False, True)), ('https://www.ics.uci.edu/~kibler/javacourse/ui.htm', (0.001443001443001443, False, True)), ('https://www.ics.uci.edu/~kibler/javacourse/java.htm', (0.013513513513513514, False, True))])

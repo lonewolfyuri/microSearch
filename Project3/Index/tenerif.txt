@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset', 0.000749063670411985, False, True)]

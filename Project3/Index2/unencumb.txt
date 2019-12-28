@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://ngs.ics.uci.edu/towards-natural-interfaces', (0.0012658227848101266, False, True))])

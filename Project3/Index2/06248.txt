@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/dpsi_293twt_cfim68ko/majiq.lo', (0.00178491744756805, False, False))])

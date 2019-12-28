@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/QtyT40I10D100', (0.005076142131979695, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/ak%CF%88-x-wics-deloitte-tech-consulting-panel', (0.0004130524576621231, False, True)), ('https://wics.ics.uci.edu/event/ak%cf%88-x-wics-deloitte-tech-consulting-panel', (0.0004130524576621231, False, True))])

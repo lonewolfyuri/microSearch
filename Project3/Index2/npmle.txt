@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yamingy/npmle_README.tx', (0.06363636363636363, False, False)), ('https://www.ics.uci.edu/~yamingy/npmle.', (0.014354066985645933, False, False))])

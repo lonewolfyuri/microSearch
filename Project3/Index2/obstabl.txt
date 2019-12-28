@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/mahaexodus-navanirman-or-satyanash', (0.0014577259475218659, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~agarwal/mouseBrain/index.htm', (0.0015290519877675841, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

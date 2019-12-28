@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~lab/lab_schedule/spring.ph', (0.002932551319648094, False, True)), ('https://www.ics.uci.edu/~lab/lab_schedule/winter.ph', (0.0029154518950437317, False, True))])

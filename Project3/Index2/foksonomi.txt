@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/convergence-in-search-and-databases', (0.0009596928982725527, False, True))])

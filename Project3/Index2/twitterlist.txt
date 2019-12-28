@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/entrepreneurism/page/5', (0.0017889087656529517, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/26', (0.0013831258644536654, False, True)), ('https://ngs.ics.uci.edu/blog/page/26', (0.0013774104683195593, False, True)), ('https://ngs.ics.uci.edu/creating-peopleweb', (0.0020920502092050207, False, True))])

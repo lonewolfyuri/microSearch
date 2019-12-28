@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/dt-interpolate.htm', (0.001851851851851852, False, False)), ('https://www.ics.uci.edu/community/news/articles/view_article?id=32', (0.0012048192771084338, False, True))])

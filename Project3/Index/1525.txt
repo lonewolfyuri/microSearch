@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Daily+Demand+Forecasting+Orders', 0.001838235294117647, False, True)]

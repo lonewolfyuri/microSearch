@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/kmeans-fundamentals.htm', (0.0007692307692307692, False, True))])

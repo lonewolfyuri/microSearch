@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/PageLists', (0.0003191828917969997, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPageLists', (0.0003191828917969997, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-07, False, False))])

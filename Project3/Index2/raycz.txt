@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Englender.htm', (0.007462686567164179, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gesang.htm', (0.006896551724137931, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Galler.htm', (0.0014858841010401188, False, True))])

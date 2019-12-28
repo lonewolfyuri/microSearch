@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bank+Marketing', 0.0013192612137203166, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications', (9.77803852547179e-05, False, True)), ('https://isg.ics.uci.edu/publications/?limit=', (9.77803852547179e-05, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00015356265356265356, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=6', (0.00019406171162429653, False, True))])

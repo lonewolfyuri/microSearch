@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset', 0.0037313432835820895, False, True), ('http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6', 0.0009523809523809524, False, True), ('http://archive.ics.uci.edu/ml/datasets/Letter+Recognition', 0.001288659793814433, False, True)]

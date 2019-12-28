@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0012360939431396785, False, False), ('http://archive.ics.uci.edu/ml/datasets/Nursery', 0.0017730496453900709, False, True)]

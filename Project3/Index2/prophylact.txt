@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Lithuania.htm', (0.0005025125628140704, False, True)), ('https://www.ics.uci.edu/~kobsa/courses/ICS280/07S/syllabus.ht', (0.0016313213703099511, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

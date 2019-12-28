@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/verbs-and-nouns-on-the-web', (0.0018832391713747645, False, False))])

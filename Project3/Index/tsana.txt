@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring', 0.004464285714285714, False, True), ('http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation', 0.00398406374501992, False, True), ('http://archive.ics.uci.edu/ml/datasets/Energy+efficiency', 0.00392156862745098, False, False)]

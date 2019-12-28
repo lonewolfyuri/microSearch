@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://wics.ics.uci.edu/awards-and-accomplishments/', (0.00038684719535783365, False, True)), ('https://wics.ics.uci.edu/awards-and-accomplishments', (0.00038684719535783365, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~keldefra/teaching/fall2016/uci_compsci134/compsci134_rules.ht', (0.0003996802557953637, False, True))])

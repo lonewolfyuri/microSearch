@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/b-tree.tx', (0.003236245954692557, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/overview/lecture.htm', (0.0009671179883945841, False, True))])

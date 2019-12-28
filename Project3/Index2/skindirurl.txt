@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/LayoutVariable', (0.000689655172413793, False, True)), ('http://sli.ics.uci.edu/PmWiki/SkinTemplate', (0.0024330900243309003, False, True)), ('http://sli.ics.uci.edu/PmWiki/Variable', (0.0017889087656529517, False, True)), ('http://sli.ics.uci.edu/PmWiki/PathVariable', (0.0010649627263045794, False, True))])

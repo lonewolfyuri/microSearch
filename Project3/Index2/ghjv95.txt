@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/java-designPattern.htm', (0.008771929824561403, False, True))])

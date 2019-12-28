@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Se', (0.0015625, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Character+Trajectorie', (0.0024875621890547263, False, True))])

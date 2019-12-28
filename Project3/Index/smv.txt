@@ -1,1 +1,0 @@
-[('http://alderis.ics.uci.edu/amba2.html', 0.003436426116838488, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~zhaoxia/publications/GGWald_manuscript', (0.00322061191626409, False, True)), ('https://www.ics.uci.edu/~zhaoxia/publications/GGWald_manuscript/index.ht', (0.00322061191626409, False, True)), ('https://www.ics.uci.edu/~zhaoxia/publications/publications.ht', (0.003127443315089914, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yunanc', (0.0010471204188481676, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Finker.htm', (0.0012755102040816326, False, False)), ('https://www.ics.uci.edu/~yunanc/', (0.0010471204188481676, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

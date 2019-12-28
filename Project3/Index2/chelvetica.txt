@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.htm', (0.005025125628140704, False, True))])

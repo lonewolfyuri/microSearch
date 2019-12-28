@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/als/relation.al', (0.012269938650306749, False, False))])

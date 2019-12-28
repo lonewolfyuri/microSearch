@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_butterworth_2013.ph', (0.000778816199376947, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_butterworth_2012.ph', (0.0010204081632653062, False, False))])

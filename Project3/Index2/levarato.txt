@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/uci-launches-new-masters-program-in-cyber-physical-systems', (0.0011534025374855825, False, True)), ('https://www.cs.uci.edu/uci-launches-new-masters-program-in-cyber-physical-systems/', (0.0011534025374855825, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=113', (0.002136752136752137, False, True))])

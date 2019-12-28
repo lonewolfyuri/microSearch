@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Othello+Domain+Theory', 0.0035335689045936395, False, True), ('http://archive.ics.uci.edu/ml/datasets/Servo', 0.002136752136752137, False, True), ('http://archive.ics.uci.edu/ml/datasets/DGP2+-+The+Second+Data+Generation+Program', 0.0014903129657228018, False, True)]

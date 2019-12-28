@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/sv/men/TowersOfJewels.htm', (0.017241379310344827, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/sv/ac/Headlight.htm', (0.03571428571428571, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/sv/j4p/Riders.htm', (0.03333333333333333, False, True))])

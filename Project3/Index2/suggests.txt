@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics23/LabManual/LostForWords', (0.0005608524957936063, False, False)), ('https://www.ics.uci.edu/~irani/w10_23/Lab3/LostForWords.ht', (0.0005724098454493417, False, False))])

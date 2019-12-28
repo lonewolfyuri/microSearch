@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/osito-the-cutest-thing', (0.001736111111111111, False, True)), ('https://ngs.ics.uci.edu/blog/page/129', (0.0019646365422396855, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/129', (0.001976284584980237, False, True)), ('https://ngs.ics.uci.edu/category/personal/page/9', (0.001658374792703151, False, True))])

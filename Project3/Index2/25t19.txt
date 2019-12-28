@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/1.0/src/stringmap/.svn/entrie', (0.0057251908396946565, False, False)), ('https://wics.ics.uci.edu/event/amazon-info-session', (0.00039840637450199205, False, True)), ('https://wics.ics.uci.edu/event/coffee-chat-with-deloitte', (0.0004144218814753419, False, True))])

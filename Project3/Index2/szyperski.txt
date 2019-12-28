@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fielding/pubs/dissertation/references.ht', (0.0003570153516601214, False, True)), ('https://www.ics.uci.edu/~peymano/papers/iwpse98', (0.0004935834155972359, False, True))])

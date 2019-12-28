@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/subtitles-to-teach-reading', (0.0015105740181268882, False, True))])

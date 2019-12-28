@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0015220700152207, False, True), ('http://archive.ics.uci.edu/ml/support/Abalone#ae82a44ada49c66439b67eae7ff10392ff209df9', 0.0004786979415988511, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gastrointestinal+Lesions+in+Regular+Colonoscopy', 0.00202020202020202, False, True)]

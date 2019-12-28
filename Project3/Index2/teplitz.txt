@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Rapaport.htm', (0.0002554278416347382, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Reinhold.htm', (0.00033189512114171923, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

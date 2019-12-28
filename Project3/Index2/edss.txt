@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/savasana/index.htm', (0.003861003861003861, False, True)), ('https://seal.ics.uci.edu/projects/savasana/index.htm', (0.003861003861003861, False, True))])

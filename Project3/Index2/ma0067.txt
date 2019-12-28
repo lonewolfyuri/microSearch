@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-peaks-motifs/homerResults/motif3.info.htm', (0.003367003367003367, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-peaks-motifs/homerResults/motif22.info.htm', (0.005, False, True))])

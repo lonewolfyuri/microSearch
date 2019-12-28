@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/f03-outline/16.persistenc', (0.0023923444976076554, False, False))])

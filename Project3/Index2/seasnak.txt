@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Zoo', (0.0012903225806451613, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Zo', (0.002840909090909091, False, True))])

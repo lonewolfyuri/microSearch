@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video', (0.0013280212483399733, False, True)), ('https://ngs.ics.uci.edu/india-a-mystery-land', (0.0009225092250922509, False, False))])

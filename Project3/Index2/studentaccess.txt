@@ -1,0 +1,1 @@
+dict_items([('https://new-psearch.ics.uci.edu/update-director', (0.005, False, True))])

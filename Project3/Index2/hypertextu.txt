@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (8.730574471800244e-05, False, False)), ('https://www.ics.uci.edu/~ics215/readings.htm', (0.024390243902439025, False, True)), ('https://www.ics.uci.edu/~ejw/versioning/arch/0067.htm', (0.0030303030303030303, False, True))])

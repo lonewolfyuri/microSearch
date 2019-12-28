@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Projects/B', (0.003472222222222222, False, True)), ('http://sli.ics.uci.edu/Projects/GraphicalModel', (0.0022675736961451248, False, True)), ('https://www.ics.uci.edu/~smyth/papers.htm', (0.0002034174125305126, False, True)), ('https://www.ics.uci.edu/~marios/pubs.htm', (0.003787878787878788, False, True))])

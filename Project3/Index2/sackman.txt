@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~emilyo/SimSE/se_rules.htm', (0.0003590664272890485, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

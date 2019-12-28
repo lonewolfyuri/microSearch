@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/current-students/resources', (0.0013123359580052493, False, True)), ('https://mcs.ics.uci.edu/current-students/resources/campus-contacts', (0.0013054830287206266, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/becoming-impatient', (0.001557632398753894, False, True))])

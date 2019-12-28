@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122a-2019-spring/Homework5Dump.sq', (2.4433747892589244e-05, False, False))])

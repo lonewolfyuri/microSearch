@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/in-florence', (0.0015290519877675841, False, True))])

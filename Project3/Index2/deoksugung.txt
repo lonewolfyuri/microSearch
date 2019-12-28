@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/korea/Deoksugung1.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/korea/Sejong.htm', (0.25, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/korea/Deoksugung2.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/korea/Daejeon2.htm', (0.1, False, True))])

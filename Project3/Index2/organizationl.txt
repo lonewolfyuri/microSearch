@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/again-in-china', (0.001440922190201729, False, True))])

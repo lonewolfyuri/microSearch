@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/RM/ResourceManager.htm', (0.0028328611898017, False, False))])

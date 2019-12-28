@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/SML201', (0.0037313432835820895, False, True)), ('http://archive.ics.uci.edu/ml/datasets/NoisyOffic', (0.003215434083601286, False, True)), ('https://www.ics.uci.edu/~amezasor', (0.0024330900243309003, False, True)), ('https://www.ics.uci.edu/~amezasor/index.htm', (0.0024330900243309003, False, True))])

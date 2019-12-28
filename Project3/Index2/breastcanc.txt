@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Diabetes', (0.0010214504596527069, False, False))])

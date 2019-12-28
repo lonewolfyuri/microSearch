@@ -1,0 +1,1 @@
+dict_items([('http://sconce.ics.uci.edu', (0.004629629629629629, False, True)), ('http://sprout.ics.uci.edu/', (0.0034482758620689655, False, True)), ('http://sprout.ics.uci.edu', (0.0034482758620689655, False, True))])

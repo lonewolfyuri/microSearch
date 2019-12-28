@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.tx', (1.6662501041406316e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P7-CCGTCC-Sequences_trimmed-mapped_peaks.narrowPea', (0.00012197501951600312, False, False))])

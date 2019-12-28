@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (2.8425241614553722e-05, False, True))])

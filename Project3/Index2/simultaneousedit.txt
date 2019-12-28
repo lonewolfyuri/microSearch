@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/SimultaneousEdit', (0.3333333333333333, True, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.0020325203252032522, False, True)), ('http://sli.ics.uci.edu/PmWiki/Installatio', (0.0008547008547008547, False, True))])

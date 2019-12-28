@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/f03-outline/06.randbs', (0.0033112582781456954, False, False)), ('https://www.ics.uci.edu/~eppstein/bibs/meshgen.bi', (0.00014775413711583924, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

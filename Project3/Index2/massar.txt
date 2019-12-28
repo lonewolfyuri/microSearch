@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/teaching/cs295-2019-Spring/readings.htm', (0.0006353240152477764, False, False))])

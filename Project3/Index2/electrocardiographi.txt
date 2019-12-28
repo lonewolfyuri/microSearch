@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.0002222716159146477, False, False)), ('http://archive.ics.uci.edu/ml/support/Arrhythmia', (0.0034129692832764505, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

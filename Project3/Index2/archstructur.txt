@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jie/visio_for_xadl.htm', (0.0019821605550049554, False, True)), ('https://www.ics.uci.edu/~jie/visio_for_xadl_old.htm', (0.0021482277121374865, False, True))])

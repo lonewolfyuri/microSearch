@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Lymphograph', (0.002325581395348837, False, True)), ('https://www.ics.uci.edu/~kibler/ics277a/syllabus', (0.000794912559618442, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

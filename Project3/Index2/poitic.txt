@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/a-great-but-failed-vision-medialab-asia', (0.0015625, False, False)), ('https://ngs.ics.uci.edu/india-a-mystery-land', (0.0011961722488038277, False, True))])

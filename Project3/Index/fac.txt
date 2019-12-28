@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/', 0.05555555555555555, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multiple+Features', 0.0030120481927710845, False, True)]

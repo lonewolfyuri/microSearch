@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~peymano/dynamic-arch/austin/feiler', (0.022727272727272728, False, True)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/austin/feiler/index.ht', (0.022727272727272728, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/props/draft-ietf-webdav-properties-extension-00.tx', (0.000630119722747322, False, True))])

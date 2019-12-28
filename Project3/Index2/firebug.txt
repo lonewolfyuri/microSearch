@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~djp3/classes/2010_09_INF133/assignmentSchedule.htm', (0.0009225092250922509, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

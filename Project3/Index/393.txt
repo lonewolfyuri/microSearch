@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment', 0.003816793893129771, False, True), ('http://archive.ics.uci.edu/ml/datasets/Avila', 0.002, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.0012836970474967907, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Car+Evaluation#bc80295973a43d3806ff4dfe83e5724260301c33', 0.002105263157894737, False, False), ('http://archive.ics.uci.edu/ml/datasets/Car+Evaluation', 0.0049504950495049506, False, True), ('http://archive.ics.uci.edu/ml/support/Adult#cefc3da70b90693b8046b574392c86d2db1f196a', 0.0003786444528587656, False, False)]

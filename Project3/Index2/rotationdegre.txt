@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/Gallery/MouseTrap.htm', (0.023809523809523808, False, True))])

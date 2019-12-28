@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Serie', (0.003787878787878788, False, True))])

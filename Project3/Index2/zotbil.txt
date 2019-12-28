@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/current-students/once-admitted/vv', (0.0007194244604316547, False, False)), ('https://mcs.ics.uci.edu/current-students/once-admitted', (0.0008064516129032258, False, False))])

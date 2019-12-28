@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/make/dist.ma', (0.0009560229445506692, False, False)), ('https://www.ics.uci.edu/~aburtsev/143A/2018fall/hw/xv6-setup.htm', (0.000651890482398957, False, True)), ('https://www.ics.uci.edu/~aburtsev/238P/2018fall/hw/xv6-setup.htm', (0.000651890482398957, False, True))])

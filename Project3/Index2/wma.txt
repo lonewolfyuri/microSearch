@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/WebFeed', (0.0007633587786259542, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000', (0.0031446540880503146, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.63623797768385e-07, False, False))])

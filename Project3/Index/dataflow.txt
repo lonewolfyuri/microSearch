@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.002197802197802198, False, True), ('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame#48d6beec2a36a87d9d88b6de85dd85a75e5ed24d', 0.0006548788474132286, False, True)]

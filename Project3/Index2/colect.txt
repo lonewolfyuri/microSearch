@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plan', (0.0023923444976076554, False, True)), ('https://ngs.ics.uci.edu/information-assimilation-using-wikis-and-maps', (0.0017035775127768314, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/mahaexodus-navanirman-or-satyanash', (0.0017123287671232876, False, True)), ('https://ngs.ics.uci.edu/memories-from-ann-arbor-mi', (0.001589825119236884, False, True))])

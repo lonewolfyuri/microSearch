@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Diabetes', 0.002352941176470588, False, True)]

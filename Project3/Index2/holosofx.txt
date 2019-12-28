@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Process_Life_Cycle.htm', (0.002849002849002849, False, True))])

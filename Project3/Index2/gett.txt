@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/search-infrastructure', (0.0014265335235378032, False, True))])

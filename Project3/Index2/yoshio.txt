@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/slovenia/misc/KremnaRezina.htm', (0.041666666666666664, False, True)), ('https://www.ics.uci.edu/~theory/269/081003.htm', (0.02857142857142857, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

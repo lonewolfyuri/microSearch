@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/ics-169-a-b-capstone-game-project-2019-20', (0.00032711808963035657, False, True)), ('https://transformativeplay.ics.uci.edu/capstone18-19', (0.0003098853424233034, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

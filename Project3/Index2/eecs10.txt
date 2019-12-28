@@ -1,0 +1,1 @@
+dict_items([('http://plrg.ics.uci.edu', (0.0009416195856873823, False, True)), ('http://plrg.ics.uci.edu/', (0.0009416195856873823, False, True)), ('https://www.ics.uci.edu/~redmiles/ics104-WQ06', (0.001326259946949602, False, False))])

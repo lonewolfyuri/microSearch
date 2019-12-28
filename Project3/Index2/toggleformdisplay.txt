@@ -1,0 +1,1 @@
+dict_items([('http://sana.ics.uci.edu/query', (0.0022522522522522522, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/events/research-showcase', (0.0015873015873015873, False, True)), ('https://www.cs.uci.edu/event/2017-computer-science-research-showcase', (0.0013422818791946308, False, True))])

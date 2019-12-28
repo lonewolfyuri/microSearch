@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/personal/page/13', (0.0014992503748125937, False, True)), ('https://ngs.ics.uci.edu/indian-sentiments-in-cricket', (0.002070393374741201, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/178', (0.0017793594306049821, False, True)), ('https://ngs.ics.uci.edu/blog/page/178', (0.0017699115044247787, False, True))])

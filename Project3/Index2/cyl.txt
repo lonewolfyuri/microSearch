@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movement', (0.0030165912518853697, False, True))])

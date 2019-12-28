@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/SPECT+Heart#b08639d60b3527616dc9aa4dd4770e50289e44cd', 0.006060606060606061, False, True)]

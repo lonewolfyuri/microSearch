@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/ASEvents/fromGTF.RI.tx', (0.00010272096420745069, False, False))])

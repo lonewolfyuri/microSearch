@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Abalone', 0.0017452006980802793, False, True), ('http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits', 0.002336448598130841, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales', 0.0026595744680851063, False, True)]

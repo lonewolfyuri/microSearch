@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~zhaoxia/publications/GGWald_manuscript/SourceCode', (0.14285714285714285, True, True))])

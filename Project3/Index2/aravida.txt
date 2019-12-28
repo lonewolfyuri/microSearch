@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/the-white-tiger', (0.001364256480218281, False, True))])

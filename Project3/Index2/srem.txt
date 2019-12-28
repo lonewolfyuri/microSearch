@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Horowitz.htm', (0.0005704506560182544, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/lds-list.tx', (5.3430220132506944e-05, False, False)), ('https://www.ics.uci.edu/~arcadia/system_pages/rebus.htm', (0.022727272727272728, False, True))])

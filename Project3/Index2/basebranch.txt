@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks/pre-rebase.sampl', (0.0012578616352201257, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/versioning/draft-kaler-webdav-versioning-00.tx', (0.00014979029358897544, False, False))])

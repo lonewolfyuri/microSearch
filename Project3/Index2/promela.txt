@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicit', (0.0049261083743842365, False, False)), ('http://archive.ics.uci.edu/ml/datasets/QSAR+aquatic+toxicit', (0.0024330900243309003, False, True))])

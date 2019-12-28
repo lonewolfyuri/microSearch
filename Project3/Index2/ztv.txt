@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/general-updates/page/19', (0.0035398230088495575, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/65', (0.003976143141153081, False, True)), ('https://ngs.ics.uci.edu/blog/page/65', (0.003952569169960474, False, True)), ('https://ngs.ics.uci.edu/empty-emotionalism', (0.002036659877800407, False, True))])

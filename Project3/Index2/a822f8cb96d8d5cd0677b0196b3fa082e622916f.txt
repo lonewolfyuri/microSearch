@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/logs/HEA', (0.015873015873015872, False, True)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/logs/refs/heads/maste', (0.015873015873015872, False, True)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/logs/refs/remotes/origin/maste', (0.02040816326530612, False, True))])

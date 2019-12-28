@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/generators.tx', (0.00036744442403086535, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/template.tx', (0.00010197838058331633, False, True)), ('https://www.ics.uci.edu/~thornton/ics46/Notes/ContractsAndExceptions', (0.0003652300949598247, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/video-revolution-continues', (0.0013404825737265416, False, False))])

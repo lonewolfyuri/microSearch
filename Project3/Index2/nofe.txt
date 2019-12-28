@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sternh/courses/210/bank.', (0.045454545454545456, False, False)), ('https://www.ics.uci.edu/~sternh/courses/210/randomize.Rm', (0.006211180124223602, False, True)), ('https://www.ics.uci.edu/~sternh/courses/210/randomize.htm', (1.942841600124342e-05, False, True))])

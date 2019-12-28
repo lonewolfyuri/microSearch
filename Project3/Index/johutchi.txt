@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/CalIt2+Building+People+Counts', 0.004201680672268907, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dodgers+Loop+Sensor', 0.004149377593360996, False, True)]

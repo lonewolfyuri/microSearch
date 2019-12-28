@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/180/dopplershiftstereo.tx', (0.0034791252485089465, False, False))])

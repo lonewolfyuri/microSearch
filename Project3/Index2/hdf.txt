@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu/fuzzyjoin/FAQ.htm', (0.0022026431718061676, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimatio', (0.002688172043010753, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.547510511504642e-06, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Travel+Reviews', 0.003067484662576687, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings', 0.0025, False, True)]

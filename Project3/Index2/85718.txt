@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Machine+Learning+based+ZZAlpha+Ltd.+Stock+Recommendations+2012-201', (0.003663003663003663, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/gorlick/gorlick-qna.htm', (0.0020408163265306124, False, False))])

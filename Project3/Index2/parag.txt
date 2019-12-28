@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/pocv2012/program.htm', (0.0008896797153024911, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0007087172218284905, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/nagpur', (0.0005037783375314861, False, True))])

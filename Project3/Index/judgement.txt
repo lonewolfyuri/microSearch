@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/donation_policy.html', 0.002061855670103093, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.001597444089456869, False, True), ('http://archive.ics.uci.edu/ml/datasets/Paper+Reviews', 0.0012484394506866417, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set', 0.0024390243902439024, False, True)]

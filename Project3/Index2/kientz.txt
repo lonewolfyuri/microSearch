@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/explore/books-we-have-written/', (0.00027533039647577095, False, True)), ('https://www.informatics.uci.edu/explore/books-we-have-written', (0.00027533039647577095, False, True))])

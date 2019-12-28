@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Blumenfrucht.htm', (0.0010615711252653928, False, False))])

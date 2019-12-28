@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/isolet/', 0.037037037037037035, False, True), ('http://archive.ics.uci.edu/ml/datasets/ISOLET', 0.008746355685131196, False, True)]

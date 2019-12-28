@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/tmp/tournament_rickl_email_20150225/tournament/readme.tx', (0.0029850746268656717, False, False)), ('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/NewTournament/tournament/tournament/readme.tx', (0.0029850746268656717, False, False))])

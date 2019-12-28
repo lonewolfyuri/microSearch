@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digit', 0.0020964360587002098, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0014619883040935672, False, True)]

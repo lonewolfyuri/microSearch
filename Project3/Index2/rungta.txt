@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/android-app-projects-winter-2014', (0.0003875968992248062, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/als/set.al', (0.016260162601626018, False, False))])

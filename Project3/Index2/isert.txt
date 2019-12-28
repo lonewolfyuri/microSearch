@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/linkedlists.tx', (0.00020358306188925082, False, False))])

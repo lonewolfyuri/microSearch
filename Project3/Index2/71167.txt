@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Data/h220/q50', (0.0027548209366391185, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P1-TGACCA-Sequences_trimmed-mapped_peaks.narrowPea', (3.199488081906895e-05, False, False))])

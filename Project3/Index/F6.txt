@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SPECTF+Heart', 0.0019342359767891683, False, True), ('http://archive.ics.uci.edu/ml/datasets/Connect-4', 0.0020161290322580645, False, True)]

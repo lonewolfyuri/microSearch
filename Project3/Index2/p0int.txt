@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/sue-generis-a-class-of-its-own', (0.001349527665317139, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~projects/SATware/press.htm', (0.016129032258064516, False, False)), ('https://www.ics.uci.edu/community/news/notes/notes_2007.ph', (8.630361612151549e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Character', (0.0021413276231263384, False, True)), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%2', (0.0021551724137931034, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1', (0.045454545454545456, False, True))])

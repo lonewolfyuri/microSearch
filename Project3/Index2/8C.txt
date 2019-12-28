@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/objects', (0.00909090909090909, False, True)), ('https://www.ics.uci.edu/~eppstein/ca/replicators/b01357s0123.htm', (0.027777777777777776, False, True)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/objects/8c', (0.14285714285714285, True, True))])

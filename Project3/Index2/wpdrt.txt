@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/publications.htm', (0.00015812776723592663, False, False)), ('https://www.ics.uci.edu/~dsm/pubscon.htm', (0.0011961722488038277, False, False)), ('https://nalini.ics.uci.edu/professional-activities', (0.0002947244326554671, False, True)), ('https://nalini.ics.uci.edu/professional-activities/', (0.0002947244326554671, False, True))])

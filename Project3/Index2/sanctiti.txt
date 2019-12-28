@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/abortion.ht', (0.0015408320493066256, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/finnish-privacy-law.htm', (0.00014353380221042057, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

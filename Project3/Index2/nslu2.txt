@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Requirement', (0.0029850746268656717, False, True))])

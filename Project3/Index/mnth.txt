@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset', 0.0019569471624266144, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.001001001001001001, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0013020833333333333, False, True)]

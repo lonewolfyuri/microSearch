@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset', 0.006756756756756757, False, True), ('http://archive.ics.uci.edu/ml/datasets/Audiology+(Standardized)', 0.0011210762331838565, False, True), ('http://archive.ics.uci.edu/ml/datasets/Audiology+%28Standardized%29', 0.0011210762331838565, False, True)]

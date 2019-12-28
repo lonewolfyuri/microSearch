@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/51', (0.0014814814814814814, False, True)), ('https://ngs.ics.uci.edu/blog/page/51', (0.0014749262536873156, False, True)), ('https://ngs.ics.uci.edu/obama-appoints-sonal-shah', (0.002008032128514056, False, True)), ('https://ngs.ics.uci.edu/category/general-updates/page/15', (0.001953125, False, True))])

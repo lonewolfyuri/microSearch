@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pazzani/Publications/alz_dd_amia_fs97.htm', (0.00032393909944930353, False, True))])

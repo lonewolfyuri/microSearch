@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sjordan/research/data%20caps.htm', (0.0008865248226950354, False, True))])

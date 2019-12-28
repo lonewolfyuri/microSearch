@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jutts/110/StateSAT.tx', (0.0016556291390728477, False, False)), ('https://www.ics.uci.edu/~leiy17/categories/paper', (0.001176470588235294, False, False)), ('https://www.ics.uci.edu/~kay/courses/131/s04readings.htm', (0.0002399232245681382, False, True))])

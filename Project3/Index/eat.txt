@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SCADI', 0.002, False, True), ('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0012970168612191958, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Accelerometer', 0.0056657223796034, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPSeqData/Batch1/Bams', (0.02564102564102564, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPSeqData/Batch1/Bigwigs', (0.02564102564102564, False, True))])

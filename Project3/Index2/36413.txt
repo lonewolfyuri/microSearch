@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics131-FQ03/index.htm', (0.0030959752321981426, False, False)), ('https://www.ics.uci.edu/~redmiles/ics131-FQ03', (0.0030959752321981426, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9771784832628877e-07, False, False))])

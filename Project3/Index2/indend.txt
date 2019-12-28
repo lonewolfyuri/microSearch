@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/common/handouts/bugs.htm', (0.0009345794392523365, False, True)), ('https://www.ics.uci.edu/~thornton/ics46/Notes/StacksQueuesDeques', (0.004201680672268907, False, True))])

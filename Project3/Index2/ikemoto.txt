@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/ForsythEtAl_FTCG_2007', (0.02631578947368421, False, True)), ('http://vision.ics.uci.edu/people/20.htm', (0.0007022471910112359, False, True)), ('http://vision.ics.uci.edu/publications.htm', (0.00030721966205837174, False, True)), ('http://vision.ics.uci.edu/projects/people', (0.0013869625520110957, False, True))])

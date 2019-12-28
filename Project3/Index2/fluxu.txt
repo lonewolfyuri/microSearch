@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/pervasive-games-film-festival', (0.0011235955056179776, False, True)), ('https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-speakers/', (0.00021132713440405747, False, True)), ('https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-speakers', (0.00021132713440405747, False, True))])

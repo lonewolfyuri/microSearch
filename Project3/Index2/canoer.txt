@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/banff/MoraineLakeCanoers.htm', (0.3333333333333333, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/banff/MoraineLakeBeach.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/banff/MoraineLakeMoraine.htm', (0.07692307692307693, False, True))])

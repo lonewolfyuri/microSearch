@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications/?limit=', (0.00012766500702157538, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Leichter.htm', (0.0017513134851138354, False, False))])

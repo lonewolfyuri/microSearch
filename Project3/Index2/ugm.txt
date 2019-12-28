@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes/2014S-274', (0.0012515644555694619, False, True)), ('http://sli.ics.uci.edu/Classes/2016S-274', (0.0012919896640826874, False, True)), ('https://cml.ics.uci.edu/home/contact-us/', (0.0023023791250959325, False, True)), ('https://cml.ics.uci.edu/home/contact-us', (0.0023023791250959325, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~peymano/dynamic-arch/austin/veitch/tsld004.ht', (0.034482758620689655, False, True))])

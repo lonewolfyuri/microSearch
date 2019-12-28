@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Computer+Hardwar', (0.0030581039755351682, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (7.925814377427281e-05, False, False))])

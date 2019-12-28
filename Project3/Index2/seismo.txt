@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.0005797101449275362, False, False)), ('https://www.ics.uci.edu/~eppstein/cgt/foolgo.htm', (0.0030211480362537764, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/beam/1986.htm', (0.0017331022530329288, False, False))])

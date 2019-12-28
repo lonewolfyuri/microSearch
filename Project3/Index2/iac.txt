@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-v2.htm', (0.00089126559714795, False, True)), ('https://ngs.ics.uci.edu/a9-and-local', (0.0019157088122605363, False, True)), ('http://www-db.ics.uci.edu/pages/links/irvine.shtm', (0.008620689655172414, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set', 0.0028328611898017, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 4.952947003467063e-05, False, True)]

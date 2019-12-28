@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Abalone', (0.0026595744680851063, False, False))])

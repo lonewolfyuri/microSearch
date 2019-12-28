@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Statlog+(Australian+Credit+Approval)#7265efd898e4c045ff078fcb63fec9fbde4b1249', 0.0009727626459143969, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bag+of+Words', 0.0024875621890547263, False, True)]

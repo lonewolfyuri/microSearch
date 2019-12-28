@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 0.002583979328165375, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0004982561036372695, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00012298610257040955, False, True)]

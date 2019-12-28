@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/fair-weather-patriotism', (0.000992063492063492, False, True))])

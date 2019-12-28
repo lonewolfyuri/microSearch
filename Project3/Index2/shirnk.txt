@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/projects/biological_images', (0.0026595744680851063, False, True)), ('http://vision.ics.uci.edu/publications.htm', (0.0005549389567147614, False, True)), ('http://vision.ics.uci.edu/people/23.htm', (0.0009587727708533077, False, True)), ('http://vision.ics.uci.edu/papers/Chen_ADVMAT_2011', (0.027777777777777776, False, True))])

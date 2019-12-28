@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes%2F2012S-274b-ProjectIdea', (0.00228310502283105, False, True)), ('http://sli.ics.uci.edu/Classes/2014S-274b-ProjectIdea', (0.00228310502283105, False, True)), ('http://sli.ics.uci.edu/Classes/2016S-274b-ProjectIdea', (0.0017825311942959, False, True))])

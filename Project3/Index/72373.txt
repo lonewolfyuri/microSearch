@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/BLOGGER', 0.004310344827586207, False, True)]

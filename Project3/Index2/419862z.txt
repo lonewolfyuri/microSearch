@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/1.0/src/mattree/.svn/entrie', (0.011583011583011582, False, False)), ('http://flamingo.ics.uci.edu/releases/2.0/src/mattree/.svn/entrie', (0.011560693641618497, False, False)), ('http://flamingo.ics.uci.edu/releases/2.0.1/src/mattree/.svn/entrie', (0.011560693641618497, False, False))])

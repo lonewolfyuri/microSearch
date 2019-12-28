@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation', 0.002105263157894737, False, True)]

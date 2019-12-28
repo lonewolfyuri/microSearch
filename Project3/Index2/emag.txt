@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/seismic-bump', (0.0033333333333333335, False, True)), ('https://ngs.ics.uci.edu/research/research-papers/experiential-computing/', (0.0010857763300760044, False, True)), ('https://ngs.ics.uci.edu/research/research-papers/experiential-computing', (0.0010857763300760044, False, True))])

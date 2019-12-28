@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/eventweb-is-born', (0.0019569471624266144, False, False)), ('https://ngs.ics.uci.edu/category/entrepreneurism/page/17', (0.0014947683109118087, False, True)), ('https://ngs.ics.uci.edu/blog/page/152', (0.001379310344827586, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/152', (0.0013850415512465374, False, True))])

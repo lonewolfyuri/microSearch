@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/very-top-footer-menu-items/people/', (0.00033955857385398983, False, True)), ('https://www.informatics.uci.edu/very-top-footer-menu-items/people', (0.00033955857385398983, False, True)), ('https://www.ics.uci.edu/~cs237/prevprojects.htm', (0.0009165902841429881, False, True))])

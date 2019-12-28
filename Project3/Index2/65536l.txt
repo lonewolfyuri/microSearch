@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (5.82682671017364e-05, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.00044464206313917296, False, True))])

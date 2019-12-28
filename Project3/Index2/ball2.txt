@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/Gallery/TimeTrial.htm', (0.03314917127071823, False, True))])

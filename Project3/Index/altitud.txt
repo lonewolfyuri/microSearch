@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 0.0023148148148148147, False, True), ('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29', 0.0021691973969631237, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.00205761316872428, False, True)]

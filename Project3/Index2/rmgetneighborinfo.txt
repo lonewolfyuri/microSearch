@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-18.htm', (0.0008841732979664014, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/NET/NetModuleImpl.htm', (0.0035587188612099642, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/NET/NetModule.htm', (0.008264462809917356, False, True))])

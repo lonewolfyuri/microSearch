@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.0009407337723424271, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.00010192121490088162, False, True))])

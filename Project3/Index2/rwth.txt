@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/articles/view_article?id=32', (0.0012315270935960591, False, True)), ('https://ngs.ics.uci.edu/similarity-search-introduced-by-google', (0.001095290251916758, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=', (0.00025348542458808617, False, True))])

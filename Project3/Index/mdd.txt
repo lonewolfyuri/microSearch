@@ -1,1 +1,0 @@
-[('http://alderis.ics.uci.edu/', 0.0035842293906810036, False, True), ('http://alderis.ics.uci.edu/index.html', 0.0035842293906810036, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.001221001221001221, False, True)]

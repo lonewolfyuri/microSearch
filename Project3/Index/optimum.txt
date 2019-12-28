@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)#61f13a0ee6d86b2c3576af921d81a77e5d82809e', 0.0029154518950437317, False, True), ('http://archive.ics.uci.edu/ml/datasets/Folio', 0.003436426116838488, False, True)]

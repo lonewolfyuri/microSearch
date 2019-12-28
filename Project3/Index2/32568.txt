@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/set.htm', (0.0005053057099545225, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P3-GCCAAT-Sequences_trimmed-mapped_peaks.narrowPea', (3.913179588855264e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.9543569665257753e-07, False, False))])

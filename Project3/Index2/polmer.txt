@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/hm-outln.ht', (0.0010193679918450561, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/polimer.ht', (0.001156515034695451, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/ndex.ht', (0.00043182554248083775, False, True))])

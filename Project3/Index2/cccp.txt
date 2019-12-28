@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/events/seminar-series/?seminar_id=13', (0.0009587727708533077, False, True)), ('https://www.ics.uci.edu/~ihler/papers/abs.html', (0.00011734334663224596, False, True))])

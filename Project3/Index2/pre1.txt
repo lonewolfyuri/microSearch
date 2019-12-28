@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle', (0.03571428571428571, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.020262915967871e-06, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping', 0.00199203187250996, False, True), ('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.003389830508474576, False, True)]

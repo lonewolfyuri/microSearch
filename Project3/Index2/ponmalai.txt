@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Group/Grou', (0.0024691358024691358, False, True))])

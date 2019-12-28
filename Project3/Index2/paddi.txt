@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw4/11.htm', (0.0012610340479192938, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.0778249328602818e-05, False, False)), ('https://ngs.ics.uci.edu/a-great-opportunity-mobile-phones-in-rural-india', (0.001483679525222552, False, True))])

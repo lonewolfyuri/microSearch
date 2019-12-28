@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/collection/dt/Minutes000202.tx', (0.00141643059490085, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/collection/redirect-issues.htm', (0.0003792188092529389, False, True))])

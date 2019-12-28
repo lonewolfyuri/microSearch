@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/79-python-resources/104-try-excep', (0.0019801980198019802, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/statements/lecture.htm', (0.00022512381809995497, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

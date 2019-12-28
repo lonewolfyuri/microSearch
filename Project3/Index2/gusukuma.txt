@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/research/publications', (0.0005005005005005005, False, True))])

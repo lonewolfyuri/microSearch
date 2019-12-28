@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_student_showcase_2012.ph', (0.0022371364653243847, False, False)), ('https://www.ics.uci.edu/~eppstein/bibs/subiso.bi', (5.203996669442132e-05, False, True))])

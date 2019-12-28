@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Adult', (0.0004662004662004662, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.295297472104813e-07, False, False))])

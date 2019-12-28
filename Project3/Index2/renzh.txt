@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/ph-d-student-jihyun-park-wins-best-paper-award-at-international-data-mining-conference', (0.0012953367875647669, False, False)), ('https://www.ics.uci.edu/~jihyunp', (0.001366120218579235, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=139', (0.0027100271002710027, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/noteNetflix.txt', 0.16666666666666666, False, False), ('http://archive.ics.uci.edu/ml/index.php', 0.0034965034965034965, False, False), ('http://archive.ics.uci.edu/ml/datasets/Netflix+Prize', 0.005747126436781609, False, False)]

@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/bigactivedata/index.html', 0.001876172607879925, False, True), ('http://asterix.ics.uci.edu/bigactivedata/', 0.001876172607879925, False, True), ('http://archive.ics.uci.edu/ml/datasets/Phishing+Websites', 0.0029154518950437317, False, True)]

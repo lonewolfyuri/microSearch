@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)', 0.003787878787878788, False, True), ('http://archive.ics.uci.edu/ml/datasets/Molecular+Biology+%28Promoter+Gene+Sequences%29', 0.003787878787878788, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.003703703703703704, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://nalini.ics.uci.edu/professional-activities', (0.00030048076923076925, False, True)), ('https://nalini.ics.uci.edu/professional-activities/', (0.00030048076923076925, False, True))])

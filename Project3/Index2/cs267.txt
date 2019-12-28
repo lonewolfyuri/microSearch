@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/meshgen.htm', (0.001579778830963665, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/align.htm', (0.004694835680751174, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/teach.htm', (0.004524886877828055, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.tx', (2.8447478842187612e-05, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.tx', (2.8447478842187612e-05, False, False)), ('http://archive.ics.uci.edu/ml/support/Insurance+Company+Benchmark+(COIL+2000)', (0.00749063670411985, False, True))])

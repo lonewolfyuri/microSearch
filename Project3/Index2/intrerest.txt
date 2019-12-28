@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/164', (0.0014705882352941176, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/164', (0.0014771048744460858, False, True)), ('https://ngs.ics.uci.edu/progress-in-speech-recognition', (0.0020876826722338203, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/58', (0.00196078431372549, False, True))])

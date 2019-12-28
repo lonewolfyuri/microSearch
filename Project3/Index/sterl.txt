@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.0026109660574412533, False, True), ('http://archive.ics.uci.edu/ml/datasets/Servo', 0.0022522522522522522, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.002512562814070352, False, True), ('http://archive.ics.uci.edu/ml/datasets/Annealing', 0.004608294930875576, False, True)]

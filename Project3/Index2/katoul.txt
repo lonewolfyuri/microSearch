@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/ics-career-panel/?afg43_page_id=', (0.0003869969040247678, False, True)), ('https://wics.ics.uci.edu/ics-career-panel', (0.0003869969040247678, False, True))])

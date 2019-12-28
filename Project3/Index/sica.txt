@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SML2010', 0.0037313432835820895, False, True), ('http://archive.ics.uci.edu/ml/datasets/NoisyOffice', 0.003215434083601286, False, True)]

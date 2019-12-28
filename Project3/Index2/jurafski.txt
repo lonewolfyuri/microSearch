@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/cs175/project_reading.htm', (0.011494252873563218, False, False)), ('https://www.ics.uci.edu/~smyth/courses/cs175/reference_texts.htm', (0.005319148936170213, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise', 0.0038314176245210726, False, True), ('http://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics', 0.00411522633744856, False, True)]

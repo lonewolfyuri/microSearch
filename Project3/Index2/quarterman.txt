@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-SMTP.htm', (0.0005032712632108706, False, True)), ('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_14.html', (0.001669449081803005, False, False))])

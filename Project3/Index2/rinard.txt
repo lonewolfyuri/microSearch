@@ -1,0 +1,1 @@
+dict_items([('http://plrg.ics.uci.edu/publications_page/', (0.0006587615283267457, False, False)), ('http://plrg.ics.uci.edu/publications_page', (0.0006587615283267457, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

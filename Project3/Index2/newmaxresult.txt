@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/SearchCriteria.htm', (0.006289308176100629, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Corel+Image+Feature', (0.0015552099533437014, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld', (0.027777777777777776, False, True))])

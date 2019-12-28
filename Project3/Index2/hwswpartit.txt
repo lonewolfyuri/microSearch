@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aviral/papers/hwSwPartition.htm', (1.0, True, False))])

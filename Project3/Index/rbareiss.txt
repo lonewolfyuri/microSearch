@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Audiology+(Original)', 0.00398406374501992, False, True), ('http://archive.ics.uci.edu/ml/datasets/Audiology+%28Original%29', 0.00398406374501992, False, True)]

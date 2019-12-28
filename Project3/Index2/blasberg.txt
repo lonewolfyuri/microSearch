@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gruner.htm', (0.00025484199796126404, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/estrlang.ht', (0.0009861932938856016, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/h9-saul.ht', (0.00040584415584415587, False, True))])

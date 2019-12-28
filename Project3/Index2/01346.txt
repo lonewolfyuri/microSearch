@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0008741258741258741, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/posterioriterates.tx', (8.332569514461174e-06, False, False))])

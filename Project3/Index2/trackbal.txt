@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/input-devices.ht', (0.05, False, True)), ('https://www.ics.uci.edu/~kay/courses/104/hw/hw2.htm', (0.013333333333333334, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

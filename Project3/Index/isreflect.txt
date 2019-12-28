@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/telescope/probs/', 0.04, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+setting', (0.0005931198102016608, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixture', (0.0009970089730807576, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://plrg.ics.uci.edu/cdsspec', (0.0014749262536873156, False, True)), ('http://plrg.ics.uci.edu/software-relaxed-mm/', (0.0015037593984962407, False, False)), ('http://plrg.ics.uci.edu/cdsspec/', (0.0014749262536873156, False, True)), ('http://plrg.ics.uci.edu/software-relaxed-mm', (0.0015037593984962407, False, False))])

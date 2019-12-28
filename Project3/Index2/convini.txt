@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/ResultSetTableModel.htm', (0.008695652173913044, False, False))])

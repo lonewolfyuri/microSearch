@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/classes/inf-241-introduction-to-ubiquitous-computing', (0.0011737089201877935, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch1/SurvivalDataArmadilloHunting.tx', (0.0006153846153846154, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch13/AcheDataExercise13-20.tx', (0.0006150061500615006, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch13/WinBUGScodeExercise13-20.tx', (0.018867924528301886, False, False))])

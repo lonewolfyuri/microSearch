@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.0047169811320754715, False, False), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs+(High+Quality)', 0.004694835680751174, False, False), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs+%28High+Quality%29', 0.004694835680751174, False, False)]

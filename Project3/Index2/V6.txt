@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Arrhythmi', (0.0013869625520110957, False, True)), ('https://www.ics.uci.edu/~irani/s11_22/Project5/facile.gr', (0.01694915254237288, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.0017331022530329288, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Vehicle+Silhouettes%29', 0.0018099547511312218, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)', 0.0018099547511312218, False, True)]

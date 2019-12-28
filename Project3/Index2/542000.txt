@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/homochirality.ht', (0.000778816199376947, False, True))])

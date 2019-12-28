@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/faculty2/galvizo-glenn-justo', (0.16666666666666666, True, True)), ('https://isg.ics.uci.edu/students', (0.00023998080153587713, False, True))])

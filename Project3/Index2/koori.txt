@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw4/03.htm', (0.0006906077348066298, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/akivlang.ht', (0.0004161464835622139, False, True))])

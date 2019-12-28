@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw4/26.htm', (0.0016207455429497568, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/louser.ht', (0.0006414368184733803, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

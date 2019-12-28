@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Grosshut.htm', (0.002053388090349076, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Maringer.htm', (0.0014749262536873156, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/PVNavigateUI.htm', (0.006944444444444444, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/RM/ResourceManager.htm', (0.0035211267605633804, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/class-use/PVSchema.htm', (0.0078125, False, False))])

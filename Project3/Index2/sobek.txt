@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/IPUMS+Census+Databas', (0.0014204545454545455, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kopelik.htm', (0.002600297176820208, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/stats170ab-2018/housing_data_description.tx', (0.000585480093676815, False, False)), ('https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/stats170ab-2018/housing_data_description.tx', (0.0006802721088435374, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-commpunication-1', (0.0009398496240601503, False, True))])

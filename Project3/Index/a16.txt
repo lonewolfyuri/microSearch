@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities', 0.001834862385321101, False, True), ('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset', 0.0019723865877712033, False, True), ('http://archive.ics.uci.edu/ml/datasets/Credit+Approval', 0.0028169014084507044, False, True)]

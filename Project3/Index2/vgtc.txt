@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/projects/biological_images', (0.0011806375442739079, False, True)), ('http://vision.ics.uci.edu/publications.htm', (0.00031735956839098697, False, True)), ('http://vision.ics.uci.edu/papers/Rubel_Eurovis_2006', (0.0026954177897574125, False, True)), ('http://vision.ics.uci.edu/people/23.htm', (0.0005241090146750524, False, True))])

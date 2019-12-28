@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/j4p15/FortBraggGrange.htm', (0.06666666666666667, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/j4p15/AntiGMO1.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/j4p15/AntiGMO2.htm', (0.2, False, True))])

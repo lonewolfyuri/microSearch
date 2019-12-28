@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-Jon-NNTP.htm', (0.0010131712259371835, False, True)), ('https://www.ics.uci.edu/~feldman/lec16F00.htm', (0.001218026796589525, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

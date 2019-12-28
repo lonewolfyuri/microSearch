@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Musk+(Version+2)', (0.0013698630136986301, False, False)), ('http://archive.ics.uci.edu/ml/support/Musk+(Version+1)', (0.0015151515151515152, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.00011619800139437602, False, True))])

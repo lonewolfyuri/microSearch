@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016', (0.038461538461538464, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/A-AT-TAAA-plots-for-published-data-changedbins', (0.0625, True, True))])

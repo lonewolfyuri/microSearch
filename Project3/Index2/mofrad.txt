@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dutt/students-visitors.ht', (0.0007072135785007072, False, True)), ('https://duttgroup.ics.uci.edu/group-members', (0.0003508771929824561, False, False)), ('https://duttgroup.ics.uci.edu/group-members/', (0.0003508771929824561, False, False))])

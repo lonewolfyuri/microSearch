@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ICS221/papers/McIlroyComponents.tx', (0.00016778523489932885, False, False)), ('https://www.ics.uci.edu/~arcadia/arcadia_papers/overview/5sd3_abstract.htm', (0.005988023952095809, False, False))])

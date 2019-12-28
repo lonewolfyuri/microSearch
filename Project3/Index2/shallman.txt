@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fowlkes/sam_hallman/doc', (0.07142857142857142, False, True))])

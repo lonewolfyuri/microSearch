@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set', 0.003289473684210526, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dodgers+Loop+Sensor', 0.0033003300330033004, False, True)]

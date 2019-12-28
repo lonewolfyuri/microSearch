@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Mturk+User-Perceived+Clusters+over+Image', (0.001984126984126984, False, True))])

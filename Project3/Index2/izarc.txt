@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/assignments/program0/program.htm', (0.0019157088122605363, False, True)), ('https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/eclipse.htm', (0.0019569471624266144, False, True))])

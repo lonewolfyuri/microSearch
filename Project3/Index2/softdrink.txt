@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/social-networks-on-mobile-by-coke', (0.001447178002894356, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/list-of-publications', (0.00013885031935573453, False, True))])

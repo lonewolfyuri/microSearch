@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00308', (0.05555555555555555, False, True)), ('https://www.ics.uci.edu/~gbowker/records.htm', (0.0002738225629791895, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics', (0.013157894736842105, False, True))])

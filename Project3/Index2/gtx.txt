@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performanc', (0.004555808656036446, False, True)), ('https://www.ics.uci.edu/~jmoorkan/project/index.htm', (0.0040650406504065045, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=109', (0.000689655172413793, False, True))])

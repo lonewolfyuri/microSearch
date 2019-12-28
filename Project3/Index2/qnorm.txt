@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/RcodeAppendix.tx', (0.0064516129032258064, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch5/RcodeCh5.tx', (0.00398406374501992, False, False)), ('https://cbcl.ics.uci.edu/public_data/D-GEX', (0.03571428571428571, False, True))])

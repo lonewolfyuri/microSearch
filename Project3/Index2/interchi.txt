@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-XForms.htm', (0.0002935995302407516, False, True)), ('https://www.ics.uci.edu/~taylor/Publications.ht', (0.0002044153720359771, False, True)), ('https://redmiles.ics.uci.edu/publication/', (0.000149947518368571, False, False)), ('https://redmiles.ics.uci.edu/publication', (0.000149947518368571, False, False))])

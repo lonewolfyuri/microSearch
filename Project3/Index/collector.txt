@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Echocardiogram', 0.004291845493562232, False, True), ('http://archive.ics.uci.edu/ml/donation_policy.html', 0.005221932114882507, False, False), ('http://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation', 0.0043859649122807015, False, True)]

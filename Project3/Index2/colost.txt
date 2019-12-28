@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Covertyp', (0.003134796238244514, False, False)), ('https://www.ics.uci.edu/~jacobson/IntroCourses/FirstCourseSyllabi.htm', (0.0018832391713747645, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_judith_olson_2013_outstanding_mentoring_award.ph', (0.002004008016032064, False, False))])

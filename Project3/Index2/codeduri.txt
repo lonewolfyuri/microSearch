@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/redmond/raw_minutes.htm', (0.00034376074252320387, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lederberger.htm', (0.0002482005460412013, False, False)), ('https://www.ics.uci.edu/~smyth', (0.004901960784313725, False, True)), ('https://www.ics.uci.edu/~smyth/index.htm', (0.004901960784313725, False, True)), ('https://ngs.ics.uci.edu/world-wide-event-web', (0.0008097165991902834, False, True))])

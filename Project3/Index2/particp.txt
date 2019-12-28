@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wics/links.htm', (0.004291845493562232, False, False)), ('https://cyberclub.ics.uci.edu/blog/HackLAN', (0.003289473684210526, False, True)), ('https://ngs.ics.uci.edu/cyber-persona', (0.0018018018018018018, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/converge.htm', (8.388558006878618e-05, False, False)), ('https://www.ics.uci.edu/~gbowker/tb.htm', (9.264406151565684e-05, False, False))])

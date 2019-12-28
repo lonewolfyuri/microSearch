@@ -1,0 +1,1 @@
+dict_items([('https://new-psearch.ics.uci.edu/uc-directorie', (0.03225806451612903, False, True)), ('https://www.ics.uci.edu/~taylor/classes/117/syllabusWQ09.htm', (0.0009794319294809011, False, True)), ('https://www.ics.uci.edu/~wscacchi/Presentations/GameLab', (0.007246376811594203, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/operatoroverloading1.tx', (0.00010497585555322275, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/operatoroverloading2.tx', (0.00011086474501108647, False, False))])

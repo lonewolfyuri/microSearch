@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~theory/269/w02.htm', (0.00684931506849315, False, False)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Talks/geom-day.htm', (0.0012787723785166241, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kibler/SW/SW.htm', (0.019230769230769232, False, True)), ('https://www.ics.uci.edu/~kibler', (0.0002370791844476055, False, False)), ('https://www.ics.uci.edu/~kibler/', (0.0002370791844476055, False, False)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0007347538574577516, False, True))])

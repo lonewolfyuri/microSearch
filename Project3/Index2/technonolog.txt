@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia', (0.001145475372279496, False, True))])

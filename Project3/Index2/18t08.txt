@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/gracehopper-conference', (0.0004161464835622139, False, True)), ('https://wics.ics.uci.edu/event/facebook-event-with-icssc', (0.00041511000415110004, False, True)), ('http://computableplant.ics.uci.edu/models/Activator/activator-single-cell.xm', (0.2, False, True))])

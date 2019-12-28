@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Ehrlich.htm', (0.0008051529790660225, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (7.249654438630588e-07, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Rapaport.htm', (0.0009025270758122744, False, False)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0007194244604316547, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

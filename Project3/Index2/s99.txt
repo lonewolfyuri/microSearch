@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/Software_Process_Redesign/Paper-Draft.htm', (0.0004086636697997548, False, True)), ('https://www.ics.uci.edu/~eppstein/teach.htm', (0.007042253521126761, False, False))])

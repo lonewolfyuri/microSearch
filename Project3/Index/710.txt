@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/MEx', 0.0045662100456621, False, True), ('http://archive.ics.uci.edu/ml/support/Anonymous+Microsoft+Web+Data#4133f6bdbdc248e6e8cac9083cf934be0dd0fa31', 0.003424657534246575, False, False)]

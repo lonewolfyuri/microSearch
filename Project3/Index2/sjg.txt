@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Thyroid+Disease', (0.0004342162396873643, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-winter-project1/data.sq', (2.4674299249901302e-05, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%2', (0.0013123359580052493, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data', (0.0013123359580052493, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/quantifying-semantic-gap', (0.0016233766233766235, False, False))])

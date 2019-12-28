@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Statlog+Project', 0.0006038647342995169, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.0002966478789676654, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.00038022813688212925, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients', 0.0045662100456621, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/split-square.htm', (0.007042253521126761, False, True))])

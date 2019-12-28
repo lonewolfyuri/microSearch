@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gabe/bibtex/Dror_JSS_2007.tx', (0.014285714285714285, False, False)), ('https://www.ics.uci.edu/~gabe/publications.htm', (0.002898550724637681, False, True)), ('https://www.ics.uci.edu/~gabe/bibtex/Schach_SQJ_2007.tx', (0.015873015873015872, False, False))])

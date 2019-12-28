@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=122', (0.0019011406844106464, False, True)), ('https://www.stat.uci.edu/ucis-data-science-program-ranked-18th-in-nation-by-bcss/', (0.001326259946949602, False, True)), ('https://www.stat.uci.edu/ucis-data-science-program-ranked-18th-in-nation-by-bcss', (0.001326259946949602, False, True))])

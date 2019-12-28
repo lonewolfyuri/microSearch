@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digi', (0.001851851851851852, False, True))])

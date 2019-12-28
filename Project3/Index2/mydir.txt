@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/sandiego/DAV-status-report_files/slide0005.ht', (0.012345679012345678, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/sandiego/DAV-status-report_files/outline.ht', (0.0012285012285012285, False, False))])

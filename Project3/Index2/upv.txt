@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%2', (0.0036496350364963502, False, True)), ('http://archive.ics.uci.edu/ml/datasets/NoisyOffic', (0.003875968992248062, False, False)), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLo', (0.003952569169960474, False, True))])

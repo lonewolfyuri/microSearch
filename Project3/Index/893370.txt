@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/index.php', 0.0020876826722338203, False, True)]

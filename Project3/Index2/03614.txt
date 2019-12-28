@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/posterioriterates.tx', (1.6665139028922347e-05, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.tx', (2.4993751562109472e-05, False, False))])

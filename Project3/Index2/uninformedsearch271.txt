@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/2013-wq-cs271/2013-wq-cs271-lecture-slides', (0.0024630541871921183, False, True)), ('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/2011-fq-cs271-lecture-slides', (0.0025252525252525255, False, True))])

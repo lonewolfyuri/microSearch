@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/faculty-spotlight-ray-klefstad-embraces-new-role-as-professor-of-teaching', (0.0007158196134574087, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=126', (0.001004016064257028, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

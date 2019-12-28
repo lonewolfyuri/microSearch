@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.002364066193853428, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00018328445747800586, False, True)]

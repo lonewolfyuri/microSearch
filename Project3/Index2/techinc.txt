@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rjammala/Publications.htm', (0.0035087719298245615, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/kosters/kosters-qna.htm', (0.0014265335235378032, False, False)), ('https://ngs.ics.uci.edu/telepresence-and-e2e', (0.0015748031496062992, False, True))])

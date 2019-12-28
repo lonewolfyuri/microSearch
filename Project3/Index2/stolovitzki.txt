@@ -1,0 +1,1 @@
+dict_items([('https://cml.ics.uci.edu/books', (0.0016420361247947454, False, True)), ('https://cml.ics.uci.edu/books/', (0.0016420361247947454, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring', 0.0014858841010401188, False, True), ('http://archive.ics.uci.edu/ml/datasets/Phishing+Websites', 0.002304147465437788, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0004982561036372695, False, True)]

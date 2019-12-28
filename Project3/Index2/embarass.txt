@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/newman.ht', (0.0005194805194805195, False, True)), ('https://ngs.ics.uci.edu/china-trip-nov-20063', (0.0010822510822510823, False, True))])

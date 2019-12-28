@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fowlkes/bioshape/index.htm', (0.0013531799729364006, False, True)), ('https://www.ics.uci.edu/~skong2', (0.0005865102639296188, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

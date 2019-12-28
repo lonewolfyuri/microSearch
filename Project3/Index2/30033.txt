@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%2', (0.0007204610951008645, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.tx', (0.0002803712114840048, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9771784832628877e-07, False, False))])

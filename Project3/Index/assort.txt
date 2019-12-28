@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/EBL+Domain+Theories', 0.005494505494505495, False, False), ('http://archive.ics.uci.edu/ml/datasets/Prodigy', 0.005555555555555556, False, False), ('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.001584786053882726, False, True)]

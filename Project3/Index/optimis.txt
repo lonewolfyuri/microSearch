@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0005963029218843172, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wave+Energy+Converters', 0.0018867924528301887, False, True)]

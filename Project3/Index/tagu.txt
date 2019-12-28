@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset', 0.000689655172413793, False, True), ('http://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset', 0.0008710801393728223, False, True)]

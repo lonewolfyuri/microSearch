@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Datase', (0.0017953321364452424, False, True))])

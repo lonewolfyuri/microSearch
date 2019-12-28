@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/plusminus.htm', (0.004524886877828055, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/odd-one.htm', (0.0008271298593879239, False, False))])

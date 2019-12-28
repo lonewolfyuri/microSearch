@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/3.0/src/filtertree/perftest.c', (0.004451038575667656, False, True)), ('http://archive.ics.uci.edu/ml/datasets/SUS', (0.004901960784313725, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/bstempirical.tx', (0.0014367816091954023, False, False))])

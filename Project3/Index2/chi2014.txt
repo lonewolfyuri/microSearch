@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/author/andre/page/5', (0.000877963125548727, False, True)), ('http://sdcl.ics.uci.edu/2014/04/chi2014', (0.16666666666666666, True, False)), ('http://sdcl.ics.uci.edu/category/travel', (0.0009871668311944718, False, True)), ('http://sdcl.ics.uci.edu/page/7', (0.0009652509652509653, False, True))])

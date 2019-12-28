@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectromete', (0.001524390243902439, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/graphalgorithmsI.tx', (0.00034494653328734045, False, True))])

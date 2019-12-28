@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Endeavors', (0.5, True, True)), ('https://www.ics.uci.edu/~arcadia/Endeavors/endeavors.htm', (0.5, True, True))])

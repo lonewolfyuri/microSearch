@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.006450745867490929, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Grunberg.htm', (0.0006293266205160479, False, False))])

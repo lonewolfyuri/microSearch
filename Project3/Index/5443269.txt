@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification', 0.00392156862745098, False, True), ('http://archive.ics.uci.edu/ml/datasets/Document+Understanding', 0.004132231404958678, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~mopy/portfolio.htm', (0.0006802721088435374, False, True)), ('https://www.ics.uci.edu/~mopy/publications.htm', (0.003424657534246575, False, True)), ('https://www.ics.uci.edu/~mopy/teaching.htm', (0.01818181818181818, False, True))])

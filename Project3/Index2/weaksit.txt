@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/Hela-tracks/other', (0.022727272727272728, False, True))])

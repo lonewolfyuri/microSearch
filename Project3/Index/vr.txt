@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Glass+Identification', 0.0030581039755351682, False, True)]

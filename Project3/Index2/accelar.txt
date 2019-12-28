@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/pub.htm', (0.00026925148088314486, False, True)), ('https://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words', (0.0007763975155279503, False, True))])

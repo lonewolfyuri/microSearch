@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/holiday-martin-luther-king', (0.00041476565740356696, False, True)), ('https://wics.ics.uci.edu/event/week-8-littlebits-workshop-with-brownie-troops', (0.0004078303425774878, False, True))])

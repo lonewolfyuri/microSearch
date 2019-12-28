@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ronen/Site/Home_files/widget1_markup.htm', (0.0196078431372549, False, True))])

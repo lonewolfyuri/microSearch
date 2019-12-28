@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set', 0.0022371364653243847, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0002570694087403599, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits', 0.0027247956403269754, False, True)]

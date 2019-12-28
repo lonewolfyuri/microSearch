@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~projects/drillsim/readme_hse.tx', (0.0008143322475570033, False, False)), ('https://www.ics.uci.edu/~irani/f13-6N/Labs/Lab1.htm', (0.009523809523809525, False, True)), ('https://www.ics.uci.edu/~ics1c/hw4/31.htm', (0.0017421602787456446, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aces/journals.ht', (0.004464285714285714, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/references.htm', (0.010752688172043012, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=9', (0.00031298904538341156, False, True))])

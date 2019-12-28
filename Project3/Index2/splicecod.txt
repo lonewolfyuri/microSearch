@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/commands.tx', (0.0012033694344163659, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/summary.tx', (0.014545454545454545, False, False))])

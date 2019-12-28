@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Fertilit', (0.004975124378109453, False, False)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0006285355122564425, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

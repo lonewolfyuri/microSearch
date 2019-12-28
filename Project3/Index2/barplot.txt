@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/stats5/onlineslides/RCode_for_Feb6th_Lecture/STAT5_GuassianMixture.', (0.0019342359767891683, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/Ch8Rcode.tx', (0.003937007874015748, False, False)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slide/slide-2l-intro-viz.htm', (0.001037344398340249, False, True))])

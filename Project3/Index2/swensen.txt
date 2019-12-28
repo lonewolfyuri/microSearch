@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/la98/chair/tsld002.ht', (0.0625, False, True))])

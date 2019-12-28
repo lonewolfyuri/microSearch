@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Presentations/GameLab/GameLab_files', (0.006172839506172839, False, True)), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files', (0.00980392156862745, False, True))])

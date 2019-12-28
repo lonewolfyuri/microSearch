@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/softalks/fq96_schedule.htm', (0.00625, False, True))])

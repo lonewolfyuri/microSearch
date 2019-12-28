@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes/2010W-17', (0.0013717421124828531, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Iri', (0.0004161464835622139, False, False)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00012367054167697255, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/acm-gis-96.htm', (0.0008928571428571428, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/Classes.ht', (0.005154639175257732, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Siodmak.htm', (0.000819000819000819, False, True)), ('https://www.ics.uci.edu/~taylor/ics126/wq99_syllabus.html', (0.00130718954248366, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance', 0.0037174721189591076, False, True), ('http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients', 0.0035971223021582736, False, True), ('http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set', 0.0038461538461538464, False, True)]

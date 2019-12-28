@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/events/seminar-series/?seminar_id=13', (0.0010559662090813093, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.4697026725587463e-05, False, False))])

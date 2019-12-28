@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/smallnum.htm', (0.0008503401360544217, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

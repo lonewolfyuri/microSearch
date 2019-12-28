@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/partners/past-students', (0.00202020202020202, False, True)), ('https://ngs.ics.uci.edu/partners/past-students/', (0.00202020202020202, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classificatio', (0.003968253968253968, False, True)), ('https://www.ics.uci.edu/~ics1c/hw4/18.htm', (0.0015822784810126582, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

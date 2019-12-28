@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~xhx', (0.001519756838905775, False, True)), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/index.htm', (0.014492753623188406, False, False)), ('https://www.ics.uci.edu/~xhx/courses/CS273P', (0.001838235294117647, False, True))])

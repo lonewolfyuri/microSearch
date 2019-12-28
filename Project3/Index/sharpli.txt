@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/LED+Display+Domain#e091a00eb65fd6124d7b0190126299db6ee8057e', 0.0011723329425556857, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/notes/notes_2009.ph', (0.0004068348250610252, False, False)), ('https://www.ics.uci.edu/~kobsa/kobsa-vita.htm', (0.0005002501250625312, False, True)), ('http://sconce.ics.uci.edu', (0.009615384615384616, False, True)), ('http://sprout.ics.uci.edu/projects/usec/usec.htm', (0.000482392667631452, False, True))])

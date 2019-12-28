@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/wisen98/presentations/Carzaniga/tsld005.ht', (0.015873015873015872, False, True))])

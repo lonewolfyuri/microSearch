@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ReleaseNote', (0.0004180602006688963, False, True)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0006234413965087282, False, True)), ('https://www.ics.uci.edu/~alfchen/teaching/cs295-2019-Spring/attacks_and_tools.htm', (0.0016, False, True))])

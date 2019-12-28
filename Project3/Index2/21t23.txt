@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.0/src/filtertree/src/.svn/entrie', (0.006934812760055479, False, False)), ('http://flamingo.ics.uci.edu/releases/4.1/src/filtertree/src/.svn/entrie', (0.006934812760055479, False, False)), ('https://wics.ics.uci.edu/event/redfin-resume-workshop', (0.00041562759767248546, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://support.ics.uci.edu/studentID/assets/dc6a810b/treeview/images', (0.14285714285714285, True, True)), ('https://support.ics.uci.edu/studentID/assets/dc6a810b/treeview', (0.16666666666666666, True, True)), ('https://support.ics.uci.edu/studentID/assets/dc6a810b', (0.02, False, True))])

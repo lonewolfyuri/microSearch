@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yaltowim', (0.0031746031746031746, False, True)), ('https://www.ics.uci.edu/~alexv/152/Win11/general.htm', (0.04, False, False)), ('https://www.ics.uci.edu/~alexv/pubs.htm', (0.0005899705014749262, False, True))])

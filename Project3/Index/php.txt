@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/datasets.php', 0.005747126436781609, False, False), ('http://archive.ics.uci.edu/ml/datasets/Wave+Energy+Converters', 0.0035842293906810036, False, True), ('http://archive.ics.uci.edu/ml/datasets/Website+Phishing', 0.0058997050147492625, False, True)]

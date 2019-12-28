@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014', 0.0035335689045936395, False, True)]

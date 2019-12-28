@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/alex3.ht', (0.0002501876407305479, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Bernhaut.htm', (0.0008257638315441783, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

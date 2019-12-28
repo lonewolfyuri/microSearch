@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognitio', (0.003968253968253968, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gai', (0.003968253968253968, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

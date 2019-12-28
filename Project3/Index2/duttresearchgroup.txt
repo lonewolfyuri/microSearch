@@ -1,0 +1,1 @@
+dict_items([('https://duttgroup.ics.uci.edu/projects', (0.0005422993492407809, False, True)), ('https://duttgroup.ics.uci.edu/projects/', (0.0005422993492407809, False, True))])

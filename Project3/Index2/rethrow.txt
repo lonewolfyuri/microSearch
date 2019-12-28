@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics45J/CourseSchedule.htm', (0.0012547051442910915, False, True)), ('https://www.ics.uci.edu/~thornton/ics46/Notes/ContractsAndExceptions', (0.0003699593044765076, False, True)), ('https://www.ics.uci.edu/~thornton/ics46/Notes/SmartPointers', (0.0006720430107526882, False, True))])

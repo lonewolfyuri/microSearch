@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Breast+Cancer#3e78257004181e6dbbdfa3ec12399520412e9c5c', 0.00016952025767079165, False, True), ('http://archive.ics.uci.edu/ml/datasets/DrivFace', 0.0037174721189591076, False, False), ('http://archive.ics.uci.edu/ml/support/Pittsburgh+Bridges#ce75ba6b3cf7315e2578b0181306beb521c91fbd', 0.003048780487804878, False, True)]

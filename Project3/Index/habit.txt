@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29', 0.004975124378109453, False, False), ('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0005373455131649651, False, True), ('http://archive.ics.uci.edu/ml/datasets/Fertility', 0.004975124378109453, False, False)]

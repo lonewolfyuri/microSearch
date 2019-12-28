@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/life-and-memories', (0.00333889816360601, False, True))])

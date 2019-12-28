@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame', (0.0005878894767783657, False, True)), ('http://archive.ics.uci.edu/ml/support/Connect-4', (0.0026954177897574125, False, True)), ('http://archive.ics.uci.edu/ml/support/Mushroom', (0.0004100041000410004, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluatio', (0.0037174721189591076, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognitio', (0.0037735849056603774, False, True))])

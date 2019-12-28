@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~xhx/courses/CS284A/index.htm', (0.09090909090909091, True, True)), ('https://www.ics.uci.edu/ugrad/sao/Course_updates.ph', (0.00099601593625498, False, True)), ('https://www.ics.uci.edu/~xhx/courses/CS284A', (0.09090909090909091, True, True)), ('https://www.ics.uci.edu/ugrad/sao/Course_update', (0.00099601593625498, False, True))])

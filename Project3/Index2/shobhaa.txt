@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/obsession-with-non-issues', (0.001394700139470014, False, True))])

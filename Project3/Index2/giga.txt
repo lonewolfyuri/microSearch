@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Dattelbaum.htm', (0.0013333333333333333, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/memory.tx', (0.0003673769287288758, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

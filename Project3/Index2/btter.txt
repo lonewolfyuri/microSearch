@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.tx', (0.0003355704697986577, False, False))])

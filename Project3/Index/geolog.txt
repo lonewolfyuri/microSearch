@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/seismic-bumps', 0.0018656716417910447, False, True), ('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.002178649237472767, False, True), ('http://archive.ics.uci.edu/ml/datasets/Covertype', 0.002398081534772182, False, True)]

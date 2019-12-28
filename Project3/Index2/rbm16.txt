@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_szang_20160205/Nabila_B/bigwig', (0.018518518518518517, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/mESC-tracks/other', (0.003401360544217687, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPSeqData/Batch2/Bigwigs', (0.021739130434782608, False, True))])

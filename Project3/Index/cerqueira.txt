@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks', 0.0008389261744966443, False, True)]

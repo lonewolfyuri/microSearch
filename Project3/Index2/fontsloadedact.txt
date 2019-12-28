@@ -1,0 +1,1 @@
+dict_items([('https://mhcid.ics.uci.edu', (0.0070028011204481795, False, True)), ('https://mhcid.ics.uci.edu/', (0.0070028011204481795, False, True)), ('https://mswe.ics.uci.edu', (0.005192107995846314, False, True))])

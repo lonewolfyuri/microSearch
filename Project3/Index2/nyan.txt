@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/covert/appList.tx', (0.0022675736961451248, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_student_showcase_2012.ph', (0.0008058017727639, False, True)), ('https://seal.ics.uci.edu/projects/covert/appList.tx', (0.0022675736961451248, False, False))])

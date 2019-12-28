@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/future-web-2', (0.0013404825737265416, False, True)), ('https://ngs.ics.uci.edu/partners/collaborators', (0.0021141649048625794, False, True)), ('https://ngs.ics.uci.edu/perth-is-a-nice-place', (0.0019230769230769232, False, True)), ('https://ngs.ics.uci.edu/partners/collaborators/', (0.0021141649048625794, False, True))])

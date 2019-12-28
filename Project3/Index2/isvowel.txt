@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-9.htm', (0.0021691973969631237, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/PorterStemmer.htm', (0.006802721088435374, False, True))])

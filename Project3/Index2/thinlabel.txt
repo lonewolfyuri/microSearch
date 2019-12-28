@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/180a/projects/fanorona/source', (0.012195121951219513, False, True))])

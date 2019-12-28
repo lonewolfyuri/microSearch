@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/jain-publishes-book-with-former-student-about-situation-recognition-using-eventshop', (0.0013531799729364006, False, False)), ('https://www.cs.uci.edu/news/page/19', (0.0006079027355623101, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=110', (0.0029498525073746312, False, False))])

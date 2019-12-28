@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/stanford-class-series-business-strategy-and-monopoly-theory', (0.0004, False, True))])

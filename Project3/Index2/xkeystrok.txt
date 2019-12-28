@@ -1,0 +1,1 @@
+dict_items([('https://evoke.ics.uci.edu/hollowing-i-in-the-authorship-of-letters-a-note-on-flusser-and-surveillance/', (0.0005681818181818182, False, False)), ('https://evoke.ics.uci.edu/hollowing-i-in-the-authorship-of-letters-a-note-on-flusser-and-surveillance', (0.0005681818181818182, False, False))])

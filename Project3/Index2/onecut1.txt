@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/FXR/nearestGenes.tx', (5.4839594187003014e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/homerResults/motif10.info.htm', (0.004081632653061225, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/MSNBC.com+Anonymous+Web+Data', 0.0024813895781637717, False, True)]

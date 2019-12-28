@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Wilt', 0.003937007874015748, False, True), ('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.004081632653061225, False, True)]

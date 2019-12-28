@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/euler/bsp.htm', (0.0026041666666666665, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/all.htm', (0.00019735543714229328, False, True))])

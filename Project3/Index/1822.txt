@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Optical+Recognition+of+Handwritten+Digits#dedfa4527706631a09382e23555649c7b3e37ebd', 0.0016611295681063123, False, False)]

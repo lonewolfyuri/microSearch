@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu/bigactivedata/talks.htm', (0.004807692307692308, False, False)), ('https://nalini.ics.uci.edu/professional-activities', (0.002224694104560623, False, True)), ('https://nalini.ics.uci.edu/professional-activities/', (0.002224694104560623, False, True))])

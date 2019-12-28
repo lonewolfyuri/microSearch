@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00021417862497322766, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('http://sprout.ics.uci.edu/projects/PEPSI/related.htm', (0.006711409395973154, False, True))])

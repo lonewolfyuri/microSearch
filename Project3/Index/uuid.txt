@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Miskolc+IIS+Hybrid+IPS', 0.002890173410404624, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hybrid+Indoor+Positioning+Dataset+from+WiFi+RSSI%2C+Bluetooth+and+magnetometer', 0.002793296089385475, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0001344628210299852, False, True)]

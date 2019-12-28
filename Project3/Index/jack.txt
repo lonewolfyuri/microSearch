@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data', 0.00398406374501992, False, True), ('http://archive.ics.uci.edu/ml/datasets/Poker+Hand', 0.0017482517482517483, False, True)]

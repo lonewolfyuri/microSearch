@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Software-Process/Downstream-Process-Engineering/Process_enactment_and_workflow.htm', (0.0038910505836575876, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/implementation.htm', (0.0015384615384615385, False, True))])

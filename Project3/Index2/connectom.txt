@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=whaye', (0.003861003861003861, False, False)), ('https://www.ics.uci.edu/~zhaoxia', (0.0010152284263959391, False, False)), ('https://www.ics.uci.edu/~zhaoxia/publications/publications.ht', (0.00041152263374485596, False, False))])

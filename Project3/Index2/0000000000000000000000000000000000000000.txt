@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/logs/HEA', (0.25, False, False)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/logs/refs/heads/maste', (0.25, False, False)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks/update.sampl', (0.0020242914979757085, False, True))])

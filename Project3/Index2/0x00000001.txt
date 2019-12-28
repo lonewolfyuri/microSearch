@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/tutor-resources/82-assembly-resources/111-assembly-syntax-registe', (0.0011025358324145535, False, False)), ('https://www.ics.uci.edu/~aburtsev/143A/hw/hw1-simple-programs.htm', (0.0008086253369272237, False, True))])

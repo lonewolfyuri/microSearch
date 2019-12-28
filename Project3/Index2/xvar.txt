@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~enalisni/ShakespeareExplorer.htm', (0.00199203187250996, False, True)), ('https://www.ics.uci.edu/~arcadia/Teamware/docs/AllNames.htm', (0.0002346866932644919, False, True)), ('https://www.ics.uci.edu/~arcadia/Teamware/docs/System.TMWNetwork.htm', (0.009433962264150943, False, True))])

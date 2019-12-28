@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performanc', (0.0016891891891891893, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29', 0.004166666666666667, False, True)]

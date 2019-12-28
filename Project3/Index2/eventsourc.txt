@@ -1,0 +1,1 @@
+dict_items([('https://studentcouncil.ics.uci.edu/index.htm', (0.010752688172043012, False, True)), ('https://studentcouncil.ics.uci.edu/', (0.010752688172043012, False, True)), ('https://studentcouncil.ics.uci.edu', (0.010752688172043012, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (7.842807983609454e-06, False, False))])

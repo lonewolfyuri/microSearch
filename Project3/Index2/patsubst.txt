@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/make/bin.ma', (0.0037174721189591076, False, False))])

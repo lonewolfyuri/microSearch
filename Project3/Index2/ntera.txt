@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/Mayr', (0.005319148936170213, False, True))])

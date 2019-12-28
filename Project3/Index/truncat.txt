@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bag+of+Words', 0.0033333333333333335, False, True), ('http://archive.ics.uci.edu/ml/datasets/NIPS+Conference+Papers+1987-2015', 0.002652519893899204, False, True)]

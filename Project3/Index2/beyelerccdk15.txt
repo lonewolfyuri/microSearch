@@ -1,0 +1,1 @@
+dict_items([('https://duttgroup.ics.uci.edu/projects/neuromorphic-computing', (0.0004180602006688963, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=', (0.00029291154071470416, False, True)), ('https://duttgroup.ics.uci.edu/projects/neuromorphic-computing/', (0.0004180602006688963, False, True))])

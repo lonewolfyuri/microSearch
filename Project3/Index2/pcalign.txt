@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fowlkes/bioshape/index.htm', (0.0005995203836930455, False, True))])

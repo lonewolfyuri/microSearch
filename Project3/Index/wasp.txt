@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0012903225806451613, False, False), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.0026109660574412533, False, True)]

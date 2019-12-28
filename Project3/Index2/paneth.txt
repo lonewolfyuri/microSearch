@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Szancer.htm', (0.0019175455417066154, False, False))])

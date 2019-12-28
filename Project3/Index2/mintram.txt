@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Dat', (0.0010427528675703858, False, True))])

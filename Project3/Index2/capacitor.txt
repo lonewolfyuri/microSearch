@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (1.8506523549551218e-05, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_choontanom.ph', (0.0013192612137203166, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

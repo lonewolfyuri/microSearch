@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/winter-2018-informatics-student-project-showcase/', (0.0008756567425569177, False, False)), ('https://www.informatics.uci.edu/winter-2018-informatics-student-project-showcase', (0.0008756567425569177, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=131', (0.0025575447570332483, False, False))])

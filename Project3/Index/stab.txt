@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+', 0.002325581395348837, False, True), ('http://archive.ics.uci.edu/ml/datasets/Shuttle+Landing+Control', 0.0033444816053511705, False, True)]

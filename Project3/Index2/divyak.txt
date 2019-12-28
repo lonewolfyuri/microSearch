@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~projects/dissemination/IDClass.ht', (0.0012610340479192938, False, False)), ('https://www.ics.uci.edu/~dvk/pub/VLDB02_dvk.htm', (0.022222222222222223, False, False))])

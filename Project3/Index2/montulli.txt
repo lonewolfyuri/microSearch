@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fielding/pubs/dissertation/acknowledgments.ht', (0.0022172949002217295, False, True)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/references.ht', (0.0005162622612287042, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/draft-ietf-html-relrev-00.tx', (0.00021470746108427267, False, False))])

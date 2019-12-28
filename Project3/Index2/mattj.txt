@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/wisen98/program.htm', (0.00273224043715847, False, False)), ('https://www.ics.uci.edu/~irus/wisen/wisen98/presentations/Jensen/tsld065.ht', (0.14285714285714285, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Labor+Relations', (0.0006706908115358819, False, True))])

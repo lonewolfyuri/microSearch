@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/GroupCustomizations?from=PmWiki.PerGroupCustomization', (0.0009765625, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPasswordsAdmi', (0.00048192771084337347, False, True)), ('http://sli.ics.uci.edu/PmWiki/GroupCustomization', (0.000980392156862745, False, True))])

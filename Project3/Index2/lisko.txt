@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/eidb.ht', (0.00045558086560364467, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Reinhold.htm', (0.0002360160490913382, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/mendel.htm', (0.023809523809523808, False, False))])

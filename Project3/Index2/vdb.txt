@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Census+Incom', (0.001394700139470014, False, False)), ('http://archive.ics.uci.edu/ml/support/Census+Income', (0.0011123470522803114, False, False)), ('https://ngs.ics.uci.edu/list-of-publications', (0.000157952930026852, False, True))])

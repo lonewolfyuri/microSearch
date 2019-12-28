@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognitio', (0.0041841004184100415, False, True))])

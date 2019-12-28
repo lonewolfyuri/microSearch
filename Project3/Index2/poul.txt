@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Ettel.htm', (0.0017331022530329288, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/how-many-intersects.htm', (0.0009082652134423251, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

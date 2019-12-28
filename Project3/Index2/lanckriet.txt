@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/sccv/2010/schedule.htm', (0.0007215007215007215, False, True)), ('http://vision.ics.uci.edu/sccv/2010/schedule2.htm', (0.0007541478129713424, False, True)), ('http://archive.ics.uci.edu/ml/support/Pen-Based+Recognition+of+Handwritten+Digits', (0.001669449081803005, False, True))])

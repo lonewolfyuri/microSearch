@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video', (0.0010869565217391304, False, True))])

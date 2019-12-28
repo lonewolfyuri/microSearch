@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-06.tx', (4.154031487558676e-05, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-06.htm', (4.1066075315182127e-05, False, True))])

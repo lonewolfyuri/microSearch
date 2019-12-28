@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/travel-experiences', (0.00130718954248366, False, True)), ('https://ngs.ics.uci.edu/freezen-in-time-or', (0.0017985611510791368, False, True))])

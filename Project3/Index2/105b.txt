@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Horowitz.htm', (0.0003952569169960474, False, False)), ('https://www.ics.uci.edu/~eppstein/ca/replicators/b36s245-28c1200.li', (0.006711409395973154, False, False)), ('https://www.stat.uci.edu/minor-in-statistics', (0.0013192612137203166, False, False))])

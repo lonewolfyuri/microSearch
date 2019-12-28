@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data', 0.0013157894736842105, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits', 0.008559201141226819, False, True)]

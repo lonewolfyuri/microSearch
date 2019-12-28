@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KASANDR', 0.0020491803278688526, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.0016778523489932886, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection', 0.0018148820326678765, False, True)]

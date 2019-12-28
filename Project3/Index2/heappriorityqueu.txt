@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/heaps.tx', (0.00015760441292356187, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/ProblemSolving2.tx', (0.0002008838891120932, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/hashing.tx', (0.00016883336147222692, False, True))])

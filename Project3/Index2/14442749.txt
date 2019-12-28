@@ -1,0 +1,1 @@
+dict_items([('http://perennialpolycultures.ics.uci.edu/', (0.0041841004184100415, False, True)), ('http://perennialpolycultures.ics.uci.edu', (0.0041841004184100415, False, True))])

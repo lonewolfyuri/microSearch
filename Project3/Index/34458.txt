@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Wearable+Computing%3A+Classification+of+Body+Postures+and+Movements+%28PUC-Rio%29', 0.0013089005235602095, False, True)]

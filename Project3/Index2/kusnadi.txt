@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=106', (0.0008598452278589854, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_autism_appjam_2014.ph', (0.001128668171557562, False, True))])

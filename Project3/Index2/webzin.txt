@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/170', (0.0014144271570014145, False, True)), ('https://ngs.ics.uci.edu/gutenbergs-revenge', (0.002109704641350211, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/170', (0.0014204545454545455, False, True)), ('https://ngs.ics.uci.edu/category/experiential-computing/page/49', (0.001388888888888889, False, True))])

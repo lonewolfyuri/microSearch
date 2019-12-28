@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schnurer.htm', (0.000643915003219575, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/rpsab.ht', (0.0008281573498964803, False, True))])

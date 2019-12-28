@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Grammatical+Facial+Expressions', 0.003676470588235294, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gesture+Phase+Segmentation', 0.0035460992907801418, False, True)]

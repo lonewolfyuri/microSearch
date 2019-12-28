@@ -1,0 +1,1 @@
+dict_items([('https://jgarcia.ics.uci.edu/%5C%22https:%5C/%5C/jgarcia.ics.uci.edu%5C/?page_id=475%5C', (0.0019455252918287938, False, True)), ('https://jgarcia.ics.uci.edu/?page_id=47', (0.0019455252918287938, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/m.tx', (9.380863039399625e-05, False, False))])

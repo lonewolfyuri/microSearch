@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Activities+of+Daily+Living+%28ADLs%29+Recognition+Using+Binary+Sensors', 0.0025380710659898475, False, True)]

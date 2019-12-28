@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/IntroCourses/FirstCourseSyllabi.htm', (0.001017293997965412, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/sandiego/DAV-status-report_files/outline.ht', (0.001524390243902439, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/sandiego/DAV-status-report_files/slide0008.ht', (0.015873015873015872, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/bti1036/errata.htm', (0.01694915254237288, False, True))])

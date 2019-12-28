@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/photo-eco-system-digital-cameras', (0.0009784735812133072, False, True))])

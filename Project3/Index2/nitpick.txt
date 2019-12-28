@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/doc/guide.61.html/guide.info.htm', (0.02040816326530612, False, False)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (0.00010126582278481013, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.8180968162527466e-05, False, False))])

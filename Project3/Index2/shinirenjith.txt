@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Travel+Review', (0.004016064257028112, False, True)), ('http://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Se', (0.0041841004184100415, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Rating', (0.004081632653061225, False, True))])

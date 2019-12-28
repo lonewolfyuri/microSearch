@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics21/LabManual/02-OrientationToLab.htm', (0.0003729951510630362, False, True)), ('https://www.ics.uci.edu/~jacobson/ics45J/LabManual/01-OrientationToLab.htm', (0.00037750094375235937, False, True)), ('https://ngs.ics.uci.edu/tagging-videos', (0.0011614401858304297, False, True))])

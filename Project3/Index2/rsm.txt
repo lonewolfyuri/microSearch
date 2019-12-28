@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)', (0.0004278990158322636, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/random-n-gon.htm', (0.0005216484089723526, False, True))])

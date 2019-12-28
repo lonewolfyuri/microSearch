@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications/?limit=', (0.00012531328320802005, False, True)), ('https://chenli.ics.uci.edu/publications', (0.0008818342151675485, False, False))])

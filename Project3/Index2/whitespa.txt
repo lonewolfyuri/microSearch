@@ -1,0 +1,1 @@
+dict_items([('http://hana.ics.uci.edu/index.html%3Fq=node%252F138.htm', (0.00273224043715847, False, True)), ('http://hana.ics.uci.edu/index.html%3Fq=content%252Fdocuviz.htm', (0.0027247956403269754, False, True)), ('http://hana.ics.uci.edu/index.html%3Fq=content%252Fdocuviz&page=1.htm', (0.0027397260273972603, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/pubs/index.html', (0.010638297872340425, False, False)), ('https://www.ics.uci.edu/~goodrich/pubs/', (0.010638297872340425, False, False)), ('https://www.ics.uci.edu/~aces/books.ht', (0.0026041666666666665, False, False))])

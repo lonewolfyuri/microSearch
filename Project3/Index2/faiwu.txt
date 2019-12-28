@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Frei.htm', (0.002257336343115124, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Stern.htm', (0.0006226650062266501, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Weingrun.htm', (0.0011299435028248588, False, False))])

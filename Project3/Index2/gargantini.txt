@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/quadtree.htm', (0.005747126436781609, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/graphics.htm', (0.004048582995951417, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (0.0001463771651622347, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/QSAR+aquatic+toxicity', 0.0024330900243309003, False, True), ('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.0015625, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics22/CodeExamples', (0.00684931506849315, False, True)), ('https://www.ics.uci.edu/~thornton/ics22/index.htm', (0.0051813471502590676, False, False)), ('https://www.ics.uci.edu/~thornton/ics22', (0.0051813471502590676, False, False)), ('https://www.ics.uci.edu/~stasio/winter06/lab3/lab3.htm', (0.000166472448809722, False, True))])

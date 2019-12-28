@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SCADI', 0.006896551724137931, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/advising/New%20Transfer%20Students.ph', (0.0026246719160104987, False, True)), ('https://www.ics.uci.edu/ugrad/advising/ICS%20New%20Student%20Welcome.ph', (0.0033222591362126247, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_lamb.ph', (0.0009852216748768472, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/R-Computing-TIMEDOMAIN.tx', (0.00436046511627907, False, False)), ('https://www.ics.uci.edu/~theory/269/180119.htm', (0.017142857142857144, False, True))])

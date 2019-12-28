@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications/?limit=', (0.00016636167027116953, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.tx', (8.331250520703158e-06, False, False))])

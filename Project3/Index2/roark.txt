@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~mopy/personal.htm', (0.002288329519450801, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

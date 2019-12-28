@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Breast+Tissue', 0.0021231422505307855, False, True)]

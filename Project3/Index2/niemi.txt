@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics131-FQ04/schedule.htm', (0.0029411764705882353, False, True)), ('https://www.ics.uci.edu/~redmiles/ics131-FQ03/schedule.htm', (0.004032258064516129, False, True)), ('https://www.stat.uci.edu/seminar-series-2017-2018', (0.000847457627118644, False, True))])

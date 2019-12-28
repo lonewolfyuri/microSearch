@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/3.0/src/filtertree/stringrm.c', (0.0031914893617021275, False, True)), ('http://flamingo.ics.uci.edu/releases/4.0/src/filtertree/src/stringrm.c', (0.0031914893617021275, False, True)), ('http://flamingo.ics.uci.edu/releases/4.1/src/filtertree/src/stringrm.c', (0.0031914893617021275, False, True))])

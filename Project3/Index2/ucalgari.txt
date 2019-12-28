@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/L7-1.htm', (0.000594883997620464, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/perfect.htm', (0.03125, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/why.htm', (0.02127659574468085, False, True))])

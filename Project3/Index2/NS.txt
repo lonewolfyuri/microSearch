@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/kern.htm', (0.0005120327700972862, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/hashing.tx', (0.0002501563477173233, False, True)), ('https://www.ics.uci.edu/~eppstein/cgt/sylver.htm', (0.00010294420424130121, False, False))])

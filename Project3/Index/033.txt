@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data', 0.0012315270935960591, False, True), ('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.0027247956403269754, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (1.7195426016679562e-05, False, True)), ('https://www.ics.uci.edu/~thornton/inf122/Schedule.htm', (0.002109704641350211, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://www.ics.uci.edu/~redmiles/inf233-FQ07', (0.00043725404459991256, False, False))])

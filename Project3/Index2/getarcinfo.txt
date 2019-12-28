@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/docs/AllNames.htm', (0.0007147962830593281, False, True)), ('https://www.ics.uci.edu/~arcadia/Teamware/docs/System.TMWNetwork.htm', (0.006369426751592357, False, True))])

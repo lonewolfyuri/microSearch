@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/inf45/LabManual/GamesWithoutFrontiers', (0.006172839506172839, False, False)), ('https://www.ics.uci.edu/~thornton/ics32/ProjectGuide/Project4', (0.005681818181818182, False, False))])

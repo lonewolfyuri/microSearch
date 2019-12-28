@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/tmp/readme_mbeyeler_email_20150219.tx', (0.0012422360248447205, False, False)), ('https://www.ics.uci.edu/~rickl/courses/tmp/readme_mbeyeler_email_20150127.tx', (0.00129366106080207, False, False)), ('https://www.ics.uci.edu/~minhaenl/class/2015/cs_171_fall/draft/compile_error_log.tx', (0.0016366612111292963, False, True))])

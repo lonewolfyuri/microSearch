@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding', (0.029411764705882353, False, True)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-1.tx', (0.0006680026720106881, False, False))])

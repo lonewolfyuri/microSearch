@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/HCC+Survival', 0.0015128593040847202, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease', 0.002932551319648094, False, True)]

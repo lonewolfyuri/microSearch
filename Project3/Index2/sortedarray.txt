@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/SortedArray.c', (0.027522935779816515, False, False)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed', (0.010869565217391304, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/allergic-reaction', (0.0016474464579901153, False, True)), ('https://wics.ics.uci.edu/2nd-post/', (0.0003808073115003808, False, True)), ('https://wics.ics.uci.edu/2nd-post', (0.0003808073115003808, False, True))])

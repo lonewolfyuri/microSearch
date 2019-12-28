@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/ResearchBio.html', (0.00026041666666666666, False, True)), ('https://ngs.ics.uci.edu/basic-research-in-singapore', (0.001736111111111111, False, True))])

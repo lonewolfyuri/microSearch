@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False)), ('https://wics.ics.uci.edu/event/week-8-arista-networks-info-session', (0.00040032025620496394, False, True))])

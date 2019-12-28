@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/dodecahedron-slices.htm', (0.00646551724137931, False, True))])

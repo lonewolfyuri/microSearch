@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/author/andre/page/9', (0.0009345794392523365, False, True)), ('http://sdcl.ics.uci.edu/category/news/page/9', (0.001310615989515072, False, True)), ('http://sdcl.ics.uci.edu/2012/04/brazilian-collaborators-visit', (0.0013245033112582781, False, True)), ('http://sdcl.ics.uci.edu/page/11', (0.0009727626459143969, False, True))])

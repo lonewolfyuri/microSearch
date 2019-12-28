@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Internet+Advertisements#811517480cb8dca1073ee39a37c9a343a1179aab', 0.0036496350364963502, False, True), ('http://archive.ics.uci.edu/ml/datasets/Internet+Advertisements', 0.0025575447570332483, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digi', (0.0025252525252525255, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/3-179.htm', (0.0008403361344537816, False, True)), ('https://ngs.ics.uci.edu/folk-computing-or-100-computer', (0.0010131712259371835, False, True))])

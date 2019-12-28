@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/Thurston-hexahedra.htm', (0.023255813953488372, False, True)), ('https://www.ics.uci.edu/~eppstein/161/w98.htm', (0.003194888178913738, False, True))])

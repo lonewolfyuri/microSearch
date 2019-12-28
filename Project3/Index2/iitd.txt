@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/new-faculty-spotlight-professor-vijay-vazirani-continues-groundbreaking-research', (0.0014265335235378032, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=124', (0.0033003300330033004, False, False)), ('https://www.ics.uci.edu/community/news/view_news?id=124', (0.0033003300330033004, False, False))])

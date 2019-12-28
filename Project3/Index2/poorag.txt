@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/tmp/WumpusAIs_fixed', (0.03125, False, True)), ('https://www.ics.uci.edu/~rickl/courses/tmp/WumpusAIs_fixed/README.tx', (0.0049382716049382715, False, False))])

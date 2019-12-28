@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/alfred_sec14.bi', (0.020833333333333332, False, False))])

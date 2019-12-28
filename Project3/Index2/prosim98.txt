@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Presentations/ProSim99/Process_Simulation_and_Modeling', (0.043478260869565216, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/Software_Process_Redesign/Paper-Draft.htm', (0.00013713658804168953, False, True)), ('https://www.ics.uci.edu/~wscacchi/publications.htm', (0.0004192872117400419, False, True))])

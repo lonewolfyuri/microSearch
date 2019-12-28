@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu//thesis.htm', (0.009433962264150943, False, True))])

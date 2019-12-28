@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/UploadsAdmi', (0.0004940711462450593, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (2.700440171747995e-05, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0019455252918287938, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+type+mapping', 0.005249343832020997, False, True)]

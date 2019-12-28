@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper', (0.00011012003083360864, False, False)), ('https://www.ics.uci.edu/~eppstein/bibs/eppstein.htm', (0.000555247084952804, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-peaks-motifs/knownResults.tx', (0.00012933264355923435, False, False))])

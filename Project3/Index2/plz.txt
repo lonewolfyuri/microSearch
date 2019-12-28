@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Record+Linkage+Comparison+Pattern', (0.001483679525222552, False, True)), ('https://www.ics.uci.edu/~thornton/ics46/TournamentResults.htm', (0.00016241676140977748, False, True))])

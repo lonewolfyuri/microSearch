@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Datase', (0.0025575447570332483, False, True)), ('https://www.ics.uci.edu/~seal/projects/energy-test-min/tool.htm', (0.0030864197530864196, False, False)), ('https://www.ics.uci.edu/~thornton/ics23/LabManual/BlackAndWhite', (0.00033101621979476995, False, True))])

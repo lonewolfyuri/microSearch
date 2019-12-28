@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/faculty2/wail-yousef-alkowaileet', (0.00025201612903225806, False, False)), ('https://chenli.ics.uci.edu/students', (0.0014005602240896359, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Spambase#48d6beec2a36a87d9d88b6de85dd85a75e5ed24d', 0.0040650406504065045, False, True)]

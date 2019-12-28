@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Dat', (0.0013513513513513514, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016/HSV1-KOS.gff', (0.0011389521640091116, False, False))])

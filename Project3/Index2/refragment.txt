@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-applcore.htm', (0.00025201612903225806, False, True))])

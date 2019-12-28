@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/3.0/docs/GettingStartedDoc.htm', (0.000846740050804403, False, True))])

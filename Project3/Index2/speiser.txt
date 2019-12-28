@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Reisapfel.htm', (0.0033003300330033004, False, False)), ('https://ngs.ics.uci.edu/start-up-in-social-networking-interesting-insights', (0.00186219739292365, False, True))])

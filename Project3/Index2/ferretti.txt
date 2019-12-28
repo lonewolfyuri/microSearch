@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/notes/notes_2014.ph', (0.00020682523267838676, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Beckman.htm', (0.0014144271570014145, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/faculty2/nisha-panwar', (0.000250689395838556, False, True)), ('https://isg.ics.uci.edu/faculty2/shantanu-sharma', (0.0002501876407305479, False, False)), ('https://www.ics.uci.edu/~shantas/cv.htm', (0.012987012987012988, False, True))])

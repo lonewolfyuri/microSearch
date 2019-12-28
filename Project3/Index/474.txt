@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 0.0011299435028248588, False, True), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test', 0.002232142857142857, False, True)]

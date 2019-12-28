@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/interactive-digital-media-in-singapore', (0.0013245033112582781, False, True))])

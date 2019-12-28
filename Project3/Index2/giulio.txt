@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Einhorn.htm', (0.0007751937984496124, False, False)), ('https://www.ics.uci.edu/~jpd/students.shtm', (0.0018281535648994515, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

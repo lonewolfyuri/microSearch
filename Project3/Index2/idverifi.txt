@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~lab/students/acct_activate.ph', (0.001984126984126984, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.2065700059256035e-06, False, False))])

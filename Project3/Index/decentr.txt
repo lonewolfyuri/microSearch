@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+', 0.0049261083743842365, False, False)]

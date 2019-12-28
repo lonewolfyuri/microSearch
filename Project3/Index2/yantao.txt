@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/publications.htm', (0.0006042296072507553, False, False)), ('https://ngs.ics.uci.edu/evaluating-multimedia-algorithms', (0.0006640106241699867, False, False))])

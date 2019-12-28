@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/facebook-in-india', (0.0009319664492078285, False, True))])

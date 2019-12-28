@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes-CS178-Notes/Matla', (0.001075268817204301, False, True)), ('http://flamingo.ics.uci.edu/releases/2.0.1/src/filtertree/data/dummy.tx', (0.005434782608695652, False, False)), ('http://flamingo.ics.uci.edu/releases/2.0/src/filtertree/data/dummy.tx', (0.005434782608695652, False, False))])

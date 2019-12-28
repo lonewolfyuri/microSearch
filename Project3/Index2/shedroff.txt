@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/inf-242-winter-2017', (0.0005780346820809249, False, True)), ('https://transformativeplay.ics.uci.edu/classes/inf-242', (0.0006489292667099286, False, True))])

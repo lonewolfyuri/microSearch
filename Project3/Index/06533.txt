@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Arrhythmia', 0.004032258064516129, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dermatology', 0.0038461538461538464, False, True), ('http://archive.ics.uci.edu/ml/datasets/Artificial+Characters', 0.004, False, True)]

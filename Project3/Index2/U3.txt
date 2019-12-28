@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper', (0.00013622122326658494, False, False)), ('https://www.ics.uci.edu/~dsm/dyn/pictures/croc/index.ht', (0.006772009029345372, False, True))])

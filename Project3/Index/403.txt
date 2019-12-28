@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling', 0.004739336492890996, False, True), ('http://archive.ics.uci.edu/ml/datasets/ser+Knowledge+Modeling+Data+%28Students%27+Knowledge+Levels+on+DC+Electrical+Machines%29', 0.004273504273504274, False, True)]

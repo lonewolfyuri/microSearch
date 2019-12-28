@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/tutor-resources/82-assembly-resources/111-assembly-syntax-registe', (0.016666666666666666, False, True)), ('http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/112-c-pointer', (0.018518518518518517, False, True))])

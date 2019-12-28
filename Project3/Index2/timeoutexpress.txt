@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/inf102/LabManual/ErlangTutorial.htm', (0.00014040999719180006, False, False))])

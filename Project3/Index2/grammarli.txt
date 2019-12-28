@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/career/international-students', (0.0009302325581395349, False, True)), ('https://mswe.ics.uci.edu/career/resources-for-international-students', (0.0008333333333333334, False, True))])

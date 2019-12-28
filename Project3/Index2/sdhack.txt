@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/sd-hacks', (0.00041425020712510354, False, True))])

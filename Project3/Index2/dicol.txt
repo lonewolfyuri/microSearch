@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/glossaryExternal.htm', (0.0002947244326554671, False, False))])

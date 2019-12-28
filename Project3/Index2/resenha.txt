@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/?s=publication', (0.001037344398340249, False, True))])

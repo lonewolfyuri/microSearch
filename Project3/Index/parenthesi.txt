@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0010526315789473684, False, True), ('http://archive.ics.uci.edu/ml/datasets/Repeat+Consumption+Matrices', 0.0033222591362126247, False, True)]

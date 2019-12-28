@@ -1,0 +1,1 @@
+dict_items([('http://fr.ics.uci.edu/chile', (0.01639344262295082, False, True)), ('http://fr.ics.uci.edu/haiti', (0.0027548209366391185, False, True))])

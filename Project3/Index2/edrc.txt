@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridge', (0.002105263157894737, False, True))])

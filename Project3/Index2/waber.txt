@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/notes/notes_2013.ph', (0.00018515089798185522, False, True)), ('https://ngs.ics.uci.edu/talk-practical-apps-of-multimedia-search', (0.0011750881316098707, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Nettalk+Corpus)', 0.003389830508474576, False, True), ('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Nettalk+Corpus%29', 0.003389830508474576, False, True), ('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait', 0.002531645569620253, False, True)]

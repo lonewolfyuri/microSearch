@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.0022222222222222222, False, True)]

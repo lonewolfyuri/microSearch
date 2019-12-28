@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/qtvr', (0.001088139281828074, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/untetra/schoen.po', (0.058823529411764705, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/untetra', (0.0125, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~hosubl', (0.0015037593984962407, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FAccessKeys', (0.002932551319648094, False, True)), ('https://www.ics.uci.edu/~ics1c/doc/guide.61.html/guide.12.htm', (0.000784313725490196, False, True)), ('https://www.ics.uci.edu/~ics1c/doc/www_faq.htm', (0.00020964360587002095, False, True))])

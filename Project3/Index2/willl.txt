@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-21/lectures/constructdebug/lecture.htm', (0.0011337868480725624, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-31/lectures/constructdebug/lecture.htm', (0.001098901098901099, False, True)), ('https://www.ics.uci.edu/ugrad/policies/Change_of_Major.ph', (0.0011441647597254005, False, True))])

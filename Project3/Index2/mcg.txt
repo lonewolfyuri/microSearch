@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/HCC+Surviva', (0.0014727540500736377, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Ecol', (0.0027624309392265192, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Yeas', (0.0027247956403269754, False, True))])

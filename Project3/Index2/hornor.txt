@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~leiy17/2016/02/01/research_noc', (0.006329113924050633, False, True)), ('https://www.ics.uci.edu/~leiy17/categories/research', (0.006329113924050633, False, True))])

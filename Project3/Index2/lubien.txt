@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Piller.htm', (0.0001556178026766262, False, False)), ('https://www.ics.uci.edu/about/annualreport/2005-06/donors.ph', (0.003484320557491289, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Stern.htm', (0.000591715976331361, False, False))])

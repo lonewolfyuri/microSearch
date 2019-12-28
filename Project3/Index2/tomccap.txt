@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/towards-immersive-telepresence', (0.001375515818431912, False, True))])

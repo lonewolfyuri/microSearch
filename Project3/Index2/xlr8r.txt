@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/models/Activator/index.htm', (0.005714285714285714, False, False)), ('http://computableplant.ics.uci.edu/models/Activator/activator-single-cell.xm', (0.01694915254237288, False, True))])

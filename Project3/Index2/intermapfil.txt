@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Variable', (0.0022988505747126436, False, True)), ('http://sli.ics.uci.edu/PmWiki/LinkVariable', (0.001893939393939394, False, True)), ('http://sli.ics.uci.edu/PmWiki/InterMap?from=PmWiki.CustomInterMa', (0.0011350737797956867, False, True)), ('http://sli.ics.uci.edu/PmWiki/InterMa', (0.0011402508551881414, False, True))])

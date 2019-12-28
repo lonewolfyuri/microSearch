@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications/?limit=', (0.00010997470581766194, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Arber.htm', (0.0032397408207343412, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Bonard.htm', (0.0023492560689115116, False, False))])

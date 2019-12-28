@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/queries.tx', (0.003048780487804878, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/queries.tx', (0.003048780487804878, False, False)), ('https://www.ics.uci.edu/~alexv/pubs.htm', (0.00040257648953301127, False, True))])

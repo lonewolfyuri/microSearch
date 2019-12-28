@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Firm-Teacher_Clave-Direction_Classification', 0.001652892561983471, False, True), ('http://archive.ics.uci.edu/ml/datasets/Somerville+Happiness+Survey', 0.002551020408163265, False, True)]

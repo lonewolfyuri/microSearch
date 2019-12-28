@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/svm.htm', (0.0012239902080783353, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/citelist.htm', (0.0012254901960784314, False, True))])

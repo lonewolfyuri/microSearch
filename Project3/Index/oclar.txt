@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Opinion+Corpus+for+Lebanese+Arabic+Reviews+%28OCLAR%29', 0.07692307692307693, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00499/', 0.041666666666666664, False, True)]

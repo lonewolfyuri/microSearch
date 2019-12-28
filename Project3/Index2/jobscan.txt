@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/career/personal-branding-marketing', (0.0008488964346349745, False, True)), ('https://mswe.ics.uci.edu/career/personal-branding-networking', (0.0007716049382716049, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/register-now-for-global-game-jam-2018', (0.0008319467554076539, False, False)), ('https://www.informatics.uci.edu/register-now-for-global-game-jam-2018/', (0.0008319467554076539, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=127', (0.0022222222222222222, False, False))])

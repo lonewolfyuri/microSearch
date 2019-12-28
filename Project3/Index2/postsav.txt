@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/southern-california-computer-vision-meetup', (0.0018450184501845018, False, True))])

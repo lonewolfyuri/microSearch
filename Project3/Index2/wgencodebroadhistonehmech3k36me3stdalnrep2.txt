@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/tree-hmm-sample-data', (0.003125, False, True)), ('https://cbcl.ics.uci.edu/public_data/tree-hmm-sample-data/md5sum.tx', (0.0009009009009009009, False, False))])

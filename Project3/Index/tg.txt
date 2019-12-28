@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 0.0026246719160104987, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+dynamic+gas+mixtures', 0.008032128514056224, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0018814675446848542, False, True)]

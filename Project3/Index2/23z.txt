@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/3.0/src/filtertree/ftindexerdiscardlists.c', (0.023255813953488372, False, False)), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet009.ht', (0.0011148272017837235, False, True))])

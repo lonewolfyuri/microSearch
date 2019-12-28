@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/PolII-CPSF100-Comparison/Differntial-Peaks/P2-peaks', (0.025, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/PolII-CPSF100-Comparison/Differntial-Peaks/P4-peaks', (0.025, False, True))])

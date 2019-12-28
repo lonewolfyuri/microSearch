@@ -1,0 +1,1 @@
+dict_items([(17497, (0.03125, False, True))])

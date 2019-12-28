@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Z-Alizadeh+San', (0.001256281407035176, False, True)), ('http://archive.ics.uci.edu/ml/datasets/extention+of+Z-Alizadeh+sani+datase', (0.0010330578512396695, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-295/fall-2019', (0.00033967391304347825, False, True))])

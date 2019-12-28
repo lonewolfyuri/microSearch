@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Dat', (0.0016835016835016834, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/leib.ht', (0.0012135922330097086, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/neuman/neuman-qna.htm', (0.0035971223021582736, False, False))])

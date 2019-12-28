@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab', (0.03125, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/20170605_CLIP_HUWK_Elmira', (0.1111111111111111, True, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/20170605_CLIP_HUWK_Elmira/bwfiles', (0.1, True, True))])

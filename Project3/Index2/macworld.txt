@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/general-updates/page/12', (0.001763668430335097, False, True)), ('https://ngs.ics.uci.edu/apple-becoming-more-multimedia', (0.002036659877800407, False, True)), ('https://ngs.ics.uci.edu/blog/page/46', (0.0017667844522968198, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/46', (0.0017761989342806395, False, True))])

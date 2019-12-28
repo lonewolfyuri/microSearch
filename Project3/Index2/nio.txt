@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Portugal.htm', (0.00011896264572924102, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.1551245467565474e-05, False, False))])

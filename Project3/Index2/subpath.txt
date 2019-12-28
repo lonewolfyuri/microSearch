@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (2.4136516135261037e-05, False, False)), ('https://www.ics.uci.edu/~kibler/ics171/homeworks/SearchCoding.htm', (0.002881844380403458, False, True))])

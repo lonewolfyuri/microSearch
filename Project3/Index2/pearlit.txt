@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/voronoi.htm', (0.001893939393939394, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/metal.htm', (0.02040816326530612, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

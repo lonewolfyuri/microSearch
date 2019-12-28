@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~willmlam/teaching/cs175_w12/Mancala/README.m', (0.01276595744680851, False, False)), ('https://www.ics.uci.edu/~willmlam/teaching/cs175_w12/Mancala', (0.023809523809523808, False, True)), ('https://www.ics.uci.edu/~willmlam/teaching/cs175_w12/Mancala/README.htm', (0.04, False, True))])

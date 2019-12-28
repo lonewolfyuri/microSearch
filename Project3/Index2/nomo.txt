@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/members.htm', (0.0015527950310559005, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://wics.ics.uci.edu/event/how-to-start-a-startup-class-series-from-stanford-university', (0.00029308323563892143, False, True))])

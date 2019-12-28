@@ -1,0 +1,1 @@
+dict_items([('https://cwicsocal18.ics.uci.edu/program/', (0.0001211827435773146, False, True)), ('https://cwicsocal18.ics.uci.edu/program', (0.0001211827435773146, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c.tx', (4.252423881612519e-05, False, False))])

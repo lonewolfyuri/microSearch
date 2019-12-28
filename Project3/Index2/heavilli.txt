@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/classes/ics-169-ab-capstone-game-project-fall-2017', (0.0006455777921239509, False, True))])

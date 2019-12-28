@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Password', (0.0005813953488372093, False, True)), ('http://sli.ics.uci.edu/PmWiki/WikiFarm', (0.0005714285714285715, False, True))])

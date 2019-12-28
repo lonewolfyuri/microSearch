@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Buchenholz.htm', (0.002514668901927913, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Werter.htm', (0.003976143141153081, False, False))])

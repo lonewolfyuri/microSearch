@@ -1,0 +1,1 @@
+dict_items([('http://tippersweb.ics.uci.edu', (0.005797101449275362, False, True))])

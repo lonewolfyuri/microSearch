@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~djp3/classes/2010_09_INF133/Assignments/Assignment04.htm', (0.002702702702702703, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/mathop.htm', (0.002457002457002457, False, False)), ('https://ngs.ics.uci.edu/hammer-syndrome-in-sciences', (0.001184834123222749, False, True))])

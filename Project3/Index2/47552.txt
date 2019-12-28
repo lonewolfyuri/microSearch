@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+dynamic+gas+mixture', (0.00398406374501992, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FullFEVdataExercise9-21.tx', (0.00020777062123415748, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

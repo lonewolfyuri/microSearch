@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+Project', (0.00030543677458766036, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

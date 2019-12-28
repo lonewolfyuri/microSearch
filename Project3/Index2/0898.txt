@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Musk+(Version+2)', (0.0008460236886632825, False, False)), ('http://archive.ics.uci.edu/ml/support/Musk+(Version+1)', (0.0008460236886632825, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.tx', (8.331250520703158e-06, False, False))])

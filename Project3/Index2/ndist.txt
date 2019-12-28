@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/quickshift.htm', (0.0014814814814814814, False, True))])

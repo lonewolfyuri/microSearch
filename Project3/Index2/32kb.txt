@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_2.html', (0.001658374792703151, False, False)), ('https://www.ics.uci.edu/~amrm/slides/amrm_structure/pta/tsld031.ht', (0.1, False, True)), ('https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia', (0.0016778523489932886, False, False))])

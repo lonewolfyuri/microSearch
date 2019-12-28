@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD.tx', (8.53294498952581e-06, False, False)), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD-random.tx', (8.53294498952581e-06, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.458783045325432e-05, False, False))])

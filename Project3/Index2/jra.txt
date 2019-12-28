@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/subiso.bi', (9.884353069091628e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.306708230473369e-06, False, False))])

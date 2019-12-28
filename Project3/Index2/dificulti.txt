@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/language-for-experiences', (0.001644736842105263, False, True))])

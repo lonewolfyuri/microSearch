@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/reference.htm', (0.000180635838150289, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.020262915967871e-06, False, False))])

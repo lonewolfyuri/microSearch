@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/informatics-department-welcomes-world-renowned-scholar-marian-petre', (0.0008673026886383347, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=140', (0.0025, False, False))])

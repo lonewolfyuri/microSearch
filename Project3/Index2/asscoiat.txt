@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/PolII-CPSF100-Comparison/AverageProfiles-CloseUp/inf', (0.02857142857142857, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/PolII-CPSF100-Comparison/AverageProfiles-CloseUp/READM', (0.02857142857142857, False, False))])

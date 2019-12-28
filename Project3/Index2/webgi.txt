@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/lopes-featured-speaker-at-2016-opensimulator-community-conference', (0.0008873114463176575, False, False)), ('https://www.informatics.uci.edu/lopes-featured-speaker-at-2016-opensimulator-community-conference/', (0.0008873114463176575, False, False))])

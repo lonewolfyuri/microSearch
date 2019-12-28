@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~welling/publications_physics/publications_physics.htm', (0.006622516556291391, False, True))])

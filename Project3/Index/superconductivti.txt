@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Superconductivty+Data', 0.125, True, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schmerlowicz.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/family.htm', (0.0004048582995951417, False, True))])

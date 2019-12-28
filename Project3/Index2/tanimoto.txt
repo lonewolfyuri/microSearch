@@ -1,0 +1,1 @@
+dict_items([('http://iasl.ics.uci.edu/people/yoshitom', (0.0029154518950437317, False, True)), ('https://iasl.ics.uci.edu/people/yoshitom/', (0.0029154518950437317, False, True)), ('https://www.ics.uci.edu/~dan/pub.htm', (0.0007936507936507937, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (4.879238838741156e-05, False, False))])

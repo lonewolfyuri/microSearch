@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Horse+Colic', (0.0011350737797956867, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Horse+Coli', (0.004329004329004329, False, True))])

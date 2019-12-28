@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KASANDR', 0.0024271844660194173, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0011001100110011, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0005184033177812338, False, True)]

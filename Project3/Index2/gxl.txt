@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/gdraw.htm', (0.0027624309392265192, False, True)), ('https://www.ics.uci.edu/~yuzok', (0.0036363636363636364, False, True)), ('https://www.ics.uci.edu/~taylor/ICS125_FQ04/ProjectOpportunities.htm', (0.0125, False, True)), ('https://www.ics.uci.edu/~taylor/ICS125_FQ04/syllabus.htm', (0.0003022061045633122, False, True))])

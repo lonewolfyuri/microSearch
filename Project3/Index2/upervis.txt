@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (0.00017975912277548085, False, True))])

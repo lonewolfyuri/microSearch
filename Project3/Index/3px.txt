@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Qualitative+Structure+Activity+Relationships', 0.004016064257028112, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0002748007694421544, False, True)]

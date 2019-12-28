@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/fisher.htm', (0.0019267822736030828, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/vlad.htm', (0.00186219739292365, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.tx', (0.000149947518368571, False, True))])

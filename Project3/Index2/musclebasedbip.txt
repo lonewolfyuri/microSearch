@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Reading', (0.03571428571428571, False, True)), ('https://www.ics.uci.edu/~rickl/courses/cs-271/lit', (0.03333333333333333, False, True))])

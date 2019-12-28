@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment', 0.004032258064516129, False, True), ('http://archive.ics.uci.edu/ml/support/Entree+Chicago+Recommendation+Data#a210d2418e04c74da13adc0356b79daa197b9d89', 0.003745318352059925, False, True)]

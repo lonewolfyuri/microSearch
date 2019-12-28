@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schlang.htm', (0.00041649312786339027, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schamroth.htm', (0.00018942981625307822, False, False))])

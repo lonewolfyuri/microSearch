@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)', (0.0010940919037199124, False, True)), ('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+1)', (0.0019157088122605363, False, False)), ('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+2)', (0.0015772870662460567, False, False))])

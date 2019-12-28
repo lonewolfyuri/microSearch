@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Troubleshootin', (0.0012004801920768306, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/empiricalaa.tx', (0.00034922297887200976, False, True))])

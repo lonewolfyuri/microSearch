@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00496', (0.047619047619047616, False, True)), ('http://archive.ics.uci.edu/ml/index.ph', (0.0023094688221709007, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Datase', (0.1, True, True))])

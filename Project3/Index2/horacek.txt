@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schuldenfrei.htm', (0.002079002079002079, False, False))])

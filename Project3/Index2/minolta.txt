@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/ivy/luckyleprechauns/DImageDad.htm', (0.02631578947368421, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/riptide/ss2/GloriaWithNewCamera.htm', (0.03225806451612903, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

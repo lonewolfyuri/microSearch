@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.00013439053890606102, False, False)), ('https://www.ics.uci.edu/~alfchen/teaching/cs295-2019-Spring/readings.htm', (0.0015600624024961, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

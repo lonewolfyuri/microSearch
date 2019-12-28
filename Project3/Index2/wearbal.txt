@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/cyber-hugs', (0.0016722408026755853, False, True)), ('https://ngs.ics.uci.edu/objective-self-3-quantified-self-is-a-step-towards-objective-self/', (0.0013227513227513227, False, True)), ('https://ngs.ics.uci.edu/objective-self-3-quantified-self-is-a-step-towards-objective-self', (0.0013227513227513227, False, True))])

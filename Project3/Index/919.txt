@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KASANDR', 0.002403846153846154, False, True), ('http://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring', 0.0013736263736263737, False, True)]

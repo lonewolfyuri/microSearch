@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Weitzenblum.htm', (0.00186219739292365, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.931535449788662e-07, False, False))])

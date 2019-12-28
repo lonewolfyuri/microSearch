@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/smallnum.htm', (0.005780346820809248, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/refs.html', (0.002457002457002457, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/approx.htm', (0.0007849293563579278, False, True))])

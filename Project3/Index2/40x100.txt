@@ -1,0 +1,1 @@
+dict_items([('https://support.ics.uci.edu/studentID/assets/dc6a810b/jui/css/base/images', (0.037037037037037035, False, True))])

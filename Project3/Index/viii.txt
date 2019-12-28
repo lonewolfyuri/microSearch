@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mobile+Robots', 0.00411522633744856, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.002173913043478261, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00017828489926903192, False, True)]

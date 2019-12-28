@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/past_projects/cliques/download/READM', (0.002079002079002079, False, False)), ('http://sprout.ics.uci.edu/past_projects/cliques/download/CLQ_LICENS', (0.004201680672268907, False, False))])

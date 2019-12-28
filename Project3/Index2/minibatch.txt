@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~welling/NSFcareer/software/software_BMRF/doc/MRFLearning/CD.htm', (0.0032679738562091504, False, True)), ('https://www.ics.uci.edu/~welling/NSFcareer/software/software_BMRF/doc/MRFLearning/PL.htm', (0.0033222591362126247, False, True))])

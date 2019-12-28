@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/toolkit/docs', (0.08333333333333333, False, True)), ('http://flamingo.ics.uci.edu/toolkit', (0.018867924528301886, False, True)), ('http://flamingo.ics.uci.edu/toolkit/docs/UdfDoc.htm', (0.2, True, True)), ('http://flamingo.ics.uci.edu/toolkit/docs/index.htm', (0.08333333333333333, False, True))])

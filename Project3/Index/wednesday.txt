@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity', 0.002751031636863824, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.0016501650165016502, False, True)]

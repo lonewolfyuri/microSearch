@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/fan_mobisys19.bi', (0.015625, False, False)), ('https://www.ics.uci.edu/~alfchen/publications.htm', (0.006493506493506494, False, False)), ('https://www.ics.uci.edu/~alfchen/yuxuan_mobisys19.bi', (0.015625, False, False))])

@@ -1,1 +1,0 @@
-[('https://aiclub.ics.uci.edu/', 0.0028328611898017, False, True), ('https://aiclub.ics.uci.edu/#body', 0.0028328611898017, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.0028328611898017, False, True), ('http://archive.ics.uci.edu/ml/datasets/Predict+keywords+activities+in+a+online+social+media', 0.002717391304347826, False, True)]

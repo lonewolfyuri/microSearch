@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0043859649122807015, False, True), ('http://archive.ics.uci.edu/ml/datasets/Qualitative+Structure+Activity+Relationships', 0.00390625, False, True), ('http://archive.ics.uci.edu/ml/datasets/Relative+location+of+CT+slices+on+axial+axis', 0.0023752969121140144, False, True)]

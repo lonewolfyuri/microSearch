@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/adobe-info-session', (0.0002960331557134399, False, True))])

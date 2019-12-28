@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/GuitarFactory/GIG/GigReadme.ht', (0.0004116920543433512, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (4.1556498657205636e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.932814750173283e-05, False, False))])

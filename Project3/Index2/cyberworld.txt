@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/static-and-dynamic-cyberspaces', (0.0035169988276670576, False, True))])

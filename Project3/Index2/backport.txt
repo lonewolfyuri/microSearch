@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ReleaseNote', (0.00013025921583952066, False, True)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.00014671361502347418, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.086168865409967e-06, False, False))])

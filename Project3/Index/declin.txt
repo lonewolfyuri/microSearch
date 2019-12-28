@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.0015151515151515152, False, True), ('http://archive.ics.uci.edu/ml/datasets/First-order+theorem+proving', 0.004694835680751174, False, False)]

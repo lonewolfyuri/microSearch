@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Breast+Cancer', (0.0006234413965087282, False, True)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00042052144659377626, False, True)), ('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Splice-junction+Gene+Sequences)', (0.0007380073800738007, False, False))])

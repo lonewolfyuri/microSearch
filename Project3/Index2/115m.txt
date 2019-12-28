@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/basic-research-in-singapore', (0.001736111111111111, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/sankofa-receives-bronze-medal-at-2018-international-serious-play-awards', (0.000697350069735007, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=139', (0.000966183574879227, False, False))])

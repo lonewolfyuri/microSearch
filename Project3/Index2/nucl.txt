@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescop', (0.0010940919037199124, False, True)), ('http://archive.ics.uci.edu/ml/datasets/MiniBooNE+particle+identificatio', (0.002967359050445104, False, True)), ('https://www.ics.uci.edu/~welling/publications_physics/publications_physics.htm', (0.017543859649122806, False, True))])

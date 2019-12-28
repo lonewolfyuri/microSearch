@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/ForsythEtAl_FTCG_2007', (0.002331002331002331, False, False))])

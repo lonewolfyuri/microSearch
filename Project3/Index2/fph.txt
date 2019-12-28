@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/professor-levoratos-darpa-project-aims-to-strengthen-autonomous-drone-systems', (0.0010638297872340426, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=145', (0.001851851851851852, False, True)), ('https://www.ics.uci.edu/community/news/view_news?id=145', (0.001851851851851852, False, True))])

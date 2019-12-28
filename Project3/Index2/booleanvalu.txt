@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-21/lectures/arrays1d/lecture.htm', (0.0001996007984031936, False, True)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/java-designPattern.htm', (0.0032409074540871445, False, True)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.tx', (0.0013027194268034523, False, True))])

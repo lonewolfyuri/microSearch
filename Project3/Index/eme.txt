@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Sponge', 0.005333333333333333, False, True), ('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data', 0.003389830508474576, False, True)]

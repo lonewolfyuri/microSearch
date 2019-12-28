@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~minhaenl/class/2015/cs_171_fall/draft/results/results_vs_PoorAI_w9_h7_g1/terriblysimple/TerriblySimpleCKAI.class_log.tx', (0.0012202562538133007, False, False))])

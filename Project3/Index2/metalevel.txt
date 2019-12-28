@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/compose/compose_design.htm', (0.0005045408678102926, False, True)), ('https://www.ics.uci.edu/~andre/publications.htm', (0.00026860059092130003, False, True)), ('https://www.ics.uci.edu/~corps/pubs.htm', (0.0008764241893076249, False, True))])

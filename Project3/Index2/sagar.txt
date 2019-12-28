@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~cs237/prevprojects.htm', (0.000555247084952804, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.004807692307692308, False, True)), ('https://ngs.ics.uci.edu/visiting-nagpur', (0.0001973164956590371, False, True))])

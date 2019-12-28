@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/seismic-bumps', 0.001639344262295082, False, True)]

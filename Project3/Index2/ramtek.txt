@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/photos-then-and-now', (0.0016366612111292963, False, True)), ('https://ngs.ics.uci.edu/photography-in-india', (0.0009643201542912247, False, True)), ('https://ngs.ics.uci.edu/5-million-channel-tv-is-here', (0.001455604075691412, False, True))])

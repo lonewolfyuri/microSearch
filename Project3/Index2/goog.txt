@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/404.ph', (0.02064896755162242, False, True)), ('https://www.ics.uci.edu/~darkhipo', (0.0017211703958691911, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/in-varna-bulgaria', (0.0008547008547008547, False, False))])

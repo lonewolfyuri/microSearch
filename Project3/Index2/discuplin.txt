@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/grand-challenge-for-ai', (0.0017391304347826088, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/190', (0.0014792899408284023, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/68', (0.0013717421124828531, False, True)), ('https://ngs.ics.uci.edu/blog/page/190', (0.0014727540500736377, False, True))])

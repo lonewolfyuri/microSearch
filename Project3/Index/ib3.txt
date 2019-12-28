@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Heart+Disease#cb68337ad074a5f5ce7d8ca8a7a0b7bad1931070', 0.00039308176100628933, False, True), ('http://archive.ics.uci.edu/ml/support/Servo#5657ca96b13a51d96b97c4f8d8f5e724a616b9e6', 0.004672897196261682, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/pubs/uclahonors.htm', (0.0008071025020177562, False, False)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/references.ht', (0.0005988023952095808, False, True)), ('https://www.ics.uci.edu/~projects/dissemination/IDClass.ht', (0.001336898395721925, False, False))])

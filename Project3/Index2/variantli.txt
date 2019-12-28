@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/covdet-fundamentals.htm', (0.0009132420091324201, False, True))])

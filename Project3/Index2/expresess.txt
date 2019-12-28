@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/f13-6B/homework/week', (0.0016556291390728477, False, True))])

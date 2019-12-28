@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/SCHOOLdata.tx', (0.005086313193588163, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/cns-1930.ht', (0.0013477088948787063, False, True))])

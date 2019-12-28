@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/now-video-in-radio', (0.0016420361247947454, False, True))])

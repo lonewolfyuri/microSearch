@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/educating-the-next-generation-about-cybersecurity', (0.0009689922480620155, False, False)), ('https://www.informatics.uci.edu/educating-the-next-generation-about-cybersecurity/', (0.0009689922480620155, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=141', (0.0035587188612099642, False, False))])

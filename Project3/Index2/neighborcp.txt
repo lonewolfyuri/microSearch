@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/Main.c', (0.0016556291390728477, False, True)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/FastPair.c', (0.004761904761904762, False, False)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/Neighbors.c', (0.01, False, False))])

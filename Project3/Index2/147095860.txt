@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/LRH-1/macs_lLRH_q5_mfold32_p-10_fdr1_FE10.tx', (7.836499279042066e-06, False, False)), ('https://cbcl.ics.uci.edu/public_data/FXR/nearestGenes.tx', (5.4839594187003014e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/LRH-1/fxr_merged_mfold10_FDR5_peaks.tx', (5.0758844728693974e-05, False, False))])

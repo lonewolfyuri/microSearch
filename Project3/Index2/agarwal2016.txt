@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~agarwal/ICVGIP_2016.bi', (0.0196078431372549, False, False))])

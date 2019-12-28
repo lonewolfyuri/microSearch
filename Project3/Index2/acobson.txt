@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics21/LabManual/02A-PairProgramming.htm', (0.0006997900629811056, False, True)), ('https://www.ics.uci.edu/~jacobson/ics45J/LabManual/02-PairProgramming.htm', (0.0007627765064836003, False, True))])

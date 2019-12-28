@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/grad/policies/GradPolicies_ConcurrentEnrollment.ph', (0.0024154589371980675, False, True)), ('https://www.ics.uci.edu/ugrad/sao/Concurrent_Enrollment.ph', (0.002066115702479339, False, True))])

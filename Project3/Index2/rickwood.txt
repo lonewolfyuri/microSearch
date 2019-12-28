@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Australian+Sign+Language+signs+(High+Quality)', (0.0036101083032490976, False, True)), ('http://archive.ics.uci.edu/ml/support/Australian+Sign+Language+signs', (0.0036900369003690036, False, True))])

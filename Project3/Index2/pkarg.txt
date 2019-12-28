@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/functionalprogramming.tx', (0.0008739076154806492, False, True))])

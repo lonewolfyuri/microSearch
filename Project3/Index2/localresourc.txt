@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/versioning/draft-kaler-webdav-versioning-00.tx', (0.0002966478789676654, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/versioning/draft-webdav-versioning-00.tx', (0.0002944640753828033, False, False))])

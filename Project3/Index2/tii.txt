@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~givargis', (0.001524390243902439, False, False)), ('https://www.ics.uci.edu/community/news/notes/notes_2009.ph', (0.0006049606775559589, False, False)), ('https://www.ics.uci.edu/~kobsa/phds/phds.ht', (0.008264462809917356, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=', (0.0005417118093174431, False, True))])

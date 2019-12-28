@@ -1,0 +1,1 @@
+dict_items([('http://riscit.ics.uci.edu/', (0.007936507936507936, False, False)), ('http://riscit.ics.uci.edu', (0.007936507936507936, False, False)), ('http://riscit.ics.uci.edu/index.htm', (0.007936507936507936, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lipman.htm', (0.0009765625, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/news/page/7', (0.0008764241893076249, False, True)), ('https://www.cs.uci.edu/professor-tsudiks-upcoming-security-focused-keynote-talks', (0.0014970059880239522, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=143', (0.0036900369003690036, False, True))])

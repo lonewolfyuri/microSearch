@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Syskill+and+Webert+Web+Page+Ratings', (0.003703703703703704, False, True)), ('http://archive.ics.uci.edu/ml/support/El+Nino', (0.003367003367003367, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/bar/misc/Submarine.htm', (0.07142857142857142, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/bar/misc/PortSteps.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/bar/misc/MollDeLaFusta.htm', (0.25, True, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/leib.ht', (0.0002960331557134399, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/israel.ht', (0.0002906131938390003, False, True))])

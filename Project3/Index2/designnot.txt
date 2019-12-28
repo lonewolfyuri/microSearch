@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/DesignNote', (0.3333333333333333, True, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.002277904328018223, False, True))])

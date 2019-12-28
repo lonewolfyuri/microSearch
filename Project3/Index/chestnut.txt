@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00403/', 0.05, False, True), ('http://archive.ics.uci.edu/ml/datasets/chestnut+%E2%80%93+LARVIC', 0.005747126436781609, False, False)]

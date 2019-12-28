@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/toolbox/misc/vl_cummax.de', (0.002881844380403458, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/allen-subalgebras/Sd.tx', (0.00043271311120726956, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/allen-subalgebras/Ed.tx', (0.00043271311120726956, False, False))])

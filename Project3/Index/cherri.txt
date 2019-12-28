@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Folio', 0.002898550724637681, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 8.56091088091773e-05, False, True)]

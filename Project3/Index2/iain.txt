@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/dodecahedron-slices.htm', (0.0020491803278688526, False, False)), ('https://www.ics.uci.edu/~dechter/courses/ics-271/fall-06/project/teams-fall06.htm', (0.011363636363636364, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

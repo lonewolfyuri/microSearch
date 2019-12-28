@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classificatio', (0.00392156862745098, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Document+Understandin', (0.004132231404958678, False, True))])

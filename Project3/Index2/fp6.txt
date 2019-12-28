@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gai', (0.003389830508474576, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-vita.htm', (0.00033003300330033004, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0012853470437017994, False, False))])

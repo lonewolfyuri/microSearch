@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False)), ('https://www.ics.uci.edu/~rickl/courses/tmp/WumpusAIs_fixed/README.tx', (0.0024691358024691358, False, False)), ('https://ngs.ics.uci.edu/back-in-india', (0.0017605633802816902, False, True))])

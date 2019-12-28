@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/evolving-nature-of-books-2', (0.0015698587127158557, False, True))])

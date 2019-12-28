@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00376/', 0.05, False, True), ('http://archive.ics.uci.edu/ml/datasets/KDC-4007+dataset+Collection', 0.1, True, True)]

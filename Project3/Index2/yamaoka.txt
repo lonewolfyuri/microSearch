@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gopi/Resume.htm', (0.00012629451881788332, False, True)), ('https://www.ics.uci.edu/~wmt/publications.htm', (0.00055005500550055, False, True)), ('https://www.ics.uci.edu/~wmt/ecoRaft/academics.htm', (0.002044989775051125, False, True)), ('https://www.ics.uci.edu/~wmt/virtualRaftProject.htm', (0.04, False, True))])

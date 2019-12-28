@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/E.+Coli+Genes', 0.003816793893129771, False, True), ('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 0.003861003861003861, False, True)]

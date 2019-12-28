@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/extras/cs178/LinearSVM_Demo.htm', (3.111484489249821e-05, False, True)), ('http://sli.ics.uci.edu/extras/cs178/Perceptron_Demo.htm', (3.1947861090699976e-05, False, True))])

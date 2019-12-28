@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification', 0.003194888178913738, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings', 0.0024813895781637717, False, True)]

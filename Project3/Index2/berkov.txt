@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.00013439053890606102, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Himmelblau.htm', (0.0019047619047619048, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/1869censustips.ht', (0.001937984496124031, False, False))])

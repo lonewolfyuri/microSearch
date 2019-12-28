@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Libras+Movemen', (0.00228310502283105, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gesture+Phase+Segmentatio', (0.0078125, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-175a/winter-2010/Projects_list.htm', (0.0017482517482517483, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kantor.htm', (0.001639344262295082, False, False)), ('https://www.ics.uci.edu/~dechter/courses/ics-175a/spring-2011/Projects_list.htm', (0.0029239766081871343, False, True))])

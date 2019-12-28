@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/alex-khou/', (0.0008460236886632825, False, True)), ('https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/alex-khou', (0.0008460236886632825, False, True)), ('https://www.stat.uci.edu/employers-of-statistics-grad-students', (0.001834862385321101, False, False))])

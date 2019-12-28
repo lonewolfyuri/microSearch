@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collectio', (0.003134796238244514, False, True)), ('https://www.ics.uci.edu/about/annualreport/2005-06/donors.ph', (0.0012165450121654502, False, True))])

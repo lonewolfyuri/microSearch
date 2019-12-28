@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aburtsev/238P/2018fall/lectures/lecture13-memory-management/readme-memory-management.tx', (0.015384615384615385, False, False))])

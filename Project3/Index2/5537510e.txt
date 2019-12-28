@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/cs274/homeworks/hw6_materials/dataset2.tx', (0.00011111111111111112, False, False))])

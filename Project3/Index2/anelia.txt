@@ -1,0 +1,1 @@
+dict_items([('https://emj.ics.uci.edu/papers/computational-field-geology/', (0.0019230769230769232, False, False)), ('https://emj.ics.uci.edu/papers/computational-field-geology', (0.0019230769230769232, False, False)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (0.00015080681646810435, False, True))])

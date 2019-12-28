@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/31/f13.htm', (0.0032679738562091504, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_autism_appjam_2013.ph', (0.001455604075691412, False, False))])

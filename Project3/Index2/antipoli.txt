@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/seminar-series-archive/?seminar_id=16', (0.0009569377990430622, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-vita.htm', (0.0008613264427217916, False, True)), ('https://www.ics.uci.edu/~nodari', (0.0030959752321981426, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/groups.htm', (0.00510204081632653, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Folio', 0.003125, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Russian%20Federation.htm', (0.0625, False, True))])

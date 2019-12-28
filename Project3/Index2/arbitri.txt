@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/h22/hw/wordlist-random.tx', (2.0617706486330462e-05, False, False)), ('https://www.ics.uci.edu/~kay/courses/h22/hw/wordlist.tx', (2.0617706486330462e-05, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-31/lectures/functions/functions.tx', (0.00020508613617719443, False, True))])

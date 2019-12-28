@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Projects/Even', (0.006060606060606061, False, True)), ('http://sli.ics.uci.edu/Projects/DataMinin', (0.005154639175257732, False, True)), ('https://www.ics.uci.edu/~ics1c/hw3/17.htm', (0.02631578947368421, False, True)), ('https://www.ics.uci.edu/~ihler/code/event.htm', (0.01680672268907563, False, True))])

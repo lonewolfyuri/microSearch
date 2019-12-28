@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~shantas/publications.htm', (0.0011013215859030838, False, True)), ('https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling', (0.0015060240963855422, False, True))])

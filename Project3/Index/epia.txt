@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Meta-data', 0.0016722408026755853, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity', 0.0009970089730807576, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+Fires', 0.0014705882352941176, False, True)]

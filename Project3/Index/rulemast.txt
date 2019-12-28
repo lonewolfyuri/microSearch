@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Shuttle+Landing+Control', 0.0035460992907801418, False, True)]

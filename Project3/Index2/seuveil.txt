@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/cisco-and-video-surveillance', (0.0014044943820224719, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/language-and-the-eventweb', (0.0016863406408094434, False, True)), ('https://ngs.ics.uci.edu/visiting-nagpur', (0.00047214353163361664, False, True))])

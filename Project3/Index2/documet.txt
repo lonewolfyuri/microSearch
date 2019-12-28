@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics23/LabManual/01-UnearthingThePast.htm', (0.0003835826620636747, False, False)), ('https://www.ics.uci.edu/~ics1c/hw4/20.htm', (0.00048661800486618007, False, True))])

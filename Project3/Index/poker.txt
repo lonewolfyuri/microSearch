@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.001851851851851852, False, True), ('http://archive.ics.uci.edu/ml/index.php', 0.0020325203252032522, False, True), ('http://archive.ics.uci.edu/ml/datasets/Poker+Hand', 0.125, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/poker/', 0.14285714285714285, True, True)]

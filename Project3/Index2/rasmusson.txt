@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/obamas-popularity', (0.0014727540500736377, False, True))])

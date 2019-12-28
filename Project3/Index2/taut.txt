@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (6.955554009876887e-05, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/text/4letter.word', (0.00046533271288971617, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

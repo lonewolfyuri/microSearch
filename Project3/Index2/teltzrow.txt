@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~corps/pubs.htm', (0.001488095238095238, False, True)), ('https://www.ics.uci.edu/~kobsa/phds/phds.ht', (0.0015082956259426848, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-research.ht', (0.004830917874396135, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0001765848490199541, False, False))])

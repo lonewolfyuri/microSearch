@@ -1,0 +1,1 @@
+dict_items([('http://hai.ics.uci.edu/publications.htm', (0.0014947683109118087, False, True)), ('https://www.ics.uci.edu/~yunanc', (0.0016611295681063123, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (4.087471898630697e-05, False, True)), ('https://www.ics.uci.edu/~yunanc/', (0.0016611295681063123, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Striker.htm', (0.0006613756613756613, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/dpsi_293wt_cstf64ko/majiq.lo', (0.0004434589800443459, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (6.26330953275711e-05, False, True)), ('https://ngs.ics.uci.edu/presentation-of-flickr-story-on-newscom', (0.0015527950310559005, False, True))])

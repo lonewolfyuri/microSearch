@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Character', (0.0045045045045045045, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/dpsi_helawt_snd1kdhela/majiq.lo', (0.0004697040864255519, False, False))])

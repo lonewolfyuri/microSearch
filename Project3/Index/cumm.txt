@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease', 0.001893939393939394, False, True)]

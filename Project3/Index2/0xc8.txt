@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/uuid-guid/draft-leach-uuids-guids-01.tx', (0.00023126734505087883, False, True)), ('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics/tmw/connect.', (0.0035460992907801418, False, False)), ('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics/tmw/branch.', (0.0035460992907801418, False, False))])

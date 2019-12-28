@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/eades60/Bill.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/eades60/Titto.htm', (0.03571428571428571, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/eades60/Beppe.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

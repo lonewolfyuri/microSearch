@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node264.htm', (0.002577319587628866, False, True)), ('http://sprout.ics.uci.edu/projects/usec/usec.htm', (0.0003929603952058832, False, True)), ('http://sprout.ics.uci.edu/projects/uwsnwebpage/security_uwsn.htm', (0.0005324003650745361, False, True))])

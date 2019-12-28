@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/arrayimplementation.tx', (0.0002254283137962128, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.0018684603886397607, False, False)), ('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/disput01.htm', (6.228589224540641e-05, False, False))])

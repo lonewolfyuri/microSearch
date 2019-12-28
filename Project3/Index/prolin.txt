@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/HIV-1+protease+cleavage', 0.0015060240963855422, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wine', 0.0025, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/face-recognition-engine', (0.001445086705202312, False, True))])

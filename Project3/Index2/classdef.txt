@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes-CS178-Notes/KNearestNeighbor', (0.0014727540500736377, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (3.934993900759454e-05, False, False))])

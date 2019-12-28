@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Pubs/Bibliography', (0.001026694045174538, False, True)), ('https://www.ics.uci.edu/~ihler/papers/bib.html', (0.0013089005235602095, False, True))])

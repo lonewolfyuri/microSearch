@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29', 0.00980392156862745, False, False), ('http://archive.ics.uci.edu/ml/datasets/EMG+dataset+in+Lower+Limb', 0.0035460992907801418, False, True), ('http://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition', 0.001834862385321101, False, True)]

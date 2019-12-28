@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Japanese+Vowels', 0.0038910505836575876, False, True), ('http://archive.ics.uci.edu/ml/datasets/Simulated+Falls+and+Daily+Living+Activities+Data+Set', 0.004545454545454545, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0013054830287206266, False, True)]

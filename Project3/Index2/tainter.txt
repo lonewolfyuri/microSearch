@@ -1,0 +1,1 @@
+dict_items([('http://riscit.ics.uci.edu/', (0.0026246719160104987, False, True)), ('http://riscit.ics.uci.edu/events/tainter/tainter.htm', (0.020833333333333332, False, True)), ('http://riscit.ics.uci.edu', (0.0026246719160104987, False, True)), ('http://riscit.ics.uci.edu/index.htm', (0.0026246719160104987, False, True))])

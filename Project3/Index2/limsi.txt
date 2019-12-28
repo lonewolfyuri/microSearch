@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/UIUC/4S-rep+agreemt-public-abstract-04.htm', (0.01818181818181818, False, False))])

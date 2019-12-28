@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/lazoo/FalseGharial.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/lazoo/AguaFresca.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/lazoo/StellersSeaEagle.htm', (0.07142857142857142, False, True))])

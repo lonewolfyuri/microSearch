@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%2', (0.0015873015873015873, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data', (0.0015873015873015873, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/sdwap/SaraEggshell.htm', (0.023809523809523808, False, True))])

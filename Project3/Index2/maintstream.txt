@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/a-really-important-video-news-ieeetv', (0.0014326647564469914, False, True))])

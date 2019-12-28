@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Wine', (0.0002842524161455372, False, True))])

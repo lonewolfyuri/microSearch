@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PPG-DaLiA', 0.002421307506053269, False, True), ('http://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29', 0.002583979328165375, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0021231422505307855, False, True)]

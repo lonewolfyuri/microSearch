@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (9.642271719217047e-05, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=66', (0.0015313935681470138, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/audio/READM', (0.008, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

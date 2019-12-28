@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/198', (0.001375515818431912, False, True)), ('https://ngs.ics.uci.edu/blog/page/198', (0.0013698630136986301, False, True)), ('https://ngs.ics.uci.edu/future-of-web-is-here-now', (0.0016778523489932886, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/71', (0.0015105740181268882, False, True))])

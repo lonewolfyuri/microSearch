@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Data', 0.0014204545454545455, False, True)]

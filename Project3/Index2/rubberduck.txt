@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~emilyo/teaching/info122w2014/samplecode/lecture7/StrategyPattern/src', (0.022727272727272728, False, True)), ('https://www.ics.uci.edu/~emilyo/teaching/info122w2014/samplecode/lecture7/StrategyPattern/bin', (0.022727272727272728, False, True))])

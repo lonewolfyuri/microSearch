@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/friends/proj125/proj125_samples.ph', (0.0025906735751295338, False, False))])

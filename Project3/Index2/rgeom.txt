@@ -1,0 +1,1 @@
+dict_items([('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slo/slo-3l-discrete-r.htm', (1.9485580670303975e-05, False, True))])

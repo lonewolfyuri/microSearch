@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.0010235414534288639, False, True)]

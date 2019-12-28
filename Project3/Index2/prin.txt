@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aces/books.ht', (0.002288329519450801, False, False)), ('https://www.ics.uci.edu/~kay/courses/141/restaurants.tx', (0.002932551319648094, False, False)), ('https://www.ics.uci.edu/~kay/courses/h21/restaurants.tx', (0.002932551319648094, False, False))])

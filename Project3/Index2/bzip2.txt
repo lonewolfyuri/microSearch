@@ -1,0 +1,1 @@
+dict_items([('http://hobbes.ics.uci.edu/manual_v1.x.shtm', (0.0014265335235378032, False, True)), ('http://hobbes.ics.uci.edu/manual.shtm', (0.0013812154696132596, False, True)), ('http://hobbes.ics.uci.edu/faq.shtm', (0.002512562814070352, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.295297472104813e-07, False, False))])

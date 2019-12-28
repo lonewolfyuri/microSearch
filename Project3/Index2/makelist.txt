@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/wisen98/presentations/Jensen/tsld001.ht', (0.04, False, True)), ('https://www.ics.uci.edu/~thornton/ics32/Notes/DuckTyping', (0.00099601593625498, False, True)), ('https://www.ics.uci.edu/~irus/wisen/wisen98/presentations/Jensen/tsld065.ht', (0.0625, False, True))])

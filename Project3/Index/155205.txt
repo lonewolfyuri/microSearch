@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', 0.004149377593360996, False, True)]

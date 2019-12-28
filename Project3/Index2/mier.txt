@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/ukraine', (0.001488095238095238, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/3-179.htm', (0.0002965599051008304, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/israel.ht', (0.004098360655737705, False, True))])

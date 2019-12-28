@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.0002157497303128371, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/east-west-and-object-event', (0.0014970059880239522, False, True))])

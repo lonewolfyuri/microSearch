@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Z-Alizadeh+Sani', 0.003952569169960474, False, False), ('http://archive.ics.uci.edu/ml/datasets/extention+of+Z-Alizadeh+sani+dataset', 0.003861003861003861, False, False)]

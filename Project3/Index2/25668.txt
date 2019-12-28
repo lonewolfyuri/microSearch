@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Briefner.htm', (0.0012674271229404308, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Oberleder.htm', (0.007692307692307693, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9771784832628877e-07, False, False))])

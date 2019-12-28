@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/3.0/src/filtertree/wrappers/example.c', (0.0029498525073746312, False, True)), ('http://flamingo.ics.uci.edu/releases/4.0/src/filtertree/src/wrappers/example.c', (0.002008032128514056, False, True)), ('http://flamingo.ics.uci.edu/releases/4.1/src/filtertree/src/wrappers/example.c', (0.002008032128514056, False, True))])

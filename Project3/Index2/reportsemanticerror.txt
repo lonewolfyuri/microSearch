@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics142/LabManual/Assignment5', (0.0016750418760469012, False, True)), ('https://www.ics.uci.edu/~thornton/ics142/LabManual/Assignment3', (0.00019642506383814575, False, True))])

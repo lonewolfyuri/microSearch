@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Upgrade', (0.0029850746268656717, False, True)), ('http://sli.ics.uci.edu/PmWiki/ReleaseNote', (8.67227473766369e-05, False, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.002053388090349076, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.02, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00226/', 0.14285714285714285, True, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/Java-Community-Process.ht', (0.16666666666666666, True, True))])

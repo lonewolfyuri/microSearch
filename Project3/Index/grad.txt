@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.002898550724637681, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.002890173410404624, False, True), ('http://archive.ics.uci.edu/ml/support/Glass+Identification#10cb2e0135796333fda81f2d65da6be1e1ed9e06', 0.0005197505197505198, False, True)]

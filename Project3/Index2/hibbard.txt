@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/f03-outline/06.randbs', (0.005319148936170213, False, False)), ('https://www.ics.uci.edu/~wmt/publications.htm', (0.000351493848857645, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (4.879238838741156e-05, False, False))])

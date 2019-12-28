@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0010070493454179255, False, False)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/xslt.htm', (0.0027397260273972603, False, True)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/xmlSchema.htm', (0.0004506534474988734, False, True))])

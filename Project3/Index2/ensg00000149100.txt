@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-mock', (9.730750143528564e-06, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/ASEvents/fromGTF.RI.tx', (3.4240321402483564e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-dnlef', (2.331654542063048e-05, False, True))])

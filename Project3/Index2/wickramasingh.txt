@@ -1,0 +1,1 @@
+dict_items([('http://iasl.ics.uci.edu/people/rahimims', (0.0009541984732824427, False, True)), ('https://iasl.ics.uci.edu/people/rahimims/', (0.0009541984732824427, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+senso', (0.0016313213703099511, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~marios/pubs.htm', (0.012658227848101266, False, True)), ('https://ngs.ics.uci.edu/digital-photo-album', (0.0012062726176115801, False, True)), ('https://duttgroup.ics.uci.edu/publications/?limit=3', (0.0005777007510109763, False, True))])

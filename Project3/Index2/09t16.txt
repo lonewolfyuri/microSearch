@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/michal-shmueli-scheuer-conversational-bots-for-customer-support', (0.00035075412136092597, False, True)), ('https://wics.ics.uci.edu/event/computer-expert-badge-brownie-troops-workshop', (0.0004086636697997548, False, True))])

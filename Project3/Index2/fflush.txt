@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/119-cpp-big-thre', (0.0022026431718061676, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (4.224757076468103e-05, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.0005720823798627002, False, True))])

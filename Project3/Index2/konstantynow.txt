@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Spira.htm', (0.000508646998982706, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kluger.htm', (0.0008143322475570033, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/lds-list.tx', (0.00048087198119256254, False, False))])

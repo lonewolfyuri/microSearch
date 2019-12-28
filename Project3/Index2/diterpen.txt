@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Musk+(Version+2)', (0.0011299435028248588, False, False)), ('http://archive.ics.uci.edu/ml/support/Musk+(Version+1)', (0.0011299435028248588, False, False)), ('http://archive.ics.uci.edu/ml/support/Trains', (0.004, False, True))])

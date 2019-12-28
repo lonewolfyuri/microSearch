@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~zhaoxia/publications/GGWald_manuscript/SourceCode/pvalues.tx', (5.049484952534841e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016/HSV1-KOS.gff', (0.0011389521640091116, False, False))])

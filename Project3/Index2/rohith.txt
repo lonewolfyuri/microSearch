@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/new-askcom', (0.0017241379310344827, False, True)), ('https://ngs.ics.uci.edu/sourav-ganguli-issue', (0.0017482517482517483, False, True)), ('https://ngs.ics.uci.edu/special-effects-in-indian-tv', (0.0011695906432748538, False, True))])

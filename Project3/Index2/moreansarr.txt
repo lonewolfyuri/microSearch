@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/class-use/SearchAnswer.htm', (0.0035971223021582736, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/SearchAnswer.htm', (0.00909090909090909, False, False))])

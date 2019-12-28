@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~keldefra/teaching/spring2013/uci_cs132/cs132_outline.ht', (0.0003786444528587656, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

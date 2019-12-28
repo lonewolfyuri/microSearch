@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/Hela-tracks/iCLIP-in-HeLa', (0.1, True, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/mESC-tracks', (0.05263157894736842, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/Hela-tracks', (0.041666666666666664, False, True))])

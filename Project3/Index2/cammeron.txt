@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Lymphography', (0.0009950248756218905, False, True)), ('http://archive.ics.uci.edu/ml/support/Breast+Cancer', (0.00021767522855898998, False, True)), ('http://archive.ics.uci.edu/ml/support/Primary+Tumor', (0.0013679890560875513, False, True))])

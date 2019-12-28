@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (5.130573085013596e-05, False, True)), ('https://www.ics.uci.edu/~gbowker/forget.htm', (9.633911368015414e-05, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/dsift.htm', (0.0013227513227513227, False, True))])

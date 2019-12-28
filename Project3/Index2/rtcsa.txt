@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~leiy17', (0.003105590062111801, False, True)), ('https://www.ics.uci.edu/~leiy17/categories/paper', (0.0009871668311944718, False, True)), ('https://www.ics.uci.edu/~klefstad/vita.html', (0.001002004008016032, False, False)), ('https://duttgroup.ics.uci.edu/publications/?limit=3', (0.0002127659574468085, False, True))])

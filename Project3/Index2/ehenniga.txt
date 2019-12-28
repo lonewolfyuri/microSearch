@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/s11_22/Project5/facile.gr', (0.01694915254237288, False, False))])

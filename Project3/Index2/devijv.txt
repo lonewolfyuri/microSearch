@@ -1,0 +1,1 @@
+dict_items([("http://archive.ics.uci.edu/ml/support/MONK's+Problems", (0.0013850415512465374, False, True)), ('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Promoter+Gene+Sequences)', (0.0005181347150259067, False, True))])

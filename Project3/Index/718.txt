@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KASANDR', 0.0028011204481792717, False, True), ('http://archive.ics.uci.edu/ml/datasets/Economic+Sanctions', 0.0035971223021582736, False, True)]

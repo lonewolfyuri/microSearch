@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/technical-thoughts/page/33', (0.002680965147453083, False, True)), ('https://ngs.ics.uci.edu/offline-social-networks', (0.003929273084479371, False, True)), ('https://ngs.ics.uci.edu/blog/page/98', (0.0026954177897574125, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/98', (0.0027063599458728013, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patient', (0.0035714285714285713, False, True)), ('http://www-db.ics.uci.edu/pages/links/research_groups.shtm', (0.008130081300813009, False, False))])

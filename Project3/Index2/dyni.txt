@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Fiala.htm', (0.04, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Klarfeld.htm', (0.004901960784313725, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pitzele.htm', (4.3725404459991255e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center', (0.0012315270935960591, False, True)), ('https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia', (0.0015432098765432098, False, True)), ('https://ngs.ics.uci.edu/facebook-in-india', (0.0009891196834817012, False, True))])

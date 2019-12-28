@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/s13_cs262', (0.0025252525252525255, False, False)), ('https://www.ics.uci.edu/~irani/w10_cs262', (0.0029498525073746312, False, False)), ('https://www.ics.uci.edu/~irani/s18_cs262/index.htm', (0.001869158878504673, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/lngsm-h.ht', (0.002105263157894737, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/meilech.ht', (0.2, True, True))])

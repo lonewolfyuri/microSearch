@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Arrhythmi', (0.003484320557491289, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Artificial+Character', (0.0034602076124567475, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Abalon', (0.0007955449482895784, False, True)), ('http://archive.ics.uci.edu/ml/support/Abalone', (0.0005141388174807198, False, True)), ('https://www.ics.uci.edu/~theory/269/s12.htm', (0.013157894736842105, False, True)), ('https://www.ics.uci.edu/~theory/269/120504.htm', (0.034482758620689655, False, True))])

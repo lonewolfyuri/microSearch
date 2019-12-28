@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw3/05.htm', (0.003816793893129771, False, False)), ('https://www.ics.uci.edu/~wscacchi/Papers/UIUC/sqa-overview.htm', (0.0011494252873563218, False, True)), ('https://ngs.ics.uci.edu/china', (0.0007656967840735069, False, True))])

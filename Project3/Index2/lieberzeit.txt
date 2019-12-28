@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Datase', (0.0035587188612099642, False, True))])

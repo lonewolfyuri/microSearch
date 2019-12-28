@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/w10_23/Lab2/BlackAndWhite.ht', (0.0008539709649871904, False, True)), ('https://www.ics.uci.edu/~thornton/ics46/ProjectGuide/Project3', (0.0003453038674033149, False, True)), ('https://www.ics.uci.edu/~thornton/ics23/LabManual/BlackAndWhite', (0.0007861635220125787, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/ME', (0.004098360655737705, False, True)), ('http://sprout.ics.uci.edu/projects/ndn/publications.htm', (0.012987012987012988, False, True))])

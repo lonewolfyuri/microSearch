@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/research_staff', (0.00023946360153256704, False, True)), ('https://isg.ics.uci.edu/faculty2/roberto-yus-peirote', (0.16666666666666666, True, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/pubs/DC-Sec678.htm', (0.0002949852507374631, False, True)), ('https://cbcl.ics.uci.edu/public_data/FXR/nearestGenes.tx', (5.4839594187003014e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/ASEvents/fromGTF.RI.tx', (1.1413440467494522e-05, False, False))])

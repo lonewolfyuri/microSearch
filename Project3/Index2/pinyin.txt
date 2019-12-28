@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications/?limit=', (0.0001446340757882557, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/kern.htm', (0.00018426386585590566, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://chenli.ics.uci.edu/publications', (0.0006082725060827251, False, True))])

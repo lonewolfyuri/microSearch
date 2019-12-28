@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Grammatical+Facial+Expression', (0.003401360544217687, False, True)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_cv_2000.ht', (0.0008802816901408451, False, True)), ('https://ngs.ics.uci.edu/list-of-publications', (0.00014781966001478197, False, True))])

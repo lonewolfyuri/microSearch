@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-Jon-NNTP.htm', (0.0008410428931875525, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (1.6412545749971278e-05, False, True)), ('https://www.ics.uci.edu/~vitus/ics1c/doc/pine.htm', (0.00021253985122210415, False, True))])

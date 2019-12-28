@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/seminar-series-archive', (0.0008576329331046312, False, True)), ('https://www.cs.uci.edu/seminar-series-archive/?seminar_id=20', (0.0016051364365971107, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.8180968162527466e-05, False, False))])

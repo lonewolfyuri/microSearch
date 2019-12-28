@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modelin', (0.003816793893129771, False, True)), ('http://archive.ics.uci.edu/ml/datasets/ser+Knowledge+Modeling+Data+%28Students%27+Knowledge+Levels+on+DC+Electrical+Machines%2', (0.0037174721189591076, False, True))])

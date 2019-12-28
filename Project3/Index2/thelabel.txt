@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/EMG+data+for+gesture', (0.002, False, True))])

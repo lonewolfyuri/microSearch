@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/2019/05/exploring-the-unexplored-in-social-software-development-platforms', (0.0012239902080783353, False, False)), ('http://sdcl.ics.uci.edu', (0.000758150113722517, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kibler/ics171/syllabus', (0.0072992700729927005, False, False)), ('https://www.ics.uci.edu/~alexv/152/Win11/general.htm', (0.0019342359767891683, False, True)), ('https://www.ics.uci.edu/~kibler/ics277a/syllabus', (0.01020408163265306, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

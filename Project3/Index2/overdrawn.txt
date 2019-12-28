@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ziv/ooad/classes/tsld004.ht', (0.01639344262295082, False, True)), ('https://www.ics.uci.edu/~ziv/ooad/classes/tsld006.ht', (0.011111111111111112, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://www.ics.uci.edu/~ziv/ooad/classes/tsld005.ht', (0.01694915254237288, False, True))])

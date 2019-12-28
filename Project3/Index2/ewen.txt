@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Heitel.htm', (0.0017301038062283738, False, False)), ('https://www.ics.uci.edu/~magda/cs620/announceOG.htm', (0.0005995203836930455, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

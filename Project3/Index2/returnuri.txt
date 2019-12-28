@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/draft-jensen-webdav-ext-01.tx', (0.00022937533450569615, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/webdav-draft-06.htm', (0.00016433853738701725, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/draft-jensen-webdav-ext-00.tx', (0.0002008435428800964, False, True))])

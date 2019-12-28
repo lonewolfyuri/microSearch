@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Australian+Credit+Approval)', (0.0026041666666666665, False, False)), ('http://archive.ics.uci.edu/ml/support/Adult', (0.0012285012285012285, False, False))])

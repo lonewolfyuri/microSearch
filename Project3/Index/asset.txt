@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance', 0.001443001443001443, False, True), ('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants', 0.0016313213703099511, False, True), ('http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data', 0.0016638935108153079, False, True)]

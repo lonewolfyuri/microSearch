@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/famgar2/BlackWidow.htm', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/famgar2/Flagbearer.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/famgar2/TreeBehindTree.htm', (0.14285714285714285, False, True))])

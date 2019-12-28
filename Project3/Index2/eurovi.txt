@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/Rubel_Eurovis_2006', (0.0025, False, False)), ('https://www.ics.uci.edu/~majumder/pub.htm', (0.00043402777777777775, False, True)), ('https://www.ics.uci.edu/~fowlkes/publications.htm', (0.0003337783711615487, False, True))])

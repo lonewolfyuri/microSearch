@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales', 0.003003003003003003, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.000946969696969697, False, True)]

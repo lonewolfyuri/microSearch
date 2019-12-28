@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Ecol', (0.004291845493562232, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Yeas', (0.004273504273504274, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

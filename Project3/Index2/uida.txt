@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/arcadia_papers/ui/UIDA_abstract.htm', (0.015503875968992248, False, False)), ('https://www.ics.uci.edu/~arcadia/arcadia_papers/ui/ui_papers.htm', (0.004975124378109453, False, True))])

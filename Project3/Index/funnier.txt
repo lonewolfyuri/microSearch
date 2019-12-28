@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/YouTube+Comedy+Slam+Preference+Data', 0.004672897196261682, False, False)]

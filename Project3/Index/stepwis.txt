@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0007363770250368188, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00021110407430863416, False, True), ('http://archive.ics.uci.edu/ml/datasets/Somerville+Happiness+Survey', 0.0028169014084507044, False, True)]

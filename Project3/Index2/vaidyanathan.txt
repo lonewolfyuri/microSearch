@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ics126/wq99_syllabus.html', (0.0003167564143173899, False, True)), ('https://ngs.ics.uci.edu/c-k-prahalad', (0.0006798096532970768, False, True)), ('https://redmiles.ics.uci.edu/publication/', (0.0001726817475392851, False, True)), ('https://redmiles.ics.uci.edu/publication', (0.0001726817475392851, False, True))])

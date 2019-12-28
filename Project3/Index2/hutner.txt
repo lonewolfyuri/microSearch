@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Figatner.htm', (0.001525165226232842, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Heitner.htm', (0.008090614886731391, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

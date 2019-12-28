@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Vehicle+Silhouettes)', (0.00045578851412944393, False, True)), ('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', (0.00024177949709864604, False, True)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00011832919181161993, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SPECT+Heart', 0.0024630541871921183, False, True), ('http://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure', 0.0034602076124567475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Avila', 0.002631578947368421, False, True)]

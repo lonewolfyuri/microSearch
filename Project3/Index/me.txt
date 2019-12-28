@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.0016051364365971107, False, True), ('http://archive.ics.uci.edu/ml/datasets/Twin+gas+sensor+arrays', 0.001594896331738437, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures', 0.0010905125408942203, False, True)]

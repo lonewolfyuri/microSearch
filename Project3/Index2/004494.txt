@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity', (0.0009813542688910696, False, True))])

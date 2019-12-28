@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Ma', (0.0010141987829614604, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Geo-Magnetic+field+and+WLAN+dataset+for+indoor+localisation+from+wristband+and+smartphon', (0.0014619883040935672, False, True))])

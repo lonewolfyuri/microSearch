@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.00013439053890606102, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.0083610264640727e-05, False, False))])

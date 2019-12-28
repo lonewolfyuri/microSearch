@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Reuters+Transcribed+Subset', 0.002364066193853428, False, True)]

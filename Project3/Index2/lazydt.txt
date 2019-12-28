@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Audiology+(Standardized)', (0.0006238303181534623, False, True)), ('http://archive.ics.uci.edu/ml/support/Audiology+(Original)', (0.0005920663114268798, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 0.0026246719160104987, False, True), ('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.0025252525252525255, False, True)]

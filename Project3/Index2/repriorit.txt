@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/i42/wildride/problem_description_files/index.htm', (0.00042625745950554135, False, True)), ('https://www.ics.uci.edu/~kay/courses/i42/hw/labE.htm', (0.0007974481658692185, False, True)), ('https://www.ics.uci.edu/~redmiles/ics125-FQ01/adp.htm', (0.00023568230025925054, False, True))])

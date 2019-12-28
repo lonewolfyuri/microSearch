@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/92', (0.0014992503748125937, False, True)), ('https://ngs.ics.uci.edu/perth-is-a-nice-place', (0.0019230769230769232, False, True)), ('https://ngs.ics.uci.edu/blog/page/92', (0.0014925373134328358, False, True)), ('https://ngs.ics.uci.edu/category/personal/page/6', (0.0015015015015015015, False, True))])

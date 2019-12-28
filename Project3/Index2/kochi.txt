@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://duttgroup.ics.uci.edu/group-members', (0.00032216494845360824, False, False)), ('https://duttgroup.ics.uci.edu/group-members/', (0.00032216494845360824, False, False))])

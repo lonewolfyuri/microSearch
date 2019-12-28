@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/', 0.038461538461538464, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dodgers+Loop+Sensor', 0.1111111111111111, True, True)]

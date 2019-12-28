@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://wics.ics.uci.edu/wics-winter-quarter-week-3-mock-technical-interview', (0.00037936267071320183, False, True))])

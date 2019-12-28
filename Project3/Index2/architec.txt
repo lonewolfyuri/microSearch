@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jmoorkan/vhdlref/architec.htm', (0.0625, False, True)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/references.ht', (0.0003473428273706148, False, True)), ('https://www.ics.uci.edu/~arcadia/C2/c2.htm', (0.00625, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/acm-multimedia-2007-day-2', (0.001256281407035176, False, True)), ('https://ngs.ics.uci.edu/social-networking-is-ephemeral', (0.0011534025374855825, False, True))])

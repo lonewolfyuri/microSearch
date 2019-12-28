@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Adul', (0.0012391573729863693, False, True)), ('http://archive.ics.uci.edu/ml/support/Adult', (0.0006020469596628537, False, True)), ('http://archive.ics.uci.edu/ml/support/Yeast', (0.0019047619047619048, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Yeas', (0.00145985401459854, False, True))])

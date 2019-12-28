@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/sccv/2009/attendees.htm', (0.009345794392523364, False, True)), ('https://www.ics.uci.edu/about/annualreport/2005-06/alumni.ph', (0.004273504273504274, False, False)), ('https://www.ics.uci.edu/~andre/informatics122f2006.htm', (0.0016501650165016502, False, True))])

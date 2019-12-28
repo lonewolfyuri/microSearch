@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Hybrid+Indoor+Positioning+Dataset+from+WiFi+RSSI%2C+Bluetooth+and+magnetometer', 0.0019193857965451055, False, True)]

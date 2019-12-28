@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/pres/stc-99/tsld007.ht', (0.02702702702702703, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/scenarios/draft-ietf-webdav-scenarios-00.tx', (0.0001669449081803005, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/prague2/KampaMuseum2.htm', (0.011363636363636364, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/prague2/KampaMuseum1.htm', (0.014084507042253521, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher', (0.001841620626151013, False, True)), ('https://ngs.ics.uci.edu/uncertainty-in-databases', (0.0013280212483399733, False, True))])

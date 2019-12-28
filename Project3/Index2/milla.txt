@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kaufman.htm', (0.0011614401858304297, False, False)), ('https://www.ics.uci.edu/~eppstein/eppstein.htm', (0.0003448275862068965, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

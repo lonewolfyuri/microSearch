@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.0017953321364452424, False, True), ('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29', 0.0012165450121654502, False, True)]

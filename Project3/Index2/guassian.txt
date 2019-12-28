@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/R-Computing-TIMEDOMAIN.tx', (0.0014534883720930232, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Quadruped+Mammal', (0.0023094688221709007, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_gmm.htm', (0.002702702702702703, False, False))])

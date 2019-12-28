@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/new-search-companies', (0.001488095238095238, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-19.htm', (0.002066115702479339, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/MappingAlgorithm.htm', (0.008, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/class-use/PVSchema.htm', (0.0027100271002710027, False, True))])

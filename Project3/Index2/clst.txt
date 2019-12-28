@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/vl/ikmeans_elkan.t', (0.002544529262086514, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.0015015015015015015, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease', 0.00303951367781155, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/research/publications', (0.0003466204506065858, False, True)), ('http://esl.ics.uci.edu/people.htm', (0.01282051282051282, False, True)), ('https://ngs.ics.uci.edu/partners/collaborators', (0.00196078431372549, False, True)), ('https://ngs.ics.uci.edu/partners/collaborators/', (0.00196078431372549, False, True))])

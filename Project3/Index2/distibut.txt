@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Balance+Scal', (0.002136752136752137, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/writingclasses/lecture.htm', (0.0002072538860103627, False, True))])

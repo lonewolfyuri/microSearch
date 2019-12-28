@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-19.htm', (0.0014005602240896359, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/PVRelation.htm', (0.00625, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/class-use/PVInstance.htm', (0.004048582995951417, False, True))])

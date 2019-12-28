@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29', 0.0022624434389140274, False, True), ('http://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping', 0.005025125628140704, False, False)]

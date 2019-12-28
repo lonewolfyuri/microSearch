@@ -1,0 +1,1 @@
+dict_items([('https://today.uci.edu/department/information_computer_sciences?calendar=', (0.0009319664492078285, False, True)), ('https://today.uci.edu/department/information_computer_science', (0.0009319664492078285, False, True)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (5.288207297726071e-05, False, True))])

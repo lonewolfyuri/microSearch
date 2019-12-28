@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/research_staff', (0.0002370791844476055, False, True)), ('https://isg.ics.uci.edu/faculty2/yang-zhihui', (0.2, True, True)), ('https://chenli.ics.uci.edu/students', (0.0011534025374855825, False, True))])

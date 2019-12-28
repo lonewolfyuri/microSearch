@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Dow+Jones+Inde', (0.004291845493562232, False, True))])

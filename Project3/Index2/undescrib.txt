@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/Hendriks_GenomeBio_2006', (0.0037313432835820895, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-SMTP.htm', (0.0007968127490039841, False, True)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (5.9252236771938144e-05, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

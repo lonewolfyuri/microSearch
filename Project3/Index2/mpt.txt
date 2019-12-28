@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch15/Chap15DPpackage.tx', (0.00980392156862745, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/BIDABook.html', (0.009433962264150943, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (9.885892416314438e-07, False, False))])

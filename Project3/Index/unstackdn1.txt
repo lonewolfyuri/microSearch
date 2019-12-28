@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/extended-bw/probs/', 0.017543859649122806, False, True)]

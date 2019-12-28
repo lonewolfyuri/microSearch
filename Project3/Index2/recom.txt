@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Nurser', (0.0017699115044247787, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-2010/project.htm', (0.037037037037037035, False, True))])

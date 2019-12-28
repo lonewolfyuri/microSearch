@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/surnames.tx', (0.000166472448809722, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/new-media-business', (0.0017391304347826088, False, True))])

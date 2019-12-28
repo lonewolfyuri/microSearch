@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/bigdipa-course-fosters-multidisciplinary-collaboration', (0.0016155088852988692, False, True)), ('https://www.cs.uci.edu/news/page/14', (0.0013717421124828531, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=125', (0.0044444444444444444, False, True))])

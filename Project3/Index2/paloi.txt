@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/prague/lennonwall/Klyky.htm', (0.1111111111111111, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/prague/lennonwall/Paloie.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/prague/lennonwall/FadeRight.htm', (0.25, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/make/nmake_helper.ma', (0.04722222222222222, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/Makefile.ma', (0.003929273084479371, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9112725338207915e-06, False, False))])

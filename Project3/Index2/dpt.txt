@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/q-triangle.htm', (0.00065359477124183, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/godfried.toussaint.htm', (0.00033760972316002703, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/acm-gis-96.htm', (0.0008928571428571428, False, False))])

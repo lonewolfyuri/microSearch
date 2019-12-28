@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/rickl-other.htm', (0.00303951367781155, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/text/4letter.word', (0.00046533271288971617, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

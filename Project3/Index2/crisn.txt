@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/past_projects/cliques/download/README_certificate', (0.028225806451612902, False, False))])

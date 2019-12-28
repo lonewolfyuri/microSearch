@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/situation-awareness-emerging-approaches', (0.0013736263736263737, False, True))])

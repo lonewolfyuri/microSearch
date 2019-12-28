@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=66', (0.0032679738562091504, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://www.ics.uci.edu/~eppstein/numth/egypt', (0.001440922190201729, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/the-power-of-pull', (0.0018315018315018315, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/18', (0.0017667844522968198, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/7', (0.001466275659824047, False, True)), ('https://ngs.ics.uci.edu/blog/page/18', (0.0017574692442882249, False, True))])

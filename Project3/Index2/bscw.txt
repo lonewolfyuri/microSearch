@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/dist-auth-tools.htm', (0.0020920502092050207, False, True)), ('https://redmiles.ics.uci.edu/publication/', (0.0005218298834579927, False, False)), ('https://redmiles.ics.uci.edu/publication', (0.0005218298834579927, False, False))])

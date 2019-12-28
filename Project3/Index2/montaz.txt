@@ -1,0 +1,1 @@
+dict_items([('http://plrg.ics.uci.edu/publications_page/', (0.0008012820512820513, False, False)), ('http://plrg.ics.uci.edu/publications_page', (0.0008012820512820513, False, False))])

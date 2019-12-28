@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Covertype', (0.002506265664160401, False, False)), ('http://archive.ics.uci.edu/ml/support/KDD+Cup+1998+Data', (0.0038461538461538464, False, True))])

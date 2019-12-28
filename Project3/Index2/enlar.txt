@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Lymphography', (0.002004008016032064, False, False)), ('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.0006191950464396285, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Lymphograph', (0.002564102564102564, False, True))])

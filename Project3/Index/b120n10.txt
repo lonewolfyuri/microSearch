@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/Philips_B120N10_Baby_Monitor/', 0.09090909090909091, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00442/', 0.03125, False, True)]

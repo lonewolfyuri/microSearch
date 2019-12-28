@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/j4p05/Recumbent.htm', (0.3333333333333333, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/j4p05/ProudToBe.htm', (0.07692307692307693, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/j4p05/Spaniel.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

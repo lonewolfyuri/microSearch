@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Travel+Reviews', 0.002369668246445498, False, True), ('http://archive.ics.uci.edu/ml/datasets/Audit+Data', 0.003067484662576687, False, True), ('http://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip', 0.002840909090909091, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings', 0.002053388090349076, False, True)]

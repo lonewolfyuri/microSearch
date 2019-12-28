@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-16.htm', (0.0009389671361502347, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/usingclasses/lecture.htm', (0.00013399437223636607, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/Yylex.htm', (0.011363636363636364, False, True))])

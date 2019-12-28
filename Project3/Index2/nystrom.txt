@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/FowlkesBCM_PAMI_2004', (0.006172839506172839, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Abalon', (0.0013679890560875513, False, True)), ('http://archive.ics.uci.edu/ml/support/Abalone', (0.0017271157167530224, False, True))])

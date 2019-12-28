@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/79-python-resources/98-python-qui', (0.00234192037470726, False, False)), ('https://www.ics.uci.edu/~thornton/ics23/LabManual/Probably', (0.0011261261261261261, False, True))])

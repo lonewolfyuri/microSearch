@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/memories-from-ann-arbor-mi', (0.0012987012987012987, False, True))])

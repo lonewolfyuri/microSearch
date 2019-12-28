@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~agarwal/quadricLoss/BMVC_2019.bi', (0.04, False, False))])

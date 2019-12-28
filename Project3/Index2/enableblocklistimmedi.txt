@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Variable', (0.003215434083601286, False, True)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0007189072609633358, False, True)), ('http://sli.ics.uci.edu/PmWiki/Blocklis', (0.000554016620498615, False, True))])

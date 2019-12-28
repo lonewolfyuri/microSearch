@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/orlando/slein_breakout/tsld005.ht', (0.004366812227074236, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/orlando/slein_adv_col/tsld004.ht', (0.025, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/orlando/slein_breakout/sld005.ht', (0.005235602094240838, False, True))])

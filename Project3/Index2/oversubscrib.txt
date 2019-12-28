@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/global-game-jam-2015', (0.0009115770282588879, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

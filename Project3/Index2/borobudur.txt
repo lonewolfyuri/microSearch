@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/delft/Borobudur.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/delft/Cloister.htm', (0.08333333333333333, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/delft/BlueMosaicColumn.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

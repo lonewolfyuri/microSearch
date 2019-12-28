@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alexv/IWIA/2000/Prog.htm', (0.027777777777777776, False, True)), ('https://ngs.ics.uci.edu/new-askcom', (0.0016313213703099511, False, True))])

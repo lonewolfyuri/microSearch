@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/common/handouts/glossary.htm', (0.027777777777777776, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-31/lectures/functions/functions.tx', (0.00030003000300030005, False, True))])

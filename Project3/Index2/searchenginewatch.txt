@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/cyber-and-real-cybereal', (0.0014727540500736377, False, True))])

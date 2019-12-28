@@ -1,0 +1,1 @@
+dict_items([('https://jgarcia.ics.uci.edu/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fjgarcia.ics.uci.edu%2F%3Fp%3D378&format=xm', (0.0026666666666666666, False, True))])

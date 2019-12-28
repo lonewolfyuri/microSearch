@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/inf143-SQ09/Assignment2/Inf143-ExploringManyEyes.ht', (0.009708737864077669, False, True))])

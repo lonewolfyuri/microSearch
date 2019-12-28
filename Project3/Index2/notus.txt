@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/older-version', (0.030303030303030304, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysi', (0.004796163069544364, False, True))])

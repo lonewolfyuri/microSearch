@@ -1,0 +1,1 @@
+dict_items([('http://hai.ics.uci.edu/publications.htm', (0.0003178639542275906, False, True)), ('https://www.ics.uci.edu/~ejw/versioning', (0.0007037297677691766, False, True)), ('https://www.ics.uci.edu/~ejw/papers/whitehead_ht99.htm', (0.00015386982612709647, False, True)), ('https://www.ics.uci.edu/~redmiles/ics227-SQ04/papers.htm', (0.002352941176470588, False, True))])

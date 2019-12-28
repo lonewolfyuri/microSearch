@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/acp_award.htm', (0.0015015015015015015, False, True))])

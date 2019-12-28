@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/draft-ietf-html-relrev-00.tx', (0.0001127141568981064, False, True))])

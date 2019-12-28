@@ -1,0 +1,1 @@
+dict_items([('https://www.stat.uci.edu/tutoring-resources', (0.001364256480218281, False, True))])

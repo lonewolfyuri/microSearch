@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/fractal.htm', (0.0016260162601626016, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/sym.htm', (0.0013850415512465374, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/all.htm', (6.48971380362126e-05, False, False))])

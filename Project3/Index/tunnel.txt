@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise', 0.0049261083743842365, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.004651162790697674, False, False), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures', 0.0045871559633027525, False, False)]

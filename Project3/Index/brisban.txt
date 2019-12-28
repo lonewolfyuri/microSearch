@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29', 0.0013831258644536654, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multiple+Features', 0.0018018018018018018, False, True)]

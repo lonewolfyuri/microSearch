@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Servo', 0.003875968992248062, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.0022988505747126436, False, True), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs', 0.0015455950540958269, False, True)]

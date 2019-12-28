@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)', (0.00045955882352941176, False, False)), ('http://archive.ics.uci.edu/ml/support/Reuters-21578+Text+Categorization+Collection', (0.001091703056768559, False, False))])

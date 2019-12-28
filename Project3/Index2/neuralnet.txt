@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Code%2FLearner', (0.002061855670103093, False, True)), ('https://www.ics.uci.edu/~kibler/ics171/Lectures', (0.023809523809523808, False, True)), ('https://www.ics.uci.edu/~kibler/ics171/RNLectures', (0.025, False, True))])

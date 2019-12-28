@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/CinquinCPHVYFC_PLOS_2016', (0.003355704697986577, False, True)), ('https://www.ics.uci.edu/~skong2/worm.htm', (0.0025188916876574307, False, True)), ('http://hobbes.ics.uci.edu/examples.shtm', (0.008064516129032258, False, True))])

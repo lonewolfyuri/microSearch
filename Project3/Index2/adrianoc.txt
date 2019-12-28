@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~andre/informatics121f2012.htm', (0.0125, False, True)), ('http://sdcl.ics.uci.edu/research/past-projects/crowd-fault-localization', (0.0008025682182985554, False, True))])

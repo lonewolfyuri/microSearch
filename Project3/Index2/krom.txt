@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/events/openhouse/dedication.htm', (0.008771929824561403, False, True)), ('https://www.ics.uci.edu/community/events/openhouse/gallery_12.htm', (0.02857142857142857, False, True))])

@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//thesis.html', 0.016666666666666666, False, True), ('http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29', 0.003676470588235294, False, True)]

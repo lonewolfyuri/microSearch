@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Obstfeld.htm', (0.000361794500723589, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/kovea.tx', (0.0002653927813163482, False, False))])

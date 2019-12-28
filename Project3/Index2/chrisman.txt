@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~projects/dissemination/schoolWorkshop/agenda.ht', (0.005649717514124294, False, True)), ('https://www.ics.uci.edu/~ziv', (0.0018115942028985507, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

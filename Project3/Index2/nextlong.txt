@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/s11_22/Project5/Project5.htm', (0.0003779289493575208, False, False)), ('https://www.ics.uci.edu/~thornton/ics22/LabManual/SignalToNoise', (0.00036913990402362494, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.tx', (0.0003256798567008631, False, True))])

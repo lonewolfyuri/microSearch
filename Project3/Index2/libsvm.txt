@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset+at+Different+Concentration', (0.0007530120481927711, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Datase', (0.0006963788300835655, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (9.226832921893476e-07, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/install-shell.htm', (0.002336448598130841, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/vsexpress.htm', (0.002386634844868735, False, False)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00014912019087384433, False, True))])

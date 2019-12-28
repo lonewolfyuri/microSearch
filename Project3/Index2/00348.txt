@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases', (0.005813953488372093, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00348', (0.14285714285714285, True, True)), ('https://www.ics.uci.edu/~aburtsev/143A/2018fall/hw/hw2-boot-xv6.htm', (0.0004043671653861706, False, True))])

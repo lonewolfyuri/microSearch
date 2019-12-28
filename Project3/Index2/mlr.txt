@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Nettalk+Corpus)', (0.007662835249042145, False, True)), ('http://archive.ics.uci.edu/ml/support/Labor+Relations', (0.0010905125408942203, False, False)), ('http://archive.ics.uci.edu/ml/support/Horse+Colic', (0.0013908205841446453, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics203b-SQ05/term-abstracts-2002.htm', (0.0009624639076034649, False, True))])

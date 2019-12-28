@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~schark/simulator/javadoc/GlobalClockEventGenerator.html', (0.041666666666666664, False, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/EventGenerator.html', (0.02127659574468085, False, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/AllNames.htm', (0.0005094243504839531, False, True))])

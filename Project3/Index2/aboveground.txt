@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('http://computableplant.ics.uci.edu/arabidopsis-2004.htm', (0.0011273957158962795, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Himmelblau.htm', (0.0019047619047619048, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Bornstein.htm', (0.00040306328093510683, False, False))])

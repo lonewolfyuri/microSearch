@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/covert', (0.0022371364653243847, False, True)), ('https://www.ics.uci.edu/~seal/projects/covert/index.htm', (0.0022371364653243847, False, True)), ('https://seal.ics.uci.edu/projects/covert/index.htm', (0.0022371364653243847, False, True))])

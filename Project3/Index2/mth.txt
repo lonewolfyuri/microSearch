@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/alenko.ht', (0.0022271714922048997, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/qgrady.htm', (0.001384083044982699, False, False)), ('https://www.ics.uci.edu/~goodrich/teach/ics8', (0.02564102564102564, False, True))])

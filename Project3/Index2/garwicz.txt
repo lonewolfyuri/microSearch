@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/HIV-1+protease+cleavag', (0.0036231884057971015, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Deiches.htm', (0.0006980802792321117, False, False))])

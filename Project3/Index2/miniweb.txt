@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/scenarios/webdav_scen_110796.htm', (0.0006406149903907751, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/scenarios/draft-lassila-http-edit-dist-00.tx', (0.00019065776930409913, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/scenarios/draft-ietf-webdav-scenarios-00.tx', (0.0001669449081803005, False, True))])

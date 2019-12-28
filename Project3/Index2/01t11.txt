@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/c-mohan', (0.0016806722689075631, False, True)), ('https://isg.ics.uci.edu/event/prof-jeff-ullman-visit', (0.00035124692658939234, False, True))])

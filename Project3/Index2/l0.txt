@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sysarch/projects/oldprojects.htm', (0.000847457627118644, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_alldist2.htm', (0.002583979328165375, False, True)), ('https://www.ics.uci.edu/~alexv/low_pwr.htm', (0.007936507936507936, False, True))])

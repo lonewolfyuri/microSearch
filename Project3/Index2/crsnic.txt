@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/kosters/tsld015.ht', (0.01639344262295082, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/kosters/tsld016.ht', (0.02631578947368421, False, True))])

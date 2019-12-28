@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/ics-teams-win-top-two-spots-at-ieee-gamesig-2017/', (0.001006036217303823, False, False)), ('https://www.informatics.uci.edu/ics-teams-win-top-two-spots-at-ieee-gamesig-2017', (0.001006036217303823, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=118', (0.0041841004184100415, False, False))])

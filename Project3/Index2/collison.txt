@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://wics.ics.uci.edu/event/stanford-class-series-company-culture-and-building-a-team-part-ii', (0.0003977724741447892, False, True))])

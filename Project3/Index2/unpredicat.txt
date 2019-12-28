@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/culture-or-politics-or-stupidity', (0.0016025641025641025, False, True))])

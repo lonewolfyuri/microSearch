@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/college-advice', (0.00816326530612245, False, True))])

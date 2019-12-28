@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99', (0.0015128593040847202, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/index.htm', (0.0015128593040847202, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/twist99.htm', (0.0015128593040847202, False, True))])

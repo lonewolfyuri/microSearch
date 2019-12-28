@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics46/Notes/GraphTraversals', (0.0004985044865403788, False, True)), ('https://www.ics.uci.edu/~gts/pubs.htm', (0.001838235294117647, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/euler/refs.htm', (0.0015082956259426848, False, False)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00015710919088766692, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

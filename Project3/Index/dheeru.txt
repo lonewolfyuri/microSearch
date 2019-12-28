@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/index.php', 0.0038022813688212928, False, True), ('http://archive.ics.uci.edu/ml/citation_policy.html', 0.003861003861003861, False, True)]

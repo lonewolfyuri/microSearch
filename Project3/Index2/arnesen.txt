@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/papers.htm', (0.001834862385321101, False, True)), ('https://www.ics.uci.edu/~smyth/research_group.htm', (0.0029239766081871343, False, True)), ('https://www.ics.uci.edu/~smyth', (0.005434782608695652, False, True)), ('https://www.ics.uci.edu/~smyth/index.htm', (0.005434782608695652, False, True))])

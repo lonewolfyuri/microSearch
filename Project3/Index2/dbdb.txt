@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/ascii-menger.htm', (0.10424710424710425, False, True))])

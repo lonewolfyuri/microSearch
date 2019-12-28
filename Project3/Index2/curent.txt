@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/co-space', (0.0016666666666666668, False, True))])

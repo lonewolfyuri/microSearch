@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://ngs.ics.uci.edu/microsoft-vs-netscape-and-microsoft-vs-google', (0.0017889087656529517, False, True))])

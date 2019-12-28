@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/surnames.tx', (0.000166472448809722, False, False)), ('https://www.ics.uci.edu/~kay/uteach/w18.htm', (0.020833333333333332, False, False)), ('https://www.ics.uci.edu/~kay/uteach/s18.htm', (0.01818181818181818, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/inf143-SQ08/index.htm', (0.0017513134851138354, False, True)), ('https://www.ics.uci.edu/~redmiles/inf143-SQ08', (0.0017513134851138354, False, True))])

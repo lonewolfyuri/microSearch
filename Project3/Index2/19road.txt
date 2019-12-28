@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/200', (0.0017391304347826088, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/200', (0.0017482517482517483, False, True)), ('https://ngs.ics.uci.edu/sensor-net-for-traffic', (0.002028397565922921, False, True)), ('https://ngs.ics.uci.edu/category/prospecting-information/page/11', (0.0019157088122605363, False, True))])

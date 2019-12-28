@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/ISOLET', (0.0009699321047526673, False, True)), ('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', (0.00023741690408357076, False, True))])

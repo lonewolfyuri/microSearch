@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jutts/statlinks.htm', (0.001443001443001443, False, False))])

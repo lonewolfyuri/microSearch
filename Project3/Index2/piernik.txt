@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Windisch.htm', (0.058823529411764705, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/m.tx', (0.0001876172607879925, False, False))])

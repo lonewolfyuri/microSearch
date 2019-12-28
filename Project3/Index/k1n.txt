@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Labor+Relations', 0.0034965034965034965, False, True)]

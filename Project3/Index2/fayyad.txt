@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experimen', (0.001336898395721925, False, True)), ('https://www.ics.uci.edu/~pazzani/PazzaniIDM.htm', (0.0015255530129672007, False, True)), ('https://ngs.ics.uci.edu/yahoo-stocking-up-on-academics', (0.001697792869269949, False, True))])

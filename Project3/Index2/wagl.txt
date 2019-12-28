@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/events/extreme/extreme_awards_2008.ph', (0.001851851851851852, False, False)), ('https://www.ics.uci.edu/~alfchen/teaching/cs295-2019-Spring/readings.htm', (0.0014858841010401188, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (4.879238838741156e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks/pre-rebase.sampl', (0.01509433962264151, False, False)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks', (0.02631578947368421, False, True)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (0.003676470588235294, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/folk-computing-or-100-computer', (0.001072961373390558, False, True))])

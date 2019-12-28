@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics23/TournamentResults.htm', (0.002717391304347826, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/dijkstraexample.tx', (0.0006071645415907711, False, False)), ('https://ngs.ics.uci.edu/co-space', (0.0015037593984962407, False, True))])

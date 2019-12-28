@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Variable', (0.002004008016032064, False, True)), ('http://sli.ics.uci.edu/PmWiki/SecurityVariables', (0.0021691973969631237, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPasswordsAdmi', (0.0005777007510109763, False, True)), ('http://sli.ics.uci.edu/PmWiki/Function', (0.00048146364949446316, False, False))])

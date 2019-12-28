@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu', (0.006801435858681277, False, True))])

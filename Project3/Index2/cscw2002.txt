@@ -1,0 +1,1 @@
+dict_items([('https://redmiles.ics.uci.edu/publication/', (0.0001877581674802854, False, False)), ('https://redmiles.ics.uci.edu/publication', (0.0001877581674802854, False, False))])

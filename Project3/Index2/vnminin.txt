@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=vmini', (0.004651162790697674, False, True))])

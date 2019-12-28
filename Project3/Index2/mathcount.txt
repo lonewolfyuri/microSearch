@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/rickl-coa-mathcounts.htm', (0.2, True, True)), ('https://www.ics.uci.edu/~vitus', (0.007518796992481203, False, True)), ('https://www.ics.uci.edu/~rickl/rickl-summary.htm', (0.0016286644951140066, False, True))])

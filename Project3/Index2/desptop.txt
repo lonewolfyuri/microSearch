@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/future-of-visual-maps', (0.00130718954248366, False, True))])

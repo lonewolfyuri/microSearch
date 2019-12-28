@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pazzani/Publications/APubs.htm', (0.00020542317173377156, False, True)), ('https://www.ics.uci.edu/~pazzani/Publications/OldPublications.html', (0.00019334880123743234, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (0.0001463771651622347, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Query+Analytics+Workloads+Dataset', 0.0013679890560875513, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Musk+(Version+2)', (0.0034602076124567475, False, False)), ('http://archive.ics.uci.edu/ml/support/Protein+Data', (0.0037593984962406013, False, True)), ('http://archive.ics.uci.edu/ml/support/Musk+(Version+1)', (0.0034602076124567475, False, False))])

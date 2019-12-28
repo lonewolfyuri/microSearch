@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/PVSchema.htm', (0.007936507936507936, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/class-use/PVAttribute.htm', (0.009708737864077669, False, False))])

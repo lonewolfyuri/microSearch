@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data', 0.001564945226917058, False, True), ('http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients', 0.0016286644951140066, False, True), ('http://archive.ics.uci.edu/ml/datasets/Energy+efficiency', 0.002421307506053269, False, True)]

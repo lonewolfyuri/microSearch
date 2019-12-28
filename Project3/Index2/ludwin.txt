@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/stuber.ht', (0.0020491803278688526, False, True)), ('https://www.ics.uci.edu/~kobsa/phds/phds.ht', (0.0022371364653243847, False, True))])

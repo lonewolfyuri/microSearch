@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/euler/dualcharge.htm', (0.006172839506172839, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/all.htm', (0.000777000777000777, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

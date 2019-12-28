@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~emilyo/SimSE/se_rules.htm', (0.0003894080996884735, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Zucker.htm', (0.001466992665036675, False, False)), ('https://www.ics.uci.edu/~wscacchi/Papers/Vintage/Software_Productivity.htm', (6.950719399457844e-05, False, True))])

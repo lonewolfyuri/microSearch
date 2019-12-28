@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/events/extreme/extreme_awards_2008.ph', (0.001851851851851852, False, False)), ('https://www.ics.uci.edu/~keldefra/pubs.htm', (0.0010309278350515464, False, True))])

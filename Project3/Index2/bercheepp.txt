@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/cube-triangulation.htm', (0.0004088307440719542, False, True)), ('https://www.ics.uci.edu/~eppstein/bibs/eppstein.htm', (0.00028498147620404675, False, True))])

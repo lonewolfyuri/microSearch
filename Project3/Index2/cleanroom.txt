@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/classes/inf-242', (0.0003824091778202677, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/New/FOSSRRI-Scacchi-Gasser.htm', (0.0002639218791237794, False, True))])

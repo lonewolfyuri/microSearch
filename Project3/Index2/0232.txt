@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/eidb.ht', (0.00027159152634437803, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/APA-Analysis-Round4/15pct_LPSminus_vs_LPSplus_significantApAlogFCList.tx', (7.79666302822392e-05, False, False))])

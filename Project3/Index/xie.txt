@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.0018484288354898336, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+type+mapping', 0.002320185614849188, False, True)]

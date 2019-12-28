@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0002870264064293915, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases', (0.004545454545454545, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00396', (0.14285714285714285, True, True))])

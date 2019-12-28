@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crim', (0.001375515818431912, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalize', (0.0010649627263045794, False, True))])

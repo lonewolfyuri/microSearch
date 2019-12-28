@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pazzani/RTF/AAAI.htm', (0.00015933715742511153, False, True))])

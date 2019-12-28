@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/index.htm', (0.003787878787878788, False, True)), ('http://flamingo.ics.uci.edu/spellchecker', (0.00199203187250996, False, True)), ('http://flamingo.ics.uci.edu', (0.003787878787878788, False, True)), ('http://fr.ics.uci.edu', (0.003257328990228013, False, True))])

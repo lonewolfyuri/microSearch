@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Brenholz.htm', (0.006269592476489028, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Dresner.htm', (0.0005798782255726297, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

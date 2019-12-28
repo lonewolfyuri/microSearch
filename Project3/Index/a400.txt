@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Steel+Plates+Faults', 0.0031645569620253164, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.0051529790660225444, False, True)]

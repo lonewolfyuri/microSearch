@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=AL', (0.0010940919037199124, False, True))])

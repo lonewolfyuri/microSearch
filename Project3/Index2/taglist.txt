@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/the-web-you-trust', (0.0007513148009015778, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.888451017083679e-06, False, False))])

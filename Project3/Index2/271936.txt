@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/cs274/homeworks/hw6_materials/dataset1.tx', (0.00015625, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-mock', (9.547450830628223e-05, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-dnlef', (7.162810686913545e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes-2008F/Financ', (0.0014347202295552368, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation', 0.002336448598130841, False, True), ('http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records', 0.005970149253731343, False, True), ('http://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails', 0.004975124378109453, False, False)]

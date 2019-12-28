@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/180a/w99.htm', (0.009523809523809525, False, True)), ('https://www.ics.uci.edu/~kibler/freshmanSyllabus.htm', (0.012048192771084338, False, False)), ('https://www.ics.uci.edu/~eppstein/180a/990204.htm', (0.0009910802775024777, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

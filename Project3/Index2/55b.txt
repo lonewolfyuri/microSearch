@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/b.tx', (3.240230704426155e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Seltzer.htm', (0.004098360655737705, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pitzele.htm', (4.257311933245349e-05, False, True))])

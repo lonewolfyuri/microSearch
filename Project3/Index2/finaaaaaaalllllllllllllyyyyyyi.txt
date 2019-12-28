@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/a-german-wedding', (0.0018796992481203006, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/103', (0.0019801980198019802, False, True)), ('https://ngs.ics.uci.edu/category/personal/page/7', (0.0013812154696132596, False, True)), ('https://ngs.ics.uci.edu/blog/page/103', (0.001968503937007874, False, True))])

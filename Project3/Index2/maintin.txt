@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/demo/idemo.htm', (0.01, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/announcements.htm', (0.00021838829438742082, False, False)), ('https://www.ics.uci.edu/~eppstein/cgt/twixt.htm', (0.00016638935108153079, False, False))])

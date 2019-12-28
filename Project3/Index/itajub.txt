@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Grammatical+Facial+Expressions', 0.0033222591362126247, False, True)]

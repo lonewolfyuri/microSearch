@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/MEU-Mobile+KS', (0.0029411764705882353, False, True))])

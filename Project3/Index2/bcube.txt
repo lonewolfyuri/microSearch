@@ -1,0 +1,1 @@
+dict_items([('https://evoke.ics.uci.edu/', (0.0004154549231408392, False, True)), ('https://evoke.ics.uci.edu', (0.0004154549231408392, False, True))])

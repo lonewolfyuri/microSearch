@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/system_pages/cats_pal.htm', (0.0017123287671232876, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

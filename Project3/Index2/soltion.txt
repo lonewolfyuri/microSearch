@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/on-selecting-a-research-problem', (0.001364256480218281, False, True))])

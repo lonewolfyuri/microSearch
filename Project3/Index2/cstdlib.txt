@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222-2019-fall-project2/Project2.patc', (0.0005899705014749262, False, True)), ('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222-2019-fall-project2/Project2.2.patc', (0.0005797101449275362, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Travel+Reviews', 0.0029940119760479044, False, True), ('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0018281535648994515, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings', 0.0025906735751295338, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/vl/ikmeans_init.t', (0.005415162454873646, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/photography-in-india', (0.0006770480704129993, False, True))])

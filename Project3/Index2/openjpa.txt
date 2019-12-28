@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/archevolution/index.htm', (0.004329004329004329, False, True)), ('https://seal.ics.uci.edu/projects/archevolution/index.htm', (0.004329004329004329, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (0.00014631120776145367, False, False))])

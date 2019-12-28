@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~schark/simulator/javadoc/JobManager.html', (0.003134796238244514, False, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/AllNames.htm', (0.00033456005352960856, False, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/TheSimulator.html', (0.0035842293906810036, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Goldstoff.htm', (0.0005624296962879641, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/in-london', (0.001402524544179523, False, True)), ('https://ngs.ics.uci.edu/facebook-in-india', (0.0009624639076034649, False, True))])

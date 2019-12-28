@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/shml-ykv.ht', (0.0019801980198019802, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/shml-h86.ht', (0.007575757575757576, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.306708230473369e-06, False, False))])

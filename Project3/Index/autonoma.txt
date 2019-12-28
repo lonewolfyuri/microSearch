@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant', 0.00423728813559322, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+dataset+in+Lower+Limb', 0.003076923076923077, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring', 0.003125, False, True)]

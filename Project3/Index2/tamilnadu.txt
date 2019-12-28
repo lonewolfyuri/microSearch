@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Diseas', (0.00392156862745098, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Tamilnadu+Electricity+Board+Hourly+Reading', (0.09090909090909091, True, True))])

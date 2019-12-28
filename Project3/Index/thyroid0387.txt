@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/', 0.011363636363636364, False, True)]

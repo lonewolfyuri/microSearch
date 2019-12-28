@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/WikiWord?from=PmWiki.WikiWord', (0.0030864197530864196, False, False)), ('http://sli.ics.uci.edu/PmWiki/WikiWor', (0.003125, False, False)), ('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/reference-keyboard.htm', (0.008620689655172414, False, True))])

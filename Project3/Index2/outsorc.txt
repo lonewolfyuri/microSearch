@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/experiential-education', (0.0016806722689075631, False, False))])

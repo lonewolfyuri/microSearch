@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/quadtree.htm', (0.0022935779816513763, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/sigproc.htm', (0.005050505050505051, False, False))])

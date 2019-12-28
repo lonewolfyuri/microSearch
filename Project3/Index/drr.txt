@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0009107468123861566, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/YangBKR_CVPR_2012', (0.03333333333333333, False, False)), ('http://vision.ics.uci.edu/people/20.htm', (0.0017761989342806395, False, False)), ('http://vision.ics.uci.edu/publications.htm', (0.0007680491551459293, False, False)), ('http://vision.ics.uci.edu/people/24.htm', (0.0064516129032258064, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognitio', (0.001366120218579235, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (8.048937540244688e-05, False, True))])

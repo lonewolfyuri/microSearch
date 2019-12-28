@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ICS221/221_FQ_02.htm', (0.00041407867494824016, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/Portugal.htm', (0.00017699115044247788, False, False))])

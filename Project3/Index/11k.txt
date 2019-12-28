@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.005208333333333333, False, False), ('http://archive.ics.uci.edu/ml/datasets/Repeat+Consumption+Matrices', 0.0030959752321981426, False, True)]

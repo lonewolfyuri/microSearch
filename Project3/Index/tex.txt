@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/MEx', 0.0025575447570332483, False, True), ('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0011337868480725624, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/', 0.01639344262295082, False, True)]

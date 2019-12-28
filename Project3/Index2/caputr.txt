@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/scripts/readme_grade', (0.002840909090909091, False, False)), ('https://ngs.ics.uci.edu/evolving-nature-of-books-2', (0.0014204545454545455, False, True))])

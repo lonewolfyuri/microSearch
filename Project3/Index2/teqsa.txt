@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/michael-a-cowling', (0.0012919896640826874, False, False))])

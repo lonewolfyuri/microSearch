@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/2017_FQ_CS171_DISCUSSION', (0.03125, False, True))])

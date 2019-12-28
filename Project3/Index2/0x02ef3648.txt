@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-31/lectures/tuples/tuples.tx', (0.00045413260672116256, False, True))])

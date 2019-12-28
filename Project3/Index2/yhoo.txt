@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/start-up-in-social-networking-interesting-insights', (0.001851851851851852, False, True))])

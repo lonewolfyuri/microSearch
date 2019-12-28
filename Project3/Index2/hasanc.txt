@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics21/PreviousQuarters/Fall2011/CourseReference.html', (0.00117096018735363, False, True)), ('https://www.ics.uci.edu/~jacobson/ics23/CourseReference.htm', (0.0013850415512465374, False, True)), ('https://www.ics.uci.edu/~jacobson/ics23/CourseReferenc', (0.0013850415512465374, False, True))])

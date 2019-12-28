@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer', 0.0028328611898017, False, True), ('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0008130081300813008, False, True)]

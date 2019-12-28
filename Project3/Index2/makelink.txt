@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Function', (0.0005652911249293386, False, True)), ('http://sli.ics.uci.edu/PmWiki/Link', (0.0005224660397074191, False, True)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.000493339911198816, False, True))])

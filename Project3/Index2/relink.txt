@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/solns04.tx', (0.0037174721189591076, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False)), ('https://ngs.ics.uci.edu/list-of-publications', (0.0002618486514794449, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activitie', (0.00392156862745098, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Simulated+Falls+and+Daily+Living+Activities+Data+Se', (0.0034965034965034965, False, True))])

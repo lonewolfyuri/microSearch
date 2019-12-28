@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Lymphography', 0.002325581395348837, False, True)]

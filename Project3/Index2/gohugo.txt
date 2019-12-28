@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~perl/index.xm', (0.05555555555555555, False, True)), ('https://www.ics.uci.edu/~perl/publication/index.xm', (0.05263157894736842, False, True)), ('https://www.ics.uci.edu/~iftekha/publication/index.xm', (0.058823529411764705, False, True))])

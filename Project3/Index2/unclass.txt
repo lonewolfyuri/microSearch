@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Northi', (0.0023148148148148147, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.3840249382840212e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/PmWikiPhilosoph', (0.001160092807424594, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Physical+Unclonable+Function', (0.0024937655860349127, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/handouts.htm', (0.0031446540880503146, False, True))])

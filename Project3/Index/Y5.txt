@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance', 0.0016891891891891893, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/media-and-experiences', (0.001483679525222552, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Datase', (0.002079002079002079, False, True)), ('https://ngs.ics.uci.edu/wsj-on-citizen-journalism', (0.002728512960436562, False, True))])

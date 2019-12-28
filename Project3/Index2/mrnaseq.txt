@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/mESC-tracks', (0.04, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/mESC-tracks/mESC-mRNAseq', (0.1111111111111111, True, True))])

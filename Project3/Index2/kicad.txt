@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes/CSEResource', (0.002824858757062147, False, True))])

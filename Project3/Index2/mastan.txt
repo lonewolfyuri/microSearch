@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/research/knocap-2', (0.0009560229445506692, False, True))])

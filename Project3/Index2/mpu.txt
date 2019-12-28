@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/academic-research', (0.0016051364365971107, False, True)), ('https://ngs.ics.uci.edu/obama-era-of-responsible-optimism', (0.001483679525222552, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/hammer-syndrome-in-sciences', (0.0011061946902654867, False, True))])

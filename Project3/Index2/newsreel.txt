@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/history-preservation-in-digital-age', (0.0015060240963855422, False, True)), ('https://ngs.ics.uci.edu/great-opportunity-for-video-researchers', (0.001443001443001443, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/donation_form.ph', (0.0028653295128939827, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node226.htm', (0.0027397260273972603, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/where-sweatshops-are-a-dream', (0.0013531799729364006, False, True))])

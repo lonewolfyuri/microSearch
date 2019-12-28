@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/vivek-tiwari/?ical=', (0.0015748031496062992, False, False)), ('https://www.cs.uci.edu/event/c-mohan/?ical=', (0.005847953216374269, False, False)), ('https://www.cs.uci.edu/event/elizabeth-belding/?ical=', (0.006369426751592357, False, False)), ('https://www.cs.uci.edu/event/eyal-de-lara/?ical=', (0.00625, False, False))])

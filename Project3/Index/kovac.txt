@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Statlog+(Heart)#dd4500e327a5f555d2f594711dc50b0f9faccd30', 0.002932551319648094, False, False)]

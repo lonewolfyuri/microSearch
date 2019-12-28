@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 0.0036968576709796672, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SML2010', 0.003676470588235294, False, True), ('http://archive.ics.uci.edu/ml/datasets/Perfume+Data', 0.002840909090909091, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+dataset+in+Lower+Limb', 0.003236245954692557, False, True), ('http://archive.ics.uci.edu/ml/datasets/NoisyOffice', 0.003215434083601286, False, True)]

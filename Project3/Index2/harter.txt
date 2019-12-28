@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Breit.htm', (0.000343878954607978, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (2.8615578320837863e-05, False, True)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (9.424182452172274e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Process_Life_Cycle.htm', (0.0012300123001230013, False, False)), ('https://www.ics.uci.edu/~thornton/cs141/ProjectGuide/Project3', (0.000365764447695684, False, False)), ('https://ngs.ics.uci.edu/list-of-publications', (0.00015035333032626674, False, True))])

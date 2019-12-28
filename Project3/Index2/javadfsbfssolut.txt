@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/maze-solver/JavaPolygon', (0.008928571428571428, False, True)), ('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/maze-solver/JavaPolygon/JavaDFSBFSSolution', (0.06666666666666667, True, True))])

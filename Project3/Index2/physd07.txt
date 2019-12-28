@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Pubs%2FPubsD', (0.001184834123222749, False, True))])

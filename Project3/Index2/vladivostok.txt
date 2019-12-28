@@ -1,0 +1,1 @@
+dict_items([('http://iasl.ics.uci.edu/people/iburago', (0.0007320644216691069, False, True)), ('https://iasl.ics.uci.edu/people/iburago/', (0.0007320644216691069, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Reisapfel.htm', (0.0008710801393728223, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

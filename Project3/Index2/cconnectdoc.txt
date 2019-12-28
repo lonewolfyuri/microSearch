@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/connectgame/vcpp/ConnectFINAL/SampleSource/connect.nc', (0.03532008830022075, False, False)), ('https://www.ics.uci.edu/~rickl/courses/cs-171/projects_old_see_AI-projects/connect-k/connectgame/vcpp/ConnectFINAL/SampleSource/connect.nc', (0.03532008830022075, False, False))])

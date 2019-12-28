@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/javadoc/formula/LogicalVariable.htm', (0.006896551724137931, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/javadoc/formulaVisited/LogicalVariable.htm', (0.006493506493506494, False, False))])

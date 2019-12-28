@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/bowker-receives-632k-from-nsf-for-collaborative-research-project-on-institutionalizing-databases', (0.000859106529209622, False, False)), ('https://www.informatics.uci.edu/bowker-receives-632k-from-nsf-for-collaborative-research-project-on-institutionalizing-databases/', (0.000859106529209622, False, False))])

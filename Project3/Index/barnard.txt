@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6', 0.0010604453870625664, False, False)]

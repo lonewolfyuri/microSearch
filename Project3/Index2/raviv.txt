@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~qlou/', (0.0025974025974025974, False, False)), ('https://www.ics.uci.edu/~qlou', (0.0025974025974025974, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Siodmak.htm', (0.0003417634996582365, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

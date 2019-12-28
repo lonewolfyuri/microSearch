@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/career/additional-skills-resources', (0.0014347202295552368, False, True)), ('https://mswe.ics.uci.edu/career/additional-resources', (0.0012285012285012285, False, True))])

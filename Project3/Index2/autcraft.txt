@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/informatics-ph-d-students-accept-arcs-scholars-awards/', (0.000946969696969697, False, True)), ('https://www.informatics.uci.edu/informatics-ph-d-students-accept-arcs-scholars-awards', (0.000946969696969697, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=115', (0.0033003300330033004, False, True))])

@@ -1,0 +1,1 @@
+OrderedDict([(18380, (0.2, False, True, False)), (20144, (0.2, False, False, False)), (26291, (0.2, False, False, False)), (36442, (0.2, False, False, False)), (45141, (0.2, False, True, False))])

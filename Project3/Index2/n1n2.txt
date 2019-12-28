@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/ellison/ellison-qna.htm', (0.002105263157894737, False, False))])

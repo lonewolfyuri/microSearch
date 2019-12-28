@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Sternglantz.htm', (0.007272727272727273, False, False))])

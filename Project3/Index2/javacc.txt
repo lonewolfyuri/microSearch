@@ -1,0 +1,1 @@
+dict_items([('http://plrg.ics.uci.edu/cdsspec', (0.0013679890560875513, False, True)), ('http://plrg.ics.uci.edu/cdsspec/', (0.0013679890560875513, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.2060788747903614e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/leiden/PabloNerudaTestamento.htm', (0.07692307692307693, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/leiden/MorschPoort.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/leiden/VelimirChlebnikov.htm', (0.5, True, True))])

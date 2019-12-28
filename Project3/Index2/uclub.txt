@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~icgse2016/10_2travel_info.htm', (0.0012453300124533001, False, True)), ('https://cml.ics.uci.edu/home/contact-us/', (0.0020942408376963353, False, True)), ('https://cml.ics.uci.edu/home/contact-us', (0.0020942408376963353, False, True))])

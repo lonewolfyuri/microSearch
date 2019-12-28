@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/new-key', (0.02631578947368421, False, True)), ('https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/2017_FQ_CS171_DISCUSSION', (0.020833333333333332, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jutts/admin.ht', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~jutts/activities.ht', (0.08333333333333333, False, True)), ('https://www.ics.uci.edu/~jutts/Jobs.ht', (0.1, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digit', (0.00423728813559322, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digit', (0.004201680672268907, False, True))])

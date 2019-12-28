@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/heaps.tx', (0.00020108586366378444, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/speciallinkedlist.tx', (0.0004522840343735866, False, True))])

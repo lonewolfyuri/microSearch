@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw4/02.htm', (0.000992063492063492, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/PVXMLio.htm', (0.007407407407407408, False, False))])

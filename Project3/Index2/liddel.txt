@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Rapaport.htm', (0.00030084235860409147, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/glossaryExternal.htm', (0.00035932446999640676, False, False)), ('https://www.ics.uci.edu/~theory/269/031205.htm', (0.037037037037037035, False, True))])

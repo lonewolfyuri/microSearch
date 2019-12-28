@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis', (0.0011933174224343676, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes/2011W-17', (0.0011750881316098707, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activit', (0.0025252525252525255, False, True))])

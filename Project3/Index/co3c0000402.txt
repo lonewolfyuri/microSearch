@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/', 0.002577319587628866, False, True)]

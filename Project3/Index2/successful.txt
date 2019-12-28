@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/find-problems.ht', (0.012658227848101266, False, True)), ('https://www.ics.uci.edu/~emilyo/teaching/ics139wf2015/assignments/personalStatement.htm', (0.002207505518763797, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/ns_dav.htm', (0.004694835680751174, False, True))])

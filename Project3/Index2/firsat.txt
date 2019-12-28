@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/brave-new-world-at-so-called-high-quality-conferences', (0.001445086705202312, False, True))])

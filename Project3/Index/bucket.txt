@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Zoo#8a4f6f671d1146db723a649b440535832896ccc4', 0.0015432098765432098, False, True), ('http://archive.ics.uci.edu/ml/support/Horse+Colic#a914c3920de02d035db122f72172f31446e9f5e1', 0.0016501650165016502, False, True)]

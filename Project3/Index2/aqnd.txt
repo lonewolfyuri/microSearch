@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/moving-from-san-diego-to-irvine', (0.0018315018315018315, False, True)), ('https://ngs.ics.uci.edu/systems-in-india', (0.0011876484560570072, False, True))])

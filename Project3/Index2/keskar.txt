@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/indian-ceos-pride-of-nagpur', (0.0032, False, True))])

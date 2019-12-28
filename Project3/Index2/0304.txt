@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/trauma300.tx', (0.0009501187648456057, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/collection/redirect-issues.htm', (0.00024348672997321646, False, True))])

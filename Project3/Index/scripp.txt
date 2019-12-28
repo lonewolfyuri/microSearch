@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data', 0.0017211703958691911, False, True)]

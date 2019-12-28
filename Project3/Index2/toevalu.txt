@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Soybean+(Large)', (0.00032927230819888045, False, False)), ('http://archive.ics.uci.edu/ml/support/Diabetes', (0.0002277385561375541, False, False)), ('http://archive.ics.uci.edu/ml/support/Soybean+(Small)', (0.0003204101249599487, False, False))])

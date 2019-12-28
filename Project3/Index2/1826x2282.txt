@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/vvpromo/SaraLeidelAward4.htm', (0.02564102564102564, False, True))])

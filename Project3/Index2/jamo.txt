@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/greerpark/Intense.htm', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/greerpark/Illegible.htm', (0.3333333333333333, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/greerpark/Jamoe.htm', (1.0, True, True))])

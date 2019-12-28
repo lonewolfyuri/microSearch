@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/changing-academic-climate', (0.0014970059880239522, False, True))])

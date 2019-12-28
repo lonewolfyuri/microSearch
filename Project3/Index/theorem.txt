@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Artificial+Characters', 0.0024096385542168677, False, True), ('http://archive.ics.uci.edu/ml/datasets/First-order+theorem+proving', 0.1, True, True), ('http://archive.ics.uci.edu/ml/support/Heart+Disease#cb68337ad074a5f5ce7d8ca8a7a0b7bad1931070', 0.0002598752598752599, False, True)]

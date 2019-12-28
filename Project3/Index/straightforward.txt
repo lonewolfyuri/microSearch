@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/HTRU2', 0.0009328358208955224, False, True), ('http://archive.ics.uci.edu/ml/datasets/Farm+Ads', 0.002369668246445498, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0006385696040868455, False, True)]

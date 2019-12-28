@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation', 0.00267379679144385, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00012298610257040955, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~feldman/lec17F00.htm', (0.0035587188612099642, False, True)), ('https://www.ics.uci.edu/~kyoungwl/links/private.htm', (0.012987012987012988, False, True)), ('https://www.ics.uci.edu/~feldman/lec4F00.htm', (0.00510204081632653, False, True)), ('https://www.ics.uci.edu/~feldman/lec3F00.htm', (0.0019230769230769232, False, True))])

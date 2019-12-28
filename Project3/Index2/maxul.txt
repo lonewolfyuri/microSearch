@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/Sierpinski.c', (0.020833333333333332, False, False))])

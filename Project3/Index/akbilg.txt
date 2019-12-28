@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00247/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE', 0.004016064257028112, False, True)]

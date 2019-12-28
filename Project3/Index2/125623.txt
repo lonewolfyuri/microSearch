@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transition', (0.003968253968253968, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.613416460946738e-07, False, False))])

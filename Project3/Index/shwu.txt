@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mturk+User-Perceived+Clusters+over+Images', 0.003787878787878788, False, True)]

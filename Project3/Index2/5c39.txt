@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/versioning/draft-whitehead-webdav-versioning-00.tx', (0.00015673981191222572, False, True))])

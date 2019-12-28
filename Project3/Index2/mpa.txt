@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strengt', (0.002277904328018223, False, True)), ('http://archive.ics.uci.edu/ml/support/Abalone', (0.006389776357827476, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Tes', (0.002857142857142857, False, True))])

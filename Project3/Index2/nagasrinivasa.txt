@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/members.htm', (0.0017543859649122807, False, True)), ('http://www-db.ics.uci.edu/pages/research/quasar', (0.0007293946024799417, False, True)), ('http://www-db.ics.uci.edu/pages/research/quasar/index.shtm', (0.0007293946024799417, False, True))])

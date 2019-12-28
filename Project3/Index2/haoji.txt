@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/again-in-china', (0.001524390243902439, False, True)), ('https://ngs.ics.uci.edu/evaluating-multimedia-algorithms', (0.0006640106241699867, False, False))])

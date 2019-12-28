@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.tx', (5.6894957684375224e-05, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.tx', (5.6894957684375224e-05, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

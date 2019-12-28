@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_14.html', (0.00333889816360601, False, False)), ('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_8.html', (0.007352941176470588, False, True))])

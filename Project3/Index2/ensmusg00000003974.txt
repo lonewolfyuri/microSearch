@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/MAJIQ/voila-Wt-hind/summaries/22_Wt-hind_psigroup_psi.htm', (0.0031645569620253164, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/MAJIQ/voila-KO-hind/summaries/23_KO-hind_psigroup_psi.htm', (0.002932551319648094, False, True))])

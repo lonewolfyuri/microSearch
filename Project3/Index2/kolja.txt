@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/ensenada/KoljaKnauer.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/ensenada/Dinner2.htm', (0.1, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/ensenada/JorgeUrrutia.htm', (0.2, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.4828838624471657e-05, False, False))])

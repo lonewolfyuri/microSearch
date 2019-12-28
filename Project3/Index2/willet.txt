@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/eidb.ht', (0.001075268817204301, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/charna.ht', (0.0016, False, True))])

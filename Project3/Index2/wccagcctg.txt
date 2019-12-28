@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/20180116-PASSeq-tempAnalysis/U1AMO_upintronsites_vs_Random/dreme.tx', (0.0006131207847946045, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/20180116-PASSeq-tempAnalysis/Both_upintronsite_vs_Random/dreme.tx', (0.0005356186395286556, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00231', (0.05263157894736842, False, True)), ('http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitorin', (0.1, True, True))])

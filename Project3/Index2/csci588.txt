@@ -1,0 +1,1 @@
+dict_items([('https://jgarcia.ics.uci.edu/%5C%22https:%5C/%5C/jgarcia.ics.uci.edu%5C/?page_id=42%5C', (0.002, False, False)), ('https://jgarcia.ics.uci.edu/?page_id=4', (0.002, False, False))])

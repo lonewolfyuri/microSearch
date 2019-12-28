@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/TTC-3600%3A+Benchmark+dataset+for+Turkish+text+categorizatio', (0.002898550724637681, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch3/RcodeCh3.tx', (0.09183673469387756, False, False))])

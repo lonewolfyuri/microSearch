@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Letter+Recognition', (0.005291005291005291, False, True)), ('https://www.ics.uci.edu/~fowlkes/publications.htm', (0.0012004801920768306, False, True))])

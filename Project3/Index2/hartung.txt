@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_studentshowcase.ph', (0.001040582726326743, False, True)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (9.417082587814295e-05, False, True)), ('https://www.ics.uci.edu/~keldefra/manet.ht', (0.0006369426751592356, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset', 0.0034965034965034965, False, True), ('http://archive.ics.uci.edu/ml/datasets/Qualitative_Bankruptcy', 0.004048582995951417, False, True)]

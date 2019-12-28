@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter?version=32&format=tx', (0.0008726003490401396, False, False))])

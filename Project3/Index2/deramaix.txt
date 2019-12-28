@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+predictio', (0.001455604075691412, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classificatio', (0.0036231884057971015, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recording', (0.0024154589371980675, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/research/past-projects/crowd-development', (0.0009208103130755065, False, True))])

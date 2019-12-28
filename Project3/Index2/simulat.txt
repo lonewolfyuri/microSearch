@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jmoorkan/vhdlref/entity.htm', (0.006944444444444444, False, False)), ('https://www.ics.uci.edu/~jmoorkan/vhdlref/define.htm', (0.003875968992248062, False, True))])

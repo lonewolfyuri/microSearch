@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yuzok/death_valley_trip', (0.013888888888888888, False, True)), ('http://computableplant.ics.uci.edu/gallery/Gallery/moviegallery.htm', (0.006896551724137931, False, True))])

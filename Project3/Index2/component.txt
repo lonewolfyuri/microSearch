@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fielding/pubs/dissertation/introduction.ht', (0.008403361344537815, False, False)), ('https://www.ics.uci.edu/~arcadia/arcadia_papers/process/endeavors_abstract.htm', (0.00390625, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

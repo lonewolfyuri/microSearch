@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/R-Computing-TIMEDOMAIN.tx', (0.0029069767441860465, False, False)), ('http://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicit', (0.0024875621890547263, False, True)), ('http://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signal', (0.001834862385321101, False, True))])

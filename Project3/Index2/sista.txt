@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Abalon', (0.001001001001001001, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Adul', (0.0006901311249137336, False, False)), ('http://archive.ics.uci.edu/ml/support/Abalone', (0.0005112474437627812, False, False)), ('http://archive.ics.uci.edu/ml/support/Adult', (0.0002346316283435007, False, False))])

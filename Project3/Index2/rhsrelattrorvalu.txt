@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/NODE.htm', (0.0047169811320754715, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/class-use/NODE.htm', (0.0035211267605633804, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~skong2/pollen.htm', (0.002257336343115124, False, True))])

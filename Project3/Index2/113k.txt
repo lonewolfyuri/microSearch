@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Repeat+Consumption+Matrice', (0.0022522522522522522, False, True))])

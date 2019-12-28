@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/IPUMS+Census+Databas', (0.00390625, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/acm-gis-96.htm', (0.0014792899408284023, False, True))])

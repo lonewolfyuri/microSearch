@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/photo-management-remains-an-open-problem', (0.0013966480446927375, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00440/', 0.05, False, True), ('http://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance', 0.1, True, True)]

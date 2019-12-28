@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/logic-theorist/CODE/', 0.029411764705882353, False, True), ('http://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Dataset', 0.002079002079002079, False, True)]

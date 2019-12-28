@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00496/', 0.047619047619047616, False, True), ('http://archive.ics.uci.edu/ml/index.php', 0.0023094688221709007, False, True), ('http://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Dataset', 0.1, True, True)]

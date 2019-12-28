@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Datase', (0.002304147465437788, False, True))])

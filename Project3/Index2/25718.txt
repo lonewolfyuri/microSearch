@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/system_pages/tess.htm', (0.0027100271002710027, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

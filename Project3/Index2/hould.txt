@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk', (0.0016835016835016834, False, True))])

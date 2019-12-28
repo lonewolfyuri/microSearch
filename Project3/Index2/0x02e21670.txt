@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/TkinterApp', (0.0005665722379603399, False, False))])

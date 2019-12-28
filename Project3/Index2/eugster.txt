@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/New/FOSSRRI-Scacchi-Gasser.htm', (0.00016960651289009497, False, True)), ('https://www.ics.uci.edu/~cs237/materials2019.htm', (0.0006501950585175553, False, True))])

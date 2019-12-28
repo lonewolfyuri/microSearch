@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bag+of+Words', 0.005025125628140704, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00022878059940517045, False, True)]

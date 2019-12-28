@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/fast-image-similarity-search', (0.0016129032258064516, False, True))])

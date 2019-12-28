@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics', 0.0026954177897574125, False, True)]

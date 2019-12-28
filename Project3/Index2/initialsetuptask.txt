@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/InitialSetupTask', (0.3333333333333333, True, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.0021929824561403508, False, True))])

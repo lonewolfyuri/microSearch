@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.00392156862745098, False, True), ('http://archive.ics.uci.edu/ml/datasets/Abalone', 0.0037593984962406013, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wave+Energy+Converters', 0.0049261083743842365, False, False)]

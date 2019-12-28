@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0002723311546840959, False, True)), ('https://www.ics.uci.edu/~redmiles/ics125-WQ00/projects/visualization.htm', (0.003115264797507788, False, True))])

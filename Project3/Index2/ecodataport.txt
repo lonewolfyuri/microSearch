@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/research-for-the-public-good/', (0.0008244023083264633, False, True)), ('https://www.informatics.uci.edu/research-for-the-public-good', (0.0008244023083264633, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=67', (0.002145922746781116, False, True))])

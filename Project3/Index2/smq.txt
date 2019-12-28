@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-old-tests/2016-smrq-cs171-old-tests', (0.02631578947368421, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling', (0.001968503937007874, False, True)), ('https://ngs.ics.uci.edu/blog/page/53', (0.001953125, False, True)), ('https://ngs.ics.uci.edu/category/general-updates/page/15', (0.001607717041800643, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/53', (0.0019646365422396855, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/levorato-and-deepedge-tackle-darpa-sdr-hackfest', (0.0013966480446927375, False, False)), ('https://www.ics.uci.edu/community/news/view_news?id=126', (0.003125, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=126', (0.003125, False, False))])

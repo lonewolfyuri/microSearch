@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~hsajnani', (0.001937984496124031, False, True)), ('http://mondego.ics.uci.edu/projects/SourcererCC', (0.0049504950495049506, False, True)), ('http://mondego.ics.uci.edu', (0.017543859649122806, False, True))])

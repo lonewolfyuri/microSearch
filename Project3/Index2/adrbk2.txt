@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/FXR/nearestGenes.tx', (0.00010967918837400603, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/APA-Analysis-Round4/15pct_CFI68_vscntrl_significantApAlogFCList.tx', (5.666846116793698e-05, False, False))])

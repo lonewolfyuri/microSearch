@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/79-python-resources/115-abstraction-module', (0.019230769230769232, False, True)), ('https://www.ics.uci.edu/~kay/courses/31/f15.htm', (0.002386634844868735, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=138', (0.0011299435028248588, False, True))])

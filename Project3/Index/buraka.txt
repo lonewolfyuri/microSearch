@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Arrhythmia', 0.0036496350364963502, False, True), ('http://archive.ics.uci.edu/ml/datasets/Artificial+Characters', 0.0036231884057971015, False, True)]

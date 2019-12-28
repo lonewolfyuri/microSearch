@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~respond/net-status1', (0.0005159958720330237, False, True)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Data/gr/n400', (0.0027247956403269754, False, False)), ('https://cbcl.ics.uci.edu/public_data/FXR/nearestGenes.tx', (5.4839594187003014e-05, False, False))])

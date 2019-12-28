@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Soybean+(Large)', (0.00034002040122407346, False, True)), ('http://archive.ics.uci.edu/ml/support/Annealing', (0.0015432098765432098, False, False)), ('http://archive.ics.uci.edu/ml/support/Soybean+(Small)', (0.00033057851239669424, False, True))])

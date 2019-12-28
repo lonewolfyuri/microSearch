@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/cs274/homeworks/hw6_materials/dataset1.tx', (0.00015625, False, False)), ('http://www-db.ics.uci.edu/pages/software/htree/htree_READM', (0.0007462686567164179, False, True))])

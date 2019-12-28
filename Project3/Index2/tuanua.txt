@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/visr-is-in-android-marketplace', (0.0012135922330097086, False, True))])

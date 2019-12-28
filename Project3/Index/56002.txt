@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Waveform+Database+Generator+%28Version+2%29', 0.004524886877828055, False, True)]

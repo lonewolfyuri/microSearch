@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/hilario.htm', (0.0045662100456621, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Arrhythmi', (0.0016129032258064516, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

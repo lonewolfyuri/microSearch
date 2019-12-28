@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/iosef.ht', (0.0009671179883945841, False, True)), ('https://ngs.ics.uci.edu/nagpur', (0.0007462686567164179, False, True)), ('https://ngs.ics.uci.edu/fun-can-be-stressful', (0.0012254901960784314, False, True)), ('https://ngs.ics.uci.edu/eventweb-towards-events', (0.0010504201680672268, False, True))])

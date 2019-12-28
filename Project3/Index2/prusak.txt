@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/KnowledgeWeb', (0.0002043318348998774, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/Software_Process_Redesign/Paper-Draft.htm', (0.0001465845793022574, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gesang.htm', (0.0009633911368015414, False, False))])

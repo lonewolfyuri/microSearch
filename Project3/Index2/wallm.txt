@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/151', (0.0016260162601626016, False, True)), ('https://ngs.ics.uci.edu/blog/page/151', (0.0016181229773462784, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/54', (0.0014903129657228018, False, True)), ('https://ngs.ics.uci.edu/changing-academic-climate', (0.002127659574468085, False, True))])

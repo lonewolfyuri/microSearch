@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/nostalgia-in-atlanta-at-tsrb', (0.0014727540500736377, False, True))])

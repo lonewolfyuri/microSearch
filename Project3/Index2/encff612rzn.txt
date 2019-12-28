@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/Temp-Other/1', (0.041666666666666664, False, True))])

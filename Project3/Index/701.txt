@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PANDOR', 0.002364066193853428, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dishonest+Internet+users+Dataset', 0.0010121457489878543, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.0016233766233766235, False, True)]

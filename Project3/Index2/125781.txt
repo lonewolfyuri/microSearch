@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Congressional+Voting+Records', (0.0015337423312883436, False, False)), ('https://www.ics.uci.edu/~smyth/courses/cs274/homeworks/hw6_materials/dataset1.tx', (0.00015625, False, False))])

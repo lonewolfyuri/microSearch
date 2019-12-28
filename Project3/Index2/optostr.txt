@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/CompOp.htm', (0.00847457627118644, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-15.htm', (0.012987012987012988, False, True))])

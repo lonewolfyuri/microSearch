@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/design-fiction', (0.0015151515151515152, False, True)), ('https://www.ics.uci.edu/~perl/publication/pg_diversity', (0.0038461538461538464, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://hai.ics.uci.edu/publications.htm', (0.0003762227238525207, False, True)), ('https://www.ics.uci.edu/~yunanc', (0.0045662100456621, False, True)), ('https://www.ics.uci.edu/~yunanc/', (0.0045662100456621, False, True)), ('https://ngs.ics.uci.edu/international-academic-research-perspectives', (0.0016556291390728477, False, True))])

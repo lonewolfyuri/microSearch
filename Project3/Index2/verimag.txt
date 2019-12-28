@@ -1,0 +1,1 @@
+dict_items([('http://alderis.ics.uci.edu/links.htm', (0.008849557522123894, False, True)), ('http://alderis.ics.uci.edu/publications.htm', (0.004347826086956522, False, True)), ('http://alderis.ics.uci.edu', (0.0026954177897574125, False, True)), ('http://alderis.ics.uci.edu/index.htm', (0.0026954177897574125, False, True))])

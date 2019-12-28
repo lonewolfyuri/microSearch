@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumptio', (0.00398406374501992, False, True))])

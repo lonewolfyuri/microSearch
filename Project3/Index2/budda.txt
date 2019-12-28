@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Ihler-Photos%2FJapan-Dev', (0.0020920502092050207, False, True))])

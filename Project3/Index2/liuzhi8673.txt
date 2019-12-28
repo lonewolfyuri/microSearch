@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+se', (0.004098360655737705, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Reuter_50_5', (0.00390625, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%2', (0.002347417840375587, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/Portugal.htm', (0.001148105625717566, False, True))])

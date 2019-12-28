@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/rfc2026.tx', (0.00016630633627141194, False, False)), ('https://www.ics.uci.edu/~rohit/ETcon-notes.tx', (0.00045004500450045, False, False)), ('https://www.ics.uci.edu/~magda/Courses/ics156/Man_TCPDUMP.htm', (0.0010384215991692627, False, True))])

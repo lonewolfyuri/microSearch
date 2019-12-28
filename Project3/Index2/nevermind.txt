@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes-2008F/Announcements?action=rs', (0.0034602076124567475, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-2008F%2FAnnouncement', (0.0034602076124567475, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

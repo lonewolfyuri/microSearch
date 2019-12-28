@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Burst+Header+Packet+%28BHP%29+flooding+attack+on+Optical+Burst+Switching+%28OBS%29+Network', 0.0044444444444444444, False, False), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Mag', 0.0024509803921568627, False, True)]

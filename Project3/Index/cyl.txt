@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.0030165912518853697, False, True)]

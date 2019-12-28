@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset', 0.002403846153846154, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.0026666666666666666, False, True), ('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.0020161290322580645, False, True)]

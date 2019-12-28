@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysi', (0.0018115942028985507, False, True)), ('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (9.654606454104415e-05, False, False))])

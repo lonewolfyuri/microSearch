@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/f03-outline/10.inttre', (0.0015479876160990713, False, False)), ('https://www.ics.uci.edu/~dan/pubs/DC-Sec3.htm', (0.0006729475100942127, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/classes/ics-163-mobile-ubiquitous-games', (0.0017006802721088435, False, False)), ('https://www.informatics.uci.edu/very-top-footer-menu-items/people/', (0.000819672131147541, False, True)), ('https://www.informatics.uci.edu/very-top-footer-menu-items/people', (0.000819672131147541, False, True))])

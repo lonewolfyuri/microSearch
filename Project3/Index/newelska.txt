@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/seeds', 0.003215434083601286, False, True), ('http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations', 0.003816793893129771, False, True)]

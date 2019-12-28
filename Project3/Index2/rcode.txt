@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/stats5/onlineslides/RCode_for_Feb6th_Lecture', (0.1, True, True)), ('https://www.ics.uci.edu/~smyth/courses/stats5/onlineslides', (0.015873015873015872, False, True)), ('https://www.ics.uci.edu/~magda/Courses/ics156/Man_TCPDUMP.htm', (0.0002318034306907742, False, False))])

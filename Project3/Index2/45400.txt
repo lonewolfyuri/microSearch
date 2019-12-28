@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Automobil', (0.0014992503748125937, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Silberfeld.htm', (0.0002025111381125962, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

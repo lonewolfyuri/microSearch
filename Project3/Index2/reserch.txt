@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dgillen/experience.htm', (0.001584786053882726, False, True)), ('https://ngs.ics.uci.edu/interactive-digital-media-in-singapore', (0.0013245033112582781, False, True))])

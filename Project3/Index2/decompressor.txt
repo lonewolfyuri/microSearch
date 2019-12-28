@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dillenco/graphtool/windows/graphtool.htm', (0.0031847133757961785, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.00045372050816696913, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Heart+Disease#cb68337ad074a5f5ce7d8ca8a7a0b7bad1931070', 0.00022207417277370642, False, False), ('http://archive.ics.uci.edu/ml/support/Arrhythmia#811517480cb8dca1073ee39a37c9a343a1179aab', 0.0034129692832764505, False, False)]

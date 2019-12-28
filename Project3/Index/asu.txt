@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients', 0.0034965034965034965, False, False)]

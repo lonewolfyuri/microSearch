@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kibler/ics171/homeworks', (0.038461538461538464, False, True)), ('http://sdcl.ics.uci.edu/research/past-projects', (0.001049317943336831, False, True)), ('http://sdcl.ics.uci.edu/research/past-projects/codeexchange', (0.0012224938875305623, False, True))])

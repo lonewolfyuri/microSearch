@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/arcadia_papers/process/environment_abstract.htm', (0.005714285714285714, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

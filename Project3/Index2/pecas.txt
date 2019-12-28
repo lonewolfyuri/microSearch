@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/seminar-series-archive/?seminar_id=20', (0.000855431993156544, False, True)), ('https://www.cs.uci.edu/event/renee-j-miller', (0.0009389671361502347, False, False)), ('https://www.cs.uci.edu/event/renee-j-miller/?ical=', (0.001984126984126984, False, False))])

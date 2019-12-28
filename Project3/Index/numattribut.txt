@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/donation_form.php', 0.011461318051575931, False, True)]

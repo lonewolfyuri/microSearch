@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/79-python-resources/123-recursion-example', (0.0024330900243309003, False, True))])

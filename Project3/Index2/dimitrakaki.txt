@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Spambase', (0.002105263157894737, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Ionospher', (0.0005694760820045558, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Spambas', (0.0012674271229404308, False, True)), ('http://archive.ics.uci.edu/ml/support/Ionosphere', (0.00037678975131876413, False, True))])

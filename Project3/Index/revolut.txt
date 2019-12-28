@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants', 0.0015772870662460567, False, True), ('http://archive.ics.uci.edu/ml/support/Abalone#ae82a44ada49c66439b67eae7ff10392ff209df9', 0.0011862396204033216, False, False)]

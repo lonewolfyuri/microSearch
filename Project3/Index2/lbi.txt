@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/StoneFlake', (0.0008865248226950354, False, True))])

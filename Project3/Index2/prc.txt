@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dillenco/pubs', (0.00047778308647873863, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (0.0038314176245210726, False, False)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_cv_2000.ht', (0.005847953216374269, False, True))])

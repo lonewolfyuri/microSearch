@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Se', (0.004, False, True)), ('https://www.ics.uci.edu/~theory/269/150501.htm', (0.008064516129032258, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0005186721991701245, False, True))])

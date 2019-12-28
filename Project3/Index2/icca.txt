@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/180a/links.htm', (0.004761904761904762, False, True)), ('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (0.00020228582987761708, False, False))])

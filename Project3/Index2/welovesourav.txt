@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/sourav-ganguli-issue', (0.0013333333333333333, False, True))])

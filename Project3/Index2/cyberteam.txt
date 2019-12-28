@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/pres/stc-99/tsld008.ht', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/redmond/raw_minutes.htm', (0.038461538461538464, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/implementation.htm', (0.0013175230566534915, False, True))])

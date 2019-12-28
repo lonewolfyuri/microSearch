@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Applications/RayDiagram/source', (0.041666666666666664, False, True))])

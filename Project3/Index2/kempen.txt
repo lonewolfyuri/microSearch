@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Multiple+Features', (0.002053388090349076, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Multiple+Feature', (0.0015220700152207, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (4.879238838741156e-05, False, False))])

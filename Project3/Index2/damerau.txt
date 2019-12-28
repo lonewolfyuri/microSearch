@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1', (0.0010559662090813093, False, True)), ('http://flamingo.ics.uci.edu/releases/4.1/src/filtertree/src/example.c', (0.0010319917440660474, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collectio', (0.0014684287812041115, False, True))])

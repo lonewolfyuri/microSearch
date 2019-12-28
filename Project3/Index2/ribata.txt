@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Student+Academics+Performanc', (0.002380952380952381, False, True))])

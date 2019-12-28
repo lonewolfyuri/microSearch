@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Izenberg.htm', (0.0017391304347826088, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.tx', (8.411136344520145e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Susser.htm', (0.002677376171352075, False, False))])

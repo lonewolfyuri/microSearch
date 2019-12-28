@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes/CSEProjectIdea', (0.0022026431718061676, False, True))])

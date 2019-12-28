@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics45c/Notes/BehindTheScenes', (0.0003272251308900524, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/usingclasses/lecture.htm', (7.713073659853452e-05, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/decoratorspackages.tx', (0.0004298302170642596, False, False))])

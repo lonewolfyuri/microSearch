@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters', 0.00510204081632653, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.0021551724137931034, False, True)]

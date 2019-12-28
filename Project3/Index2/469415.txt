@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sternh/courses/210/randomize.htm', (1.9298313327415185e-05, False, True))])

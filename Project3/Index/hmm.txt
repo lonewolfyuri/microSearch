@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Bach+Chorales#44c3304f0bae0a9da4798db6e28bda955a80d576', 0.004166666666666667, False, True), ('http://archive.ics.uci.edu/ml/datasets/Character+Trajectories', 0.0024875621890547263, False, True)]

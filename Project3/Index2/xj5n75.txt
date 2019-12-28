@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/webdav-draft-06.htm', (0.0001556178026766262, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data', 0.0008598452278589854, False, True), ('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 0.0020833333333333333, False, True)]

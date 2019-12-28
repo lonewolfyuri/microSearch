@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~minhaenl/web_data/pic', (0.0625, False, True))])

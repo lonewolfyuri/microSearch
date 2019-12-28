@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Dermatology', 0.0015772870662460567, False, True), ('http://archive.ics.uci.edu/ml/datasets/SECOM', 0.0018484288354898336, False, True)]

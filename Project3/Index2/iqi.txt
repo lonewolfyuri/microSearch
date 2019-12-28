@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dvk/pub.htm', (0.000585480093676815, False, True)), ('https://www.ics.uci.edu/~dvk/pub/IQIS05_dvk.htm', (0.125, True, True)), ('http://sherlock.ics.uci.edu/pub.htm', (0.0011547344110854503, False, True)), ('http://sherlock.ics.uci.edu/qgd.htm', (0.000851063829787234, False, True))])

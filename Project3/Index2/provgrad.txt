@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics21/FinalGrades.htm', (0.0024630541871921183, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Datase', (0.0009891196834817012, False, True))])

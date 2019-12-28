@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch10/CSmodel.tx', (0.021739130434782608, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DogMixedModel.tx', (0.05357142857142857, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch10/Ch10Rcode.tx', (0.0020876826722338203, False, False))])

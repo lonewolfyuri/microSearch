@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/xmlSchema.htm', (0.0007930214115781126, False, True))])

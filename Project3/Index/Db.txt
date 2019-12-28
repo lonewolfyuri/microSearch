@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 0.0024009603841536613, False, True), ('http://archive.ics.uci.edu/ml/datasets/Planning+Relax', 0.0014064697609001407, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Character+Font+Images', 0.004291845493562232, False, True), ('http://archive.ics.uci.edu/ml/datasets/Miskolc+IIS+Hybrid+IPS', 0.0021551724137931034, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hybrid+Indoor+Positioning+Dataset+from+WiFi+RSSI%2C+Bluetooth+and+magnetometer', 0.002183406113537118, False, True)]

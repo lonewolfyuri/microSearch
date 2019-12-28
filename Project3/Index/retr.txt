@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Pioneer-1+Mobile+Robot+Data', 0.0015873015873015873, False, True)]

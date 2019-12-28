@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transition', (0.0034129692832764505, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphone', (0.0032679738562091504, False, True))])

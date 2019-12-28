@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/PVException.htm', (0.010309278350515464, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/draft-ietf-html-relrev-00.tx', (0.00021470746108427267, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

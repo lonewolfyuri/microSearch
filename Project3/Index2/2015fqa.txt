@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Lectures/Lathrop', (0.002570694087403599, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/faceweb', (0.001869158878504673, False, False))])

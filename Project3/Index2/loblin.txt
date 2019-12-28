@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Feiner.htm', (0.006172839506172839, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c.tx', (4.252423881612519e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Haubenstock.htm', (0.007462686567164179, False, True))])

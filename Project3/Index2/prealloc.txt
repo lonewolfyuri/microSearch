@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/speedup.tx', (0.0027548209366391185, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('http://www-db.ics.uci.edu/pages/software/htree/htree_READM', (0.0009541984732824427, False, True))])

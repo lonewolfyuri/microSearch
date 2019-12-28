@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/QueryAnswer.htm', (0.007633587786259542, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/SE/PVInstance.htm', (0.005208333333333333, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-7.htm', (0.0022675736961451248, False, True))])

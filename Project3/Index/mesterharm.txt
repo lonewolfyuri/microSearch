@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Farm+Ads', 0.003968253968253968, False, True)]

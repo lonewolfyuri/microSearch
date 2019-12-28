@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/bar/sf/NativityPulpit.htm', (0.047619047619047616, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/bar/sf/NativityAngels.htm', (0.125, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/bar/sf/SagradaFamilia.htm', (0.25, True, True))])

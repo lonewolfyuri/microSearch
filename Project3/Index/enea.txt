@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Air+Quality', 0.004032258064516129, False, False), ('http://archive.ics.uci.edu/ml/datasets/Air+quality', 0.004032258064516129, False, False)]

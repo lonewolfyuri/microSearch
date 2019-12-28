@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/kddcup98-mld/epsilon_mirror', (0.034482758620689655, False, True)), ('http://archive.ics.uci.edu/ml/support/IPUMS+Census+Database', (0.0023094688221709007, False, True)), ('http://archive.ics.uci.edu/ml/support/KDD+Cup+1998+Data', (0.0035087719298245615, False, False))])

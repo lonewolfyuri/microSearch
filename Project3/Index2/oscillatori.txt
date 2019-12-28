@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/instat.htm', (0.008064516129032258, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulatio', (0.0006385696040868455, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/cns-1930.ht', (0.00036088054853843375, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Silberstein.htm', (0.005291005291005291, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

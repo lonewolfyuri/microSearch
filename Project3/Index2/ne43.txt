@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.xm', (4.912556494399686e-05, False, True)), ('https://www.ics.uci.edu/~ejw/versioning/arch/0112.htm', (0.0022935779816513763, False, True)), ('https://www.ics.uci.edu/~ejw/versioning/arch/0144.htm', (0.003424657534246575, False, True))])

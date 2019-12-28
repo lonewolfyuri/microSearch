@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/visual-search-challenge-and-status', (0.0018214936247723133, False, True))])

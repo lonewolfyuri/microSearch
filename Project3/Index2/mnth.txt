@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Datase', (0.0019569471624266144, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Datase', (0.001001001001001001, False, True)), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collectio', (0.0013089005235602095, False, True))])

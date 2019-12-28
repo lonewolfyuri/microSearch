@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/ProSim-2K', (0.020833333333333332, False, True))])

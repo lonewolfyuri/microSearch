@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/shape-metric.htm', (0.0005151983513652757, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (3.833473894042782e-05, False, False))])

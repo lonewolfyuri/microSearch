@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Dat', (0.005194805194805195, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Air+Qualit', (0.002457002457002457, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Air+qualit', (0.002457002457002457, False, True))])

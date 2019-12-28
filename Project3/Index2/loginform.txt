@@ -1,0 +1,1 @@
+dict_items([('https://support.ics.uci.edu/laptops/index.php?r=site/logi', (0.03571428571428571, False, True)), ('https://support.ics.uci.edu/laptops', (0.03571428571428571, False, True)), ('https://support.ics.uci.edu/laptops/index.php?r=site/inde', (0.03571428571428571, False, True)), ('https://support.ics.uci.edu/laptops/index.ph', (0.03571428571428571, False, True))])

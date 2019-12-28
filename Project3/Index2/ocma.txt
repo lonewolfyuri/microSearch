@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~icgse2016/10_0visitor_info.htm', (0.0006016847172081829, False, True)), ('https://www.ics.uci.edu/community/news/articles/view_article?id=7', (0.0012610340479192938, False, True)), ('https://www.ics.uci.edu/~icgse2016/10_3meet%20the%20orange.htm', (0.00078064012490242, False, True))])

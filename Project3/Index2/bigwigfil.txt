@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/20170501_CLIP_William_Elmira', (0.045454545454545456, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/20170501_CLIP_William_Elmira/bigwigfiles', (0.1, True, True))])

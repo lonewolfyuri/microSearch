@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/overview-tree.htm', (0.0022172949002217295, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/NET/NetModuleImpl.htm', (0.01694915254237288, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/NET/package-tree.htm', (0.013513513513513514, False, True))])

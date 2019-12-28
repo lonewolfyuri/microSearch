@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0004982561036372695, False, True), ('http://archive.ics.uci.edu/ml/support/Abalone#ae82a44ada49c66439b67eae7ff10392ff209df9', 0.0026595744680851063, False, False), ('http://archive.ics.uci.edu/ml/datasets/EEG+Database', 0.0013986013986013986, False, True)]

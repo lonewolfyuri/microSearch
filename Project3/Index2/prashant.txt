@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structur', (0.003937007874015748, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Audit+Dat', (0.002398081534772182, False, True)), ('https://ngs.ics.uci.edu/nagpur', (0.00038226299694189603, False, True))])

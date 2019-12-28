@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics/tmw/select.', (0.015527950310559006, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.tx', (0.00015983377287620874, False, False))])

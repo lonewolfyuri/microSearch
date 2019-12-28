@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/Process-Simulator/README.tx', (0.00980392156862745, False, False)), ('https://www.ics.uci.edu/~wscacchi/Papers/Process-Simulator', (0.043478260869565216, False, True))])

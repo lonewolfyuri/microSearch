@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/hedronometry.htm', (0.00012496875781054737, False, True)), ('https://www.ics.uci.edu/~eppstein/161/960305.htm', (0.005780346820809248, False, False))])

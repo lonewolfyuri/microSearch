@@ -1,0 +1,1 @@
+dict_items([('https://emj.ics.uci.edu/grand-questions', (0.0018181818181818182, False, True)), ('https://emj.ics.uci.edu/grand-questions/', (0.0018181818181818182, False, True)), ('https://studentcouncil.ics.uci.edu/mission.htm', (0.005263157894736842, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

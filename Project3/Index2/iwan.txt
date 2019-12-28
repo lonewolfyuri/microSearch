@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/SCHOOLdata.tx', (0.00015413070283600493, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/polyomino.htm', (0.0017301038062283738, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/all.htm', (0.00011599582415033058, False, True))])

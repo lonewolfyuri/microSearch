@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/applications-of-face-recognition', (0.0015220700152207, False, True))])

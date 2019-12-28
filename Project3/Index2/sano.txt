@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screenin', (0.004291845493562232, False, True)), ('https://www.ics.uci.edu/~gmark/Home_page/Publications.htm', (0.0026702269692923898, True, False)), ('https://ngs.ics.uci.edu/pet-resorts', (0.0010204081632653062, False, True))])

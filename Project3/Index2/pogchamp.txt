@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/daniel-gardner', (0.0013297872340425532, False, True))])

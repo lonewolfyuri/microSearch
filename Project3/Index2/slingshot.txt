@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/hilario.htm', (0.00909090909090909, False, True)), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD.tx', (7.821866240398659e-05, False, False)), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD-random.tx', (7.821866240398659e-05, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

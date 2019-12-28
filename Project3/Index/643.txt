@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.001488095238095238, False, True), ('http://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics', 0.0031446540880503146, False, True), ('http://archive.ics.uci.edu/ml/datasets/Character+Trajectories', 0.0021645021645021645, False, True)]

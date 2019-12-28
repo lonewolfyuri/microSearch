@@ -1,0 +1,1 @@
+dict_items([('http://cert.ics.uci.edu/SAFIRE/publications.htm', (0.006211180124223602, False, False))])

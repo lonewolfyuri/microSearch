@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/converge.htm', (8.646031471554557e-05, False, True)), ('https://www.ics.uci.edu/~gbowker/actnet.htm', (0.00010350895352447987, False, True)), ('https://www.ics.uci.edu/~gbowker/forget.htm', (8.051529790660226e-05, False, True))])

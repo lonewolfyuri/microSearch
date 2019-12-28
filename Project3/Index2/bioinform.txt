@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Abscisic+Acid+Signaling+Networ', (0.0038461538461538464, False, True)), ('http://computableplant.ics.uci.edu/alphasite/publications-papers.htm', (0.0013422818791946308, False, False)), ('http://computableplant.ics.uci.edu/publications.htm', (0.001597444089456869, False, False))])

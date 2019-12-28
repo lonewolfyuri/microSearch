@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Amazon+Access+Samples', 0.0025252525252525255, False, True)]

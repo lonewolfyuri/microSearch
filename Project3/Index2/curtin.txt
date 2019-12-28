@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/teach.htm', (0.01098901098901099, False, True)), ('https://www.ics.uci.edu/~zhaoxia/publications/publications.ht', (0.000693000693000693, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/future-web-2', (0.0013404825737265416, False, True))])

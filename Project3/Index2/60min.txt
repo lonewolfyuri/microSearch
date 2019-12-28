@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~keldefra/teaching/spring2013/uci_cs132/cs132_schedule.ht', (0.003125, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/citizen-photojournalists', (0.0016313213703099511, False, False)), ('https://ngs.ics.uci.edu/photo-albums-into-navigable-3-d-worlds', (0.0017123287671232876, False, True))])

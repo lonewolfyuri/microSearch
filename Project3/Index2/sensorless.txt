@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Dataset+for+Sensorless+Drive+Diagnosi', (0.09090909090909091, True, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00325', (0.05, False, True))])

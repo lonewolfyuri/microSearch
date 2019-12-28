@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/undergrad/student-profiles/allan-do', (0.0008741258741258741, False, True)), ('https://www.informatics.uci.edu/undergrad/student-profiles/allan-do/', (0.0008741258741258741, False, True))])

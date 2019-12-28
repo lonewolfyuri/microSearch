@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (6.190800470500836e-05, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/Vintage/Software_Productivity.htm', (9.658103148541626e-05, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

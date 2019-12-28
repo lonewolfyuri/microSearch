@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/masinter/tsld012.ht', (0.03571428571428571, False, True)), ('https://ngs.ics.uci.edu/special-effects-in-indian-tv', (0.0006858710562414266, False, True)), ('https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2', (0.0013986013986013986, False, True))])

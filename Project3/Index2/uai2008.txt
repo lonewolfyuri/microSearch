@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/softwares/benchmarks/Mpe_Problme_Sets', (0.02127659574468085, False, True)), ('https://www.ics.uci.edu/~ihler/papers/bib.html', (0.0009041591320072332, False, True)), ('https://www.ics.uci.edu/~dechter/softwares', (0.047619047619047616, False, True))])

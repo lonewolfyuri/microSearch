@@ -1,0 +1,1 @@
+dict_items([('https://ipubmed.ics.uci.edu', (0.0012903225806451613, False, False))])

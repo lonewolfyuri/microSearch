@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/barry-diller-wants-to-revolutionize-news', (0.0013245033112582781, False, True))])

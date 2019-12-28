@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.0014577259475218659, False, True), ('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.0016339869281045752, False, True), ('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.002207505518763797, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wmt/ecoRaft/extras.htm', (0.001834862385321101, False, True))])

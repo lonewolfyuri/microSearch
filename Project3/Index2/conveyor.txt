@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (2.1183747828665848e-05, False, True)), ('https://www.ics.uci.edu/~rohit/wac', (0.0016420361247947454, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.931535449788662e-07, False, False))])

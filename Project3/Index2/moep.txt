@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/allen-subalgebras/Ae.tx', (0.000244140625, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.295297472104813e-07, False, False))])

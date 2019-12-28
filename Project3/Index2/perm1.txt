@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/logic-theorist/CODE', (0.016666666666666666, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/DE_Genes_edgeR/Entirelist_CFI25_vs_293T-modified.tx', (1.0586939950876598e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (9.758477677482313e-05, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/logicConcepts.htm', (0.0001714971702966901, False, False))])

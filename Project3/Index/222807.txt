@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Artificial+Characters', 0.0043859649122807015, False, True)]

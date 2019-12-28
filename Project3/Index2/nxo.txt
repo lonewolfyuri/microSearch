@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/sorting2.tx', (0.010238907849829351, False, False))])

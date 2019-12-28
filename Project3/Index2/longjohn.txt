@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0007836990595611285, False, True)), ('https://www.stat.uci.edu/grad-student-directory', (0.0015128593040847202, False, True))])

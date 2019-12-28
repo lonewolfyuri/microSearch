@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Auto+MPG', (0.0010330578512396695, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Auto+MP', (0.0016155088852988692, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Serv', (0.0018656716417910447, False, True)), ('http://archive.ics.uci.edu/ml/support/Servo', (0.0021141649048625794, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Iris', 0.0010940919037199124, False, True), ('http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits', 0.002717391304347826, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00048355899419729207, False, True)]

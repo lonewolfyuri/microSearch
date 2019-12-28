@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.07692307692307693, True, True), ('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements', 0.000925925925925926, False, True), ('http://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation', 0.0017699115044247787, False, True)]

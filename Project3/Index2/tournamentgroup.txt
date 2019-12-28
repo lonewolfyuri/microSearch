@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/src/ConnectKSource_java/build/classes/main/connectK/tournament', (0.019230769230769232, False, True)), ('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/src/ConnectKSource_java/src/main/java/connectK/tournament', (0.020833333333333332, False, True))])

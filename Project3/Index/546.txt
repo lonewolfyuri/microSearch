@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data', 0.0017211703958691911, False, True), ('http://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor', 0.0015337423312883436, False, True), ('http://archive.ics.uci.edu/ml/datasets/QSAR+aquatic+toxicity', 0.005025125628140704, False, False)]

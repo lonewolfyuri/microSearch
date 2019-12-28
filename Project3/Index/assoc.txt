@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.005797101449275362, False, True), ('http://archive.ics.uci.edu/ml/datasets/Perfume+Data', 0.0036900369003690036, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.005780346820809248, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/rMATs/colleen-cort-ctrl-KO-mm9-frstrand/MATS_output/RI.MATS.JunctionCountOnly_nameadded.tx', (1.898523897669562e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/rMATs/colleen-cort-ctrl-KO-mm9-frstrand/MATS_output/RI.MATS.JunctionCountOnly.tx', (1.936464596586013e-05, False, False))])

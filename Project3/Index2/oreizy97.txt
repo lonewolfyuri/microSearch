@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/classes/211/syllabusFQ06.html', (0.001567398119122257, False, True)), ('https://www.ics.uci.edu/~taylor/classes/211/syllabusFQ07.html', (0.0012468827930174563, False, True))])

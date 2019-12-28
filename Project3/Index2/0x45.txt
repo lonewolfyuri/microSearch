@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics/tmw/merge.', (0.010638297872340425, False, False))])

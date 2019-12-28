@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Blumenfeld.htm', (0.0010471204188481676, False, False)), ('https://www.ics.uci.edu/~smyth/courses/cs175/applications_and_demos.htm', (0.006172839506172839, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

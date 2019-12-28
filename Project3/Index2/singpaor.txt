@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (0.00011027790030877812, False, True)), ('https://ngs.ics.uci.edu/research-in-singapore', (0.0016420361247947454, False, True))])

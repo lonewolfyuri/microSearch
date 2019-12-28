@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Character+Font+Image', (0.00202020202020202, False, True))])

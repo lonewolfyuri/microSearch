@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/nagpur', (0.00028129395218002813, False, False)), ('https://ngs.ics.uci.edu/sourav-ganguli-issue', (0.001841620626151013, False, True)), ('https://ngs.ics.uci.edu/seraja-9-goes-live', (0.0016806722689075631, False, True))])

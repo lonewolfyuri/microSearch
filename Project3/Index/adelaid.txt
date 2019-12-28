@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor', 0.003745318352059925, False, True), ('http://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand', 0.0026041666666666665, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wave+Energy+Converters', 0.004, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch12/Ch12Rcode.tx', (0.0010319917440660474, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/RcodeAppendix.tx', (0.0012787723785166241, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch13/Ch13RcodeLeukemia.tx', (0.0056179775280898875, False, False))])

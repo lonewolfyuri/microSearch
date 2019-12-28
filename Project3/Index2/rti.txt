@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/StoneFlake', (0.0008802816901408451, False, True)), ('https://www.ics.uci.edu/~dillenco/pubs', (0.0006531678641410843, False, True)), ('https://www.ics.uci.edu/~neno/dsl/dsl97.htm', (0.0005268703898840885, False, False)), ('https://www.ics.uci.edu/~wscacchi/publications.htm', (0.0013315579227696406, False, False))])

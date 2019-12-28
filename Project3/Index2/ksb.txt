@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/3-179.htm', (0.0010804970286331713, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/kterm-minden.htm', (0.0030581039755351682, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.6278769512197773e-05, False, False))])

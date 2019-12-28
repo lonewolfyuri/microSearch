@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Car+Evaluation', (0.001310615989515072, False, False)), ('http://archive.ics.uci.edu/ml/support/Abalone', (0.002127659574468085, False, False)), ('https://www.ics.uci.edu/~pazzani/Slides/Hill/tsld013.ht', (0.011363636363636364, False, True))])

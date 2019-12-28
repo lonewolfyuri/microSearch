@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/sculptok/FemaleHaniwa.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/sculptok/TokyoUniversityOfScience3.htm', (0.05555555555555555, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/sculptok/JomonDogu.htm', (0.5, True, True))])

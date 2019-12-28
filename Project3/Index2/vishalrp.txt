@@ -1,0 +1,1 @@
+dict_items([('https://mailman.ics.uci.edu/mailman/admin/cric', (0.01020408163265306, False, True)), ('https://mailman.ics.uci.edu/mailman/options/cric', (0.005847953216374269, False, True)), ('https://mailman.ics.uci.edu/mailman/listinfo/cric', (0.0031446540880503146, False, True)), ('https://mailman.ics.uci.edu/mailman/subscribe/cric', (0.045454545454545456, False, True))])

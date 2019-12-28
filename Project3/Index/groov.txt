@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/seeds', 0.002074688796680498, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0027247956403269754, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 8.565310492505354e-05, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/in-21st-century', (0.0015060240963855422, False, True))])

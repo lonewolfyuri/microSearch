@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/IncludeOtherPage', (0.0026954177897574125, False, True)), ('http://sli.ics.uci.edu/PmWiki/MarkupMasterInde', (0.0011037527593818985, False, True)), ('https://www.ics.uci.edu/~ejw/versioning/arch/0085.htm', (0.005649717514124294, False, False)), ('https://www.ics.uci.edu/~mopy/personal.htm', (0.0020964360587002098, False, True))])

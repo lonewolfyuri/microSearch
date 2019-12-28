@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~chenli/pods05/sig-alternate.cl', (0.0017540013155009867, False, True)), ('https://www.ics.uci.edu/~chenli/pods05/acm_proc_article-sp.cl', (0.0017722640673460345, False, False))])

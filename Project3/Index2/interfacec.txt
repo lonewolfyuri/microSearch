@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/tag/computer-interfacecs', (0.25, True, False)), ('https://ngs.ics.uci.edu/physical-social-cyber-computing-systems/', (0.0009578544061302681, False, True)), ('https://ngs.ics.uci.edu/physical-social-cyber-computing-systems', (0.0009578544061302681, False, True))])

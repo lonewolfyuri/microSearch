@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/bardejov.ht', (0.002932551319648094, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/sabinov.ht', (0.003236245954692557, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/eckstein/nissel.ht', (0.006944444444444444, False, False))])

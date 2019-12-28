@@ -1,0 +1,1 @@
+dict_items([('http://hai.ics.uci.edu/publications.htm', (0.00021944261575597982, False, True)), ('https://www.ics.uci.edu/~gbowker/converge.htm', (0.00013370771493515177, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

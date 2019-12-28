@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data', 0.0018867924528301887, False, True), ('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.003436426116838488, False, True)]

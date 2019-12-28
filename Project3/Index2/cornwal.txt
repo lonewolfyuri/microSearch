@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/props/draft-ietf-webdav-properties-extension-00.tx', (0.0003718854592785422, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Tigner.htm', (0.0005743825387708214, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (4.8273032270522073e-05, False, False)), ('https://duttgroup.ics.uci.edu/publications/?limit=', (0.00012487512487512488, False, True))])

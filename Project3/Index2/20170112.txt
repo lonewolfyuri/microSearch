@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/Temp-Other/20170112_RNASeq-PublishedData', (0.1, True, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/Temp-Other', (0.05, False, True))])

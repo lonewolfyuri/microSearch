@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Glossar', (0.003236245954692557, False, True)), ('http://sli.ics.uci.edu/PmWiki/FmtPageNam', (0.001984126984126984, False, True)), ('http://sli.ics.uci.edu/PmWiki/LayoutVariable', (0.000591016548463357, False, True)), ('http://sli.ics.uci.edu/PmWiki/Variable', (0.002881844380403458, False, True))])

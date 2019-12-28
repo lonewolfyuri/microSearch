@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/collection/dt/CollSpec034.tx', (7.379529186037931e-05, False, True))])

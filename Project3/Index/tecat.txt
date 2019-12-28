@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Auto+MPG#ae50055cb7507aa6cad70a2adf7d0f55a25268c7', 0.0008658008658008658, False, False), ('http://archive.ics.uci.edu/ml/support/Servo#5657ca96b13a51d96b97c4f8d8f5e724a616b9e6', 0.0016286644951140066, False, False)]

@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/ZhuR_CVPR_2012', (0.0048543689320388345, False, False))])

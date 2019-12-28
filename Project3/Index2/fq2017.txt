@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/ics-h197/2018-fq-h197/fq-2018-schedule.tx', (0.0009380863039399625, False, True))])

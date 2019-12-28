@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.000574052812858783, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+(German+Credit+Data)#d64d2705cabed449e8cb2ecc3c3c77c54ee71051', 0.0018083182640144665, False, True)]

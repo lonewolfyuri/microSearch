@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.tx', (0.00022951572182694515, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False)), ('https://ngs.ics.uci.edu/real-reality', (0.0016260162601626016, False, True))])

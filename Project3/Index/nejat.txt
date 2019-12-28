@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Dataset', 0.003436426116838488, False, True)]

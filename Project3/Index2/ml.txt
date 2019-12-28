@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', (0.00030627871362940275, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.00026878107781212203, False, False))])

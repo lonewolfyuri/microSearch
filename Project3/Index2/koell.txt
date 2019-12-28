@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_alphanum.htm', (0.0026109660574412533, False, True))])

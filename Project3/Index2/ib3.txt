@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.0003933910306845004, False, True)), ('http://archive.ics.uci.edu/ml/support/Servo', (0.004672897196261682, False, True)), ('https://www.ics.uci.edu/~kibler/ics273/syllabus', (0.0004885197850512946, False, True))])

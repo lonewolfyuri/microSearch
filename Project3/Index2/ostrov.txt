@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/1869censustips.ht', (0.0018018018018018018, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schmeidler.htm', (0.0005408328826392645, False, False))])

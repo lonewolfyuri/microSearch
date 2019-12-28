@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Spanlang.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pitzele.htm', (4.37636761487965e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/kovea.tx', (0.0005307855626326964, False, False))])

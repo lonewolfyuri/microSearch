@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/healthy-foodie/', (0.0013386880856760374, False, True)), ('https://ngs.ics.uci.edu/healthy-foodie', (0.0013386880856760374, False, True)), ('https://ngs.ics.uci.edu/tag/foodtech', (0.3333333333333333, True, False)), ('https://ngs.ics.uci.edu/tag/foodtech/', (0.3333333333333333, True, False))])

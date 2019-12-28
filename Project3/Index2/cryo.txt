@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/projects/biological_images', (0.007633587786259542, False, True))])

@@ -1,1 +1,0 @@
-[('http://alderis.ics.uci.edu/publications.html', 0.007352941176470588, False, False), ('http://alderis.ics.uci.edu/amba2.html', 0.01098901098901099, False, False), ('http://alderis.ics.uci.edu/', 0.008264462809917356, False, False), ('http://alderis.ics.uci.edu/index.html', 0.008264462809917356, False, False)]

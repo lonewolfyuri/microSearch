@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/bbb/BackBayVista.htm', (0.16666666666666666, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/bbb/StreamSidePath.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/bbb/InterpCtr.htm', (0.05263157894736842, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

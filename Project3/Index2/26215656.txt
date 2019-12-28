@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performanc', (0.0036101083032490976, False, True)), ('http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+client', (0.0034965034965034965, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+se', (0.003676470588235294, False, True))])

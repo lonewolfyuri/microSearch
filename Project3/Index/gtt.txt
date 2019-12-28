@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants', 0.0015923566878980893, False, True), ("http://archive.ics.uci.edu/ml/support/Haberman's+Survival#8432b52f06e00a68cb8a7a49e3938190338231de", 0.00202020202020202, False, True)]

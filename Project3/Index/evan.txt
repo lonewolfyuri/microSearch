@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.004347826086956522, False, True), ('http://archive.ics.uci.edu/ml/datasets/Smartphone+Dataset+for+Human+Activity+Recognition+%28HAR%29+in+Ambient+Assisted+Living+%28AAL%29', 0.003663003663003663, False, True)]

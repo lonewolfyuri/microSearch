@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Audiology+(Standardized)', (0.0047169811320754715, False, True)), ('http://archive.ics.uci.edu/ml/support/Horse+Colic', (0.0025252525252525255, False, False)), ('http://archive.ics.uci.edu/ml/support/Audiology+(Original)', (0.0047169811320754715, False, True))])

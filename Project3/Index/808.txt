@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame', 0.002145922746781116, False, True)]

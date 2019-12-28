@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P1-TGACCA-Sequences_trimmed-mapped_peaks.narrowPea', (0.0001279795232762758, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/dpsi_293twt_cfim59ko/majiq.lo', (0.0009779951100244498, False, False))])

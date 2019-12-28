@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/gallery/Gallery/legend.htm', (0.01, False, True))])

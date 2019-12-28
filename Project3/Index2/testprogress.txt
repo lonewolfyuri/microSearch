@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~stasio/winter06/Lectures/Lec6code/ProgressionExample', (0.03225806451612903, False, True)), ('https://www.ics.uci.edu/~stasio/winter06/Lectures/Lec6code/ProgressionExample/TestProgression-class.htm', (0.1, False, False))])

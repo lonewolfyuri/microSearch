@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/prospective-students/application-process', (0.001466275659824047, False, True))])

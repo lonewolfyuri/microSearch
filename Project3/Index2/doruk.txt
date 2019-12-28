@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pubs/auth.htm', (0.00196078431372549, False, True)), ('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (0.0005837711617046118, False, True)), ('https://www.ics.uci.edu/~theory/269/170519b.htm', (0.005025125628140704, False, True)), ('https://www.ics.uci.edu/~eppstein/pubs/a-korkmaz.htm', (0.1, False, True))])

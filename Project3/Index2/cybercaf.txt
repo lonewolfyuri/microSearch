@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/nagpur', (0.0013315579227696406, False, True)), ('https://ngs.ics.uci.edu/in-varna-bulgaria', (0.0009033423667570009, False, True)), ('https://ngs.ics.uci.edu/visiting-nagpur', (0.0013440860215053765, False, True))])

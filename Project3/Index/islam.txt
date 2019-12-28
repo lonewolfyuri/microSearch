@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SCADI', 0.004032258064516129, False, True), ('http://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice', 0.005434782608695652, False, True)]

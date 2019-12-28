@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~respond/net-status1', (0.002352941176470588, False, True))])

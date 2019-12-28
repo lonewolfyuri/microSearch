@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Presentations/COSST', (0.07142857142857142, False, True))])

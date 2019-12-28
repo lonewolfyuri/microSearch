@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/bangalore-and-hyderabad', (0.001272264631043257, False, True))])

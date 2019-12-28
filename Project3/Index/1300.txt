@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Dexter', 0.0038910505836575876, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0002065688907250568, False, True), ('http://archive.ics.uci.edu/ml/datasets/MicroMass', 0.0048543689320388345, False, True)]

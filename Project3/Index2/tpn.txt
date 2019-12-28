@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/arcadia_papers/analysis/tbpns_abstract.htm', (0.025974025974025976, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis', 0.003937007874015748, False, True)]

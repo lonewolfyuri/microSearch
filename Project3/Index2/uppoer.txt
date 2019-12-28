@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~amrm/slides/amrm_structure/pta/tsld060.ht', (0.041666666666666664, False, True)), ('https://www.ics.uci.edu/~wmt/ecoRaft/extras.htm', (0.0024875621890547263, False, False))])

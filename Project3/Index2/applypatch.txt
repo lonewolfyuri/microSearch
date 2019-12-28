@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks/pre-applypatch.sampl', (0.029411764705882353, False, False)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks/applypatch-msg.sampl', (0.025974025974025976, False, False)), ('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks', (0.058823529411764705, False, True))])

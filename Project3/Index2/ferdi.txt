@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/charlotte/LeiDrop.htm', (0.25, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/charlotte/FerdCatherina.htm', (0.125, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/charlotte/FerdLei.htm', (0.0625, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

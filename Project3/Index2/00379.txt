@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases', (0.0049261083743842365, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%2', (0.001145475372279496, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00379', (0.14285714285714285, True, True))])

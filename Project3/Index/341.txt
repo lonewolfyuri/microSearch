@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.0026595744680851063, False, True), ('http://archive.ics.uci.edu/ml/support/Wine#a32ab1b3da96c9ae515a685b4fcf50e857708f24', 0.0023094688221709007, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0007092198581560284, False, True)]

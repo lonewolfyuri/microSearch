@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('http://sdcl.ics.uci.edu/page/5', (0.0007102272727272727, False, False)), ('http://sdcl.ics.uci.edu/2014/10/plateau-2014', (0.001145475372279496, False, False))])

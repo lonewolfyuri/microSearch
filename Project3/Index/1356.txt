@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Musk+(Version+2)#d320ece010630c32341d927b2573372abbbca524', 0.0014858841010401188, False, True), ('http://archive.ics.uci.edu/ml/support/Musk+(Version+1)#7ee121b26e79c0a7aa5c80979e275fc3592d0638', 0.0016611295681063123, False, True)]

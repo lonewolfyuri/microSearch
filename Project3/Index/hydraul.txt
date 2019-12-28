@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems', 0.09090909090909091, True, True), ('http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength', 0.0017793594306049821, False, True)]

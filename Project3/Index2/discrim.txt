@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Musk+(Version+2)', (0.0016474464579901153, False, False)), ('http://archive.ics.uci.edu/ml/support/Musk+(Version+1)', (0.00186219739292365, False, False)), ('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/disput01.htm', (0.00012457178449081283, False, False))])

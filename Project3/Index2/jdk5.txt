@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics184/LabManual/SettingUpJava.htm', (0.0015772870662460567, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (8.304149629704129e-06, False, False))])

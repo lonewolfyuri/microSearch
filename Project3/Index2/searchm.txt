@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/prospective-of-multimedia-search', (0.0014684287812041115, False, True))])

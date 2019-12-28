@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/79-python-resources/85-python-resource', (0.015873015873015872, False, True)), ('http://tutors.ics.uci.edu/index.php/0-python-resources/85-python-resource', (0.015873015873015872, False, True))])

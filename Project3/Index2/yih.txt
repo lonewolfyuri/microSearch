@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/annualreport/2006-07/donors.ph', (0.0008488964346349745, False, False)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0011210762331838565, False, True)), ('https://www.ics.uci.edu/~ics215', (0.00202020202020202, False, True)), ('https://www.ics.uci.edu/~keldefra/manet.ht', (0.0009718172983479105, False, True))])

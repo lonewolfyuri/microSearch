@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Nettalk+Corpus', (0.002277904328018223, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Nettalk+Corpus%2', (0.002277904328018223, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

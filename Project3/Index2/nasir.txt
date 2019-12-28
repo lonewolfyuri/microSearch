@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/leiden/NasirKazmi.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/leiden/CityHallDoors1.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/leiden/CitadelRooftopView2.htm', (0.0625, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False)), ('https://ngs.ics.uci.edu/great-opportunity-for-video-researchers', (0.0013175230566534915, False, True))])

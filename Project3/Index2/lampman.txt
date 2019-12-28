@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/alumni-spotlight-jim-sherriff-79-gives-veterans-a-jump-start-in-the-tech-industry', (0.0011235955056179776, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=126', (0.002053388090349076, False, True))])

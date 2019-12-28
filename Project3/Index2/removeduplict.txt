@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-18.htm', (0.0010515247108307045, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/QueryNode.htm', (0.004975124378109453, False, True))])

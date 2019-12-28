@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-speakers/', (0.0004616805170821791, False, False)), ('https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-speakers', (0.0004616805170821791, False, False))])

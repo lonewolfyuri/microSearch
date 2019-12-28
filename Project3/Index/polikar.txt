@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Statlog+(Vehicle+Silhouettes)#4eff6dda32898a8bdc8268d2a790a96b93f2e262', 0.0013831258644536654, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Vehicle+Silhouettes%29', 0.0007757951900698216, False, True), ('http://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)', 0.0007757951900698216, False, True)]

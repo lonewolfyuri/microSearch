@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring', 0.0034965034965034965, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/space-shuttle/', 0.03333333333333333, False, True)]

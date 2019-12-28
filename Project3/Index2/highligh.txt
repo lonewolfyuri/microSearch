@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/getting-started.htm', (0.0009337068160597573, False, False)), ('https://www.ics.uci.edu/~pattis/common/handouts/macmingweclipse/eclipse.htm', (0.0009699321047526673, False, False))])

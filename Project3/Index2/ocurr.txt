@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Corel+Image+Feature', (0.0016286644951140066, False, True))])

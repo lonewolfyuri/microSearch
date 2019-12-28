@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/jordan-sinclair', (0.0006901311249137336, False, True)), ('https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/jordan-sinclair/', (0.0006901311249137336, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

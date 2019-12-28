@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_covdet.htm', (0.001440922190201729, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/covdet.htm', (0.001059322033898305, False, False))])

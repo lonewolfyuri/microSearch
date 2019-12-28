@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/seraja-9-goes-live', (0.0016806722689075631, False, True))])

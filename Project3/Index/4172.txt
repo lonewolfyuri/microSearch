@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mammographic+Mass', 0.0014970059880239522, False, True)]

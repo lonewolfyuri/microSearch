@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Spong', (0.0030120481927710845, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plan', (0.0013736263736263737, False, True))])

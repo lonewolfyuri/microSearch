@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Dat', (0.0037593984962406013, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Behavior+of+the+urban+traffic+of+the+city+of+Sao+Paulo+in+Brazi', (0.0013458950201884253, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Vertebral+Colum', (0.00749063670411985, False, False))])

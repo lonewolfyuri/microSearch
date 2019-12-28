@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Data', 0.0037735849056603774, False, True), ('http://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset', 0.001088139281828074, False, True)]

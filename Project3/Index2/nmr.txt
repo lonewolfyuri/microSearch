@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Glass+Identification', (0.00022271714922048998, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.812904740792889e-05, False, False))])

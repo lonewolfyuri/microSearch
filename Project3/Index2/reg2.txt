@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/R-Computing-TIMEDOMAIN.tx', (0.00436046511627907, False, False)), ('https://www.ics.uci.edu/~thornton/ics142/LabManual/Assignment6', (0.001996007984031936, False, True))])

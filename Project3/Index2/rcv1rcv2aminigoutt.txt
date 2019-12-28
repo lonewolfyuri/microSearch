@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collectio', (0.0029940119760479044, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00259', (0.05263157894736842, False, True))])

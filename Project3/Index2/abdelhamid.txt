@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Wine', (0.0003444712366517396, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Website+Phishin', (0.0047169811320754715, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Win', (0.0009587727708533077, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/MiniBooNE+particle+identification', 0.002967359050445104, False, True)]

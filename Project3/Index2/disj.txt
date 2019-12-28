@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/als/disj.al', (0.02564102564102564, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/alloy.htm', (0.0010604453870625664, False, True))])

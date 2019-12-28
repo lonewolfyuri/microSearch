@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/switzerland.htm', (0.00018433179723502304, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-05, False, False))])

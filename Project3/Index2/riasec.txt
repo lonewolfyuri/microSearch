@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/wics-fall-quarter-week-7-msc-software-information-session', (0.0003816793893129771, False, True))])

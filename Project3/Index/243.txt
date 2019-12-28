@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity', 0.0024875621890547263, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.00042265426880811494, False, True), ('http://archive.ics.uci.edu/ml/datasets/Auto+MPG', 0.0024691358024691358, False, True)]

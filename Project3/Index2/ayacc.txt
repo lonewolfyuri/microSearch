@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/system_pages/apt.htm', (0.004608294930875576, False, True)), ('https://www.ics.uci.edu/~arcadia/Aflex-Ayacc/aflex-ayacc.htm', (0.3333333333333333, True, True))])

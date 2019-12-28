@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/in-varna-bulgaria', (0.000864304235090752, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch15/Chap15DPpackage.tx', (0.006127450980392157, False, False)), ('http://sprout.ics.uci.edu/projects/uwsnwebpage/security_uwsn.htm', (0.000152114390021296, False, True))])

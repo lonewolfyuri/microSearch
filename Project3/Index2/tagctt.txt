@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/bwFiles3', (0.014285714285714285, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIP-seq-20151002/bwFILES', (0.003676470588235294, False, True))])

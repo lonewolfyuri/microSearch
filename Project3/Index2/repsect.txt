@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/hog.htm', (0.001218026796589525, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/plots-rank.htm', (0.0016155088852988692, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysi', (0.003968253968253968, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computin', (0.0037735849056603774, False, True))])

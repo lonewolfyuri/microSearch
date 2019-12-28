@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits', 0.0012048192771084338, False, True)]

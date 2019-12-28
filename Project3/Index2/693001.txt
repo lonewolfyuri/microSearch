@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-winter-project1/data.sq', (0.0004934859849980261, False, False)), ('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sq', (0.00035317860746720485, False, False))])

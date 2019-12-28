@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Detect+Malacious+Executable%28AntiVirus%2', (0.0017301038062283738, False, True)), ('http://cert.ics.uci.edu/EMWS09/index.htm', (0.001081081081081081, False, False))])

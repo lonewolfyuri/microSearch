@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/smile-you-are-on-camera', (0.001483679525222552, False, True))])

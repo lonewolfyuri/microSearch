@@ -1,0 +1,1 @@
+dict_items([('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slide/slide-2a-summarize-data.htm', (0.0005899705014749262, False, True)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slo/slo-2l-intro-viz.htm', (1.9486340075607e-05, False, True)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slide/slide-2l-intro-viz.htm', (0.01037344398340249, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Vehicle+Silhouettes)', (0.0015873015873015873, False, False)), ('http://archive.ics.uci.edu/ml/support/Dermatology', (0.003125, False, False))])

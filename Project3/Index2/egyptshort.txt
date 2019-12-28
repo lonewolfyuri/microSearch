@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/3-179.htm', (0.0007202016564638099, False, False)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/force.htm', (0.0010050251256281408, False, True))])

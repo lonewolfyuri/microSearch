@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/CMU+Face+Images#4a338bab101f6721ea5dc4d76de5456721fbf0a3', 0.004016064257028112, False, False), ('http://archive.ics.uci.edu/ml/datasets/Relative+location+of+CT+slices+on+axial+axis', 0.0016806722689075631, False, True)]

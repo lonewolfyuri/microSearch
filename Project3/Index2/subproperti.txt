@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (7.339449541284403e-05, False, True)), ('https://www.ics.uci.edu/~gbowker/actnet.htm', (0.0005115089514066496, False, False))])

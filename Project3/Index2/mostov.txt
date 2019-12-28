@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/tangencies/octahedron.htm', (0.01098901098901099, False, False))])

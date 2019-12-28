@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet011.ht', (0.00980392156862745, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/napkin.htm', (0.0016620498614958448, False, True)), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet009.ht', (0.002898550724637681, False, True))])

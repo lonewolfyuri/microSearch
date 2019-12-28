@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/WikiTrail', (0.002976190476190476, False, False)), ('https://www.ics.uci.edu/~xpage/cv.htm', (0.006896551724137931, False, True)), ('https://www.ics.uci.edu/~vitus/ics1c/doc/pine.htm', (0.00034246575342465754, False, True)), ('https://www.ics.uci.edu/~xpage/research.htm', (0.0034965034965034965, False, True))])

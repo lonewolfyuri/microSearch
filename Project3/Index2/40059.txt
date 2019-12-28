@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/desc-aam.ht', (0.00012807377049180329, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/yuska.ht', (0.0027100271002710027, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

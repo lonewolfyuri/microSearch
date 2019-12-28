@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/WangF_TR_2014', (0.004651162790697674, False, False)), ('http://vision.ics.uci.edu/papers/WangF_IJCV_2017', (0.004048582995951417, False, False)), ('http://vision.ics.uci.edu/papers/WangF_BMVC_2015', (0.004484304932735426, False, False))])

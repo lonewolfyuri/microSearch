@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (0.00044543429844097997, False, True)), ('https://www.ics.uci.edu/~gbowker/converge.htm', (0.00043134435657800146, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

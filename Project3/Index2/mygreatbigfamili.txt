@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/social-networking-is-ephemeral', (0.0008928571428571428, False, True))])

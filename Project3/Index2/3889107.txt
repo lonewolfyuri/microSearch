@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/vidgames.htm', (0.00390625, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/patent.htm', (0.009523809523809525, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/graphics.htm', (0.0016, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/vreal.htm', (0.002898550724637681, False, True))])

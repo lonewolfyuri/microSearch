@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.0002501876407305479, False, False)), ('http://archive.ics.uci.edu/ml/support/Glass+Identification', (0.0002484472049689441, False, False))])

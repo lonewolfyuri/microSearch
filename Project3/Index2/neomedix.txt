@@ -1,0 +1,1 @@
+dict_items([('https://www.stat.uci.edu/statistics-internships-employment-opportunities', (0.001694915254237288, False, True)), ('https://www.stat.uci.edu/employers-of-statistics-grad-students', (0.0016181229773462784, False, False))])

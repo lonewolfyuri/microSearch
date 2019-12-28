@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2016-2017', (0.0006523157208088715, False, True)), ('https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2016-2017/', (0.0006523157208088715, False, True))])

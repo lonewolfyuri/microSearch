@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/MarkupMasterInde', (0.0009208103130755065, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node227.htm', (0.006224066390041493, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node225.htm', (0.0034403669724770644, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~maheshmn/eCACTI/howto.ht', (0.0009478672985781991, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P6-ATGTCA-Sequences_trimmed-mapped_peaks.narrowPea', (2.6792412388811488e-05, False, False))])

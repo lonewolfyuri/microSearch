@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/contact-us/staff', (0.0012345679012345679, False, True)), ('https://mswe.ics.uci.edu/people/faculty-staff', (0.0011173184357541898, False, True))])

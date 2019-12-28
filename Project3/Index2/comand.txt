@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics10A/LabManual/05-Assignment2.htm', (0.00273224043715847, False, True)), ('https://www.ics.uci.edu/~jacobson/ics45J/SettingUpJava.htm', (0.0009066183136899365, False, False))])

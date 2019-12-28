@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0018281535648994515, False, True), ('http://archive.ics.uci.edu/ml/datasets/University+of+Tehran+Question+Dataset+2016+%28UTQD.2016%29', 0.005025125628140704, False, False)]

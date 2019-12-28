@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/converge.htm', (0.0008375209380234506, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_student_showcase_2012.ph', (0.0007473841554559044, False, True))])

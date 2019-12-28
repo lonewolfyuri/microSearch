@@ -1,0 +1,1 @@
+dict_items([('http://sconce.ics.uci.edu/134-W15', (0.0006045949214026602, False, True)), ('http://sconce.ics.uci.edu/134-W15/index.ht', (0.0006045949214026602, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/event-information-venues-and-calendars', (0.0009478672985781991, False, True))])

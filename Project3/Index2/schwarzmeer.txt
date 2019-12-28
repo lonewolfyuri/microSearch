@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Apsel.htm', (0.002284843869002285, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lipschutz.htm', (0.03211009174311927, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Langrok.htm', (0.0005885815185403178, False, False))])

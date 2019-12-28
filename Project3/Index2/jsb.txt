@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Bach+Choral+Harmon', (0.0034602076124567475, False, True)), ('https://www.ics.uci.edu/~feldman/lec5F00.htm', (0.0019083969465648854, False, True)), ('https://www.ics.uci.edu/~feldman/lec6F00.htm', (0.002849002849002849, False, True))])

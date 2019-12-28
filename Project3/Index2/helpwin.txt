@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sgaffney/software/CCT/doc', (0.003484320557491289, False, True))])

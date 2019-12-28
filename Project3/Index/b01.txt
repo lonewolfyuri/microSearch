@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.0025252525252525255, False, True), ('http://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation', 0.0014619883040935672, False, True)]

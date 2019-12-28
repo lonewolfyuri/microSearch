@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (1.0541406645302749e-05, False, True)), ('https://www.ics.uci.edu/community/news/articles/view_article?id=7', (0.004830917874396135, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/2015-fq-cs171/CS-171-FQ-2015.ht', (0.0003194888178913738, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False)), ('https://ngs.ics.uci.edu/nagpur', (0.0003916960438699569, False, True))])

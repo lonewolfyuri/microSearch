@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Vertebral+Column', 0.002109704641350211, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gesture+Phase+Segmentation', 0.002777777777777778, False, True)]

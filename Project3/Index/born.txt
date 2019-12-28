@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice', 0.002793296089385475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime', 0.0005803830528148578, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0006958942240779402, False, True)]

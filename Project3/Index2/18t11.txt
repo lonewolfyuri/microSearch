@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/eyal-de-lara', (0.0016863406408094434, False, True)), ('https://isg.ics.uci.edu/event/xiangyao-yu-transaction-processing-at-scale', (0.00035161744022503517, False, True))])

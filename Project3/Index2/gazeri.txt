@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/articles/view_article?id=2', (0.0016181229773462784, False, True)), ('https://www.ics.uci.edu/about/bren/bren_press.ph', (0.0037735849056603774, False, False)), ('https://www.ics.uci.edu/about/bren/gallery/gallery_10_jpg.ph', (0.07142857142857142, True, True))])

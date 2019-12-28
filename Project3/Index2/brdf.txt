@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/about/course-descriptions', (0.0011467889908256881, False, False)), ('https://www.ics.uci.edu/~majumder/VC/vc.ht', (0.0004551661356395084, False, False)), ('https://www.ics.uci.edu/~majumder/VC/CS211-F19.ht', (0.00034411562284927734, False, False))])

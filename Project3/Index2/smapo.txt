@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/polytope.htm', (0.0004714757190004715, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/all.htm', (5.640157924421884e-05, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/highdim.htm', (0.0007336757153338225, False, True))])

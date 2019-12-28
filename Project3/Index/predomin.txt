@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Lymphography#d342517262ff52ffd3566bd8f520b36723486aa3', 0.001584786053882726, False, True), ('http://archive.ics.uci.edu/ml/datasets/Flags', 0.0019646365422396855, False, True)]

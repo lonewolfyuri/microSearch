@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/DANN', (0.05263157894736842, False, True)), ('https://cbcl.ics.uci.edu/public_data/DANN/readm', (0.005928853754940711, False, False)), ('https://cbcl.ics.uci.edu/public_data/DANN/svmocas', (0.16666666666666666, True, True))])

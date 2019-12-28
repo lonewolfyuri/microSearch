@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Denmark.htm', (9.160864785635764e-05, False, False)), ('https://ngs.ics.uci.edu/meeting-prof-h-h-nagel', (0.0016233766233766235, False, True))])

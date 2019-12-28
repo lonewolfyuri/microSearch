@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/changegov', (0.0013089005235602095, False, True))])

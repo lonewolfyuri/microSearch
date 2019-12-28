@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=rwblac', (0.004761904761904762, False, True))])

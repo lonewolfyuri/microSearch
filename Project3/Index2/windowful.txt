@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~emilyo/teaching/info43s2015/homeworks/Homework2.htm', (0.0005053057099545225, False, False)), ('https://www.ics.uci.edu/~emilyo/teaching/info43f2014/homeworks/Homework2.htm', (0.0005390835579514825, False, False)), ('https://www.ics.uci.edu/~emilyo/teaching/info43f2015/homeworks/Homework3.htm', (0.000517063081695967, False, False))])

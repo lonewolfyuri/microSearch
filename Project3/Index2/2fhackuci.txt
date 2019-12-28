@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/hackuci-spring-2014', (0.00026932399676811203, False, True))])

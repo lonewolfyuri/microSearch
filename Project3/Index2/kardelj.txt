@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Primary+Tumo', (0.004545454545454545, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Lymphograph', (0.004329004329004329, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~lopes/datasets/sourcerer-maven-aug12.htm', (0.0037593984962406013, False, False)), ('https://www.ics.uci.edu/~hsajnani', (0.0012300123001230013, False, True))])

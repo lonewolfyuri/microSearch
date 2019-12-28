@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems', 0.003676470588235294, False, False)]

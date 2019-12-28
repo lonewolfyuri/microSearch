@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/collection/dt/ReqtHistory.tx', (0.00202020202020202, False, False))])

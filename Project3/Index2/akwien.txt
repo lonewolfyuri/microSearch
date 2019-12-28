@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Austrian-english.htm', (7.619047619047618e-05, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gumplowitz.htm', (0.00186219739292365, False, False))])

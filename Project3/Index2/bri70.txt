@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor1.htm', (0.015625, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/uci11/SciencePlaza.htm', (0.012048192771084338, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor3.htm', (0.015151515151515152, False, True))])

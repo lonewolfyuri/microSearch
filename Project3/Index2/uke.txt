@@ -1,0 +1,1 @@
+dict_items([('https://hack.ics.uci.edu/organizers2018/', (0.0006854009595613434, False, False)), ('https://hack.ics.uci.edu/organizers2018', (0.0006854009595613434, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

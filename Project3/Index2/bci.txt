@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00457', (0.047619047619047616, False, True)), ('http://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signal', (0.0049261083743842365, False, False)), ('https://www.ics.uci.edu/~thornton/ics142/MidtermAnswers.htm', (0.0011862396204033216, False, True))])

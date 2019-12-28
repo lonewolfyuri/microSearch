@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics215', (0.007142857142857143, False, True)), ('https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia', (0.001145475372279496, False, True))])

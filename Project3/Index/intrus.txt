@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT', 0.001402524544179523, False, True), ('http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data', 0.003472222222222222, False, True), ('http://archive.ics.uci.edu/ml/support/KDD+Cup+1999+Data#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.0036900369003690036, False, True)]

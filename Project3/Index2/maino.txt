@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Avil', (0.002, False, True)), ('https://www.ics.uci.edu/~gts/pubs.htm', (0.00021231422505307856, False, True)), ('http://sprout.ics.uci.edu/past_projects/san/san.ht', (0.0019801980198019802, False, True))])

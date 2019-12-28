@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.003125, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.003703703703703704, False, True)]

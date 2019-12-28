@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/vienna/schoenbrunn/Maze1.htm', (0.25, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/vienna/schoenbrunn/Kronprinzgarten.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/vienna/schoenbrunn/Columbary.htm', (0.08333333333333333, False, True))])

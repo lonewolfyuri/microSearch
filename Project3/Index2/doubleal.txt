@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/cs141/CodeExamples/HaskellExamples2.h', (0.0021668472372697724, False, False)), ('https://www.ics.uci.edu/~thornton/ics45c/Notes/LinkedDataStructures', (0.0003912363067292645, False, True))])

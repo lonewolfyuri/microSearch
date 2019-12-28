@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-6a/winter-2002/grades.htm', (0.0006596306068601583, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P3-GCCAAT-Sequences_trimmed-mapped_peaks.narrowPea', (5.2175727851403525e-05, False, False))])

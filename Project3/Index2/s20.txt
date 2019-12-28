@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Pubs%2FPubsD', (0.0017985611510791368, False, False)), ('http://vision.ics.uci.edu/sccv/2010/schedule.htm', (0.0007358351729212656, False, True)), ('http://vision.ics.uci.edu/sccv/2010/schedule2.htm', (0.0007692307692307692, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Diabetes', (0.0009794319294809011, False, True)), ('http://archive.ics.uci.edu/ml/support/Ionosphere', (0.0009852216748768472, False, True)), ('http://archive.ics.uci.edu/ml/support/Protein+Data', (0.0033003300330033004, False, False))])

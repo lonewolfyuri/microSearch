@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/undergrad/student-profiles/govind-rai/', (0.0008764241893076249, False, False)), ('https://www.informatics.uci.edu/undergrad/student-profiles/govind-rai', (0.0008764241893076249, False, False))])

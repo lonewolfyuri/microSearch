@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/scenarios/webdav_scen_110796.htm', (0.00045248868778280545, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/speech', (0.047619047619047616, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Gastrointestinal+Lesions+in+Regular+Colonoscopy', 0.000992063492063492, False, True)]

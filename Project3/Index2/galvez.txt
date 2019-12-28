@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Datase', (0.000819672131147541, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Twin+gas+sensor+array', (0.0017543859649122807, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulatio', (0.0031545741324921135, False, True))])

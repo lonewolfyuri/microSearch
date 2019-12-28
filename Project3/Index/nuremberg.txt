@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mammographic+Mass', 0.0037174721189591076, False, True), ('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems', 0.001314060446780552, False, True)]

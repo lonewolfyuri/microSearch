@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//thesis.html', 0.00425531914893617, False, True)]

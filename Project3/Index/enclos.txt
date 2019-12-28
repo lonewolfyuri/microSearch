@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/E.+Coli+Genes', 0.0026595744680851063, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.0005931198102016608, False, True), ('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 0.00267379679144385, False, True)]

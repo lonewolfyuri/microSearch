@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/ignorance-of-crowds', (0.0011547344110854503, False, True))])

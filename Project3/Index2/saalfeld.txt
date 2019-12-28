@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dillenco/pubs', (0.001001001001001001, False, True)), ('https://www.ics.uci.edu/~eppstein/bibs/meshgen.bi', (0.0002955082742316785, False, False)), ('https://www.ics.uci.edu/~dillenco/pubs/intpoly.htm', (0.037037037037037035, False, False))])

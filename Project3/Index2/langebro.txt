@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/copenhagen/Langebro.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/copenhagen/StGeorge.htm', (0.07142857142857142, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/copenhagen/VorFrelsersKirke.htm', (0.2, False, True))])

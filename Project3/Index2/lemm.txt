@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://redmiles.ics.uci.edu/publication/', (0.00011954572624028691, False, True)), ('https://redmiles.ics.uci.edu/publication', (0.00011954572624028691, False, True))])

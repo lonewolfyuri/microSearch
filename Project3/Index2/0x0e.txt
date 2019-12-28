@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics/tmw/activity.', (0.02054794520547945, False, False)), ('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics/tmw/start.', (0.003424657534246575, False, False)), ('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics/tmw/connect.', (0.0035460992907801418, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/wics-fall-quarter-week-5-mentorship-reveal/?afg97_page_id=', (0.0003824091778202677, False, True)), ('https://wics.ics.uci.edu/wics-fall-quarter-week-5-mentorship-reveal', (0.0003824091778202677, False, True))])

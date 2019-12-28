@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/india-as-outsourcer', (0.0017921146953405018, False, True)), ('https://ngs.ics.uci.edu/e2e-environment-to-environment-communications', (0.0016129032258064516, False, True))])

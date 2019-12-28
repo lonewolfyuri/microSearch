@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu/fuzzyjoin', (0.010245901639344262, False, True)), ('http://mondego.ics.uci.edu/projects/yelp', (0.0021767522855899, False, True))])

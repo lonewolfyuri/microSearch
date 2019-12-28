@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/herbert.edelsbrunne', (0.0009900990099009901, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.00013709898546750753, False, True)), ('https://www.ics.uci.edu/~theory/269/141205.htm', (0.006024096385542169, False, False))])

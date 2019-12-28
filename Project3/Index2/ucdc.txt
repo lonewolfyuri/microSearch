@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/QA_Graduatio', (0.0034965034965034965, False, False)), ('https://www.ics.uci.edu/ugrad/resources/ICS_StudentLife_nonTechOpps.ph', (0.002369668246445498, False, False)), ('https://www.ics.uci.edu/ugrad/QA_Graduation.ph', (0.0034965034965034965, False, False))])

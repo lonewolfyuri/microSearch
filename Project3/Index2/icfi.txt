@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~galbraic', (0.004166666666666667, False, True)), ('https://redmiles.ics.uci.edu/publication/', (0.0002501250625312656, False, False)), ('https://redmiles.ics.uci.edu/publication', (0.0002501250625312656, False, False))])

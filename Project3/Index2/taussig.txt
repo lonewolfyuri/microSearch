@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/kalich.ht', (0.0002764722145424385, False, True)), ('https://www.ics.uci.edu/~pazzani/Publications/APubs.htm', (0.0008038585209003215, False, True)), ('https://www.ics.uci.edu/~pazzani/Publications/OldPublications.html', (0.0008250825082508251, False, True))])

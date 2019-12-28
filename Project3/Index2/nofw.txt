@@ -1,0 +1,1 @@
+dict_items([('http://hobbes.ics.uci.edu/manual_v1.x.shtm', (0.0012484394506866417, False, True)), ('http://hobbes.ics.uci.edu/manual.shtm', (0.0012106537530266344, False, False))])

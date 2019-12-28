@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/extras/cs178/LinearSVM_Demo.htm', (3.1900979360066355e-05, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-31/lectures/if/if.tx', (0.0002443195699975568, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/statements/lecture.htm', (9.169264624977077e-05, False, True))])

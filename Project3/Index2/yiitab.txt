@@ -1,0 +1,1 @@
+dict_items([('https://support.ics.uci.edu/studentID/assets/dc6a810b/yiitab', (0.16666666666666666, True, True)), ('https://support.ics.uci.edu/studentID/assets/dc6a810b', (0.015151515151515152, False, True))])

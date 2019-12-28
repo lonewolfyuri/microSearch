@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~vitus/gtool', (0.002577319587628866, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/uninscribable', (0.004672897196261682, False, False))])

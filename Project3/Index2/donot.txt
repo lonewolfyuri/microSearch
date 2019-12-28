@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/academic-research', (0.0013123359580052493, False, True)), ('https://ngs.ics.uci.edu/memories-life-and-experiences', (0.0014684287812041115, False, True))])

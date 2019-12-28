@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node146.htm', (0.008, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node48.htm', (0.005235602094240838, False, True)), ('http://www-db.ics.uci.edu/pages/software/htree/README_relfee', (0.0012554927809165098, False, False))])

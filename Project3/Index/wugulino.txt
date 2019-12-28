@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Wearable+Computing%3A+Classification+of+Body+Postures+and+Movements+%28PUC-Rio%29', 0.003676470588235294, False, True), ('http://archive.ics.uci.edu/ml/datasets/Weight+Lifting+Exercises+monitored+with+Inertial+Measurement+Units', 0.003952569169960474, False, True)]

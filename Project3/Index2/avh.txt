@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~vitus/ics1c/doc/java.tx', (0.025, False, True))])

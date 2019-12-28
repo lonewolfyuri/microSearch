@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring', 0.0019880715705765406, False, True), ('http://archive.ics.uci.edu/ml/datasets/CMU+Face+Images', 0.002577319587628866, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kronengold.htm', (0.001059322033898305, False, False)), ('https://www.ics.uci.edu/~kobsa/kobsa-vita.htm', (0.0008613264427217916, False, True))])

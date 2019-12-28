@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes/2011F-17', (0.001184834123222749, False, True))])

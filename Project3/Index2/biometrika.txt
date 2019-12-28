@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/?s=publication', (0.0009823182711198428, False, True)), ('https://www.ics.uci.edu/~mguindan/publications.htm', (0.0009090909090909091, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bi', (4.879238838741156e-05, False, False)), ('https://www.stat.uci.edu/faculty/bin-nan', (0.0015151515151515152, False, True))])

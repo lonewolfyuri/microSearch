@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/craterlake/TourBoat.htm', (0.034482758620689655, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/moca-dh/PhotoGrid3.htm', (0.029411764705882353, False, True))])

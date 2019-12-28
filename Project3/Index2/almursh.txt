@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~iftekha/publication/understanding-code-smells-in-android-applications', (0.02631578947368421, False, False)), ('https://www.ics.uci.edu/~iftekha/', (0.0006377551020408163, False, False)), ('https://www.ics.uci.edu/~iftekha', (0.0006377551020408163, False, False))])

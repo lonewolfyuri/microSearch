@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/witi-waterfall-to-lean-with-agile-in-between', (0.00029282576866764275, False, True))])

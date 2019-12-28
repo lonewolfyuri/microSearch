@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Data/hs31/n25', (0.0027100271002710027, False, False))])

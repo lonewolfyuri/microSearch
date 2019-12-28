@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/alex3.ht', (0.00031540766440624505, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/alex1.ht', (0.0005242463958060288, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/alex2.ht', (0.00040096230954290296, False, True))])

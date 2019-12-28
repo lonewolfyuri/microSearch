@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/allen.htm', (0.005449591280653951, False, True)), ('https://www.ics.uci.edu/~pattis/common/handouts/macmingweclipse/allexperimental/mac-gdb-install.htm', (0.023076923076923078, False, True)), ('https://www.ics.uci.edu/~jacobson/ics10A/CourseGrades.htm', (0.0009285051067780873, False, True))])

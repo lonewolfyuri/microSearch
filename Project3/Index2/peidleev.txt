@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~schark/simulator/javadoc/AllNames.htm', (0.0018281535648994515, False, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/PeIdleEvent.html', (0.5, True, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/tree.htm', (0.01818181818181818, False, True))])

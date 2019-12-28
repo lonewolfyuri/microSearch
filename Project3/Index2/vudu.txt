@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/aggressiveness-in-start-ups', (0.0016891891891891893, False, True))])

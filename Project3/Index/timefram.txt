@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/bigactivedata/index.html', 0.002890173410404624, False, True), ('http://asterix.ics.uci.edu/bigactivedata/', 0.002890173410404624, False, True), ('http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data', 0.0030864197530864196, False, True)]

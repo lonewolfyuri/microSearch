@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29', 0.0033333333333333335, False, True), ('http://archive.ics.uci.edu/ml/datasets/seeds', 0.0023584905660377358, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~bic/os/GIF/Ch11/_vti_cnf', (0.010752688172043012, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c90.tx', (6.104260774020266e-05, False, False)), ('https://www.ics.uci.edu/~bic/os/TIFF/Ch11', (0.011235955056179775, False, True)), ('https://www.ics.uci.edu/~bic/os/GIF/Ch11', (0.011235955056179775, False, True))])

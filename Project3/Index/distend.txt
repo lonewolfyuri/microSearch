@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Horse+Colic', 0.001375515818431912, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectromete', (0.0011299435028248588, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/APA-Analysis-Round4/15pct_LPSminus_vs_LPSplus_significantApAlogFCList_fromupdatedmasterlist.tx', (1.1296371605440333e-05, False, False))])

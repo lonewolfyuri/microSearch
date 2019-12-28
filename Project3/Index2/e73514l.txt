@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jpd/index-old.shtm', (0.0016556291390728477, False, True))])

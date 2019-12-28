@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Anonymous+Microsoft+Web+Data#4133f6bdbdc248e6e8cac9083cf934be0dd0fa31', 0.002824858757062147, False, True)]

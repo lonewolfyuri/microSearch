@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/aima-resources', (0.037037037037037035, False, True)), ('https://www.ics.uci.edu/~rickl/courses/cs-171/aima-resources/hwee-tou-ng-singapore-slides', (0.07692307692307693, True, True))])

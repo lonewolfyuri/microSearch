@@ -1,0 +1,1 @@
+dict_items([('http://iasl.ics.uci.edu/people/iburago', (0.000555247084952804, False, True)), ('https://iasl.ics.uci.edu/people/iburago/', (0.000555247084952804, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.7662794450481795e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://scale.ics.uci.edu/dashboard/list.htm', (0.027450980392156862, False, True)), ('http://scale.ics.uci.edu/dashboard/map.htm', (0.007368421052631579, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.295297472104813e-07, False, False))])

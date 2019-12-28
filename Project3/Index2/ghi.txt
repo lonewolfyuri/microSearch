@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Notif', (0.002066115702479339, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-31/lectures/list/list.tx', (0.0008635578583765112, False, False))])

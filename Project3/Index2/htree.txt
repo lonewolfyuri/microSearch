@@ -1,0 +1,1 @@
+dict_items([('http://www-db.ics.uci.edu/pages/software/htree/htree_READM', (0.007889546351084813, False, False)), ('http://www-db.ics.uci.edu/pages/software/htree.shtm', (0.0392156862745098, False, True)), ('http://www-db.ics.uci.edu/pages/software/htree/README_relfee', (0.0006277463904582549, False, False))])

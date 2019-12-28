@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lewi.htm', (0.0007309941520467836, False, False)), ('https://www.ics.uci.edu/~rickl/rickl-publication', (0.0011013215859030838, False, True)), ('https://www.ics.uci.edu/~rickl/rickl-publications.htm', (0.0011013215859030838, False, True))])

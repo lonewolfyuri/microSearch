@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/professor-majumders-tech-startup-shines-at-segerstrom-centers-brilliance-event', (0.0011976047904191617, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=134', (0.002304147465437788, False, False))])

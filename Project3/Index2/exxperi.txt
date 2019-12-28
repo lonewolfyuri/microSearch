@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-31/lectures/usefulfunctions/usefulfunctions.tx', (0.001336898395721925, False, True))])

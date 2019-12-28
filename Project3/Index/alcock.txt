@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Series', 0.004347826086956522, False, True)]

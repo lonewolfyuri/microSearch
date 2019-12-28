@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blinkx-introduces-implicit-search', (0.0037105751391465678, False, True))])

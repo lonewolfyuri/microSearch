@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/senior-spotlight-graduating-computer-science-major-howard-chen-leaves-a-promising-student-security-culture-at-uci', (0.0009541984732824427, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=135', (0.0015552099533437014, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+1)', (0.0009389671361502347, False, False)), ('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+2)', (0.0008795074758135445, False, False))])

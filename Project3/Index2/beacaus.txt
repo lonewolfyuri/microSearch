@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/from-calendars-to-chronicles-1/', (0.0010214504596527069, False, False)), ('https://ngs.ics.uci.edu/from-calendars-to-chronicles-1', (0.0010214504596527069, False, False))])

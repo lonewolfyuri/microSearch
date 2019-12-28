@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/week-2-portal-tech-career-fair', (0.0003992015968063872, False, True))])

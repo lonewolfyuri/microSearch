@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/actnet.htm', (0.00014607069821793748, False, True)), ('https://www.ics.uci.edu/~gbowker/forget.htm', (0.00014972301242701004, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pubs/a-hesterberg.htm', (0.1, False, True)), ('https://www.ics.uci.edu/~eppstein/pubs/auth.htm', (0.002325581395348837, False, True)), ('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (0.0006523157208088715, False, True))])

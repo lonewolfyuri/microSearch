@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/APA-Analysis-Round4/15pct_LPSminus_vs_LPSplus_significantApAlogFCList_fromupdatedmasterlist.tx', (1.1296371605440333e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016/HSV1-KOS.gff', (0.0005694760820045558, False, False))])

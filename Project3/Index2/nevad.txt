@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/grand-challenge-for-ai', (0.0015748031496062992, False, True))])

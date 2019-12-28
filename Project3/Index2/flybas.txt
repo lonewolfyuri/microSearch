@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~emj/SISL_2.ht', (0.0005102040816326531, False, True)), ('https://www.ics.uci.edu/~emj/SISL.ht', (0.0005102040816326531, False, True)), ('http://computableplant.ics.uci.edu/papers/SISL.ht', (0.0005102040816326531, False, True)), ('http://hobbes.ics.uci.edu/examples.shtm', (0.0064516129032258064, False, True))])

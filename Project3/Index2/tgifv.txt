@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/puz/DrMatrix/answer1.tx', (0.00234192037470726, False, False)), ('https://www.ics.uci.edu/~dan/puz/DrMatrix/p.htm', (0.007462686567164179, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition', 0.00398406374501992, False, True)]

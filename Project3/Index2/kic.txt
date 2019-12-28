@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False)), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movement', (0.0037313432835820895, False, True))])

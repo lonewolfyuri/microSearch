@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/YouTube+Multiview+Video+Games+Datase', (0.004878048780487805, False, False)), ('https://www.ics.uci.edu/community/news/notes/notes_2011.ph', (0.001644736842105263, False, False)), ('http://computableplant.ics.uci.edu/gallery/Gallery/moviegallery.htm', (0.004694835680751174, False, True))])

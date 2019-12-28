@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0010548523206751054, False, True)), ('https://ngs.ics.uci.edu/pictureal-producing-home-videos', (0.0013966480446927375, False, True))])

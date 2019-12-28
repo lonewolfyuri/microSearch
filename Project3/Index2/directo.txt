@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD.tx', (1.4221574982543016e-06, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_butterworth_beall_2014_finalists.ph', (0.0007434944237918215, False, False)), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD-random.tx', (1.4221574982543016e-06, False, False))])

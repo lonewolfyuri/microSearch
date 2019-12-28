@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_halim.ph', (0.0007898894154818325, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (9.885892416314438e-07, False, False))])

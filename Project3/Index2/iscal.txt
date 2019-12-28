@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/breakouts/breakout2.htm', (0.0006313131313131314, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/khare', (0.007462686567164179, False, True))])

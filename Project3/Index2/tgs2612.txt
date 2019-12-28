@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitorin', (0.0012345679012345679, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Twin+gas+sensor+array', (0.002617801047120419, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixture', (0.0019455252918287938, False, True))])

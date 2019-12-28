@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.0029069767441860465, False, True), ('http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music', 0.002531645569620253, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/2014/04/won-2nd-place-in-2014-annual-autism-appjam', (0.0013003901170351106, False, True)), ('http://sdcl.ics.uci.edu/category/news/page/6', (0.0011614401858304297, False, True)), ('http://sdcl.ics.uci.edu/author/andre/page/5', (0.0007987220447284345, False, True)), ('http://sdcl.ics.uci.edu/page/7', (0.0008741258741258741, False, True))])

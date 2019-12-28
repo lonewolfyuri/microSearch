@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/magia-transformo', (0.0007616146230007616, False, True))])

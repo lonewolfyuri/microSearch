@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~neno/dsl/dsl97.htm', (0.0006377551020408163, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Weindling.htm', (0.000364963503649635, False, False))])

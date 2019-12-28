@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/GUI-tools.ht', (0.022222222222222223, False, True))])

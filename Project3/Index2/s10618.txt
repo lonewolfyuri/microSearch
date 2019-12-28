@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~lopes/datasets/SDS_source-repo-18k.htm', (0.004889975550122249, False, True))])

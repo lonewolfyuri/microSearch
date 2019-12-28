@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/alphasite/outreach.htm', (0.009708737864077669, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen', (0.0008382229673093043, False, True)), ('https://www.ics.uci.edu/~alfchen/publications.htm', (0.0017605633802816902, False, True)), ('https://www.ics.uci.edu/~alfchen/impact.html', (0.006134969325153374, False, True))])

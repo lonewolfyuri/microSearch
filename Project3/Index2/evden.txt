@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/real-and-virtual-cybereal', (0.0015527950310559005, False, True)), ('https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs', (0.0015455950540958269, False, True)), ('https://ngs.ics.uci.edu/bill-gates-on-speech-recognition', (0.0019157088122605363, False, True))])

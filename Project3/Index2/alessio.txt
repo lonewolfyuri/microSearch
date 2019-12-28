@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications/?limit=', (0.00024224806201550387, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Indoor+User+Movement+Prediction+from+RSS+dat', (0.0037174721189591076, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%2', (0.0037735849056603774, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame', (0.002551020408163265, False, False)), ('http://archive.ics.uci.edu/ml/support/Lenses', (0.001890359168241966, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

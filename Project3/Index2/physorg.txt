@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/3d-tv-a-new-version', (0.001834862385321101, False, True))])

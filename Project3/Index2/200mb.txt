@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/donation_form.ph', (0.0016638935108153079, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/kosters/tsld012.ht', (0.024390243902439025, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alexv/154/modelsim-openlab.ht', (0.05, False, True)), ('https://www.ics.uci.edu/~lab/labs_specs/software.ph', (0.002331002331002331, False, True))])

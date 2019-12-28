@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/othrmilr.ht', (8.023750300890636e-05, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/dedicatn.ht', (0.00039478878799842083, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/yuska.ht', (0.00078064012490242, False, False))])

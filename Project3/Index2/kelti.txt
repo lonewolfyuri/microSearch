@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/explore/books-we-read/', (0.0007763975155279503, False, True)), ('https://www.informatics.uci.edu/explore/books-we-read', (0.0007763975155279503, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

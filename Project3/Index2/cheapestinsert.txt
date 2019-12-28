@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/CheapestInsertion.c', (0.0136986301369863, False, False)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/Main.c', (0.0013774104683195593, False, True)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed', (0.03333333333333333, False, True))])

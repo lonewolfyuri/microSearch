@@ -1,0 +1,1 @@
+dict_items([('http://www-db.ics.uci.edu/pages/software/htree/htree_READM', (0.0015903307888040711, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-07, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/student_blogs/blog_posts/Roxanna-Shaik-November2018.ph', (0.0010559662090813093, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

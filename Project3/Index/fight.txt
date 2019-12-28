@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set', 0.001287001287001287, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.003215434083601286, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.0032258064516129032, False, True)]

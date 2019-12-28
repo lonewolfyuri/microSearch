@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Automobile', (0.0022123893805309734, False, False)), ('http://archive.ics.uci.edu/ml/support/Computer+Hardware', (0.0029239766081871343, False, False))])

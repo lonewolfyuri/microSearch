@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/aspire-it-camp-techie-girls', (0.00038714672861014324, False, True))])

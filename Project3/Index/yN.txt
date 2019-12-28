@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/USPTO+Algorithm+Challenge%2C+run+by+NASA-Harvard+Tournament+Lab+and+TopCoder++++Problem%3A+Pat', 0.0021321961620469083, False, True), ('http://archive.ics.uci.edu/ml/datasets/DrivFace', 0.0017331022530329288, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/presov-o.tx', (0.012095148501545491, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/baum.ht', (0.0024390243902439024, False, True))])

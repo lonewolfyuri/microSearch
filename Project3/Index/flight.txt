@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.043478260869565216, False, True), ('http://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring', 0.009569377990430622, False, False)]

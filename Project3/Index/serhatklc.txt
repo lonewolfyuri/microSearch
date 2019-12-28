@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set', 0.0033444816053511705, False, True)]

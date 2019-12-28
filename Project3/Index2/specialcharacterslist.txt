@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/SpecialCharacter', (0.0022371364653243847, False, True)), ('http://sli.ics.uci.edu/PmWiki/TextFormattingRule', (0.0004950495049504951, False, True))])

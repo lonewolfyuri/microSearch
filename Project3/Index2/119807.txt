@@ -1,0 +1,1 @@
+dict_items([('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.tx', (0.0001183011948420679, False, True)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/FP-2.tx', (0.00040225261464199515, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-1.tx', (0.00018241517694272163, False, False))])

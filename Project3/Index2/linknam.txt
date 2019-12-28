@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Link', (0.0007352941176470588, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/proposals/metadata.htm', (0.0006211180124223603, False, True))])

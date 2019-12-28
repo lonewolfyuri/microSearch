@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/versioning/draft-ramaswamy-version-control-00.tx', (0.0025845358604350637, False, True))])

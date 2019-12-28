@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Nois', (0.002824858757062147, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False)), ('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/manually-impaired.ht', (0.007575757575757576, False, True))])

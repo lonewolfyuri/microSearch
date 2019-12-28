@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00023245002324500232, False, True), ('http://archive.ics.uci.edu/ml/datasets/Character+Trajectories', 0.0021645021645021645, False, True)]

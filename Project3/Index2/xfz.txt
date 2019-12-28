@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/logicConcepts.htm', (0.00017337031900138697, False, True))])

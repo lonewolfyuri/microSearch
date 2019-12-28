@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Heart)', (0.0021598272138228943, False, True)), ('http://archive.ics.uci.edu/ml/support/Statlog+Project', (0.00027129679869777537, False, True)), ('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.00022935779816513763, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/FmtPageNam', (0.0009372071227741331, False, True)), ('http://sli.ics.uci.edu/PmWiki/IncludeOtherPage', (0.0009813542688910696, False, True)), ('http://sli.ics.uci.edu/PmWiki/SkinTemplate', (0.0005787037037037037, False, False)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPageVariable', (0.0015408320493066256, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29', 0.0026595744680851063, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vertebral+Column', 0.006329113924050633, False, True)]

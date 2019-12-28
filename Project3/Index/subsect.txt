@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/LED+Display+Domain#e091a00eb65fd6124d7b0190126299db6ee8057e', 0.001893939393939394, False, False), ('http://archive.ics.uci.edu/ml/support/CMU+Face+Images#4a338bab101f6721ea5dc4d76de5456721fbf0a3', 0.004016064257028112, False, False), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.00010185373803218578, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data', 0.004484304932735426, False, True)]

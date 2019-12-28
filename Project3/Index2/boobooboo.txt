@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32a/Notes/PythonBasics', (0.00013333333333333334, False, False)), ('https://www.ics.uci.edu/~thornton/ics32/Notes/PythonBasics', (0.00013333333333333334, False, False))])

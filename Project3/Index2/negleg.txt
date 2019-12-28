@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/computer-vision-applications', (0.0015479876160990713, False, False))])

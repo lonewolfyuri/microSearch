@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/kddcup98-mld/epsilon_mirror/', 0.030303030303030304, False, True)]

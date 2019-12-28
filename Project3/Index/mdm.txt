@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/bigactivedata/publications.html', 0.0017730496453900709, False, False), ('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29', 0.0016750418760469012, False, True)]

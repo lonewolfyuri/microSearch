@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics184/LabManual/InstallingAndUsingMySQL.htm', (0.0007473841554559044, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

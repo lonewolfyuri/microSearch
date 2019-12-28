@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/events', (0.0009380863039399625, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

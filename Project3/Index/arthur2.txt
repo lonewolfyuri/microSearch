@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Daily+Demand+Forecasting+Orders', 0.003703703703703704, False, True), ('http://archive.ics.uci.edu/ml/datasets/Container+Crane+Controller+Data+Set', 0.0036231884057971015, False, True)]

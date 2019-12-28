@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/asterix/wiki/stats170ab-2018?action=diff&version=5', (0.006944444444444444, False, False)), ('http://www-db.ics.uci.edu/pages/research/das/index.shtm', (0.030303030303030304, False, True))])

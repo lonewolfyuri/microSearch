@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/thomas/BetweenCars.htm', (0.07692307692307693, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/thomas/Rusty.htm', (0.3333333333333333, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://www.ics.uci.edu/~eppstein/pix/thomas/Undercarriage.htm', (1.0, True, True))])

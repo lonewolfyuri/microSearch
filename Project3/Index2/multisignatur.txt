@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~stasio', (0.0006784260515603799, False, True)), ('https://www.ics.uci.edu/~stasio/index.htm', (0.0006784260515603799, False, True)), ('https://www.ics.uci.edu/~stasio/Papers/cjkt04-abs.htm', (0.1, False, True)), ('https://www.ics.uci.edu/~gts/pubs.htm', (0.00024044241404183698, False, True))])

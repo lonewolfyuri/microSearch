@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/doc/spiders.htm', (0.002890173410404624, False, False)), ('https://ngs.ics.uci.edu/nostalgia', (0.0009910802775024777, False, True)), ('https://ngs.ics.uci.edu/extreme-stories-1', (0.0006858710562414266, False, True)), ('https://ngs.ics.uci.edu/static-and-dynamic-cyberspaces', (0.0011723329425556857, False, True))])

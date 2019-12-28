@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbr', (0.0026954177897574125, False, True)), ('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (1.7195426016679562e-05, False, True)), ('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_5.html', (0.00037064492216456633, False, True))])

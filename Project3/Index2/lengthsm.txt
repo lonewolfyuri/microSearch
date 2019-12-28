@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jmoorkan/vhdlref/operator.htm', (0.005076142131979695, False, True)), ('https://www.ics.uci.edu/~jmoorkan/vhdlref/operato', (0.005076142131979695, False, True))])

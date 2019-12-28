@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures', 0.003861003861003861, False, True)]

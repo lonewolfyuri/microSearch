@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/eppstein.htm', (0.00011048502927853276, False, True)), ('https://www.ics.uci.edu/~eppstein/cgt/foolgo.htm', (0.004291845493562232, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P3-GCCAAT-Sequences_trimmed-mapped_peaks.narrowPea', (2.6087863925701763e-05, False, False))])

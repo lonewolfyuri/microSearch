@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008', 0.001893939393939394, False, True), ('http://archive.ics.uci.edu/ml/datasets/Breast+Tissue', 0.004219409282700422, False, True), ('http://archive.ics.uci.edu/ml/datasets/MicroMass', 0.004310344827586207, False, False)]

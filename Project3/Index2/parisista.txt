@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/3-d-viewfinder-for-photos', (0.001851851851851852, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Sponge', 0.005333333333333333, False, True), ('http://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports', 0.002070393374741201, False, True), ('http://archive.ics.uci.edu/ml/datasets/Car+Evaluation', 0.002, False, True)]

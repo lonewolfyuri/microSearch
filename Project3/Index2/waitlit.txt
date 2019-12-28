@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/sao/Course_updates.ph', (0.0010515247108307045, False, True)), ('https://www.ics.uci.edu/ugrad/sao/Course_update', (0.0010515247108307045, False, True))])

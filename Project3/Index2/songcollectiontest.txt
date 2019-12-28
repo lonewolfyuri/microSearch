@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/TestDrivenDevelopment/example.htm', (0.002824858757062147, False, True)), ('https://www.ics.uci.edu/~thornton/ics33/CodeExamples/UnitTesting/CodeExamples.htm', (0.005376344086021506, False, True)), ('https://www.ics.uci.edu/~thornton/ics22/CodeExamples/JUnit/CodeExamples.htm', (0.0028653295128939827, False, True))])

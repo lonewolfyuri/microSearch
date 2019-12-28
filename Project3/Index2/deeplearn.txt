@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/extras/cs178/Intro_Tutorial.htm', (3.321707357581797e-05, False, True)), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.htm', (3.321707357581797e-05, False, True)), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipyn', (0.0005192107995846313, False, False))])

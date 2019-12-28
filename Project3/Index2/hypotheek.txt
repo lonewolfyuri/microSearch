@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/what-did-we-do-before-computers-2', (0.0012953367875647669, False, True))])

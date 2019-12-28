@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/india-has-the-brains-but', (0.0010964912280701754, False, True))])

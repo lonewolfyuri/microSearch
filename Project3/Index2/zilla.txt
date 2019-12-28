@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lemberger.htm', (0.0004764173415912339, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Grunwald.htm', (0.000628140703517588, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

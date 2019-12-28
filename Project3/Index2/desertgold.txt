@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/dv/Desertgold1.htm', (0.125, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/dv/Desertgold2.htm', (0.125, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/dv/Badwater.htm', (0.045454545454545456, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/dv/NatBridgeCynWall.htm', (0.07142857142857142, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/179', (0.0013717421124828531, False, True)), ('https://ngs.ics.uci.edu/tags-give-human-meaning', (0.001953125, False, False)), ('https://ngs.ics.uci.edu/author/ramesh/page/179', (0.0013774104683195593, False, True)), ('https://ngs.ics.uci.edu/category/prospecting-information/page/8', (0.0016207455429497568, False, True))])

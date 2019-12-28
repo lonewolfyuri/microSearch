@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/RcodeAppendix.tx', (0.0064516129032258064, False, False)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slo/slo-3l-discrete-r.htm', (1.948975813210158e-05, False, True))])

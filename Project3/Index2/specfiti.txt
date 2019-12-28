@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_impattern.htm', (0.002551020408163265, False, True))])

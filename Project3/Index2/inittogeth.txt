@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/inittogether', (0.0003211303789338471, False, True)), ('https://wics.ics.uci.edu/inittogether/?afg3_page_id=1', (0.0003211303789338471, False, True)), ('https://wics.ics.uci.edu/inittogether/', (0.0003211303789338471, False, True)), ('https://wics.ics.uci.edu/inittogether/?afg3_page_id=', (0.0003211303789338471, False, True))])

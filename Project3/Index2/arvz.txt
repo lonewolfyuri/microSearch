@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/slumdog', (0.0006702412868632708, False, True)), ('https://ngs.ics.uci.edu/cyber-persona', (0.000846740050804403, False, True)), ('https://ngs.ics.uci.edu/new-ilife-and-face-recognition', (0.0012919896640826874, False, True)), ('https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis', (0.0012285012285012285, False, True))])

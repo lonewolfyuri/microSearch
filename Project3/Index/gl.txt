@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.001287001287001287, False, True), ('http://archive.ics.uci.edu/ml/support/Hepatitis#61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5', 0.0012165450121654502, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://cloudberry.ics.uci.edu/apps/twitterma', (0.014285714285714285, False, True))])

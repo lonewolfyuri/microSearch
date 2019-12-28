@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PANDOR', 0.003401360544217687, False, True), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.0012165450121654502, False, True)]

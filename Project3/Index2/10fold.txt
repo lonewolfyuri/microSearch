@@ -1,0 +1,1 @@
+dict_items([("http://archive.ics.uci.edu/ml/support/MONK's+Problems", (0.000777000777000777, False, False)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00024993751562109475, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KASANDR', 0.0027397260273972603, False, True), ('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.001177856301531213, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+Fires', 0.0019646365422396855, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.0022271714922048997, False, True)]

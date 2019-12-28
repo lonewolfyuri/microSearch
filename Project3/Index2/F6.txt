@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/SPECTF+Hear', (0.0019342359767891683, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Connect-', (0.0020161290322580645, False, True)), ('https://www.ics.uci.edu/~eppstein/cgt/othello.htm', (0.003992015968063872, False, True))])

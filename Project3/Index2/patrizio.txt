@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pubs/auth.htm', (0.02040816326530612, False, True)), ('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (0.0015552099533437014, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/arcadia_papers/arch/marketplace_abstract.htm', (0.007042253521126761, False, False))])

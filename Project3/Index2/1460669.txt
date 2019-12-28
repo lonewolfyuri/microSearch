@@ -1,0 +1,1 @@
+dict_items([('http://hana.ics.uci.edu/index.html%3Fq=content%252Fpublications-10.htm', (0.0029585798816568047, False, True)), ('http://hana.ics.uci.edu/index.html%3Fq=node%252F52.htm', (0.0029585798816568047, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

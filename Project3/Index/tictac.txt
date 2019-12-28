@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame#48d6beec2a36a87d9d88b6de85dd85a75e5ed24d', 0.002551020408163265, False, False), ('http://archive.ics.uci.edu/ml/support/Lenses#efbc8c38877792e6ade1634043235d238ac9ec8d', 0.001890359168241966, False, False)]

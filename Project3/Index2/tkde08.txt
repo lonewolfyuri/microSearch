@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dvk/pub/TKDE08_dvk_SAT.htm', (0.00423728813559322, False, True)), ('https://www.ics.uci.edu/~dvk/pub/TKDE08_dvk_WePS.htm', (0.004291845493562232, False, True))])

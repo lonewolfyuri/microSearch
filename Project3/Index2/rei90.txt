@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ics228/syllabus.htm', (0.0010741138560687433, False, True)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/references.htm', (0.0014084507042253522, False, True))])

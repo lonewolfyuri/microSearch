@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ihler/papers/bib.html', (0.00043725404459991256, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Spingarn.htm', (0.0007668711656441718, False, False)), ('https://www.ics.uci.edu/~theory/269/180525b.htm', (0.007352941176470588, False, False))])

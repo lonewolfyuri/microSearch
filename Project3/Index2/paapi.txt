@@ -1,0 +1,1 @@
+dict_items([('http://dynamo.ics.uci.edu/paapi.htm', (0.021739130434782608, False, True)), ('http://dynamo.ics.uci.edu/demo.htm', (0.0027624309392265192, False, True)), ('https://www.ics.uci.edu/~dsm/dyn/release/paapi.htm', (0.021739130434782608, False, True)), ('https://www.ics.uci.edu/~dsm/dyn/release/demo.htm', (0.0027624309392265192, False, True))])

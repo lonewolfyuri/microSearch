@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/wics-spring-quarter-week-8-amazon-alexa-skill-workshop/', (0.0003763643206624012, False, True)), ('https://wics.ics.uci.edu/wics-spring-quarter-week-8-amazon-alexa-skill-workshop', (0.0003763643206624012, False, True))])

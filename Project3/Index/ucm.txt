@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression', 0.0036496350364963502, False, False), ('http://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures', 0.0029850746268656717, False, False)]

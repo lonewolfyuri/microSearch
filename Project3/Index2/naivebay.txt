@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Audiology+(Standardized)', (0.0031397174254317113, False, True)), ('http://archive.ics.uci.edu/ml/support/Audiology+(Original)', (0.0031397174254317113, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (8.567773427472513e-07, False, False))])

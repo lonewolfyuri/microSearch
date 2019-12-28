@@ -1,0 +1,1 @@
+dict_items([('https://support.ics.uci.edu/studentID/assets/dc6a810b/jui/MIT-LICENSE.tx', (0.00975609756097561, False, False))])

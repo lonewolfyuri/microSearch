@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/steinkuehler-serves-as-esports-panelist-at-sxsw-2017', (0.0009569377990430622, False, True)), ('https://www.informatics.uci.edu/steinkuehler-serves-as-esports-panelist-at-sxsw-2017/', (0.0009569377990430622, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=113', (0.003424657534246575, False, True))])

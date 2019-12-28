@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/arrayimplementation.tx', (0.00015549681231534753, False, True))])

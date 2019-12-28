@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Abalone#ae82a44ada49c66439b67eae7ff10392ff209df9', 0.0003800836183960471, False, False), ('http://archive.ics.uci.edu/ml/support/Breast+Cancer#3e78257004181e6dbbdfa3ec12399520412e9c5c', 0.00015654351909830932, False, False)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 0.0018867924528301887, False, True), ('http://archive.ics.uci.edu/ml/datasets/El+Nino', 0.0008818342151675485, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wine+Quality', 0.0035714285714285713, False, True), ('http://archive.ics.uci.edu/ml/datasets/Paper+Reviews', 0.0015527950310559005, False, True)]

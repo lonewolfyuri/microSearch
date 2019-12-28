@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/actnet.htm', (9.718172983479106e-05, False, True)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (0.00011355893708834885, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_butterworth_2012.ph', (0.0027347310847766638, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/shabsib.ht', (0.00038138825324180017, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/dedicatn.ht', (0.0005027652086475615, False, False))])

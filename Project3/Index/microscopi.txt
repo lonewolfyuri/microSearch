@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/seeds', 0.0023584905660377358, False, True)]

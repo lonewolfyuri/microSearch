@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~keldefra/teaching/spring2013/uci_cs132/cs132_projects.ht', (0.0003853564547206166, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/memory.tx', (0.0003673769287288758, False, False))])

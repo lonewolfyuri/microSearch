@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00000', (0.0015220700152207, False, True)), ('http://archive.ics.uci.edu/ml/support/Abalone', (0.0004789272030651341, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gastrointestinal+Lesions+in+Regular+Colonoscop', (0.00202020202020202, False, True))])

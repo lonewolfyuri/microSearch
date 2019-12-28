@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/inheritancei.tx', (0.00026246719160104987, False, False)), ('https://www.ics.uci.edu/~amrm/slides/amrm_structure/pta/tsld019.ht', (0.019230769230769232, False, True))])

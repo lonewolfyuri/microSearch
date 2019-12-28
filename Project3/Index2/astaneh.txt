@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/spellchecker', (0.002506265664160401, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_microsoftspellerchallenge.ph', (0.002061855670103093, False, True))])

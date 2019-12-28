@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/Courses/ics167/Project_Rules.htm', (0.008695652173913044, False, True)), ('https://www.ics.uci.edu/~lab/labs_specs/hardware.ph', (0.0028169014084507044, False, False)), ('https://www.ics.uci.edu/~thornton/ics45c/ProjectGuide/Project0', (0.0002765486725663717, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/pat-helland-theres-no-substitute-for-interchangeability/?ical=', (0.0025974025974025974, False, False)), ('https://www.ics.uci.edu/~kobsa/privacy/Poland.htm', (0.0001607200257152041, False, True)), ('http://sprout.ics.uci.edu/projects/uwsnwebpage/security_uwsn.htm', (3.747142803612246e-05, False, True))])

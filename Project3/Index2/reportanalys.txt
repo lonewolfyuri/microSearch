@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/1.0/src/filtertree/example.c', (0.01020408163265306, False, True)), ('http://flamingo.ics.uci.edu/releases/1.0/src/filtertree/perftest.c', (0.006756756756756757, False, True)), ('http://flamingo.ics.uci.edu/releases/1.0/src/filtertree/filtertree.c', (0.0008680555555555555, False, True))])

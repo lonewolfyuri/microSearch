@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia-2', (0.0010905125408942203, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (4.461099214846538e-05, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.fr.htm', (0.0006211180124223603, False, True)), ('https://www.ics.uci.edu/~dechter/publications/r163.htm', (0.007874015748031496, False, True))])

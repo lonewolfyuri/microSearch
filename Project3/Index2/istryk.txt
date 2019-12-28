@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/kalich.ht', (0.0008920606601248885, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/yakovuri.ht', (0.001996007984031936, False, False))])

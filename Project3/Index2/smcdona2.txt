@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/end-of-term-digital-preservation-and-how-you-can-help', (0.0007716049382716049, False, True)), ('https://www.informatics.uci.edu/end-of-term-digital-preservation-and-how-you-can-help/', (0.0007716049382716049, False, True))])

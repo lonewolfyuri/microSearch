@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/about-ramesh/events/', (0.0012970168612191958, False, False)), ('https://ngs.ics.uci.edu/about-ramesh/events', (0.0012970168612191958, False, False))])

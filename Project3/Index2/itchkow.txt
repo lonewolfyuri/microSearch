@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/jacklang.ht', (0.002403846153846154, False, True))])

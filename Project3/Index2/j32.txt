@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gopi/Resume.htm', (0.00021915406530791147, False, True)), ('https://www.ics.uci.edu/~aces/journals.ht', (0.0009541984732824427, False, True)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (0.00014795088030773783, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0008673026886383347, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Mahler.htm', (0.0019305019305019305, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Tilles.htm', (0.00025759917568263783, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

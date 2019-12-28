@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Diabetes#ded3146242d6b322f31afbf57a8afde22e4ec8e1', 0.0035026269702276708, False, False), ('http://archive.ics.uci.edu/ml/datasets/AutoUniv', 0.0019157088122605363, False, True)]

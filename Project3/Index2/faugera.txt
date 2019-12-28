@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/vc.ht', (0.0004393673110720562, False, True)), ('https://www.ics.uci.edu/~majumder/VC/CS211-F19.ht', (0.00032829940906106366, False, False)), ('https://www.ics.uci.edu/~eppstein/bibs/meshgen.bi', (0.00014775413711583924, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks', 0.003937007874015748, False, True), ('http://archive.ics.uci.edu/ml/datasets/IDA2016Challenge', 0.004405286343612335, False, True)]

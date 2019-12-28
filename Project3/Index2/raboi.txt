@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/stanford-class-series-how-to-operate', (0.00040032025620496394, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dvk/pub.htm', (0.0004901960784313725, False, True)), ('https://www.ics.uci.edu/~dvk/pub/EMWS09_dvk.htm', (0.007462686567164179, False, True)), ('https://www.ics.uci.edu/~dsm/publications.htm', (0.0002479543763947434, False, True)), ('http://cert.ics.uci.edu/EMWS09/index.htm', (0.0011806375442739079, False, False))])

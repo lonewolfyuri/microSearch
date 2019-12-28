@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/pubframe.ht', (0.012077294685990338, False, True))])

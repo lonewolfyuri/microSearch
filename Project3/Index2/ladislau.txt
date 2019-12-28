@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/eresourc.ht', (0.016666666666666666, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/toc.ht', (0.002004008016032064, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/brknmilr.ht', (0.0006265664160401002, False, True))])

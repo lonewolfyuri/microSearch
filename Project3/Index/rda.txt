@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/UNIX+User+Data#6858832ba8e9e4ac002900af151a8ffcc1796f8f', 0.011111111111111112, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wine', 0.001893939393939394, False, True), ('http://archive.ics.uci.edu/ml/datasets/Lung+Cancer', 0.002967359050445104, False, True)]

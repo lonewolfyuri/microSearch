@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (5.197505197505198e-05, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/contractible-probability.htm', (0.0034482758620689655, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/collection/dt/Minutes000209.tx', (0.002178649237472767, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gts/pubs.htm', (0.0033444816053511705, False, True)), ('http://sprout.ics.uci.edu/projects/assentication', (0.09090909090909091, True, True)), ('http://sprout.ics.uci.edu/projects.htm', (0.01694915254237288, False, True)), ('http://sprout.ics.uci.edu/people/tkaczmar/index.htm', (0.009433962264150943, False, True))])

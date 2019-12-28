@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Parking+Birmingha', (0.00510204081632653, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/text/4letter.word', (0.00046533271288971617, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

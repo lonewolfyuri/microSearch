@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~schark/simulator/javadoc/AllNames.htm', (0.0005216484089723526, False, False)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/TaskSynchronization.html', (0.5, True, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/tree.htm', (0.009900990099009901, False, True))])

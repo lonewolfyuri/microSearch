@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/wen-mei-w-hwu', (0.001669449081803005, False, True))])

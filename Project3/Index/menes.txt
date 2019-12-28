@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Paper+Reviews', 0.004048582995951417, False, True)]

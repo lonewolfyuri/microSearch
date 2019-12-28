@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/cfrac.htm', (0.00043649061545176777, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/greed.htm', (0.0011904761904761906, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

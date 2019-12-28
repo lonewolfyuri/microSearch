@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/hrshmylc.ht', (0.0014367816091954023, False, True)), ('https://www.ics.uci.edu/~ics1c/hw3/35.htm', (0.0011806375442739079, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://ngs.ics.uci.edu/time-machine', (0.0017241379310344827, False, True))])

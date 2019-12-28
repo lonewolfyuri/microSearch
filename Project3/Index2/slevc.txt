@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/grad/student-profiles/jason-reitman/', (0.0009242144177449168, False, False)), ('https://www.informatics.uci.edu/grad/student-profiles/jason-reitman', (0.0009242144177449168, False, False))])

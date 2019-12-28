@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+%28COIL+2000%29', 0.0020325203252032522, False, True), ('http://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+(COIL+2000)', 0.0020325203252032522, False, True), ('http://archive.ics.uci.edu/ml/support/Adult#cefc3da70b90693b8046b574392c86d2db1f196a', 0.000546448087431694, False, True)]

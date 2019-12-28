@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ICS125_FQ04/ProjectOpportunities.htm', (0.015873015873015872, False, True)), ('https://www.ics.uci.edu/~taylor/ICS125_FQ04/syllabus.htm', (0.000302571860816944, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

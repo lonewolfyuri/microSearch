@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Spambase', (0.004807692307692308, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Spambas', (0.0014104372355430183, False, True))])

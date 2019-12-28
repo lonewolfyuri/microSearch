@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/b.tx', (3.240230704426155e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/hm-shnfd.ht', (0.0006925207756232687, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Nussbaum.htm', (0.0016474464579901153, False, False))])

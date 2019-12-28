@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset', 0.0035587188612099642, False, True)]

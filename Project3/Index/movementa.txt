@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Indoor+User+Movement+Prediction+from+RSS+data', 0.00130718954248366, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00348/', 0.05555555555555555, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0032679738562091504, False, True)]

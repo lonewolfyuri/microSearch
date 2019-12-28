@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Datase', (0.0016666666666666668, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.0002365744026496333, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

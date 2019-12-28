@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/projects/uwsnwebpage/security_uwsn.htm', (0.045454545454545456, True, False))])

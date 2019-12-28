@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra', 0.002793296089385475, False, True)]

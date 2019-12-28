@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/week-5-potluck', (0.0003972983710766786, False, True))])

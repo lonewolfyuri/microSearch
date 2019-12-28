@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/priv11.htm', (0.004545454545454545, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (0.0004306294736546569, False, False))])

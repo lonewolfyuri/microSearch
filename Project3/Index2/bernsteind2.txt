@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Fogelfrey.htm', (0.001287001287001287, False, True))])

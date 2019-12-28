@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection', 0.002066115702479339, False, True), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.004098360655737705, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Freintlich.htm', (0.001524390243902439, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/280/bib.htm', (0.002849002849002849, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Neulinger.htm', (0.0037313432835820895, False, False)), ('https://www.ics.uci.edu/~eppstein/forbidden', (0.0014492753623188406, False, True))])

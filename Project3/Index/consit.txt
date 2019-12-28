@@ -1,1 +1,0 @@
-[('http://alderis.ics.uci.edu/dresystems.html', 0.002890173410404624, False, False), ('http://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq', 0.002881844380403458, False, False), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00018968133535660092, False, False)]

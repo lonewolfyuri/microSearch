@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Post-Operative+Patient', 0.004329004329004329, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.00021235931195582927, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0013020833333333333, False, True)]

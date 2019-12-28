@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/jour.htm', (0.012195121951219513, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/acm-gis-96.htm', (0.0008928571428571428, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/carto.htm', (0.002331002331002331, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/is-this-true-about-we-indians', (0.0008460236886632825, False, False))])

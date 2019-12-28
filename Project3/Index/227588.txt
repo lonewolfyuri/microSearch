@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Balance+Scale', 0.004694835680751174, False, True)]

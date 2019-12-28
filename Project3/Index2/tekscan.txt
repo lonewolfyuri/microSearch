@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/projects/assentication', (0.0072992700729927005, False, True))])

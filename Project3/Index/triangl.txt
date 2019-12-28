@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Trains', 0.0020325203252032522, False, True), ('http://archive.ics.uci.edu/ml/datasets/Flags', 0.003552397868561279, False, True)]

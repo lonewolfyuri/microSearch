@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/prague/castle/StaryKralovskyLargeHall.htm', (0.08333333333333333, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/prague/castle/Schwarzenberg4.htm', (0.0625, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/prague/castle/HradcanskeNamestiView.htm', (0.16666666666666666, True, True))])

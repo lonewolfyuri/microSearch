@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False)), ('https://futurehealth.ics.uci.edu/news-events/uci-seminars', (0.0004158004158004158, False, True)), ('https://futurehealth.ics.uci.edu/news-events/uci-seminars/', (0.0004158004158004158, False, True))])

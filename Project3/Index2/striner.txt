@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/arvr-theater-syllabus', (0.0003211303789338471, False, True))])

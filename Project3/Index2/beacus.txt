@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/minneapolis/dav/minutes.tx', (0.0003058103975535168, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (3.174703958855837e-05, False, True))])

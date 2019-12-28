@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/ICMLA+2014+Accepted+Papers+Data+Set', 0.0028011204481792717, False, True), ('http://archive.ics.uci.edu/ml/datasets/Folio', 0.0024271844660194173, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/fisher-fundamentals.htm', (0.0015552099533437014, False, False))])

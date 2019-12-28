@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Opinion+Corpus+for+Lebanese+Arabic+Reviews+%28OCLAR%29', 0.00390625, False, True), ('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.003968253968253968, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computing', 0.00392156862745098, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lipman.htm', (0.0009737098344693282, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/ndex.ht', (0.00010795638562020944, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.0778249328602818e-05, False, False))])

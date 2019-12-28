@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/constant-values.htm', (0.004098360655737705, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/ERROR.htm', (0.008695652173913044, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-17.htm', (0.014285714285714285, False, True))])

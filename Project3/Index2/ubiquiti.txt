@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/classes/inf-242', (0.0012787723785166241, False, False)), ('https://www.ics.uci.edu/~gmark/Home_page/Publications.htm', (0.0004574565416285453, False, False))])

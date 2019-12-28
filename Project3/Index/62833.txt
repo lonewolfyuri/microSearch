@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Dataset', 0.004, False, True)]

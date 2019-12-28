@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/cs141/CodeExamples', (0.0027472527472527475, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Statlog+%28Image+Segmentation%2', (0.00423728813559322, False, True))])

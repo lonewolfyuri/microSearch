@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Wireless+Indoor+Localizatio', (0.0041841004184100415, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Skin+Segmentatio', (0.0040650406504065045, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Planning+Rela', (0.00425531914893617, False, True))])

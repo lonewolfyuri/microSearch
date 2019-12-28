@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/CNAE-9', 0.0028735632183908046, False, True), ('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.0027397260273972603, False, True), ('http://archive.ics.uci.edu/ml/datasets/TTC-3600%3A+Benchmark+dataset+for+Turkish+text+categorization', 0.002398081534772182, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Pubs-OrgStudies.htm', (0.005714285714285714, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/Vintage/Software_Productivity.htm', (6.81802686302584e-05, False, True))])

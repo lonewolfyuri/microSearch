@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~chengz20/', (0.007633587786259542, False, True)), ('https://www.ics.uci.edu/~chengz20', (0.007633587786259542, False, True)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (0.0010746910263299302, False, True))])

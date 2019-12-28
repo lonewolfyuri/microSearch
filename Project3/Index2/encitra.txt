@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=66', (0.0011061946902654867, False, True)), ('http://mondego.ics.uci.edu', (0.0037174721189591076, False, True))])

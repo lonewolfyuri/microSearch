@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/ASEvents/fromGTF.novelEvents.A5SS.tx', (3.082550707959146e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/PolII-CPSF100-Comparison/Differntial-Peaks/P2-peaks/P2-P4-rev-basedOnTagsthresh1-500aroundsummi', (1.4653517576894333e-05, False, False))])

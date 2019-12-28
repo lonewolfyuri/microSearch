@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Wine', (0.0012610340479192938, False, True)), ('http://archive.ics.uci.edu/ml/support/Ionosphere', (0.0014367816091954023, False, True)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.0008787346221441124, False, True))])

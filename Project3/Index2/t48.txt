@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plant', (0.001519756838905775, False, True)), ('https://www.ics.uci.edu/~alspaugh', (0.008849557522123894, False, True)), ('https://www.ics.uci.edu/~alspaugh/index.htm', (0.008849557522123894, False, True))])

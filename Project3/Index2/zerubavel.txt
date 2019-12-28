@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/record_fn.html', (0.004901960784313725, False, True)), ('https://www.ics.uci.edu/~gbowker/records.htm', (0.00030156815440289503, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/roots/rootsa-2.ht', (0.02857142857142857, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/DeletingPage', (0.002277904328018223, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-31/lectures/tuples/tuples.tx', (0.0013306719893546241, False, False)), ('https://www.ics.uci.edu/~thornton/ics184/LabManual/Assignment2', (0.00044464206313917296, False, True))])

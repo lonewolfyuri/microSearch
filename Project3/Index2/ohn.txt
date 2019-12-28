@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD.tx', (1.4221574982543016e-06, False, False)), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD-random.tx', (1.4221574982543016e-06, False, False)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0004572473708276177, False, False))])

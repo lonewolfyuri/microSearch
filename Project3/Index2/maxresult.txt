@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/WebAPIs', (0.0004761904761904762, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/serialized-form.htm', (0.002638522427440633, False, True))])

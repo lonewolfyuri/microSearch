@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Travel+Reviews', 0.004608294930875576, False, True), ('http://archive.ics.uci.edu/ml/datasets/Machine+Learning+based+ZZAlpha+Ltd.+Stock+Recommendations+2012-2014', 0.0011198208286674132, False, True)]

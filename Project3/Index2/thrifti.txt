@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+dat', (0.00099601593625498, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/memory.tx', (0.0003673769287288758, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

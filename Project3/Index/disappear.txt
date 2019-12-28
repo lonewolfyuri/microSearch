@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet', 0.001440922190201729, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dermatology', 0.0015128593040847202, False, True), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.0002498126405196103, False, True)]

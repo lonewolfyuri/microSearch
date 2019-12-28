@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-271/fall-12/project.tx', (0.001076426264800861, False, False)), ('https://www.ics.uci.edu/~agarwal/mouseBrain/index.htm', (0.0012422360248447205, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.0024271844660194173, False, True)]

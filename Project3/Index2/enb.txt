@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Iri', (0.0003946329913180742, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Diabete', (0.0005810575246949448, False, False)), ('http://archive.ics.uci.edu/ml/support/Diabetes', (0.0002767017155506364, False, False)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.000185459940652819, False, False))])

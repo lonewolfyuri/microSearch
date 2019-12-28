@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/about-community-outreach/', (0.0003197953309881676, False, True)), ('https://wics.ics.uci.edu/about-community-outreach', (0.0003197953309881676, False, True))])

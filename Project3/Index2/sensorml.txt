@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/observation-systems-functionality', (0.0009124087591240876, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.6476487360524062e-06, False, False))])

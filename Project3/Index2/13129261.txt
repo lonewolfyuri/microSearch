@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/MAJIQ/tables/Wt-cort_psigroup_psi_names_filtered.tx', (1.6086222150727902e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P3-GCCAAT-Sequences_trimmed-mapped_peaks.narrowPea', (1.3043931962850881e-05, False, False))])

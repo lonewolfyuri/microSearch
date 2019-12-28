@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/2011/09/883/cmu_p1040919', (0.14285714285714285, True, False))])

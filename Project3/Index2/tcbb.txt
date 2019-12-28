@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/Weber_TCBB_2008', (0.00303951367781155, False, False)), ('http://vision.ics.uci.edu/papers/Rubel_TCBB_2010', (0.0033333333333333335, False, False)), ('https://www.ics.uci.edu/~fowlkes', (0.0008539709649871904, False, True))])

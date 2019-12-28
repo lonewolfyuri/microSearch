@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activit', (0.0025252525252525255, False, True)), ('https://www.ics.uci.edu/community/news/articles/view_article?id=8', (0.003389830508474576, False, True))])

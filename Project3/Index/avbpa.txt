@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Iris', 0.0010857763300760044, False, False), ('http://archive.ics.uci.edu/ml/support/Iris#632fe4095475bee152843a02969ade56a290db39', 0.00048192771084337347, False, False)]

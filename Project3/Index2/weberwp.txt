@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/WeberWP_JNSC_1999', (0.00546448087431694, False, False)), ('http://vision.ics.uci.edu/papers/WeberWP_CVPR_2000', (0.0045871559633027525, False, False)), ('http://vision.ics.uci.edu/papers/WeberWP_ECCV_2000', (0.0056179775280898875, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescop', (0.0015360983102918587, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.0008375209380234506, False, True))])

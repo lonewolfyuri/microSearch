@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/nagpur', (0.0002678810608090008, False, True)), ('https://ngs.ics.uci.edu/kosmix-one-more-from-stanford', (0.0019120458891013384, False, True))])

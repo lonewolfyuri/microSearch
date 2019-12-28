@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/employment', (0.003389830508474576, False, True)), ('https://www.ics.uci.edu/employment/index.ph', (0.003389830508474576, False, True)), ('https://www.ics.uci.edu/employment/employ_faculty.ph', (0.002352941176470588, False, False))])

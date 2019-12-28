@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/M/msg00017.htm', (0.004434589800443459, False, True)), ('https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia', (0.001841620626151013, False, False))])

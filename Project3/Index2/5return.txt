@@ -1,0 +1,1 @@
+dict_items([('http://tutors.ics.uci.edu/index.php/79-python-resources/93-string-list-basic', (0.006211180124223602, False, False))])

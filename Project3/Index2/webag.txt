@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pazzani/Coldlist.htm', (0.0007530120481927711, False, True))])

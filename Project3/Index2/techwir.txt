@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/page/6', (0.0009049773755656109, False, True)), ('http://sdcl.ics.uci.edu/2014/07/crowd-programming-featured-on-acm-technews', (0.0013458950201884253, False, True)), ('http://sdcl.ics.uci.edu/category/news/page/5', (0.0010660980810234541, False, True)), ('http://sdcl.ics.uci.edu/author/andre/page/4', (0.000859106529209622, False, True))])

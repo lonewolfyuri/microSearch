@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/lds-list.tx', (0.00010686044026501389, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Sternberg.htm', (0.001549186676994578, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Gross.htm', (0.00042211903756859433, False, False))])

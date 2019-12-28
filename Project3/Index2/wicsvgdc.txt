@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/week-3-wicsvgdc-workshop/?afg45_page_id=', (0.0003190810465858328, False, True)), ('https://wics.ics.uci.edu/week-3-wicsvgdc-workshop', (0.0003189792663476874, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/generators.tx', (0.000794912559618442, False, False)), ('https://ngs.ics.uci.edu/in-london', (0.0011074197120708748, False, True))])

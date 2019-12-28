@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/Fowlkes_PLOS_2016', (0.006993006993006993, False, True)), ('https://www.ics.uci.edu/~skong2/pollen.htm', (0.0018552875695732839, False, True)), ('https://www.ics.uci.edu/~skong2', (0.0005640157924421884, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

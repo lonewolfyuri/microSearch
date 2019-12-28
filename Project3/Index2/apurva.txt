@@ -1,0 +1,1 @@
+dict_items([('https://studentcouncil.ics.uci.edu/past.htm', (0.022727272727272728, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=138', (0.0009132420091324201, False, True))])

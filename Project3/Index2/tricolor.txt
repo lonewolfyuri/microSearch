@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/tanaka/PumpkinsClose2.htm', (0.25, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/tanaka/PumpkinsClose1.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/tanaka/Sara4.htm', (0.05263157894736842, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

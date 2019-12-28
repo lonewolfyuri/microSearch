@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/category/news/page/9', (0.0003215434083601286, False, True)), ('https://wics.ics.uci.edu/author/bearpigx', (0.00036075036075036075, False, True)), ('https://wics.ics.uci.edu/author/bearpigx/', (0.00036075036075036075, False, True)), ('https://wics.ics.uci.edu/mock-interview', (0.0003944773175542406, False, True))])

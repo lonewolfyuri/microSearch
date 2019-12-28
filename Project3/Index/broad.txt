@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/chipseq', 0.0007067137809187279, False, True), ('http://archive.ics.uci.edu/ml/datasets/Folio', 0.003436426116838488, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.002257336343115124, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.0021231422505307855, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Othello+Domain+Theory', 0.00423728813559322, False, True)]

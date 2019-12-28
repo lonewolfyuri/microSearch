@@ -1,0 +1,1 @@
+dict_items([('http://cert.ics.uci.edu/EMWS09/index.htm', (0.0030303030303030303, False, False)), ('http://cert.ics.uci.edu/board.htm', (0.004807692307692308, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.2838867137362564e-06, False, False))])

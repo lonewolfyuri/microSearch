@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu/bigactivedata/publications.htm', (0.003048780487804878, False, True))])

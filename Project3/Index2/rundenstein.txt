@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Automobil', (0.0014005602240896359, False, True)), ('http://archive.ics.uci.edu/ml/support/Automobile', (0.004672897196261682, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Cargo+2000+Freight+Tracking+and+Tracin', (0.0003968253968253968, False, True))])

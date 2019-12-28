@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yuzok/software-architecture.htm', (0.0008368200836820083, False, False))])

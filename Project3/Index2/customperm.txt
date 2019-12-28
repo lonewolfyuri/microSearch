@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/terminator/tla_module.htm', (0.008, False, True)), ('https://seal.ics.uci.edu/projects/terminator/tla_module.htm', (0.008, False, True))])

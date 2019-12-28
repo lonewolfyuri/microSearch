@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lewi.htm', (0.000657030223390276, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schauman.htm', (0.00398406374501992, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c90.tx', (0.000366255646441216, False, False))])

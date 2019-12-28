@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/explore/books-we-have-written/', (0.00015822784810126583, False, False)), ('https://www.informatics.uci.edu/explore/books-we-have-written', (0.00015822784810126583, False, False)), ('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (1.7195426016679562e-05, False, True))])

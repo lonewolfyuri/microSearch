@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/othrmilr.ht', (0.00012310722639418935, False, True)), ('https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/nets.ht', (0.2, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/programs.htm', (0.004, False, True))])

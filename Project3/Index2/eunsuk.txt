@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~hamidb', (0.00641025641025641, False, True)), ('https://www.ics.uci.edu/~seal/publications.htm', (0.0013422818791946308, False, True)), ('https://www.ics.uci.edu/~hamidb/', (0.00641025641025641, False, True)), ('https://seal.ics.uci.edu/publications.htm', (0.0013422818791946308, False, True))])

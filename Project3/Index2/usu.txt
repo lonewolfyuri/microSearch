@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/disput01.htm', (6.228589224540641e-05, False, False)), ('https://ngs.ics.uci.edu/research-at-fuji-xerox-lab-fxpal', (0.0018450184501845018, False, False)), ('https://ngs.ics.uci.edu/lifelog-made-easy', (0.001392757660167131, False, True))])

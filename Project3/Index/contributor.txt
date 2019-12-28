@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Machine+Learning+based+ZZAlpha+Ltd.+Stock+Recommendations+2012-2014', 0.0010277492291880781, False, True), ('http://archive.ics.uci.edu/ml/datasets/seeds', 0.0017953321364452424, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.00011032656663724625, False, True)]

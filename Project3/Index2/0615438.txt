@@ -1,0 +1,1 @@
+dict_items([('http://xtune.ics.uci.edu/sponsor.ht', (0.0007575757575757576, False, True))])

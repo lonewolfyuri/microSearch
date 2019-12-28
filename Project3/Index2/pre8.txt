@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Dat', (0.002178649237472767, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.5158368371682138e-06, False, False))])

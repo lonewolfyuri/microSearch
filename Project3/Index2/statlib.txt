@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Auto+MP', (0.005376344086021506, False, False)), ('http://archive.ics.uci.edu/ml/support/Diabetes', (0.0002858776443682104, False, True))])

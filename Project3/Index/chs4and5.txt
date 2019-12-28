@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/logic-theorist/CODE/PROBS/', 0.041666666666666664, False, True)]

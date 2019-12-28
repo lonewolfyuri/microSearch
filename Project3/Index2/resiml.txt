@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/slumdog', (0.000683526999316473, False, True))])

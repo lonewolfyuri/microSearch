@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset', 0.0033333333333333335, False, True), ('http://archive.ics.uci.edu/ml/datasets/NoisyOffice', 0.005, False, False), ('http://archive.ics.uci.edu/ml/datasets/Discrete+Tone+Image+Dataset', 0.0027247956403269754, False, True)]

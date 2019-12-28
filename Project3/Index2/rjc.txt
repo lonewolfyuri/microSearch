@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/contractible-probability.htm', (0.006896551724137931, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/dodecahedron-slices.htm', (0.125, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9112725338207915e-06, False, False))])

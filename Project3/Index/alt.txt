@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Movie', 0.0015015015015015015, False, True), ('http://archive.ics.uci.edu/ml/datasets/Internet+Advertisements', 0.0034129692832764505, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients', 0.0028169014084507044, False, True)]

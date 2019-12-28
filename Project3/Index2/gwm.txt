@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/manuel-blum', (0.0011695906432748538, False, False)), ('https://www.cs.uci.edu/events/seminar-series/?seminar_id=14', (0.0012626262626262627, False, True)), ('https://www.cs.uci.edu/event/manuel-blum/?ical=', (0.0019342359767891683, False, False))])

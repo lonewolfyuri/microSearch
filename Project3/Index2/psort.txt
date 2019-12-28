@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Ecol', (0.004016064257028112, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Yeas', (0.004, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/iteratorclasses.tx', (0.0015679442508710801, False, False))])

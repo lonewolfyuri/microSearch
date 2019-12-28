@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/telecom.htm', (0.021739130434782608, False, False)), ('https://www.ics.uci.edu/~lab/labs_specs/software.ph', (0.0023094688221709007, False, True))])

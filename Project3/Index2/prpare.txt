@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/93', (0.0013605442176870747, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/31', (0.0013550135501355014, False, True)), ('https://ngs.ics.uci.edu/blog/page/93', (0.0013550135501355014, False, True)), ('https://ngs.ics.uci.edu/ancient-rome-born-in-3d', (0.0020491803278688526, False, True))])

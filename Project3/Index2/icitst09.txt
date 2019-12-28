@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Spoken+Arabic+Digi', (0.0022522522522522522, False, True))])

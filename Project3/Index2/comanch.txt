@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Covertyp', (0.0019569471624266144, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.931535449788663e-06, False, False))])

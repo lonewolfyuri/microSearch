@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/kra_remuh_yizkor.ht', (0.006535947712418301, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/brknspir.htm', (0.0005073566717402334, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/newman.ht', (0.0005194805194805195, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/pubs/DC-Sec678.htm', (0.007481296758104738, False, True)), ('https://www.ics.uci.edu/~dan/pubs/DC-Sec4.htm', (0.006993006993006993, False, True)), ('https://www.ics.uci.edu/~dan/pubs/DataCompression.htm', (0.013157894736842105, False, True)), ('https://www.ics.uci.edu/~dan/pubs/DC-Sec5.htm', (0.0006127450980392157, False, False))])

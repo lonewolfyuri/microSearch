@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~amirr1/The_Dark_Side_of_Silicon.htm', (0.003663003663003663, False, True))])

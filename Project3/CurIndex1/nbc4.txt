@@ -1,0 +1,1 @@
+dict_items([(27019, (1.0, True, True)), (28336, (0.25, False, True)), (33670, (0.0625, False, True)), (34503, (0.125, False, True)), (38732, (0.3333333333333333, True, True))])

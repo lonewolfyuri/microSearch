@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/character-trajectories', (0.047619047619047616, False, True))])

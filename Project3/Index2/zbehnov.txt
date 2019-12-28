@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/1869censustips.ht', (0.0018587360594795538, False, False))])

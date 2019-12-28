@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~iftekha/', (0.00030339805825242716, False, True)), ('https://www.ics.uci.edu/~iftekha', (0.00030339805825242716, False, True)), ('https://www.ics.uci.edu/~iftekha/publication/how-verified-or-tested-is-my-code', (0.003278688524590164, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

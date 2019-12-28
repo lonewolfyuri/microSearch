@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Truck', (0.0011123470522803114, False, True)), ('http://archive.ics.uci.edu/ml/datasets/IDA2016Challeng', (0.0011467889908256881, False, True))])

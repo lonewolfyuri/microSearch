@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/readme.tx', (0.002577319587628866, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.1204011405156362e-06, False, False))])

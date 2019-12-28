@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('http://sdcl.ics.uci.edu/page/6', (0.0006207324643078833, False, False)), ('http://sdcl.ics.uci.edu/2014/06/welcome-danilo-and-william', (0.0011792452830188679, False, False))])

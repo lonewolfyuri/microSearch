@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/culture-or-politics-or-stupidity', (0.0012755102040816326, False, True)), ('https://ngs.ics.uci.edu/obsession-with-non-issues', (0.0015384615384615385, False, True))])

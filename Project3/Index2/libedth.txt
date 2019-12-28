@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/toolkit/docs/UdfDoc.htm', (0.002127659574468085, False, True)), ('http://flamingo.ics.uci.edu/toolkit/src/udf/mysql/ed/makefil', (0.017543859649122806, False, True))])

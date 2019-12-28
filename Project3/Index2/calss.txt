@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-21/announcements.htm', (0.002288329519450801, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/inheritancei.tx', (0.00017067759003242875, False, False)), ('https://ngs.ics.uci.edu/entrepreneurism-class', (0.0011587485515643105, False, False))])

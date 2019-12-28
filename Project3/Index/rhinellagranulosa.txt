@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29', 0.0018552875695732839, False, True)]

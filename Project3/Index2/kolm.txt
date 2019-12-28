@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/tom-anderson-2', (0.0013477088948787063, False, True)), ('https://www.cs.uci.edu/event/tom-anderson-2/?ical=', (0.0048543689320388345, False, False)), ('https://www.cs.uci.edu/events/distinguished-lecture-series', (0.0011918951132300357, False, False))])

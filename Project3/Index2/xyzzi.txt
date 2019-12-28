@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (2.925002925002925e-05, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/props/draft-ietf-webdav-propfind-space-00.tx', (0.001639344262295082, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/ProjectGuide/Project4', (0.0003259452411994785, False, True))])

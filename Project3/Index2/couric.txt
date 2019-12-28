@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/56', (0.0016, False, True)), ('https://ngs.ics.uci.edu/blog/page/56', (0.0015923566878980893, False, True)), ('https://ngs.ics.uci.edu/reality-is-funnier-than-satire-on-snl', (0.0017421602787456446, False, True)), ('https://ngs.ics.uci.edu/category/general-updates/page/16', (0.0017482517482517483, False, True))])

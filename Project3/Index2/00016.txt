@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/publications', (0.00017088174982911826, False, False)), ('https://isg.ics.uci.edu/publications/?limit=', (0.00017088174982911826, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%2', (0.0006779661016949153, False, True))])

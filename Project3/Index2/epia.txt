@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Meta-dat', (0.0016722408026755853, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Online+News+Popularit', (0.0009970089730807576, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Forest+Fire', (0.0014705882352941176, False, True))])

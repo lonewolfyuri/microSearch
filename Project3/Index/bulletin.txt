@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu//publications.html', 0.0015408320493066256, False, True), ('http://archive.ics.uci.edu/ml/datasets/MSNBC.com+Anonymous+Web+Data', 0.0024813895781637717, False, True), ('http://archive.ics.uci.edu/ml/datasets/EEG+Database', 0.001182033096926714, False, True)]

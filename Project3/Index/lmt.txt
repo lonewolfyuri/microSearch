@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/BLOGGER', 0.00211864406779661, False, True), ('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems', 0.003676470588235294, False, False), ('http://archive.ics.uci.edu/ml/datasets/Heart+Disease', 0.0009363295880149813, False, True)]

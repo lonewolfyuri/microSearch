@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29', 0.06666666666666667, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00366/', 0.05555555555555555, False, True)]

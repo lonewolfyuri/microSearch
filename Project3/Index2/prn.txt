@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/archevolution/index.htm', (0.003367003367003367, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_szang_20160205/Nabila_B/ngsplots/common_ngsplots', (0.0053475935828877, False, True)), ('https://seal.ics.uci.edu/projects/archevolution/index.htm', (0.003367003367003367, False, True))])

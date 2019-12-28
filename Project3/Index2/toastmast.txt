@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/career/additional-skills-resources', (0.0014577259475218659, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://mswe.ics.uci.edu/career/additional-resources', (0.0012453300124533001, False, True))])

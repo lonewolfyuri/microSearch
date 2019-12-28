@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~maheshmn/eCACTI/howto.ht', (0.008333333333333333, False, True))])

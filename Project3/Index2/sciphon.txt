@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/apple-becoming-more-multimedia', (0.0013550135501355014, False, True))])

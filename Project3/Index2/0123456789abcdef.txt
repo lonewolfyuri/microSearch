@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/recursion.tx', (0.00015651901706057285, False, False)), ('http://sprout.ics.uci.edu/projects/usec/usec.htm', (2.8068599657563083e-05, False, True)), ('http://sprout.ics.uci.edu/projects/uwsnwebpage/security_uwsn.htm', (3.8028597505324e-05, False, True))])

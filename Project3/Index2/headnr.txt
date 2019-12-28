@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ReleaseNote', (0.00021222410865874363, False, True)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0003372681281618887, False, True)), ('http://sli.ics.uci.edu/PmWiki/TableDirective', (0.002881844380403458, False, True))])

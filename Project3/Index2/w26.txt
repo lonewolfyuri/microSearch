@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aces/conferences.ht', (0.00016157699143641945, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00014353380221042057, False, False))])

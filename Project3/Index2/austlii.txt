@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Legal+Case+Report', (0.0035211267605633804, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/intlprivlawsurvey.htm', (0.008771929824561403, False, True))])

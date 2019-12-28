@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/IEEE-L7-WAP.htm', (0.00043554006968641115, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover', 0.0023148148148148147, False, True)]

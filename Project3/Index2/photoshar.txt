@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/tag/photosharing', (0.3333333333333333, True, False)), ('https://ngs.ics.uci.edu/photos-are-more-than-fleeting-experiences', (0.0014970059880239522, False, True))])

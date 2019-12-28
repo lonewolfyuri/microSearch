@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00476/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set', 0.005050505050505051, False, False)]

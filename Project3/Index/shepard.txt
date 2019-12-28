@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/ISOLET#9fe9e6630b7b953504726b9b36281c4f738b964e', 0.0009689922480620155, False, True), ('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)#e5d994d772cfe5ec4d0f3e6d669f0bc28180a3ae', 0.00023736055067647758, False, True)]

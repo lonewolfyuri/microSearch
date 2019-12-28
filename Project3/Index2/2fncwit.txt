@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund/ncwit/', (0.00031655587211142766, False, True)), ('https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund/ncwit', (0.00031655587211142766, False, True))])

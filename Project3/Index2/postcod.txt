@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/kern.htm', (0.0010976948408342481, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (8.567773427472513e-07, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/faculty2/xikui-wang', (0.00025393600812595224, False, True)), ('http://sprout.ics.uci.edu/projects/usec/usec.htm', (0.000241196333815726, False, True)), ('http://sherlock.ics.uci.edu/data.htm', (0.0037313432835820895, False, True))])

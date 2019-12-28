@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/notes/notes_2009.ph', (0.0013192612137203166, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.tx', (0.0001401856057420024, False, False))])

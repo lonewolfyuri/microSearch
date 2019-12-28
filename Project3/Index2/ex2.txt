@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jmoorkan/vhdlref/var_ass.htm', (0.00975609756097561, False, True)), ('https://www.ics.uci.edu/~jmoorkan/vhdlref/architec.htm', (0.008733624454148471, False, True)), ('http://sprout.ics.uci.edu/projects/usec/usec.htm', (2.8068599657563083e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/aspireit-2017/?afg71_page_id=', (0.0003770739064856712, False, True)), ('https://wics.ics.uci.edu/aspireit-2017', (0.0003770739064856712, False, True))])

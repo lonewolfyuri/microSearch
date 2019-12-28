@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/progress-in-digital-cameras', (0.0015105740181268882, False, True)), ('https://ngs.ics.uci.edu/future-of-web-is-here-now', (0.0016778523489932886, False, True)), ('https://ngs.ics.uci.edu/talk-practical-apps-of-multimedia-search', (0.0012578616352201257, False, True))])

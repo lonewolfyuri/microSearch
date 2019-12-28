@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29', 0.08333333333333333, True, True), ('http://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition', 0.0035211267605633804, False, True)]

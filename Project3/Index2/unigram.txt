@@ -1,0 +1,1 @@
+dict_items([('http://mondego.ics.uci.edu/projects/yelp', (0.0011013215859030838, False, False))])

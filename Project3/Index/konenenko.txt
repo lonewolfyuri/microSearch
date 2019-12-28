@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Primary+Tumor', 0.0022271714922048997, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hepatitis', 0.0017761989342806395, False, True), ('http://archive.ics.uci.edu/ml/datasets/Breast+Cancer', 0.0017825311942959, False, True), ('http://archive.ics.uci.edu/ml/datasets/Lymphography', 0.002004008016032064, False, True)]

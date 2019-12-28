@@ -1,0 +1,1 @@
+dict_items([('https://duttgroup.ics.uci.edu/projects/domain-specific-hardware-accelerators', (0.003430222061743997, False, True)), ('https://duttgroup.ics.uci.edu/projects/domain-specific-hardware-accelerators/', (0.003430222061743997, False, True))])

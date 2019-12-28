@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/47', (0.001763668430335097, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/47', (0.0017730496453900709, False, True)), ('https://ngs.ics.uci.edu/the-state-of-venture-capital', (0.002036659877800407, False, True)), ('https://ngs.ics.uci.edu/category/entrepreneurism/page/6', (0.0016129032258064516, False, True))])

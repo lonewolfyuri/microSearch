@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/seraja-updates-september-18-2006', (0.001579778830963665, False, True))])

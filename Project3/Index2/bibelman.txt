@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Tislobis.htm', (0.004210526315789474, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Mosinger.htm', (0.001893939393939394, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Eisenberg.htm', (0.0027739251040221915, False, False))])

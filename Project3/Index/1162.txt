@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Ecoli#f006e50cdba5e00538e2b48452e1d0bab8ed02b9', 0.0016501650165016502, False, False)]

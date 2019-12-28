@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/Courses/netsys230/outline.htm', (0.005494505494505495, False, True)), ('https://www.ics.uci.edu/~dsm/members.htm', (0.0017331022530329288, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

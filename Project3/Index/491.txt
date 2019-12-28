@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/chipseq', 0.0006203473945409429, False, True), ('http://archive.ics.uci.edu/ml/datasets/Forest+type+mapping', 0.002320185614849188, False, True), ('http://archive.ics.uci.edu/ml/datasets/Letter+Recognition', 0.004098360655737705, False, False)]

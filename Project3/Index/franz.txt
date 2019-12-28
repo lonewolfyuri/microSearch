@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Poker+Hand', 0.004464285714285714, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hill-Valley', 0.0038314176245210726, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+Transcribed+Subset', 0.002688172043010753, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/seismic-bumps', 0.002976190476190476, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+(Domain+Theories)', 0.006060606060606061, False, False), ('http://archive.ics.uci.edu/ml/datasets/Chess+%28Domain+Theories%29', 0.006060606060606061, False, False)]

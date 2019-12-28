@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/nri-and-clinton-campaign', (0.0014705882352941176, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/src/ConnectKSource_java/gradle', (0.008583690987124463, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aburtsev/238P/2018fall/discussions/discussion03-c-strings-structs-fps-code', (0.03571428571428571, False, True))])

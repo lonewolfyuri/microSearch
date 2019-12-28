@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('http://sprout.ics.uci.edu/past_projects/odb/index.htm', (0.0012004801920768306, False, True)), ('http://www-db.ics.uci.edu/pages/research/das/index.shtm', (0.0007627765064836003, False, False))])

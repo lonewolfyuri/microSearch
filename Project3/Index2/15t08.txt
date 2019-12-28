@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/cwic-socal-conference', (0.00041562759767248546, False, True)), ('https://wics.ics.uci.edu/event/martin-luther-king-day-2', (0.0004149377593360996, False, True)), ('https://wics.ics.uci.edu/event/martin-luther-king-day', (0.00041511000415110004, False, True))])

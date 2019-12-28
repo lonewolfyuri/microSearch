@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/past_projects/cliques/category.htm', (0.012269938650306749, False, True))])

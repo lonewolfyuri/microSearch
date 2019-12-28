@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/WikiStyle', (0.0006702412868632708, False, False)), ('http://sli.ics.uci.edu/PmWiki/TableDirective', (0.0021008403361344537, False, True)), ('http://sli.ics.uci.edu/PmWiki/MarkupMasterInde', (0.0012004801920768306, False, True))])

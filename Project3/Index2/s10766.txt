@@ -1,0 +1,1 @@
+dict_items([('https://duttgroup.ics.uci.edu/publications/?limit=3', (0.0001228803145736053, False, False)), ('https://duttgroup.ics.uci.edu/publications/?limit=', (0.00025647601949217746, False, False))])

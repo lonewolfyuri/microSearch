@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/annualreport/2005-06/donors.ph', (0.0011098779134295228, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/binary.htm', (0.0010460251046025104, False, False)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/refs.html', (0.0012468827930174563, False, True))])

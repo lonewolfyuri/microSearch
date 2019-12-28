@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0018281535648994515, False, True), ('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Promoter+Gene+Sequences)#f624e93bd6b670bc3dc31925c1c885b538131534', 0.0003883495145631068, False, False)]

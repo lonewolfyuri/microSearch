@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Reuters+Transcribed+Subse', (0.0020920502092050207, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0017064846416382253, False, True))])

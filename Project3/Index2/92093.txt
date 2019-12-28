@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Clou', (0.004484304932735426, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulatio', (0.0033003300330033004, False, True)), ('https://www.ics.uci.edu/~dvk/contact.htm', (0.0047169811320754715, False, False))])

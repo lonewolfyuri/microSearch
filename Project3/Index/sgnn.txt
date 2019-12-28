@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Balance+Scale#c171fe96d278ffa703aa1310c738cad8586b4cb3', 0.002325581395348837, False, True)]

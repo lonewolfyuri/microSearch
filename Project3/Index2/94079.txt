@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/q-triangle.htm', (0.00065359477124183, False, False))])

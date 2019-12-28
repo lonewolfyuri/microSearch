@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/ontology.htm', (0.0019342359767891683, False, False)), ('https://www.ics.uci.edu/~thornton/ics184/LabManual/Assignment1', (0.0016233766233766235, False, False)), ('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_9.html', (0.0013477088948787063, False, True))])

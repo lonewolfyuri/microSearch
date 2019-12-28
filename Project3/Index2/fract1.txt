@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Meta-dat', (0.002257336343115124, False, True))])

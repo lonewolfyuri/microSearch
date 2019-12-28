@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/karen-tanenbaum', (0.0013157894736842105, False, False)), ('https://www.ics.uci.edu/~kay/courses/139w/editing.htm', (0.005076142131979695, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

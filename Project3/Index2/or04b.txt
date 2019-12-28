@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/objects/52/e4e61140d1226f5ba80676d1973baa298d3b2', (0.25, False, False))])

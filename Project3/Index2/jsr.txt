@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/Java-Community-Process.ht', (0.0009208103130755065, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (9.49045671966186e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/entrepreneurism-class', (0.001303780964797914, False, True))])

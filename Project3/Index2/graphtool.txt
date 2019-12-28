@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dillenco/pubs', (0.001183431952662722, False, True)), ('https://www.ics.uci.edu/~vitus/gtool', (1.0, True, True)), ('https://www.ics.uci.edu/~dillenco/graphtool/windows/graphtool.htm', (0.01694915254237288, False, True)), ('https://www.ics.uci.edu/~vitus', (0.010638297872340425, False, True))])

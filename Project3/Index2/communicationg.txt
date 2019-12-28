@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/abstractions-operations-and-transformations-in-computing', (0.0011668611435239206, False, True))])

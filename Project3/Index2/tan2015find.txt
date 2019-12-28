@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Dataset_Weekl', (0.0035460992907801418, False, True))])

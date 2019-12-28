@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Ecoli', (0.0010471204188481676, False, False)), ('http://archive.ics.uci.edu/ml/support/E.+Coli+Genes', (0.00145985401459854, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/FilePermission', (0.0019801980198019802, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

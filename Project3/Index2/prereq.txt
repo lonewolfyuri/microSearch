@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/ics52_fq01/syllabus.htm', (0.0023148148148148147, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.295297472104813e-07, False, False))])

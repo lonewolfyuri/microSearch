@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/glossaryExternal.htm', (0.03636363636363636, False, True)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/glossaryExternal-goal-etym.htm', (0.047619047619047616, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/china-trip-nov-20063', (0.0012121212121212121, False, True)), ('https://ngs.ics.uci.edu/nostalgia-in-atlanta-at-tsrb', (0.0014727540500736377, False, True)), ('https://ngs.ics.uci.edu/first-day-at-acm-multimedia', (0.001466275659824047, False, True))])

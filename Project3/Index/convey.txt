@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis', 0.003134796238244514, False, True), ('http://archive.ics.uci.edu/ml/datasets/Steel+Plates+Faults', 0.003205128205128205, False, True)]

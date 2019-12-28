@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Somerville+Happiness+Survey', 0.004464285714285714, False, True)]

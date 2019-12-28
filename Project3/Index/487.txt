@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/QtyT40I10D100K', 0.002976190476190476, False, True), ('http://archive.ics.uci.edu/ml/index.php', 0.005747126436781609, False, True), ('http://archive.ics.uci.edu/ml/datasets/Vertebral+Column', 0.0018315018315018315, False, True)]

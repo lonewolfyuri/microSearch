@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/desc-aam.ht', (9.783778495254867e-05, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/shlomo.ht', (0.0008984725965858042, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

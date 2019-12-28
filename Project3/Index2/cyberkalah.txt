@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/teach/ics23/LabManual/EndOfTheGame', (0.000333000333000333, False, True))])

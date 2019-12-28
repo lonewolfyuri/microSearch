@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/playful-fab', (0.0014285714285714286, False, True)), ('http://vision.ics.uci.edu/papers/Luna_TEC_2011', (0.008928571428571428, False, True)), ('https://www.ics.uci.edu/~fowlkes/bioshape/index.htm', (0.0010964912280701754, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

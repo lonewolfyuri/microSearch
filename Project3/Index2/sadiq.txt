@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Student+Academics+Performanc', (0.0041841004184100415, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_appjam_2012.ph', (0.0011737089201877935, False, False))])

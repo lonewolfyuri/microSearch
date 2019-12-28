@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0006031363088057901, False, True)), ('http://sdcl.ics.uci.edu/research/linecept', (0.0008795074758135445, False, True))])

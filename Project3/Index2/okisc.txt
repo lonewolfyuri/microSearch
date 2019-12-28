@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/leiden/WotkoceOkisceMaskokeOkisce.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/leiden/JCBloemVerlaine2.htm', (0.1, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/leiden/LangstonHughesDanseAfricaine.htm', (0.2222222222222222, False, True))])

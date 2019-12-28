@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/connectgame/symvc/SampleSource/connectk.ma', (0.0012029833988290962, False, False)), ('https://www.ics.uci.edu/~rickl/courses/cs-171/projects_old_see_AI-projects/connect-k/connectgame/symvc/SampleSource/connectk.ma', (0.0012029833988290962, False, False))])

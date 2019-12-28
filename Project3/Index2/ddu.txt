@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Disease', (0.003745318352059925, False, False))])

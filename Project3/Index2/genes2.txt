@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Yeast', (0.0015220700152207, False, True))])

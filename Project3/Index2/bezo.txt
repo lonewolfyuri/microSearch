@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~feldman/LEC11.ht', (0.020833333333333332, False, True))])

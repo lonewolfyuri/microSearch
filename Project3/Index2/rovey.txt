@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/yahoo-acquires-upcomingorg', (0.0016863406408094434, False, True))])

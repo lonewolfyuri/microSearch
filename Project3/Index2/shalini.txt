@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=120', (0.0011210762331838565, False, True)), ('https://www.ics.uci.edu/~gabe/publications.htm', (0.0011876484560570072, False, True)), ('https://ngs.ics.uci.edu/facebook-in-india', (0.000984251968503937, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/rfc2301/chapter13.html', (0.002512562814070352, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/rfc2301/chapter6.html', (0.0007342143906020558, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure', 0.003745318352059925, False, False)]

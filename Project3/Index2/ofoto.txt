@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/creating-a-photo-eco-system-the-problem', (0.0013386880856760374, False, False))])

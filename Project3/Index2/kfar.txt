@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Diener.htm', (0.0018726591760299626, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Infeld.htm', (0.0002718129926610492, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/avrohmv.ht', (0.001364256480218281, False, False))])

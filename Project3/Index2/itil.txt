@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Fleischer.htm', (0.0014265335235378032, False, False)), ('https://ngs.ics.uci.edu/seraja-software', (0.001226993865030675, False, True)), ('https://ngs.ics.uci.edu/scientific-reviews-pagerank', (0.0008264462809917355, False, True))])

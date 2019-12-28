@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/dt-not-tsp.htm', (0.0056433408577878106, False, True))])

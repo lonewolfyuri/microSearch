@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~emilyo/teaching/ics139ws2014/assignments/changingSystem.htm', (0.001072961373390558, False, False)), ('https://www.ics.uci.edu/~kay/courses/139w/changingsys.htm', (0.0013908205841446453, False, False))])

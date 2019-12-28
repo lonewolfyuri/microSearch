@@ -1,0 +1,1 @@
+dict_items([('http://iasl.ics.uci.edu/people/sbaidya', (0.0005630630630630631, False, True)), ('https://iasl.ics.uci.edu/people/sbaidya/', (0.0005630630630630631, False, True)), ('https://www.ics.uci.edu/~sbaidya/publication.htm', (0.0034602076124567475, False, True))])

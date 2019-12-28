@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Behavior+of+the+urban+traffic+of+the+city+of+Sao+Paulo+in+Brazi', (0.0015151515151515152, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+wor', (0.001017293997965412, False, True))])

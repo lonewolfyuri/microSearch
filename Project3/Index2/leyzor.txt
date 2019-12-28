@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c90.tx', (6.104260774020266e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Eisenbach.htm', (0.004219409282700422, False, False))])

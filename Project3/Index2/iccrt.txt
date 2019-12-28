@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/New', (0.004901960784313725, False, True)), ('https://www.ics.uci.edu/~wscacchi', (0.0004780114722753346, False, True))])

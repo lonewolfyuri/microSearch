@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/NewTournament', (0.023255813953488372, False, True))])

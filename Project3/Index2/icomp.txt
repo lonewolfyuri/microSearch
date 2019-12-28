@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%2', (0.004149377593360996, False, False)), ('https://www.ics.uci.edu/~hjafarpo/publications.ht', (0.002785515320334262, False, False)), ('https://www.ics.uci.edu/~hjafarpo/CV.htm', (0.001584786053882726, False, False))])

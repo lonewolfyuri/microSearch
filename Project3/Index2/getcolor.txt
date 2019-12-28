@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/PVEdge.htm', (0.0049504950495049506, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/assignments/program5/program.htm', (0.0005012531328320802, False, True)), ('https://www.ics.uci.edu/~ziv/ooad/classes/tsld013.ht', (0.05263157894736842, False, True))])

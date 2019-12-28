@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/hindi-movies', (0.0017152658662092624, False, True))])

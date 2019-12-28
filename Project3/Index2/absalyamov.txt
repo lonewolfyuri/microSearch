@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu//thesis.htm', (0.02040816326530612, False, True)), ('https://isg.ics.uci.edu/publications', (0.00018563207722294413, False, True)), ('https://isg.ics.uci.edu/publications/?limit=', (0.00018563207722294413, False, True)), ('https://www.ics.uci.edu/~mjcarey/MJCarey_Publications.htm', (0.0003139717425431711, False, True))])

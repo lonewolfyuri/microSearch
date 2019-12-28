@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/mentee-and-me-academic-planning-dbh-6011', (0.00041135335252982314, False, True))])

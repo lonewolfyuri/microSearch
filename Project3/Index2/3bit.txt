@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/Courses/ics156/Ch1_files/outline.ht', (0.00037257824143070045, False, True)), ('https://www.ics.uci.edu/~magda/Courses/ics156/Ch1_files/slide0044.ht', (0.012658227848101266, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/News+Aggregator', 0.0029154518950437317, False, True)]

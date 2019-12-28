@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/bar/2s/GreatBasin.htm', (0.02857142857142857, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/uci2/DouglasAuditorium1.htm', (0.034482758620689655, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/riptide/kf2/LateThrowTo2nd.htm', (0.03225806451612903, False, True))])

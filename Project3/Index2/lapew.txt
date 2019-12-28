@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/breakouts/breakout2.htm', (0.001488095238095238, False, True))])

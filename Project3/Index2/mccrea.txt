@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/real-time-search', (0.001199040767386091, False, True))])

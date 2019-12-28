@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jutts', (0.001976284584980237, False, True)), ('https://www.ics.uci.edu/~jutts/statlinks.htm', (0.0019011406844106464, False, True)), ('https://www.ics.uci.edu/~jutts/GAISE/index.htm', (0.3333333333333333, True, True)), ('https://www.stat.uci.edu/seminar-series/seminar-series-2015-2016', (0.001443001443001443, False, True))])

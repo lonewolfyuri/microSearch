@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/approx.htm', (0.0008012820512820513, False, True))])

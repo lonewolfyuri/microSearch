@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jmoorkan/vhdlref/cond_s_a.htm', (0.00909090909090909, False, True))])

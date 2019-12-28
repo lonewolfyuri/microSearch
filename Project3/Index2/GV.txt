@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Austrian-english.htm', (0.125, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/intlprivlawsurvey.htm', (0.006896551724137931, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Blumenstock.htm', (0.0017064846416382253, False, False))])

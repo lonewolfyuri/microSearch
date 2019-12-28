@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-31/lectures/testingfunctions/testingfunctions.tx', (0.0006851661527920521, False, False))])

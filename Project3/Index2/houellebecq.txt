@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/living-in-virtual-world', (0.0013605442176870747, False, True))])

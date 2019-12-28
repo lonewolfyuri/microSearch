@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fielding/pubs/dissertation/references.ht', (0.0012787723785166241, False, True)), ('https://www.ics.uci.edu/~fielding/pubs/dissertation/software_arch.ht', (0.0002559508574353724, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.295297472104813e-07, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/personal/page/9', (0.0019801980198019802, False, True)), ('https://ngs.ics.uci.edu/nostalgia', (0.0017421602787456446, False, True)), ('https://ngs.ics.uci.edu/blog/page/118', (0.0017857142857142857, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/118', (0.0017953321364452424, False, True))])

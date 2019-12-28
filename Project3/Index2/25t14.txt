@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/engitech-career-fair', (0.00040766408479412964, False, True)), ('https://wics.ics.uci.edu/event/ics-deans-welcome', (0.00041511000415110004, False, True))])

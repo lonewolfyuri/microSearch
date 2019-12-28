@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/similarity-search-introduced-by-google', (0.0012453300124533001, False, True)), ('http://cert.ics.uci.edu/EMWS09/index.htm', (0.0012376237623762376, False, False))])

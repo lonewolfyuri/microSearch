@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Categorie', (0.001215066828675577, False, True))])

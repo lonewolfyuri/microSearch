@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Reuters+Transcribed+Subse', (0.0025974025974025974, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Dreier.htm', (0.0009017132551848512, False, False))])

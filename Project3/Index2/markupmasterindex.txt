@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPageVariable', (0.0028169014084507044, False, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.002136752136752137, False, True)), ('http://sli.ics.uci.edu/PmWiki/MarkupMasterInde', (0.000851063829787234, False, True))])

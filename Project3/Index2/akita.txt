@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aces/akira_farewell_04.ht', (0.3333333333333333, True, True)), ('https://www.ics.uci.edu/~aces/pics.ht', (0.0136986301369863, False, True)), ('https://www.ics.uci.edu/~aces/news.ht', (0.0006435006435006435, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

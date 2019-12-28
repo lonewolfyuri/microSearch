@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/TV+News+Channel+Commercial+Detection+Dataset', 0.0009652509652509653, False, True), ('http://archive.ics.uci.edu/ml/support/Diabetes#ded3146242d6b322f31afbf57a8afde22e4ec8e1', 0.00028546959748786756, False, True)]

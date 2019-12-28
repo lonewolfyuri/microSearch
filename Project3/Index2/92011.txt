@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (0.0002840909090909091, False, False)), ('https://wics.ics.uci.edu/event/cwic-socal', (0.00039856516540454366, False, True))])

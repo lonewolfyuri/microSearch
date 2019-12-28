@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Character+Font+Images', 0.00202020202020202, False, True)]

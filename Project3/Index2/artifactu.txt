@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/converge.htm', (0.0002860411899313501, False, True)), ('https://www.ics.uci.edu/~jutts/azpsi.html', (0.0017793594306049821, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

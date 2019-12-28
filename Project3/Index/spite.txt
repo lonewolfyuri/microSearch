@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Nursery#d342517262ff52ffd3566bd8f520b36723486aa3', 0.0014204545454545455, False, True)]

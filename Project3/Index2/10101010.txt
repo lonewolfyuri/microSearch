@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/Courses/ics156/Ch1_files/outline.ht', (0.00045578851412944393, False, True)), ('https://www.ics.uci.edu/~jmoorkan/vhdlref/arrays.htm', (0.003875968992248062, False, True)), ('https://www.ics.uci.edu/~magda/Courses/ics156/Ch1_files/slide0035.ht', (0.02, False, True))])

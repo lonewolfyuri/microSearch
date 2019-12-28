@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/rickl-community-servic', (0.022727272727272728, False, True))])

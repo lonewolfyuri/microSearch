@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Ionospher', (0.0021141649048625794, False, True)), ('http://archive.ics.uci.edu/ml/support/Ionosphere', (0.0034602076124567475, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Mushroo', (0.0011627906976744186, False, True)), ('http://archive.ics.uci.edu/ml/support/Mushroom', (0.0034482758620689655, False, True))])

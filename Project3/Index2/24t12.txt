@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/patrick-mcdaniel', (0.001697792869269949, False, True)), ('https://wics.ics.uci.edu/event/anteater-involvement-fair-4', (0.0008309098462816784, False, True))])

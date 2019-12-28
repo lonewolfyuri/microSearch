@@ -1,0 +1,1 @@
+dict_items([('https://ipubmed.ics.uci.edu', (0.0018450184501845018, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.00043308791684711995, False, True)), ('http://tastier.ics.uci.edu', (0.009259259259259259, False, True)), ('https://chenli.ics.uci.edu/publications', (0.0007107320540156361, False, False))])

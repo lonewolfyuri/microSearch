@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alexv/IWIA/2010', (0.0015600624024961, False, True)), ('https://www.ics.uci.edu/~alexv/IWIA/2012', (0.0005984440454817474, False, False)), ('https://www.ics.uci.edu/~alexv/IWIA/2012/', (0.0005984440454817474, False, False)), ('https://www.ics.uci.edu/~alexv/IWIA/2010/', (0.0015600624024961, False, True))])

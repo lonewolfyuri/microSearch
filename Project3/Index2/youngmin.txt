@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~amirr1/publications.htm', (0.00016949152542372882, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_butterworth_beall_2014_finalists.ph', (0.0006697923643670462, False, False))])

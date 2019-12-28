@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/vivek-tiwari', (0.0016501650165016502, False, True)), ('https://wics.ics.uci.edu/event/autogravity-job-shadowing', (0.00041562759767248546, False, True))])

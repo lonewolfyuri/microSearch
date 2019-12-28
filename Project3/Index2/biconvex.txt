@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/PirsiavashRF_NIPS_2009', (0.005376344086021506, False, True)), ('http://vision.ics.uci.edu/sccv/2009/schedule.htm', (0.0009025270758122744, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

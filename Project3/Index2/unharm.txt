@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/ca/b35s236/breeder.htm', (0.007936507936507936, False, False)), ('https://www.ics.uci.edu/~eppstein/pix/hotshots/spunkmonk2/JessicaHit.htm', (0.016666666666666666, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

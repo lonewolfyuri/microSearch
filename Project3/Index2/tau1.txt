@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data', (0.0027624309392265192, False, True)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch15/Chap15DPpackage.tx', (0.006127450980392157, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems', 0.0013966480446927375, False, True), ('http://archive.ics.uci.edu/ml/datasets/sEMG+for+Basic+Hand+movements', 0.003952569169960474, False, True)]

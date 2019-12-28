@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Meta-dat', (0.0018484288354898336, False, True)), ('https://www.ics.uci.edu/~eppstein/cgt/morris.htm', (0.0014005602240896359, False, True))])

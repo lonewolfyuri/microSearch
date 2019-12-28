@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/freezen-in-time-or', (0.0014577259475218659, False, True)), ('https://ngs.ics.uci.edu/acm-multimedia-conference', (0.0015873015873015873, False, True))])

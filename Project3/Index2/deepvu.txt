@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/photos-4-a-disruptive-change-in-communication', (0.0012330456226880395, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring', 0.0015037593984962407, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parkinsons', 0.0018484288354898336, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parkinson+Dataset+with+replicated+acoustic+features+', 0.0016051364365971107, False, True)]

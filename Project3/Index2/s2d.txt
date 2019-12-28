@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Breast+Cancer', (0.00013340448239060833, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Breast+Cance', (0.00045934772622875517, False, True)), ('http://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Label', (0.0010964912280701754, False, True))])

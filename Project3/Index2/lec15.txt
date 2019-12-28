@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~stasio/winter06/Lectures/GTlectures', (0.038461538461538464, False, True)), ('https://www.ics.uci.edu/~feldman/LEC15.ht', (1.0, True, True)), ('https://www.ics.uci.edu/~stasio/winter06/Lectures', (0.02857142857142857, False, True))])

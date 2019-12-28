@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/tag/experioential-computing', (0.25, True, False)), ('https://ngs.ics.uci.edu/experiential-analysis', (0.0011587485515643105, False, True))])

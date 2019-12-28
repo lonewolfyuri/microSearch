@@ -1,0 +1,1 @@
+dict_items([('http://cert.ics.uci.edu/SAFIRE/meetings/2009-May-DHS/SATWARE_Videos.ht', (0.008130081300813009, False, True)), ('http://cert.ics.uci.edu/SAFIRE/meetings/2009-July-DHS/Site%20Visit%20-%20Videos-%2015%20JUL%2009.ht', (0.008130081300813009, False, True))])

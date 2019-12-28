@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/annualreport/2005-06/events.ph', (0.002232142857142857, False, True))])

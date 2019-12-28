@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/2.0.1/src/filtertree/data/dummy.tx', (0.005434782608695652, False, False)), ('http://flamingo.ics.uci.edu/releases/2.0/src/filtertree/data/dummy.tx', (0.005434782608695652, False, False)), ('http://tutors.ics.uci.edu/index.php/79-python-resources/104-try-excep', (0.0018148820326678765, False, True))])

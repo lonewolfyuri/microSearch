@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Trains', 0.002849002849002849, False, True), ('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.005272407732864675, False, True), ('http://archive.ics.uci.edu/ml/datasets/Quality+Assessment+of+Digital+Colposcopies', 0.001949317738791423, False, True)]

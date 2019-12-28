@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alexv/IWIA/ieee.macro', (0.0013605442176870747, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/votingGlossary.htm', (0.0625, False, True))])

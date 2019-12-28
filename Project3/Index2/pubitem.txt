@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/prospecting-information/page/13', (0.0019801980198019802, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/209', (0.0016260162601626016, False, True)), ('https://ngs.ics.uci.edu/blog/page/209', (0.0016181229773462784, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Motion+Capture+Hand+Postures', 0.0009861932938856016, False, True), ('http://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures', 0.0010050251256281408, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.0022624434389140274, False, False)]

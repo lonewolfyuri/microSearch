@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Solar+Flare#48d6beec2a36a87d9d88b6de85dd85a75e5ed24d', 0.002717391304347826, False, False), ('http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis', 0.0018115942028985507, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 0.00021168501270110075, False, True)]

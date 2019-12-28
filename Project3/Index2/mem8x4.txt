@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jmoorkan/vhdlref/aggregat.htm', (0.0025380710659898475, False, True)), ('https://www.ics.uci.edu/~jmoorkan/vhdlref/arrays.htm', (0.01038961038961039, False, True))])

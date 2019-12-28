@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rohit/ETcon-notes.tx', (0.0009000900090009, False, False)), ('https://www.ics.uci.edu/~wscacchi/Software-Process/Downstream-Process-Engineering/Process_enactment_and_workflow.htm', (0.0037735849056603774, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.5049172099349e-05, False, False))])

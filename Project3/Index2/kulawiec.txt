@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (2.5379422364346987e-05, False, True)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (6.98616738857063e-05, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Rubinstein.htm', (0.00037439161362785476, False, False))])

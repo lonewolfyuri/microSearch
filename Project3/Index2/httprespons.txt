@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/HTTP', (0.0004347826086956522, False, True))])

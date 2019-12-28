@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)#61f13a0ee6d86b2c3576af921d81a77e5d82809e', 0.0038314176245210726, False, True), ('http://archive.ics.uci.edu/ml/support/Cylinder+Bands#bcf7a3acb12b41b9b37ec937c2c9aea2d1d1c855', 0.002232142857142857, False, True)]

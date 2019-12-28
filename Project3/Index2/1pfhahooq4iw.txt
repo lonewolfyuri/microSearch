@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter?action=diff&version=', (0.00625, False, True)), ('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter?version=1&format=tx', (0.0005889281507656066, False, False)), ('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter?version=2&format=tx', (0.0005973715651135006, False, False))])

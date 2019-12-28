@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/kalich.ht', (0.0011723329425556857, False, True)), ('https://www.ics.uci.edu/~thornton/ics32/Notes/SetsAndDictionaries', (0.0009345794392523365, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-31/announcements.htm', (0.000125517760763148, False, False))])

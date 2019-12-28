@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00469/', 0.05263157894736842, False, True), ('http://archive.ics.uci.edu/ml/datasets/MEU-Mobile+KSD', 0.0029411764705882353, False, True), ('http://archive.ics.uci.edu/ml/datasets/PMU-UD', 0.125, True, True)]

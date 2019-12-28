@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/inf45/CourseReference.htm', (0.0044444444444444444, False, True)), ('http://computableplant.ics.uci.edu/theses/companib/SigMech', (0.2, True, True)), ('http://computableplant.ics.uci.edu/theses/companib', (0.2, False, True))])

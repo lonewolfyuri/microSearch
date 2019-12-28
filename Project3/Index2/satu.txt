@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/naftali.ht', (0.0008445945945945946, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lewi.htm', (0.0018018018018018018, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/naftali.ht', (0.0008445945945945946, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/brknspir.htm', (6.418485237483954e-05, False, False)), ('https://www.ics.uci.edu/~jacobson/ics10A/LabManual/04-Assignment1.htm', (0.001091703056768559, False, True)), ('https://www.ics.uci.edu/~jacobson/ics21/LabManual/06-Assignment1.htm', (0.0014285714285714286, False, True))])

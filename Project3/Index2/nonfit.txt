@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/280/regress.htm', (0.0004572473708276177, False, False))])

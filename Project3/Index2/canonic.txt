@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/sanmateo/long_slides.htm', (0.013888888888888888, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/uuid-guid/draft-leach-uuids-guids-01.tx', (0.00042826552462526765, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/sanmateo/Minutes_afternoon.htm', (0.007272727272727273, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics131-FQ03/week04privacy/PrivacyAct.ht', (0.08333333333333333, True, True))])

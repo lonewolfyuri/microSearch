@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/sdwap/SaraEggshell.htm', (0.25, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/sdwap/Wisent.htm', (0.06666666666666667, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/sdwap/CapeBuffalo1.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

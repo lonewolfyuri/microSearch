@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/SCHOOLdata.tx', (0.00030826140567200987, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/k26.tx', (9.886307464162135e-05, False, False))])

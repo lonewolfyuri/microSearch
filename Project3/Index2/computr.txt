@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/structured-and-unstructured-data-1', (0.001272264631043257, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/extras/cs178/NNet_Demo.htm', (0.0002542669166958014, False, True))])

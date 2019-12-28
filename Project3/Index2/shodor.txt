@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/grad/student-profiles/max-collins/', (0.0009216589861751152, False, True)), ('https://www.informatics.uci.edu/grad/student-profiles/max-collins', (0.0009216589861751152, False, True))])

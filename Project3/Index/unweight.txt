@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/IPUMS+Census+Database', 0.005, False, False), ('http://archive.ics.uci.edu/ml/support/Echocardiogram#b6069e488f10098d50e684d245a5574aa0c50c58', 0.004098360655737705, False, True), ('http://archive.ics.uci.edu/ml/support/Horse+Colic#a914c3920de02d035db122f72172f31446e9f5e1', 0.002257336343115124, False, True)]

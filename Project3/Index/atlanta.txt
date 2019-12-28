@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Libras+Movement', 0.0021598272138228943, False, True), ('http://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data', 0.0041841004184100415, False, True), ('http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data', 0.0024937655860349127, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/indian-technology-in-the-flat-world', (0.0012224938875305623, False, False))])

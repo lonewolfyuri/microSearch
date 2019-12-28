@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/20170206_ChIPseq_Nabila_Elmira/bwfiles', (0.1, True, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/20170206_ChIPseq_Nabila_Elmira', (0.1111111111111111, True, True)), ('https://cbcl.ics.uci.edu/public_data/shilab', (0.0625, False, True))])

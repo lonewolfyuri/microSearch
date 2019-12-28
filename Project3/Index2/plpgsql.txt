@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/cs122b/Project/07-Phase4.htm', (0.0005390835579514825, False, True)), ('https://www.ics.uci.edu/~jacobson/cs122b/Project/06-PgSQLPrimer.htm', (0.015384615384615385, False, True))])

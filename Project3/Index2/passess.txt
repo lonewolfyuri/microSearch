@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_plotpoint.htm', (0.00273224043715847, False, False))])

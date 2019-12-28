@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Corel+Image+Features', 0.0016051364365971107, False, True)]

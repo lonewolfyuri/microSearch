@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Taiwan1.htm', (0.005154639175257732, False, True)), ('https://mhcid.ics.uci.edu', (0.000591016548463357, False, True)), ('https://mhcid.ics.uci.edu/', (0.000591016548463357, False, True)), ('https://mswe.ics.uci.edu', (0.0005577244841048522, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/stats5/onlineslides/RCode_for_Feb6th_Lecture', (0.1, True, True)), ('https://www.ics.uci.edu/~smyth/courses/stats5/onlineslides', (0.16666666666666666, True, True)), ('https://www.ics.uci.edu/~smyth/courses/stats5/Forms', (0.16666666666666666, True, True))])

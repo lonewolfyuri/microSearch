@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/manuel-blum', (0.0016722408026755853, False, True)), ('https://wics.ics.uci.edu/event/anteater-involvement-fair', (0.00040749796251018743, False, True))])

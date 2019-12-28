@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/versioning', (0.0006600660066006601, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/groups.htm', (0.014705882352941176, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00010241704219582139, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

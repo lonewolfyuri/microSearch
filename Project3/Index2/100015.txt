@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Data/i220/c25', (0.002631578947368421, False, False)), ('https://www.ics.uci.edu/~smyth/courses/cs274/homeworks/hw6_materials/dataset1.tx', (0.00015625, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

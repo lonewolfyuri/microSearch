@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission.ph', (0.00234192037470726, False, False)), ('https://www.ics.uci.edu/~ics1c/hw4/31.htm', (0.0011235955056179776, False, True)), ('https://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmissio', (0.00234192037470726, False, False))])

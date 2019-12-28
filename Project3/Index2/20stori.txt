@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/emerging-art-of-storytelling/', (0.0016666666666666668, False, True)), ('https://ngs.ics.uci.edu/emerging-art-of-storytelling', (0.0016666666666666668, False, True))])

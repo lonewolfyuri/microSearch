@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/FowlkesSBM_CAMDA_2001', (0.026785714285714284, False, True))])

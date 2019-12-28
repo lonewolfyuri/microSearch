@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Relative+location+of+CT+slices+on+axial+axi', (0.0036101083032490976, False, True))])

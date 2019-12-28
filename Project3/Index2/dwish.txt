@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DentalWBcode.tx', (0.010869565217391304, False, False))])

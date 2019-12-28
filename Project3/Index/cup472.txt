@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Covertype#c4ef47232a73d5e27b14e63096634eb70dcbddce', 0.002506265664160401, False, False), ('http://archive.ics.uci.edu/ml/support/KDD+Cup+1998+Data#48dc427a3536d7bef34e910efc1f34171bf98729', 0.0038461538461538464, False, True)]

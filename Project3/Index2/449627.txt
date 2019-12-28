@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~zhaoxia/publications/GGWald_manuscript/SourceCode/pvalues.tx', (5.049484952534841e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-mock', (6.680919294494922e-05, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-dnlef', (5.015799769273211e-05, False, True))])

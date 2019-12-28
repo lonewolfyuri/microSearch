@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kamsler.htm', (0.001174053419430584, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Band.htm', (0.008, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Seitner.htm', (0.05333333333333334, False, False))])

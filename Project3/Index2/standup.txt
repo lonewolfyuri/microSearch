@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/arvr-theater-syllabus', (0.00034782608695652176, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Acceleromete', (0.0028328611898017, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/usingclasses/lecture.htm', (0.0004492362982929021, False, True))])

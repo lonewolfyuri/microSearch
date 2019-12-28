@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/next-generation-search-course/', (0.0014005602240896359, False, True)), ('https://ngs.ics.uci.edu/next-generation-search-course', (0.0014005602240896359, False, True))])

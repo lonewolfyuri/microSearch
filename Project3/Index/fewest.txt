@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Lymphography#d342517262ff52ffd3566bd8f520b36723486aa3', 0.002544529262086514, False, True), ('http://archive.ics.uci.edu/ml/support/SPECT+Heart#b08639d60b3527616dc9aa4dd4770e50289e44cd', 0.0025188916876574307, False, True)]

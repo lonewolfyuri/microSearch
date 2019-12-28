@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%2', (0.0020242914979757085, False, True)), ('https://www.ics.uci.edu/~andre/informatics223s2007.htm', (0.001841620626151013, False, True))])

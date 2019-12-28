@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Reuter_50_50', 0.002840909090909091, False, True), ('http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection', 0.06666666666666667, True, True)]

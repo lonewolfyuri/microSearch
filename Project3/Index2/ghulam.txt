@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Skin+Segmentatio', (0.0022522522522522522, False, True)), ('https://www.ics.uci.edu/~amirr1/students.htm', (0.001984126984126984, False, True))])

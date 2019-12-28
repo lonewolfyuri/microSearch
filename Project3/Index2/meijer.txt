@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0001675603217158177, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Landau.htm', (0.0002208968411751712, False, False)), ('https://www.ics.uci.edu/~eppstein/forbidden', (0.0006983240223463687, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

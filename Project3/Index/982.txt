@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data', 0.00211864406779661, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.00034234851078397807, False, True), ('http://archive.ics.uci.edu/ml/datasets/HIV-1+protease+cleavage', 0.0029498525073746312, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-project5?action=diff&version=1', (0.00684931506849315, False, False)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (0.00017319016279875303, False, True)), ('http://www-db.ics.uci.edu/pages/research/das/index.shtm', (0.02702702702702703, False, True))])

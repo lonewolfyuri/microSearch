@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1998+Data', 0.003937007874015748, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~stasio/winter06/Lectures/Lec6code/BookExample', (0.05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/DiagnosticTestsPart2/CodeandDataMedicalTestsPart2.tx', (0.005390835579514825, False, False)), ('https://www.ics.uci.edu/~wjohnson/BIDA/Ch5/SampleSizeProportions.tx', (0.07407407407407407, False, False))])

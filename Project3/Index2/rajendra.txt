@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/31/f16.htm', (0.001937984496124031, False, True)), ('https://ngs.ics.uci.edu/india-a-mystery-land', (0.0018552875695732839, False, True))])

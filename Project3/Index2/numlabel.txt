@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/toolbox/misc/samplinthist.t', (0.018867924528301886, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_inthist.htm', (0.0024330900243309003, False, False)), ('https://cbcl.ics.uci.edu/public_data/DANN/deepnet/model.pbtx', (0.003861003861003861, False, False))])

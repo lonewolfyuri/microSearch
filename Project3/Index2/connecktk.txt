@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/NewTournament/CplusplusShell5/CplusplusShell5/README.TX', (0.003676470588235294, False, False)), ('https://www.ics.uci.edu/~rickl/courses/tmp/readme-cPlusPlus20150219.tx', (0.002881844380403458, False, False))])

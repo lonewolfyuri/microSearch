@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/BAUM-2', 0.0028169014084507044, False, True), ('http://archive.ics.uci.edu/ml/datasets/Electrical+Grid+Stability+Simulated+Data+', 0.00303951367781155, False, True), ('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.0008103727714748784, False, True)]

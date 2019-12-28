@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/fuzzyjoin/README.html', 0.0034071550255536627, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/', 0.0027247956403269754, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dynamic+Features+of+VirusShare+Executables', 0.003134796238244514, False, True)]

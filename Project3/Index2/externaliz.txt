@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/javadoc/help-doc.htm', (0.0016025641025641025, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/help-doc.htm', (0.001763668430335097, False, False))])

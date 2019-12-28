@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/photo-taking-behaviour-teens-of-photography', (0.001081081081081081, False, True))])

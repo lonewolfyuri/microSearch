@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Geo-Magnetic+field+and+WLAN+dataset+for+indoor+localisation+from+wristband+and+smartphone', 0.004672897196261682, False, False)]

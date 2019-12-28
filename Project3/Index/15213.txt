@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems', 0.0040650406504065045, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.004149377593360996, False, True), ("http://archive.ics.uci.edu/ml/datasets/MONK's+Problems", 0.0040650406504065045, False, True)]

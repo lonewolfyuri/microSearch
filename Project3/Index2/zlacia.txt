@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Banet.htm', (0.001072961373390558, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Pitzele.htm', (6.644959797993223e-05, False, True))])

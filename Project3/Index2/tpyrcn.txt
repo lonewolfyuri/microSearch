@@ -1,0 +1,1 @@
+dict_items([('https://new-psearch.ics.uci.edu', (0.03773584905660377, False, True)), ('https://new-psearch.ics.uci.edu/search-tip', (0.03773584905660377, False, True))])

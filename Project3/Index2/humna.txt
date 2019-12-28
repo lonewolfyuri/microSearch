@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/human-and-search', (0.001364256480218281, False, False))])

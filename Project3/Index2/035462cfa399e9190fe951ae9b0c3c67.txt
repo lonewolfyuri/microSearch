@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/listmerger/src/.svn/entrie', (0.002770083102493075, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/listmerger/src/.svn/entrie', (0.002770083102493075, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Italian-privacy-law.html', (7.22700007227e-05, False, True))])

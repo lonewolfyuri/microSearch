@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/efrm-h34.ht', (0.003278688524590164, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kopelik.htm', (0.0014792899408284023, False, True))])

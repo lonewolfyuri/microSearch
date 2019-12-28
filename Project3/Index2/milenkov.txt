@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pubs/a-cgitf.htm', (0.008, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/authors.htm', (0.004201680672268907, False, True)), ('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (0.00025188916876574307, False, True)), ('https://www.ics.uci.edu/~eppstein/gina/textile.htm', (0.00625, False, True))])

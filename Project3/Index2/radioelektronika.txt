@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Miskolc+IIS+Hybrid+IP', (0.002188183807439825, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Hybrid+Indoor+Positioning+Dataset+from+WiFi+RSSI%2C+Bluetooth+and+magnetomete', (0.0022172949002217295, False, True))])

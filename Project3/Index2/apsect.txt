@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/about-the-department', (0.0015290519877675841, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/problemsolving.tx', (0.00019817677368212446, False, False))])

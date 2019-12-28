@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/tokyomisc/KiyomasasWell.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/tokyomisc/ImperialGardenTreeFungi.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/tokyomisc/MeijiTempleSakeBarrels.htm', (0.07692307692307693, False, True))])

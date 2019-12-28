@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.004405286343612335, False, True)), ('https://mhcid.ics.uci.edu/people/mhcid-current-students', (0.0020408163265306124, False, True)), ('https://mhcid.ics.uci.edu/people/mhcid-current-students/', (0.0020408163265306124, False, True))])

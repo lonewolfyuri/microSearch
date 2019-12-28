@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/CMU+Face+Images', 0.002577319587628866, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/', 0.030303030303030304, False, True)]

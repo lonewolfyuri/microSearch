@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (0.000671591672263264, False, True)), ('https://www.ics.uci.edu/~rohit/IEEE-L7-applcore.htm', (0.010416666666666666, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.2986405830376761e-05, False, False))])

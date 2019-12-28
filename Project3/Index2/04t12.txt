@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/event/trevor-mudge-2', (0.001692047377326565, False, True)), ('https://today.uci.edu/department/information_computer_sciences?calendar=', (0.0004302925989672978, False, True)), ('https://today.uci.edu/department/information_computer_science', (0.0004302925989672978, False, True))])

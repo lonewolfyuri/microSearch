@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SML2010', 0.002583979328165375, False, True), ('http://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+', 0.0032679738562091504, False, True)]

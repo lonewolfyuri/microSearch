@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schajer.htm', (0.0007830853563038371, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Abeles.htm', (0.0002586652871184687, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/k26.tx', (4.9431537320810677e-05, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Lenses#efbc8c38877792e6ade1634043235d238ac9ec8d', 0.0011261261261261261, False, False), ('http://archive.ics.uci.edu/ml/datasets/PEMS-SF', 0.001483679525222552, False, True), ("http://archive.ics.uci.edu/ml/support/MONK's+Problems#4695569c53cd581fcc193415a8a94a1f92abf607", 0.001177856301531213, False, False)]

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/tata-and-rs-1-lakh-car', (0.0018450184501845018, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/aikido/10.htm', (0.047619047619047616, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/vvap/Group.htm', (0.03225806451612903, False, True)), ('https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia', (0.0016366612111292963, False, False))])

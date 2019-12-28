@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/fuzzyjoin/README.html', 0.0037313432835820895, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.0022988505747126436, False, True)]

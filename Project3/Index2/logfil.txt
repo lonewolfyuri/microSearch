@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/scripts/test_i', (0.005208333333333333, False, False)), ('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_1.html', (0.0007374631268436578, False, True))])

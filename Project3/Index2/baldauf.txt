@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/pesac-h1.ht', (0.0016181229773462784, False, True)), ('https://www.ics.uci.edu/~kay/courses/31/f12.htm', (0.003125, False, True))])

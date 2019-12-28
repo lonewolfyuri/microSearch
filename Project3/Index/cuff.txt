@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation', 0.09090909090909091, True, True)]

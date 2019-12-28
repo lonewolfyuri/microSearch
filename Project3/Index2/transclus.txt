@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/csr/nelson_pg.htm', (0.0009293680297397769, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/draft-ietf-html-relrev-00.tx', (0.00013704262025489926, False, True)), ('https://www.ics.uci.edu/~redmiles/ics227-SQ04/papers.htm', (0.002109704641350211, False, True))])

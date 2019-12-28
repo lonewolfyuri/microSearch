@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~fowlkes/software/nca/nca_demo', (0.04, False, True))])

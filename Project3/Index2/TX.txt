@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurement', (0.001288659793814433, False, True)), ('https://www.ics.uci.edu/~pazzani/Publications/OldPublications.html', (0.00031436655139893113, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics45c/Notes/SeparateCompilation', (0.0005952380952380953, False, False)), ('https://www.ics.uci.edu/~thornton/ics65/CourseReference.htm', (0.0017793594306049821, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

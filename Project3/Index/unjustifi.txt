@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Soybean+%28Large%29', 0.002777777777777778, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.0017035775127768314, False, True), ('http://archive.ics.uci.edu/ml/datasets/Soybean+(Large)', 0.002777777777777778, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', (0.0003288391976323578, False, True)), ('http://archive.ics.uci.edu/ml/support/Ionosphere', (0.00021838829438742082, False, True)), ('http://archive.ics.uci.edu/ml/support/Heart+Disease', (0.0004314994606256742, False, True))])

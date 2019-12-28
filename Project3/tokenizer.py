@@ -12,16 +12,18 @@ def tokenList(fileString):
     for charz in fileString:  # m
         try:  # 1
             curChar = ord(charz)  # 1
+            if curChar == 39:
+                continue
             if curChar < 48 or (57 < curChar < 65) or (90 < curChar < 97) or curChar > 122:  # 1
                 if temp != "":
-                    res.append(temp)  # 1
+                    res.append(temp.lower())  # 1
                 temp = ""  # 1
             else:  # 1
                 temp += charz  # 1
         except:  # 1
             temp = ""  # 1
     if len(temp) > 0:  # 1
-        res.append(temp)  # 1
+        res.append(temp.lower())  # 1
     return res  # 1
 
 

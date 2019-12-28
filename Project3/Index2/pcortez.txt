@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Student+Performanc', (0.004291845493562232, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Wine+Qualit', (0.0038314176245210726, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Forest+Fire', (0.004032258064516129, False, True))])

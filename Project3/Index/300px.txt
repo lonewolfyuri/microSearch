@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.022727272727272728, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 7.519927808693036e-05, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00208', (0.045454545454545456, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Datase', (0.09090909090909091, True, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

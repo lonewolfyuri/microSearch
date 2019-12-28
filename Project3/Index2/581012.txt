@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/ISOLET', (0.00211864406779661, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Covertyp', (0.005434782608695652, False, True))])

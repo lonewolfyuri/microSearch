@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/Gallery/MegaBounce.htm', (0.001869158878504673, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/oktoberfest', (0.0016722408026755853, False, True))])

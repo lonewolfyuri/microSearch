@@ -1,0 +1,1 @@
+dict_items([('https://cml.ics.uci.edu/courses/', (0.001949317738791423, False, True)), ('https://cml.ics.uci.edu/courses', (0.001949317738791423, False, True))])

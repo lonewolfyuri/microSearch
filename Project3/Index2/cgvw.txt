@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/New', (0.005050505050505051, False, True)), ('https://www.ics.uci.edu/~dutt', (0.0007047216349541931, False, True)), ('https://www.ics.uci.edu/~wscacchi/Presentations/GameLab', (0.058823529411764705, False, True))])

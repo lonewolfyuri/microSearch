@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/large-scale-and-low-latency-data-distribution-from-database-to-servers', (0.00033818058843422386, False, True))])

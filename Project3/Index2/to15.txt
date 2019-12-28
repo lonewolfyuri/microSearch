@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Norway.htm', (0.00013458950201884252, False, True))])

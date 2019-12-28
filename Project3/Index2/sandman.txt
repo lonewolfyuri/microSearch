@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~babaks/publication.htm', (0.0008658008658008658, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Zaun.htm', (0.0006702412868632708, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

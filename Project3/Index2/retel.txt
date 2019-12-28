@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/impact/outreach', (0.000864304235090752, False, False)), ('https://www.informatics.uci.edu/impact/outreach/', (0.000864304235090752, False, False)), ('https://www.ics.uci.edu/~gbowker/classification', (6.89084895259096e-05, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

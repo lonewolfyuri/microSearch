@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wmt/publications.htm', (0.0003885003885003885, False, True)), ('https://www.ics.uci.edu/~wmt/ecoRaft/bill.htm', (0.0024630541871921183, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://motifmap.ics.uci.edu/', (0.0024875621890547263, False, True)), ('http://motifmap.ics.uci.edu', (0.0024875621890547263, False, True))])

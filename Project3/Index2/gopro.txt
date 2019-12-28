@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (7.408504963698325e-05, False, True)), ('https://evoke.ics.uci.edu/about/the-evoke-lab/', (0.0006169031462060457, False, True)), ('https://evoke.ics.uci.edu/about/the-evoke-lab', (0.0006169031462060457, False, True))])

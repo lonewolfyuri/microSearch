@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/tbxp/MuseumOfConcrete1.htm', (0.014084507042253521, False, True))])

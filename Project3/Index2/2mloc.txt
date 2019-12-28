@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~iftekha/', (0.0004, False, True)), ('https://www.ics.uci.edu/~iftekha', (0.0004, False, True)), ('https://www.ics.uci.edu/~iftekha/publication/how-hard-does-mutation-analysis-have-to-be-anyway', (0.0035087719298245615, False, True))])

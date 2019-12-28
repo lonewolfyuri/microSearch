@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/desc-aam.ht', (0.0003198976327575176, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.fr.htm', (3.4352456200618344e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/suraroza.ht', (0.007633587786259542, False, True))])

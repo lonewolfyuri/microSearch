@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/real-time-maps', (0.0019193857965451055, False, False)), ('https://ngs.ics.uci.edu/vision-andor-hype-in-search', (0.0013297872340425532, False, True))])

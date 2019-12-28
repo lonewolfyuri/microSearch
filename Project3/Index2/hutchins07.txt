@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Pubs/Bibliography', (0.0007057163020465773, False, True))])

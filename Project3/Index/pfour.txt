@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle/', 0.038461538461538464, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/eightpuzzle/pfour/', 0.1, True, True)]

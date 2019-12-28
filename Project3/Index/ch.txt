@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0034602076124567475, False, False), ('http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope', 0.004, False, False), ('http://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance', 0.00411522633744856, False, False)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/events/openhouse/index.htm', (0.01935483870967742, False, True))])

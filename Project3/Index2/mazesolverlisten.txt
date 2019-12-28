@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/w10_23/Lab1/Dark.ht', (0.001937984496124031, False, True)), ('https://www.ics.uci.edu/~thornton/ics23/LabManual/Dark', (0.000580046403712297, False, True)), ('https://www.ics.uci.edu/~goodrich/teach/ics23/LabManual/Dark', (0.001937984496124031, False, True))])

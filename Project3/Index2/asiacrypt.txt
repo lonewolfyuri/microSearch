@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~stasio', (0.0007137758743754461, False, True)), ('https://www.ics.uci.edu/~stasio/index.htm', (0.0007137758743754461, False, True)), ('https://www.ics.uci.edu/~gts/pubs.htm', (0.0003562522265764161, False, True)), ('http://sprout.ics.uci.edu/projects/iarpa-app/pubs.htm', (0.013333333333333334, False, False))])

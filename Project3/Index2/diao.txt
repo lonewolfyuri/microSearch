@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~projects/dissemination/IDClass.ht', (0.0011560693641618498, False, False)), ('https://www.ics.uci.edu/~mjcarey/MJCarey_Publications.htm', (0.0004450378282153983, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

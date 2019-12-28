@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Meisels.htm', (0.0008620689655172414, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/ndex.ht', (0.00010795638562020944, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Bornstein.htm', (0.00046860356138706655, False, False))])

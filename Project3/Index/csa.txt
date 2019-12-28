@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Internet+Advertisements#811517480cb8dca1073ee39a37c9a343a1179aab', 0.002386634844868735, False, False), ('http://archive.ics.uci.edu/ml/support/Arrhythmia#811517480cb8dca1073ee39a37c9a343a1179aab', 0.0022172949002217295, False, False)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring', 0.00425531914893617, False, False), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Mag', 0.002277904328018223, False, True), ('http://archive.ics.uci.edu/ml/datasets/Parkinsons', 0.002577319587628866, False, True)]

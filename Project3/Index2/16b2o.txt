@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/ca/b35s236/p68-eat.li', (0.125, False, False)), ('https://www.ics.uci.edu/~eppstein/ca/b35s236/osc.li', (0.03389830508474576, False, False)), ('https://www.ics.uci.edu/~eppstein/ca/b35s236/c4diag.li', (0.06451612903225806, False, False))])

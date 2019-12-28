@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/progress-in-digital-cameras', (0.001639344262295082, False, True))])

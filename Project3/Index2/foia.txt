@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~redmiles/ics131-FQ03/week04privacy/PrivacyAct.ht', (0.0001258970162407151, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/israel.ht', (0.0012531328320802004, False, True))])

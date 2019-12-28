@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/revenue-sharing-comes-to-video', (0.0017605633802816902, False, True))])

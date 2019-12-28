@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (5.3370336766825e-05, False, True))])

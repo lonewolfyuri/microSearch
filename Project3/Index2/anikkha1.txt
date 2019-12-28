@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sjordan/courses/ics11/problem%20sets.htm', (0.002857142857142857, False, False)), ('https://www.ics.uci.edu/~sjordan/courses/ics11/index.htm', (0.00558659217877095, False, False))])

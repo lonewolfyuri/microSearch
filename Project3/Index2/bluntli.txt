@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (1.6802204449223738e-05, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://ngs.ics.uci.edu/ignorance-of-crowds', (0.001736111111111111, False, True))])

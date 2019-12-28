@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/12-computer-down-from-100', (0.0015360983102918587, False, True))])

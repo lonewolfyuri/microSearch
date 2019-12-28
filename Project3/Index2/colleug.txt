@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/iptv', (0.0006802721088435374, False, True))])

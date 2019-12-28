@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/fall-quarter-update/8322168491_dc9f8e4a1f_b', (0.1111111111111111, True, True))])

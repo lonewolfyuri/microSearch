@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/dyn/pictures/peru_gallery2/index.ht', (0.14285714285714285, True, True)), ('https://www.ics.uci.edu/~dsm/dyn/pictures/peru_gallery3/index.ht', (0.125, True, True)), ('https://www.ics.uci.edu/~dsm/dyn/pictures/peru_gallery1/index.ht', (0.14285714285714285, True, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Slomnicki.htm', (0.023809523809523808, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Munk.htm', (0.0014619883040935672, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schwartz.htm', (0.0007849293563579278, False, True))])

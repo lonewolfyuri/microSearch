@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Goldwasser.htm', (0.00048146364949446316, False, False))])

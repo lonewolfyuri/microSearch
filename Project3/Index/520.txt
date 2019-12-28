@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Balance+Scale', 0.00425531914893617, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.0027739251040221915, False, True)]

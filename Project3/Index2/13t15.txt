@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/csedweek-hour-of-code-workshop', (0.0003990422984836393, False, True)), ('https://wics.ics.uci.edu/event/crepe-boothing-2', (0.00041597337770382697, False, True))])

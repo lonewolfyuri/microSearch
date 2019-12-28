@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Classes-CS178-Notes/LogisticRe', (0.2, True, True)), ('https://sli.ics.uci.edu/Site/AllRecentChange', (0.0010111223458038423, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-CS178-Notes%2FRecentChange', (0.003367003367003367, False, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.003676470588235294, False, True))])

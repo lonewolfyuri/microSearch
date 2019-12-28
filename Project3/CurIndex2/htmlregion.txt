@@ -1,0 +1,1 @@
+[(26195, (0.125, False, True)), (26468, (0.125, False, True)), (30883, (0.125, False, True)), (34270, (0.125, False, True)), (40775, (0.125, False, True)), (46770, (0.125, False, True))]

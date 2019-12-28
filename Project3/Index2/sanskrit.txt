@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/suga', (0.0035971223021582736, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia1', (0.0015408320493066256, False, True))])

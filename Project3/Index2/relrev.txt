@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/cambridge/overview.tx', (0.0012091898428053204, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/draft-ietf-html-relrev-00.tx', (0.0008216926869350862, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/related.htm', (0.008403361344537815, False, True))])

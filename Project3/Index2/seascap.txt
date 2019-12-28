@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/cc3/Seascape.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/cc3/RockSurf.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/cc3/SaraSeaweed.htm', (0.0625, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

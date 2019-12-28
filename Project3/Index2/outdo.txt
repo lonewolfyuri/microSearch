@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/grad/student-profiles/jason-reitman/', (0.0008038585209003215, False, False)), ('https://www.informatics.uci.edu/grad/student-profiles/jason-reitman', (0.0008038585209003215, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/pubs/index.html', (0.0011074197120708748, False, False)), ('https://www.ics.uci.edu/~goodrich/pubs/', (0.0011074197120708748, False, False)), ('https://www.ics.uci.edu/~gts/pubs.htm', (0.00028312570781426955, False, True)), ('http://sprout.ics.uci.edu/projects/PEPSI/related.htm', (0.003703703703703704, False, True))])

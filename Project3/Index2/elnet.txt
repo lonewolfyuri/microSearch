@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw3/27.htm', (0.006578947368421052, False, False)), ('https://www.ics.uci.edu/~rohit/IEEE-L7-FTP-COLUMN-FINAL.ht', (0.00045454545454545455, False, False)), ('https://www.ics.uci.edu/~ics1c/hw3/26.htm', (0.0013679890560875513, False, True))])

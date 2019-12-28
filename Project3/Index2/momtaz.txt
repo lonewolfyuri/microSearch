@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~givargis', (0.001968503937007874, False, False)), ('https://www.ics.uci.edu/~rickl/courses/ics-h197/2014-fq-h197/ICS-H197-FQ-2014.ht', (0.00017677214071062401, False, True)), ('https://www.ics.uci.edu/~rickl/courses/ics-h197/2014-fq-h197', (0.011764705882352941, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Hepatitis', (0.002857142857142857, False, True)), ('http://archive.ics.uci.edu/ml/support/Balance+Scale', (0.007633587786259542, False, True)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.001226241569589209, False, False))])

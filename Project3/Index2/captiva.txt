@@ -1,0 +1,1 @@
+dict_items([('http://scale.ics.uci.edu/people.htm', (0.012048192771084338, False, True)), ('https://www.ics.uci.edu/~dsm/aquascale/people.htm', (0.009433962264150943, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

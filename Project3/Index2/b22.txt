@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0001816860465116279, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.035214537376154e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/common/handouts/bugs.htm', (0.0010834236186348862, False, True)), ('https://www.ics.uci.edu/~pattis/common/handouts/introtopythonineclipse/lecture.htm', (0.0002828054298642534, False, True)), ('http://motifmap-rna.ics.uci.edu/hel', (0.0010964912280701754, False, True))])

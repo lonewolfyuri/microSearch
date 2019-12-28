@@ -1,0 +1,1 @@
+dict_items([('https://iasl.ics.uci.edu/people/peymant/', (0.013513513513513514, False, True)), ('http://iasl.ics.uci.edu/people/peymant', (0.013513513513513514, False, True))])

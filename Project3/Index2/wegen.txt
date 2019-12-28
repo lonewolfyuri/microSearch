@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (2.4136516135261037e-05, False, False)), ('https://www.ics.uci.edu/~dechter/courses/ics-280/spring-2005', (0.002398081534772182, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=115', (0.0029154518950437317, False, False))])

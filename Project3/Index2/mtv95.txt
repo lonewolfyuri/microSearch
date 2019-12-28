@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Challenger+USA+Space+Shuttle+O-Ring', (0.002232142857142857, False, False)), ('http://archive.ics.uci.edu/ml/support/Statlog+(Shuttle)', (0.000725689404934688, False, False))])

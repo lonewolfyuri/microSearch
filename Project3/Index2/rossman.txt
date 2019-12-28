@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Hoczner.htm', (0.0006009615384615385, False, False)), ('https://www.stat.uci.edu/seminar-series/seminar-series-2015-2016', (0.0014749262536873156, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/ruberg-brings-queerness-games-conference-to-la', (0.0008928571428571428, False, False)), ('https://www.informatics.uci.edu/ruberg-brings-queerness-games-conference-to-la/', (0.0008928571428571428, False, False))])

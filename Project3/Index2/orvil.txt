@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/malenames.tx', (0.00016605778811026238, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

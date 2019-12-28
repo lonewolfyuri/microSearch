@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/m2html/makefil', (0.038461538461538464, False, False)), ('https://www.ics.uci.edu/~eppstein/161/kmp/makefil', (0.03773584905660377, False, False))])

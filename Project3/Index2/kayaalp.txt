@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/list-of-publications', (0.0005411255411255411, False, True)), ('https://ngs.ics.uci.edu/partners/past-students', (0.001838235294117647, False, True)), ('https://ngs.ics.uci.edu/partners/past-students/', (0.001838235294117647, False, True))])

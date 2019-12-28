@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/social-search', (0.001610305958132045, False, True)), ('https://ngs.ics.uci.edu/raghu-ramakrishnan-at-yahoo', (0.001639344262295082, False, True)), ('https://ngs.ics.uci.edu/taxonomy-and-folksonomy', (0.0012004801920768306, False, True))])

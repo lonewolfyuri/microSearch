@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29', 0.002881844380403458, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29', 0.0049261083743842365, False, False)]

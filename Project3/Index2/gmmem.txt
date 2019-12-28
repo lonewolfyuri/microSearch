@@ -1,0 +1,1 @@
+dict_items([('https://sli.ics.uci.edu/Site/AllRecentChange', (0.0009746588693957114, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-CS178-Notes%2FRecentChange', (0.0031545741324921135, False, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.0037593984962406013, False, True)), ('http://sli.ics.uci.edu/Classes-CS178-Notes/GmmE', (0.2, True, True))])

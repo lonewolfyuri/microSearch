@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pkammer', (0.001579778830963665, False, False)), ('https://www.ics.uci.edu/~arcadia/Teamware/tags/images/Graphics', (0.012048192771084338, False, True)), ('https://www.ics.uci.edu/~taylor/Publications.ht', (0.000164446637066272, False, True)), ('https://www.ics.uci.edu/~taylor/ICS280_fq01.htm', (0.0007220216606498195, False, True))])

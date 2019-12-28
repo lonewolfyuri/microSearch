@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=112', (0.00234192037470726, False, True)), ('https://www.stat.uci.edu/data-scientist-ranked-top-u-s-job-by-glassdoor', (0.0012836970474967907, False, True)), ('https://www.stat.uci.edu/data-scientist-ranked-top-u-s-job-by-glassdoor/', (0.0012836970474967907, False, True))])

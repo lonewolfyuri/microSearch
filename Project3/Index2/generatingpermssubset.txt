@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/s15-6D/ClassNotes/23_GeneratingPermsSubsets.htm', (0.1111111111111111, True, True)), ('https://www.ics.uci.edu/~irani/s16-6D/BoardNotes/21_GeneratingPermsSubsets.htm', (0.125, True, True)), ('https://www.ics.uci.edu/~irani/w17-6D/BoardNotes/22_GeneratingPermsSubsets_html.htm', (0.14285714285714285, True, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/opportunities', (0.0011918951132300357, False, True)), ('http://sdcl.ics.uci.edu/research/chatbots', (0.0012987012987012987, False, True))])

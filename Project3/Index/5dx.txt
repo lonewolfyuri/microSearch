@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Liver+Disorders', 0.0041841004184100415, False, True), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.0043859649122807015, False, True), ('http://archive.ics.uci.edu/ml/datasets/Flags', 0.004149377593360996, False, True)]

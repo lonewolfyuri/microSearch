@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_sift.htm', (0.002232142857142857, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_siftdescriptor.htm', (0.0017953321364452424, False, True))])

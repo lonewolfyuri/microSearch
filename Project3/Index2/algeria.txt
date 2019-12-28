@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Spoken+Arabic+Digi', (0.00392156862745098, False, True)), ('https://www.ics.uci.edu/~gbowker/forget.htm', (0.00011648223645894001, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/clicking-on-the-real-world', (0.0016778523489932886, False, True))])

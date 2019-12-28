@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/180a/links.htm', (0.0053475935828877, False, True)), ('https://www.ics.uci.edu/~smyth/research_group.htm', (0.015625, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0009487666034155598, False, True))])

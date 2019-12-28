@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/sv/am/Upriver.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/sv/am/AtTheMouth.htm', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/sv/am/Downriver.htm', (0.0625, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

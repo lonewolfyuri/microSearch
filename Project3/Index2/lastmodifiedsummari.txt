@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FPageVariable', (0.0015060240963855422, False, True)), ('http://sli.ics.uci.edu/PmWiki/Notif', (0.0006720430107526882, False, True)), ('http://sli.ics.uci.edu/PmWiki/ReleaseNote', (0.0002581311306143521, False, False)), ('http://sli.ics.uci.edu/PmWiki/WebFeed', (0.000741839762611276, False, True))])

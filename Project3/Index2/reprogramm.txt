@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_givargis_lung.ph', (0.001095290251916758, False, True)), ('https://www.ics.uci.edu/~amrm/slides/amrm_structure/pta/tsld042.ht', (0.019230769230769232, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

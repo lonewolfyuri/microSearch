@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper', (0.0041797283176593526, False, False)), ('http://computableplant.ics.uci.edu/gallery/Gallery/moviegallery.htm', (0.004149377593360996, False, True))])

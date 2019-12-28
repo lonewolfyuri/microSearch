@@ -1,0 +1,1 @@
+dict_items([('https://sli.ics.uci.edu/Site/AllRecentChange', (0.0007072135785007072, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Notes%2FRecentChange', (0.004545454545454545, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Notes%2FNIPS200', (0.3333333333333333, True, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/3.0/docs/GettingStartedDoc.htm', (0.0019455252918287938, False, True)), ('http://flamingo.ics.uci.edu/releases/3.0/src/makefile.in', (0.005714285714285714, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/Makefil', (0.0011890606420927466, False, False))])

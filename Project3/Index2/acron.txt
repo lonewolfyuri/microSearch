@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False)), ('http://sdcl.ics.uci.edu/people/previous-members', (0.0010822510822510823, False, False))])

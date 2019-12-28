@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/novatiums-sub-100-netpc', (0.0016181229773462784, False, False))])

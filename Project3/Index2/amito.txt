@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/personal/favorite-books/', (0.001455604075691412, False, True)), ('https://ngs.ics.uci.edu/personal/favorite-books', (0.001455604075691412, False, True))])

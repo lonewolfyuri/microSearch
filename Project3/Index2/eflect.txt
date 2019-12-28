@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~bdonyana/research.htm', (0.006134969325153374, False, False)), ('https://duttgroup.ics.uci.edu/projects/self-aware-adaptive-computing', (0.0005747126436781609, False, False)), ('https://duttgroup.ics.uci.edu/projects/self-aware-adaptive-computing/', (0.0005747126436781609, False, False))])

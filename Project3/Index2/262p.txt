@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/about/curriculum/2018-2019', (0.001182033096926714, False, True)), ('https://mcs.ics.uci.edu/about/course-descriptions', (0.0007905138339920949, False, True)), ('https://mswe.ics.uci.edu/program/curriculum', (0.0007593014426727411, False, True))])

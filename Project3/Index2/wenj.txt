@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~keldefra/manet.ht', (0.0007385524372230429, False, False))])

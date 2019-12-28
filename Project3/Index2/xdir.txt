@@ -1,0 +1,1 @@
+dict_items([('http://www-db.ics.uci.edu/pages/links/research_groups.shtm', (0.006172839506172839, False, False))])

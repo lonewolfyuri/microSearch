@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/phone-as-a-guide-in-real-world', (0.0014326647564469914, False, True))])

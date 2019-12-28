@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (9.03179190751445e-05, False, True)), ('https://ngs.ics.uci.edu/tom-brady-a-fighter', (0.0013774104683195593, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks', 0.0009157509157509158, False, True), ('http://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Dataset_Weekly', 0.0030959752321981426, False, True), ('http://archive.ics.uci.edu/ml/datasets/Container+Crane+Controller+Data+Set', 0.0016207455429497568, False, True)]

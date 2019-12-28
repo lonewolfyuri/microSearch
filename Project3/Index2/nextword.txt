@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/Main.c', (0.004291845493562232, False, True)), ('https://www.ics.uci.edu/~kibler/H23Homeworks.ht', (0.0009416195856873823, False, True))])

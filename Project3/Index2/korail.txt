@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/view_news.php?id=67', (0.004484304932735426, False, True)), ('https://www.stat.uci.edu/jessica-utts-an-ambassador-for-statistics', (0.0017574692442882249, False, True)), ('https://www.stat.uci.edu/jessica-utts-an-ambassador-for-statistics/', (0.0017574692442882249, False, True))])

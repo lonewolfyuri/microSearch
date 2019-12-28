@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham/', (0.0008077544426494346, False, True)), ('https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham', (0.0008077544426494346, False, True))])

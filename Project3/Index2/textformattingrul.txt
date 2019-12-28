@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/TextFormattingRule', (0.3333333333333333, True, True)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.0015015015015015015, False, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.002, False, True))])

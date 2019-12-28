@@ -1,1 +1,0 @@
-[('http://alderis.ics.uci.edu/amba2.html', 0.003968253968253968, False, True), ('http://archive.ics.uci.edu/ml/support/Balance+Scale#c171fe96d278ffa703aa1310c738cad8586b4cb3', 0.0014064697609001407, False, False)]

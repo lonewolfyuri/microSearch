@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/spotlight/spotlight_celebration_of_teaching_2013.ph', (0.0024875621890547263, False, False))])

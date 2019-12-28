@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/recursion.tx', (0.00022306491188935982, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-31/lectures/functionsasdata/functionsasdata.tx', (0.0005254860746190226, False, False))])

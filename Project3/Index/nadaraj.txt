@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Qualitative_Bankruptcy', 0.0041841004184100415, False, True)]

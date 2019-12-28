@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs', (0.0015455950540958269, False, True))])

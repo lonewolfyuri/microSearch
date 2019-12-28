@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/general-updates/page/28', (0.0013698630136986301, False, True)), ('https://ngs.ics.uci.edu/attending-acm-multimedia-2007', (0.0018796992481203006, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/90', (0.0017889087656529517, False, True)), ('https://ngs.ics.uci.edu/blog/page/90', (0.0017793594306049821, False, True))])

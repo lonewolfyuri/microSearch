@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set', 0.003105590062111801, False, True), ('http://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Data', 0.0049261083743842365, False, False), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.002770083102493075, False, True)]

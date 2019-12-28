@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.0033444816053511705, False, True), ('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.002173913043478261, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.0031746031746031746, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/cs141/CodeExamples/HaskellExamples3.h', (0.002482929857231533, False, False))])

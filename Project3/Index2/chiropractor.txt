@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (7.058657443354274e-05, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/Denmark.htm', (0.0001226692836113837, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

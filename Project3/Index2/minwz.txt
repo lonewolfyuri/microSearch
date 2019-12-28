@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', (0.0019305019305019305, False, True)), ("http://archive.ics.uci.edu/ml/support/Haberman's+Survival", (0.004016064257028112, False, True))])

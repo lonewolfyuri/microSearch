@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~skong2/pano4pose.htm', (0.00423728813559322, False, True))])

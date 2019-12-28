@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Meta-dat', (0.00392156862745098, False, True)), ('http://archive.ics.uci.edu/ml/support/Statlog+Project', (0.001430615164520744, False, True))])

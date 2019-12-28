@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sternh/courses/210/randomize.htm', (1.9440880283059218e-05, False, True)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slide/slide-2a-summarize-data.htm', (0.0029498525073746312, False, True))])

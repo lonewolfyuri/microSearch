@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.tx', (1.6662501041406316e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/APA-Analysis-Round4/15pct_CFI68_vscntrl_significantApAlogFCList.tx', (2.833423058396849e-05, False, False))])

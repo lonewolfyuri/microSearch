@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/category/entrepreneurism/page/12', (0.001976284584980237, False, True)), ('https://ngs.ics.uci.edu/events-in-singapore', (0.001851851851851852, False, False)), ('https://ngs.ics.uci.edu/blog/page/116', (0.0013717421124828531, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/116', (0.0013774104683195593, False, True))])

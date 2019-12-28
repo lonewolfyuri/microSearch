@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/towards-weaving-the-visual-web', (0.0003803727653100038, False, True)), ('https://ngs.ics.uci.edu/towards-weaving-the-visual-web/', (0.0003803727653100038, False, True))])

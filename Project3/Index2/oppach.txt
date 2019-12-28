@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Poker+Han', (0.004464285714285714, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Hill-Valle', (0.0038314176245210726, False, True))])

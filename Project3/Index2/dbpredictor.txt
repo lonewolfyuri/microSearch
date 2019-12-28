@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Liver+Disorders', (0.000708215297450425, False, True)), ('http://archive.ics.uci.edu/ml/support/Hepatitis', (0.0006784260515603799, False, True)), ('http://archive.ics.uci.edu/ml/support/Census+Income', (0.0010834236186348862, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/author/ramesh/page/234', (0.001451378809869376, False, True)), ('https://ngs.ics.uci.edu/honorary-professorship', (0.0013986013986013986, False, True)), ('https://ngs.ics.uci.edu/blog/page/234', (0.001445086705202312, False, True))])

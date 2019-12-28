@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-275a/spring-2009/project.htm', (0.003703703703703704, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Haubenstock.htm', (0.0010362694300518134, False, False))])

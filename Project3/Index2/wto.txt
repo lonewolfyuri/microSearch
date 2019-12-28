@@ -1,0 +1,1 @@
+dict_items([('https://cradl.ics.uci.edu/people/', (0.0014204545454545455, False, True)), ('https://cradl.ics.uci.edu/people/hiroko-wilensky/', (0.0017391304347826088, False, False)), ('https://cradl.ics.uci.edu/people/hiroko-wilensky', (0.0017391304347826088, False, False)), ('https://cradl.ics.uci.edu/people', (0.0014204545454545455, False, True))])

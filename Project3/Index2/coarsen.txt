@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+%281990%2', (0.0012239902080783353, False, True)), ('http://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990', (0.0012239902080783353, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

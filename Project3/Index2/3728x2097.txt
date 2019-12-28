@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/mendocino9/AlbionRiver.htm', (0.03333333333333333, False, True))])

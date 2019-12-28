@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/inheritanceiii.tx', (0.0002682403433476395, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/class.tx', (0.00016254876462938882, False, True)), ('https://www.ics.uci.edu/~thornton/ics33/ProjectGuide/Assignment0/InstallWindows.htm', (0.000744047619047619, False, True))])

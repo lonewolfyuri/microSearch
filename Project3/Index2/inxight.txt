@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/KnowledgeWeb', (0.0017482517482517483, False, True))])

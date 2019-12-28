@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/disneyland2/Innoventions.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/disneyland2/WaterBall1.htm', (0.25, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/disneyland2/Carousel.htm', (0.08333333333333333, False, True))])

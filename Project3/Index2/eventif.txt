@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/organic-books', (0.0014347202295552368, False, True))])

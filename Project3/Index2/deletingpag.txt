@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/DeletingPage', (0.3333333333333333, True, True)), ('https://sli.ics.uci.edu/Site/ListAllPage', (0.00228310502283105, False, True))])

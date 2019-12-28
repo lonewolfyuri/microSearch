@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Perfume+Dat', (0.002849002849002849, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0007668711656441718, False, True))])

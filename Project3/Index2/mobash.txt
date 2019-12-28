@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Record', (0.0013605442176870747, False, True)), ('http://archive.ics.uci.edu/ml/support/Congressional+Voting+Records', (0.0008271298593879239, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0022026431718061676, False, True))])

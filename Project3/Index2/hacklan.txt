@@ -1,0 +1,1 @@
+dict_items([('https://cyberclub.ics.uci.edu', (0.0028089887640449437, False, True)), ('https://cyberclub.ics.uci.edu/', (0.0028089887640449437, False, True)), ('https://cyberclub.ics.uci.edu/blog/HackLAN', (0.25, True, False)), ('https://cyberclub.ics.uci.edu/blog', (0.037037037037037035, False, True))])

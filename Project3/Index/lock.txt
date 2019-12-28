@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Car+Evaluation#bc80295973a43d3806ff4dfe83e5724260301c33', 0.0007272727272727272, False, False), ('http://archive.ics.uci.edu/ml/datasets/Prodigy', 0.006756756756756757, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/darwin_design.ht', (0.011111111111111112, False, True)), ('https://www.ics.uci.edu/~asuncion/origins.ht', (0.005681818181818182, False, True))])

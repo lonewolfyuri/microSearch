@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~peymano/adaptation/instrumented-connectors.htm', (0.008, False, True))])

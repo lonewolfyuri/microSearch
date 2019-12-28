@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/janay-nunez/', (0.0003487966515521451, False, True)), ('https://wics.ics.uci.edu/janay-nunez', (0.0003487966515521451, False, True))])

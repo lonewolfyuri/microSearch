@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_szang_20160302/readme.tx', (0.038461538461538464, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/FP-2.tx', (0.0011210762331838565, False, False))])

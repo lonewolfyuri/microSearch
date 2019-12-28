@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/integer-distances.htm', (0.0037593984962406013, False, False))])

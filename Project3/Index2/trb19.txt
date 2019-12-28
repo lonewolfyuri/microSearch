@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/wai_trb19.bi', (0.017241379310344827, False, False)), ('https://www.ics.uci.edu/~alfchen/publications.htm', (0.004, False, True))])

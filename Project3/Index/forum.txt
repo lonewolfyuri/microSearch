@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+', 0.004807692307692308, False, False), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection', 0.002717391304347826, False, True)]

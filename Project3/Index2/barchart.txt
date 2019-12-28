@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics10A/LabManual/04-Assignment1.htm', (0.0012755102040816326, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (7.447372286956877e-06, False, False))])

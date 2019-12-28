@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Yeast#4dbb0e14d9556fd1099e129462d0bedcf35bd82b', 0.002105263157894737, False, True), ('http://archive.ics.uci.edu/ml/datasets/Ecoli', 0.002403846153846154, False, True), ('http://archive.ics.uci.edu/ml/datasets/Planning+Relax', 0.0017921146953405018, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aburtsev/238P/2018fall/lectures/lecture07-kernel-init/figs/png', (0.02, False, True)), ('https://www.ics.uci.edu/~aburtsev/143A/2018fall/lectures/lecture07-kernel-init/figs/png', (0.02, False, True)), ('https://www.ics.uci.edu/~aburtsev/238P/lectures/lecture07-kernel-init/figs/png', (0.020833333333333332, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_day.htm', (0.0070921985815602835, False, True)), ('https://www.ics.uci.edu/~rohit/wac', (0.00015119443604475356, False, True)), ('https://www.ics.uci.edu/~irus/wisen/wisen98/presentations/Mohr/tsld013.ht', (0.06666666666666667, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/attending-acm-multimedia-2007', (0.0018796992481203006, False, True))])

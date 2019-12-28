@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Wine', 0.002183406113537118, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~welling/NSFcareer/software/software_BMRF/doc/MRFLearning/CFTP.htm', (0.007692307692307693, False, True)), ('https://ngs.ics.uci.edu/travel-experiences', (0.0009727626459143969, False, True))])

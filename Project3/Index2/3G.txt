@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/ca/b35s236/p68-synth.li', (0.043478260869565216, False, False)), ('https://www.ics.uci.edu/~eppstein/ca/b35s236/block-push.li', (0.03571428571428571, False, False)), ('https://ngs.ics.uci.edu/iphone-or-mcomputer', (0.0013698630136986301, False, True))])

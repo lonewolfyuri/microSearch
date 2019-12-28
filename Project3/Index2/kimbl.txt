@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irani/w15-us3/quan', (0.004048582995951417, False, True)), ('https://www.ics.uci.edu/~irani/w15-us3/quant.htm', (0.004048582995951417, False, True)), ('https://www.ics.uci.edu/~irani/s08-qc/FreshmanSeminar.htm', (0.006711409395973154, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Poker+Hand', 0.003105590062111801, False, True), ('http://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges', 0.0023923444976076554, False, True)]

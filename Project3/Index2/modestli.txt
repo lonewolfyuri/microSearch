@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/ZhuR_CVPR_2012', (0.0058823529411764705, False, True)), ('https://www.ics.uci.edu/~gts/facts.htm', (0.003663003663003663, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/slovenia/graffiti/TukajJe.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/slovenia/graffiti/Stare.htm', (0.25, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/slovenia/graffiti/PennedIn.htm', (0.1, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/VISTA', (0.027777777777777776, False, True))])

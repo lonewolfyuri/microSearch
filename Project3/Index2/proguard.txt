@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/obfuscation/index.htm', (0.0012484394506866417, False, True)), ('http://seal.ics.uci.edu/projects/obfuscation/index.htm', (0.0012484394506866417, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.267164660808111e-05, False, False))])

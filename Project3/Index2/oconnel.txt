@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Lipman.htm', (0.0009765625, False, False)), ('https://www.ics.uci.edu/~wmt/publications.htm', (0.00055005500550055, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://www.ics.uci.edu/~wmt/virtualRaftProject.htm', (0.047619047619047616, False, True))])

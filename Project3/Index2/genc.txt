@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Pen-Based+Recognition+of+Handwritten+Digits', (0.0009285051067780873, False, False)), ('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/disput01.htm', (6.228589224540641e-05, False, False))])

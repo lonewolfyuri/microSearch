@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/sw/ldsa', (0.007936507936507936, False, False))])

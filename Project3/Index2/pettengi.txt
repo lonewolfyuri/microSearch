@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/versioning/arch/0053.htm', (0.0018832391713747645, False, True)), ('https://www.ics.uci.edu/~ejw/versioning/arch/0052.htm', (0.0037174721189591076, False, False))])

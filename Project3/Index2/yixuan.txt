@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Group/Grou', (0.004132231404958678, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=108', (0.0019342359767891683, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0006261740763932373, False, True))])

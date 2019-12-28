@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/StoneFlakes', 0.0008802816901408451, False, True)]

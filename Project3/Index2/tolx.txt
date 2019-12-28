@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/applications/sift-mosaic-code.htm', (0.0016313213703099511, False, True))])

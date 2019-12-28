@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (4.828118964851294e-05, False, True)), ('https://www.ics.uci.edu/~jutts', (0.001447178002894356, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0003161555485298767, False, False))])

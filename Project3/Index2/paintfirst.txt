@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-16.htm', (0.0011961722488038277, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/GUI/PVDragAddNodeUI.htm', (0.006211180124223602, False, True))])

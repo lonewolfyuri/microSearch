@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kibler/GenomicPapers.ht', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~kibler', (0.0014534883720930232, False, False)), ('https://www.ics.uci.edu/~kibler/', (0.0014534883720930232, False, False))])

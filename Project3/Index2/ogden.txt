@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Covertyp', (0.0035842293906810036, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('http://cert.ics.uci.edu/EMWS09/index.htm', (0.0012239902080783353, False, False))])

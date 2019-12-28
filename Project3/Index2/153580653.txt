@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila_dpsi_den_mock_filteredtogether', (0.003424657534246575, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-mock', (0.00017614937466971993, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/voila-dnlef', (0.00012970168612191958, False, True))])

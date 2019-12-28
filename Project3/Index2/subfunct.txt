@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Contraceptive+Method+Choice', (0.0027548209366391185, False, True)), ('https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/rfc2026.tx', (8.315316813570597e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/unico.htm', (0.125, False, True)), ('https://www.ics.uci.edu/~seal/publications.htm', (0.0004347826086956522, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://seal.ics.uci.edu/publications.htm', (0.0004347826086956522, False, True))])

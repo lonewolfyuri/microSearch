@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/CalIt2+Building+People+Counts', 0.1, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/', 0.05, False, True)]

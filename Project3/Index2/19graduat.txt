@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/current-students/resources/gradhandbook', (0.0014925373134328358, False, True))])

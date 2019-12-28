@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice', 0.0024509803921568627, False, True)]

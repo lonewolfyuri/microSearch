@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Iri', (0.000407000407000407, False, False)), ('http://archive.ics.uci.edu/ml/support/Breast+Cancer', (0.00018338529249954154, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Breast+Cance', (0.00039478878799842083, False, False)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00012088974854932302, False, False))])

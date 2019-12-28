@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Diener.htm', (0.0018726591760299626, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/1869censustips.ht', (0.001718213058419244, False, False))])

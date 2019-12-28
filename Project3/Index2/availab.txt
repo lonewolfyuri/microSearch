@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitatio', (0.002652519893899204, False, True)), ('https://www.ics.uci.edu/~ics1c/hw3/02.htm', (0.0038314176245210726, False, False))])

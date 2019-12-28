@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_szang_20160302/PAS-seq_pipeline_usingTophat.tx', (0.010638297872340425, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_szang_20160302/PAS-seq_pipeline_usingBowtie.tx', (0.009615384615384616, False, False))])

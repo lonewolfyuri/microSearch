@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/draft-ota-http-version-00.tx', (0.0023346303501945525, False, True))])

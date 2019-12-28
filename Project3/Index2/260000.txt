@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Query+Analytics+Workloads+Datase', (0.004608294930875576, False, True)), ('http://cloudberry.ics.uci.edu/quick-start', (0.0005112474437627812, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/New/Game-Research-Position.htm', (0.005555555555555556, False, False))])

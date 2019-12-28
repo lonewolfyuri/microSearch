@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/clickable-video-ads', (0.0012048192771084338, False, True))])

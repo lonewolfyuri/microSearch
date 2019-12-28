@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/netherlands2/KrollerMullerBust.htm', (0.14285714285714285, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/netherlands2/VanZijswegUtrecht.htm', (0.3333333333333333, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/netherlands2/ZuidKennemerland2.htm', (0.07142857142857142, False, True))])

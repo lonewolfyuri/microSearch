@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/Chen_ADVMAT_2011', (0.00980392156862745, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

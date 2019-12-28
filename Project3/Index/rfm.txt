@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center', 0.0025252525252525255, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail+II', 0.0021929824561403508, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Retail', 0.001763668430335097, False, True)]

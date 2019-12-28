@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.0005096839959225281, False, True)), ('http://sherlock.ics.uci.edu/qgd.htm', (0.002183406113537118, False, True)), ('http://sherlock.ics.uci.edu/people.htm', (0.005649717514124294, False, True))])

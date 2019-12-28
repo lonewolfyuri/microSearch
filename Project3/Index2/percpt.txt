@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/ai-contextual-reasoning-learning/', (0.0007132667617689016, False, False)), ('https://ngs.ics.uci.edu/ai-contextual-reasoning-learning', (0.0007132667617689016, False, False))])

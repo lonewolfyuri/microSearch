@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~mopy/portfolio.htm', (0.000731528895391368, False, True)), ('https://ngs.ics.uci.edu/eventweb-17-bliki', (0.0014265335235378032, False, True))])

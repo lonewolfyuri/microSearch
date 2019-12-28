@@ -1,1 +1,0 @@
-[('https://aiclub.ics.uci.edu/', 0.007246376811594203, False, True), ('https://aiclub.ics.uci.edu/#body', 0.007246376811594203, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.007246376811594203, False, True), ('http://asterix.ics.uci.edu/fuzzyjoin/', 0.0023752969121140144, False, True)]

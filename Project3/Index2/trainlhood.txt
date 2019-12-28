@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sgaffney/software/CCT/doc/model_structure.htm', (0.002457002457002457, False, True)), ('https://www.ics.uci.edu/~sgaffney/software/CCT/doc/demo.htm', (0.0016339869281045752, False, True))])

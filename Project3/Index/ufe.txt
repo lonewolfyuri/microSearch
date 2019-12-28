@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/CNAE-9', 0.004132231404958678, False, False), ('http://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics', 0.0022988505747126436, False, True)]

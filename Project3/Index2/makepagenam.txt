@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/LinkVariable', (0.0017889087656529517, False, True)), ('http://sli.ics.uci.edu/PmWiki/Link', (0.0005224660397074191, False, True)), ('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.001379310344827586, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~minhaenl/web_data/pdfs', (0.043478260869565216, False, True)), ('https://www.ics.uci.edu/~minhaenl/web_data/bib', (0.058823529411764705, False, True)), ('https://www.ics.uci.edu/~minhaenl/web_data/img', (0.058823529411764705, False, True))])

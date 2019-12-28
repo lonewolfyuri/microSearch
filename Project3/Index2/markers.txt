@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/extras/cs178/DTree_Demo.htm', (3.167865175658124e-05, False, True)), ('http://sli.ics.uci.edu/extras/cs178/NNet_Demo.htm', (3.1429738818870415e-05, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/demo/vl_demo_kdtree_ann.htm', (0.0022222222222222222, False, True))])

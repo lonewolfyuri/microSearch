@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/CLIP_elmira_11072016', (0.125, True, True)), ('https://cbcl.ics.uci.edu/public_data/shilab', (0.022727272727272728, False, True))])

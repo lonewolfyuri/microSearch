@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KDC-4007+dataset+Collection', 0.0021691973969631237, False, True), ('http://archive.ics.uci.edu/ml/datasets/Physical+Unclonable+Functions', 0.0037593984962406013, False, True)]

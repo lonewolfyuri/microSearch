@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Avila', 0.004032258064516129, False, False)]

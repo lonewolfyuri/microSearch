@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.0015220700152207, False, True), ('http://archive.ics.uci.edu/ml/datasets/Poker+Hand', 0.0026666666666666666, False, True)]

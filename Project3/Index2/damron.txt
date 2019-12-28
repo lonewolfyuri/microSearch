@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/wics-spring-quarter-week-8-paciolan-job-shadowing/', (0.0003746721618583739, False, True)), ('https://wics.ics.uci.edu/wics-spring-quarter-week-8-paciolan-job-shadowing', (0.0003746721618583739, False, True))])

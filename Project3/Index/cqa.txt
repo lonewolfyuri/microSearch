@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records', 0.005970149253731343, False, True)]

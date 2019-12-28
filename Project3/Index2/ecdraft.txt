@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/Internet-Procurement/Internet_Procurement.htm', (0.00010469011725293132, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/thin-mobile-clients', (0.001610305958132045, False, True))])

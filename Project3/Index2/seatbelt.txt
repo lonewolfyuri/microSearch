@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alspaugh/cls/shr/relation.htm', (0.0006119951040391676, False, False)), ('https://www.ics.uci.edu/~jutts/8/readme.htm', (0.00019704433497536947, False, True)), ('https://www.ics.uci.edu/~kay/college-advice', (0.0023014959723820483, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

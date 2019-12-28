@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/QA_Petition', (0.003246753246753247, False, True)), ('https://www.ics.uci.edu/ugrad/QA_Petitions.ph', (0.003246753246753247, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

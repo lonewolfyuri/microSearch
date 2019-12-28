@@ -1,0 +1,1 @@
+dict_items([('https://hack.ics.uci.edu/organizers2018/', (0.0011325028312570782, False, True)), ('https://hack.ics.uci.edu/organizers2018', (0.0011325028312570782, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%2', (0.004032258064516129, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Datase', (0.003861003861003861, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Quality+Assessment+of+Digital+Colposcopie', (0.004201680672268907, False, True))])

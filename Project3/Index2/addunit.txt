@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/binary.htm', (0.007792207792207792, False, True))])

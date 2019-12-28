@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/breakouts/breakout2.htm', (0.001088139281828074, False, True)), ('https://www.ics.uci.edu/~kobsa/phds/phds.ht', (0.0013831258644536654, False, False)), ('https://www.ics.uci.edu/~alfchen/impact.html', (0.002074688796680498, False, True))])

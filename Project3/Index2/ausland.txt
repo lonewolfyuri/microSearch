@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Austrian-english.htm', (0.0002043318348998774, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Landau.htm', (0.00038528221922558276, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

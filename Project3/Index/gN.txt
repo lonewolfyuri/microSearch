@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0012578616352201257, False, True), ('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Splice-junction+Gene+Sequences)#da329267bf8880c2becb15eae121a5b002347349', 0.0014204545454545455, False, False)]

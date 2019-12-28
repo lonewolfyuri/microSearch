@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Friedman.htm', (0.0004526935264825713, False, True))])

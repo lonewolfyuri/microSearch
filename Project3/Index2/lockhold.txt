@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/collection/dt/Minutes990330.tx', (0.0005711022272986865, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/orem/locks/tsld011.ht', (0.05263157894736842, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/impact/research-that-matters/', (0.0006510416666666666, False, True)), ('https://www.informatics.uci.edu/impact/research-that-matters', (0.0006510416666666666, False, True))])

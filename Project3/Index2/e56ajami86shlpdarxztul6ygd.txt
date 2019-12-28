@@ -1,0 +1,1 @@
+dict_items([('http://hana.ics.uci.edu/index.html%3Fq=content%252Fjulia-katherine-haines.htm', (0.0033003300330033004, False, True))])

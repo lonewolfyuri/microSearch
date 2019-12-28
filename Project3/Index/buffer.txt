@@ -1,1 +1,0 @@
-[('http://alderis.ics.uci.edu/dresystems.html', 0.005780346820809248, False, False), ('http://archive.ics.uci.edu/ml/datasets/Optical+Interconnection+Network+', 0.005037783375314861, False, True)]

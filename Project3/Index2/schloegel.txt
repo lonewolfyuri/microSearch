@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gabe/bibtex/BMOS_AIAA_2010.tx', (0.02857142857142857, False, False)), ('https://www.ics.uci.edu/~gabe/publications.htm', (0.0025575447570332483, False, True))])

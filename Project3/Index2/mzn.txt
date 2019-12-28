@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016/code/msq.mz', (0.007751937984496124, False, False)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016/code/nq.mz', (0.014285714285714285, False, False)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016/code', (0.045454545454545456, False, True))])

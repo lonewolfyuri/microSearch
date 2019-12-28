@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/professor-xu-awarded-2018-aito-junior-dahl-nygaard-prize', (0.0010504201680672268, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=127', (0.0017953321364452424, False, False)), ('https://www.ics.uci.edu/community/news/view_news?id=127', (0.0017953321364452424, False, False))])

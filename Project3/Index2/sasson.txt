@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~babaks/publication.htm', (0.0014534883720930232, False, True)), ('https://www.ics.uci.edu/~theory/269/050304.htm', (0.03333333333333333, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/yshyadvg.tx', (0.00020370747606437156, False, False))])

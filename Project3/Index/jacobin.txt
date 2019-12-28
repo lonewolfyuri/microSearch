@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SIFT10M', 0.0024813895781637717, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://hana.ics.uci.edu/index.html%3Fq=content%252Ftelepresence-robots.htm', (0.003472222222222222, False, True))])

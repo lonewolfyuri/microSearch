@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulatio', (0.001834862385321101, False, True))])

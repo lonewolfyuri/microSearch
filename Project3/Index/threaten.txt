@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King-Knight%29', 0.0017211703958691911, False, True), ('http://archive.ics.uci.edu/ml/datasets/seismic-bumps', 0.0012406947890818859, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King-Knight)', 0.0017211703958691911, False, True)]

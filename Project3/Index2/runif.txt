@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yamingy/npmle.', (0.004784688995215311, False, False)), ('https://www.ics.uci.edu/~yamingy/bayesD_cocktail.', (0.0030120481927710845, False, False))])

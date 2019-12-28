@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/1st-anniversary', (0.000998003992015968, False, True)), ('https://ngs.ics.uci.edu/list-of-publications', (0.00016641704110500916, False, True)), ('https://ngs.ics.uci.edu/multimedia-information-systems', (0.0015408320493066256, False, False))])

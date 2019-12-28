@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/cs-research-areas', (0.00045392646391284613, False, True)), ('https://www.ics.uci.edu/faculty/area/index.ph', (0.0005549389567147614, False, True)), ('https://www.ics.uci.edu/faculty/area', (0.0005549389567147614, False, True)), ('https://www.ics.uci.edu/faculty/area/', (0.0005549389567147614, False, True))])

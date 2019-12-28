@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Greenhouse+Gas+Observing+Network', 0.0016556291390728477, False, True), ('http://archive.ics.uci.edu/ml/support/Thyroid+Disease#076c5b4e7bf69148bcde8c83621ecf1140a7d55c', 0.0011682242990654205, False, True)]

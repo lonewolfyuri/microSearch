@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/photography-in-india', (0.000550357732526142, False, True)), ('https://ngs.ics.uci.edu/confusing-cultural-diversity', (0.001379310344827586, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/dyn/pictures/normandie/index.ht', (0.008797653958944282, False, True))])

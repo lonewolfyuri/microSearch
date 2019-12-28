@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122a-2018-spring/SQL%2B%2BPrimer.tx', (0.006622516556291391, False, True)), ('https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122a-2018-spring/SQL%2B%2BPrimer.tx', (0.009767092411720512, False, False))])

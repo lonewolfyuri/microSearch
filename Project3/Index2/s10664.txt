@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~lopes/datasets/Koders-log-2007.htm', (0.003105590062111801, False, True)), ('https://redmiles.ics.uci.edu/publication/', (0.0021141649048625794, False, False)), ('https://redmiles.ics.uci.edu/publication', (0.0021141649048625794, False, False))])

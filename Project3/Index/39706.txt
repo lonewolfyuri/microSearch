@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Weight+Lifting+Exercises+monitored+with+Inertial+Measurement+Units', 0.004016064257028112, False, True)]

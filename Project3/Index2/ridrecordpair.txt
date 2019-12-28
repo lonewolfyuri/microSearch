@@ -1,0 +1,1 @@
+dict_items([('http://asterix.ics.uci.edu/fuzzyjoin/README.htm', (0.0004657661853749418, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', (0.0007698229407236335, False, False)), ('http://archive.ics.uci.edu/ml/support/Adult', (0.0004091653027823241, False, True)), ('http://archive.ics.uci.edu/ml/support/Anonymous+Microsoft+Web+Data', (0.0026246719160104987, False, False))])

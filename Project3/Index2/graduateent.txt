@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/prospective-students/cost-and-financial-aid', (0.0009832841691248771, False, True)), ('https://mswe.ics.uci.edu/admissions/cost-and-financial-aid', (0.001148105625717566, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/rickl-cs271-codingproject-DropBox-contents/CS-271%20CodingProject-2013-12-28/AssignmentSubmission/jheller1_submission.tx', (0.1, False, False))])

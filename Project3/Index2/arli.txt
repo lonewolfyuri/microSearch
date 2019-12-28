@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/arcadia_papers/process/human_exec_abstract.htm', (0.024390243902439025, False, False)), ('https://www.ics.uci.edu/~arcadia/arcadia_papers/process/process_papers.htm', (0.006369426751592357, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood', (0.0013054830287206266, False, True))])

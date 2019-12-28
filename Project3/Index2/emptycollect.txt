@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics22/CodeExamples/JUnit/CodeExamples.htm', (0.0035398230088495575, False, True))])

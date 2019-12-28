@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Dishonest+Internet+users+Dataset', 0.0024096385542168677, False, True), ('http://archive.ics.uci.edu/ml/support/Congressional+Voting+Records#4695569c53cd581fcc193415a8a94a1f92abf607', 0.0015337423312883436, False, False)]

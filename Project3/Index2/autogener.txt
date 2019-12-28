@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~johnsong/thesis', (0.0058823529411764705, False, False)), ('https://mailman.ics.uci.edu/mailman/creat', (0.00684931506849315, False, True)), ('https://mailman.ics.uci.edu/mailman/listinfo/icsb-mjolsness-tutoria', (0.00980392156862745, False, True)), ('http://computableplant.ics.uci.edu/sw/dd', (0.009259259259259259, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data', 0.0030959752321981426, False, True), ('http://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data', 0.0027247956403269754, False, True), ('http://archive.ics.uci.edu/ml/datasets/PM2.5+Data+of+Five+Chinese+Cities', 0.003003003003003003, False, True)]

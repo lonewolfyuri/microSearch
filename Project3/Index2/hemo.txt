@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Diseas', (0.002881844380403458, False, True)), ('https://www.ics.uci.edu/~jacobson/ics10A/LabManual/08-Assignment5.htm', (0.000167897918065816, False, True))])

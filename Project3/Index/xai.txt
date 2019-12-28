@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/', 0.02564102564102564, False, True)]

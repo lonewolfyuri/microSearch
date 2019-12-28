@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs+(High+Quality)', 0.001177856301531213, False, True), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs', 0.0010940919037199124, False, True), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs+%28High+Quality%29', 0.001177856301531213, False, True)]

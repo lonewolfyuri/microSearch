@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics45c/CourseReference.htm', (0.0022935779816513763, False, True)), ('https://www.ics.uci.edu/about/search/search_graduate_all.ph', (0.00044682752457551384, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-295/fall-2019', (0.0005288207297726071, False, True))])

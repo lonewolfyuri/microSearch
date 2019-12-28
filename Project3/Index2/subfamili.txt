@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/explain_tree.htm', (0.0038022813688212928, False, True))])

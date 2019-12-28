@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~taylor/softalks/fq00_schedule.htm', (0.2, True, True)), ('https://www.ics.uci.edu/~taylor/softalks/fq96_schedule.htm', (0.2, True, True)), ('https://redmiles.ics.uci.edu/teaching', (0.0017421602787456446, False, True)), ('https://redmiles.ics.uci.edu/teaching/', (0.0017421602787456446, False, True))])

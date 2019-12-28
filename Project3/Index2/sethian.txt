@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/robot.htm', (0.006993006993006993, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/sigproc.htm', (0.005376344086021506, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/medic.htm', (0.002890173410404624, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/vlsi.htm', (0.0035460992907801418, False, False))])

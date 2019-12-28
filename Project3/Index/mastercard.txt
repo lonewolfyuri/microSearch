@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.002173913043478261, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+(Australian+Credit+Approval)#7265efd898e4c045ff078fcb63fec9fbde4b1249', 0.0018018018018018018, False, False)]

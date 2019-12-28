@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/winter-quarter-2017-week-5-twilio-info-session', (0.00038226299694189603, False, True))])

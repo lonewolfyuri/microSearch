@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/draft-goland-http-webdav-00.tx', (0.00048740861088545896, False, True))])

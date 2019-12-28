@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs221-2019-spring-project2/Team2StressTest.tx', (7.935815127250795e-06, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (8.118926028464954e-06, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.337553049467817e-05, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/2.0/src/common/makefil', (0.006622516556291391, False, True)), ('http://flamingo.ics.uci.edu/releases/2.0.1/src/common/makefil', (0.006622516556291391, False, True)), ('http://flamingo.ics.uci.edu/releases/3.0/src/common/makefil', (0.0058823529411764705, False, True))])

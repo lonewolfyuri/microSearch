@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/the-fight-over-net-neutrality-stretches-from-california-to-washington-d-c', (0.0005767012687427913, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=142', (0.0007501875468867217, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

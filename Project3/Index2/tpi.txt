@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/india-as-outsourcer', (0.001876172607879925, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (2.63623797768385e-07, False, False))])

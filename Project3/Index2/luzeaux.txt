@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/shape-metric.htm', (0.0008960573476702509, False, True))])

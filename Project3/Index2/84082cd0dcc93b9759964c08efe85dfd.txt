@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/3.0/src/sepia/cluster/.svn/entrie', (0.004310344827586207, False, False))])

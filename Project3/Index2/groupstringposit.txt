@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/1.0/src/filtertree/gram.c', (0.02280130293159609, False, True)), ('http://flamingo.ics.uci.edu/releases/1.0/docs/wiki/FilterTreeDoc.htm', (0.0029069767441860465, False, False))])

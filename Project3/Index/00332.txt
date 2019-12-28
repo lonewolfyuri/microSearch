@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00332/', 0.14285714285714285, True, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/', 0.00641025641025641, False, True), ('http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29', 0.0007072135785007072, False, True)]

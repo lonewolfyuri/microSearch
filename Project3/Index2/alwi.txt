@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Student+Academics+Performanc', (0.002380952380952381, False, True)), ('https://ngs.ics.uci.edu/is-this-true-about-we-indians', (0.0008460236886632825, False, False))])

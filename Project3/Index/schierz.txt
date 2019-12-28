@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data', 0.003816793893129771, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00209/', 0.05263157894736842, False, True)]

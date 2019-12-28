@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/searching-sportscasts', (0.001256281407035176, False, True))])

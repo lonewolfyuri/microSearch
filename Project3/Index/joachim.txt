@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups', 0.003436426116838488, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dexter', 0.0029498525073746312, False, False), ('http://archive.ics.uci.edu/ml/support/Adult#cefc3da70b90693b8046b574392c86d2db1f196a', 0.0014970059880239522, False, True)]

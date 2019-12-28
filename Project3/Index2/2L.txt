@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/papers.htm', (0.00020234722784297855, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/serialized-form.htm', (0.0010834236186348862, False, False)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slide/slide-2l-intro-viz.htm', (0.01037344398340249, False, True))])

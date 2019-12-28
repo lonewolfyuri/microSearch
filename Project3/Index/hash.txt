@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/SIFT10M', 0.002617801047120419, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.0006811989100817438, False, True), ('http://archive.ics.uci.edu/ml/support/Congressional+Voting+Records#4695569c53cd581fcc193415a8a94a1f92abf607', 0.0009345794392523365, False, True)]

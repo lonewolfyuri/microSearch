@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/contact-us/staff', (0.0012594458438287153, False, True)), ('https://mcs.ics.uci.edu/career/internships', (0.0010718113612004287, False, True)), ('https://www.ics.uci.edu/about/search/search_dept_cs-staff.ph', (0.0036231884057971015, False, True)), ('https://mswe.ics.uci.edu/people/faculty-staff', (0.0011261261261261261, False, True))])

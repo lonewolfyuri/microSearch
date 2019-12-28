@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/masinter/tsld012.ht', (0.012048192771084338, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/heli/UPN13.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/heli/NBC4.htm', (0.2, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/heli/blackbird.htm', (0.0625, False, True))])

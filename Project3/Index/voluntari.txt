@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 0.0024330900243309003, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set', 0.002506265664160401, False, True), ('http://archive.ics.uci.edu/ml/datasets/Planning+Relax', 0.0027548209366391185, False, True)]

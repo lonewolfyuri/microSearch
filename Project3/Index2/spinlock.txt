@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aburtsev/143A/2018fall/hw/hw4-threads.htm', (0.007575757575757576, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/week-6-southern-california-gas-company-info-session', (0.0003961965134706815, False, True)), ('https://wics.ics.uci.edu/event/project-meeting-awards', (0.00040241448692152917, False, True)), ('https://wics.ics.uci.edu/event/week-9-ics-quarterly-potluck', (0.0004, False, True))])

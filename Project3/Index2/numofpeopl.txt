@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/cosmos/Lab1', (0.0006506180871828237, False, False))])

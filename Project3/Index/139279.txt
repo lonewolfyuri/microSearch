@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+%28COIL+2000%29', 0.004032258064516129, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/events', (0.0005449591280653951, False, True)), ('https://wics.ics.uci.edu/events/?post_type=tribe_events&eventDisplay=defaul', (0.0005449591280653951, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/hw4/35.htm', (0.0005624296962879641, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/refs.htm', (0.0020161290322580645, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.fr.htm', (3.844675124951942e-05, False, False))])

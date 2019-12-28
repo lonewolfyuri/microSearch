@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/aib_8c.htm', (0.0014619883040935672, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/jordan-splay.htm', (0.00046500813764240875, False, False)), ('http://computableplant.ics.uci.edu/models/Activator/index.htm', (0.0021551724137931034, False, False))])

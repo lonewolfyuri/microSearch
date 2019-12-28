@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity', 0.0049261083743842365, False, False)]

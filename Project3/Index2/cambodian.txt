@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+dat', (0.0011337868480725624, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia-2', (0.0014684287812041115, False, True))])

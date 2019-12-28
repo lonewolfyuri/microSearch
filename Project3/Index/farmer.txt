@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Student+Academics+Performance', 0.0029239766081871343, False, True), ('http://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases', 0.005509641873278237, False, True)]

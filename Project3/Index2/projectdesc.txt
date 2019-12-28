@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks/update.sampl', (0.004048582995951417, False, True))])

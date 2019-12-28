@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Wachtel.htm', (0.0013458950201884253, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/k26.tx', (0.0010380622837370243, False, False))])

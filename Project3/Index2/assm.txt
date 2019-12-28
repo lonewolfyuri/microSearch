@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/WeberWP_JNSC_1999', (0.006369426751592357, False, True))])

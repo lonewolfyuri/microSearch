@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/f11-hw6.tx', (0.0033783783783783786, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/spiraltile', (0.000708215297450425, False, False)), ('https://www.ics.uci.edu/~eppstein/261/f11-hw6-soln.tx', (0.003125, False, False))])

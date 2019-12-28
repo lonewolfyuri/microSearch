@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/annualreport/2006-07/events.ph', (0.0035587188612099642, False, True)), ('https://www.ics.uci.edu/~alspaugh/people.htm', (0.005813953488372093, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.0029585798816568047, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

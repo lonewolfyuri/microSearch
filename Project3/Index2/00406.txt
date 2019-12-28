@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases', (0.004347826086956522, False, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00406', (0.14285714285714285, True, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/dpsi_293twt_cfim68ko/majiq.lo', (0.0004462293618920125, False, False))])

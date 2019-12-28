@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dvk/pub/TODS06_dvk.htm', (0.004424778761061947, False, True)), ('https://www.ics.uci.edu/~dvk/code/RelDC.htm', (0.001440922190201729, False, True)), ('https://www.ics.uci.edu/~dvk/pub/SDM05_dvk.htm', (0.004672897196261682, False, True))])

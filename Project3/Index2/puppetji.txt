@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/cyber-spirituality', (0.0018656716417910447, False, True))])

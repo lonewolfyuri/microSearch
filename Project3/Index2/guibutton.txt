@@ -1,0 +1,1 @@
+dict_items([('https://sli.ics.uci.edu/Site/EditFor', (0.004405286343612335, False, False)), ('http://sli.ics.uci.edu/PmWiki/Variable', (0.0024096385542168677, False, True)), ('http://sli.ics.uci.edu/PmWiki/EditVariable', (0.0009514747859181732, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=PmWiki%2FAccessKeys', (0.001282051282051282, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/mealling/index.ht', (0.022222222222222223, False, True)), ('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/mealling', (0.022222222222222223, False, True))])

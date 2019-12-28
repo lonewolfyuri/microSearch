@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/projects/thermanator', (0.0012121212121212121, False, True)), ('https://ngs.ics.uci.edu/after-mandarin-it-is-hindi', (0.0017391304347826088, False, False))])

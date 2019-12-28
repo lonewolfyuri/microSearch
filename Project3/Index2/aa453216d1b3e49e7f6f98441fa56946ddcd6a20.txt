@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/PADS/.git/hooks/post-receive.sampl', (0.013513513513513514, False, True))])

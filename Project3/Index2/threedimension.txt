@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Glass+Identification', (0.0003238341968911917, False, False)), ('http://computableplant.ics.uci.edu/BGRS-2004-meeting-abstract.htm', (0.0033003300330033004, False, False))])

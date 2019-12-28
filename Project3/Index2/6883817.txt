@@ -1,0 +1,1 @@
+dict_items([('http://iasl.ics.uci.edu/people/sbaidya', (0.0005797101449275362, False, True)), ('https://iasl.ics.uci.edu/people/sbaidya/', (0.0005797101449275362, False, True))])

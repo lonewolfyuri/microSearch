@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/open-cable-platform', (0.001949317738791423, False, True))])

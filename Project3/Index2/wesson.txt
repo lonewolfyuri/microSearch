@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-6a/winter-04/index.htm', (0.020833333333333332, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-6a/winter-04', (0.020833333333333332, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

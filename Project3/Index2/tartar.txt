@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (3.895921749113029e-05, False, False)), ('https://ngs.ics.uci.edu/travel-to-singapore', (0.0006443298969072165, False, True))])

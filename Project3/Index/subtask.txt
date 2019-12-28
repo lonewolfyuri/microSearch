@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Splice-junction+Gene+Sequences)', 0.002512562814070352, False, True), ('http://archive.ics.uci.edu/ml/datasets/Molecular+Biology+%28Splice-junction+Gene+Sequences%29', 0.002512562814070352, False, True)]

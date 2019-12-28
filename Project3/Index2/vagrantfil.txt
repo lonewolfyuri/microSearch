@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~aburtsev/143A/2018fall/hw/xv6-setup.htm', (0.0006361323155216285, False, True)), ('https://www.ics.uci.edu/~aburtsev/238P/2018fall/hw/xv6-setup.htm', (0.0006361323155216285, False, True)), ('https://www.ics.uci.edu/~aburtsev/143A/2018fall/hw/hw2-boot-xv6.htm', (0.0005555555555555556, False, False))])

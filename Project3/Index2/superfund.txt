@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Record', (0.0022935779816513763, False, True)), ('https://www.ics.uci.edu/~rohit/khare-resume-04.htm', (0.0008665511265164644, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

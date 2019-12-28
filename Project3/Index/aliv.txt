@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Echocardiogram', 0.006825938566552901, False, True), ('http://archive.ics.uci.edu/ml/support/Statlog+Project#b88612f75e6cd1cee2efb08360bfb0ebf5295a97', 0.0009398496240601503, False, False), ('http://archive.ics.uci.edu/ml/support/Statlog+(Shuttle)#4dac55f2daa66b00a555405664b6f275370782ac', 0.0012610340479192938, False, True)]

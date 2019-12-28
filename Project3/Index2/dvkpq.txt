@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dvk/pub/IS07_dvk_pqry.htm', (0.002840909090909091, False, True))])

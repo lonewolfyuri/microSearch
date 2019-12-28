@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (8.058017727639001e-05, False, True)), ('https://www.ics.uci.edu/~eppstein/163/s15-hw8.htm', (0.0038022813688212928, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/maps.ht', (0.009615384615384616, False, False))])

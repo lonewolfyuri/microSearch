@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/El+Nino', 0.005128205128205128, False, False), ('http://archive.ics.uci.edu/ml/support/Syskill+and+Webert+Web+Page+Ratings#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.003703703703703704, False, True), ('http://archive.ics.uci.edu/ml/support/El+Nino#c58fd4c0c5b8fefc00686150d5af26f6966807ef', 0.003367003367003367, False, False)]

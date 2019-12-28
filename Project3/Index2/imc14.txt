@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/allnews.htm', (0.0009699321047526673, False, False)), ('https://www.ics.uci.edu/~alfchen/alfred_imc14.bi', (0.015625, False, False)), ('https://www.ics.uci.edu/~alfchen/publications.htm', (0.0010277492291880781, False, True))])

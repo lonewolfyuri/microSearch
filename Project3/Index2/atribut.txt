@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/Vintage/Software_Productivity.htm', (0.0005488474204171241, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/iterators.tx', (0.0001670564650851988, False, True))])

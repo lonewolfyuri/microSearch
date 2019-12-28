@@ -1,0 +1,1 @@
+dict_items([('https://swiki.ics.uci.edu/doku.ph', (0.0019157088122605363, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

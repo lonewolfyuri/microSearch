@@ -1,0 +1,1 @@
+dict_items([('https://futurehealth.ics.uci.edu/news-events/meetings', (0.0013869625520110957, False, True)), ('https://futurehealth.ics.uci.edu/news-events/meetings/', (0.0013869625520110957, False, True))])

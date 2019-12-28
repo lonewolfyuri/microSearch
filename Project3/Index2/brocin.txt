@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Langrok.htm', (0.0005885815185403178, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/efrm-h34.ht', (0.0013227513227513227, False, False))])

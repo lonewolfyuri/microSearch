@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/dyn/pictures/aruba/index.ht', (0.011029411764705883, False, True))])

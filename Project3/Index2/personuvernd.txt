@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/intlprivlawsurvey.htm', (0.0017094017094017094, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/Iceland.htm', (0.0001221001221001221, False, True))])

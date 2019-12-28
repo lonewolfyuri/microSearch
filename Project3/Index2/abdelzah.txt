@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/seminar-series-archive/?seminar_id=18', (0.002932551319648094, False, True)), ('https://isg.ics.uci.edu/faculty2/sarwar-yusuf', (0.0002527805864509606, False, True)), ('http://sprout.ics.uci.edu/projects/PEPSI/related.htm', (0.018867924528301886, False, True))])

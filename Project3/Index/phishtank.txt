@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Phishing+Websites', 0.005319148936170213, False, False), ('http://archive.ics.uci.edu/ml/datasets/Website+Phishing', 0.0058997050147492625, False, True)]

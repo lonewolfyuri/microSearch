@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/older-version/', 0.030303030303030304, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis', 0.004784688995215311, False, True)]

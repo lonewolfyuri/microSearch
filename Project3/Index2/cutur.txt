@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/author/ramesh/page/114', (0.0016207455429497568, False, True)), ('https://ngs.ics.uci.edu/blog/page/114', (0.0016129032258064516, False, True)), ('https://ngs.ics.uci.edu/evolving-nature-of-books-1', (0.0018656716417910447, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/40', (0.0016129032258064516, False, True))])

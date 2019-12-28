@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/abortion.ht', (0.003125, False, True)), ('https://www.ics.uci.edu/~gbowker/converge.htm', (0.0001832508704416346, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/new-house-filled-with-boxes', (0.001594896331738437, False, True))])

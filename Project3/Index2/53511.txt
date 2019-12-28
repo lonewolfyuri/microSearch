@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/bstempirical.tx', (0.0014367816091954023, False, False)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/why.htm', (0.0015290519877675841, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

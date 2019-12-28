@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/peaks/R301-L2-P7-CCGTCC-Sequences_trimmed-mapped_peaks.narrowPea', (4.879000780640125e-05, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.tx', (7.777864198491094e-05, False, False))])

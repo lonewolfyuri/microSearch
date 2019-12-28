@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/Courses/ics156', (0.03225806451612903, False, True)), ('https://www.ics.uci.edu/~wscacchi/Papers/Internet-Procurement', (0.0625, False, True)), ('https://www.ics.uci.edu/~magda/Courses/ics156/resource.frk', (0.025, False, True))])

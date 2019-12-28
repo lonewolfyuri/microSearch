@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0017301038062283738, False, True), ('http://archive.ics.uci.edu/ml/datasets/Website+Phishing', 0.0029498525073746312, False, True)]

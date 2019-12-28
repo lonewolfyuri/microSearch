@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PPG-DaLiA', 0.0025575447570332483, False, True), ('http://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29', 0.0024449877750611247, False, True)]

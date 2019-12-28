@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/models/Activator/WU-Activator-Update-2010/WUS-Jonsson-2005.xm', (0.0004580852038479157, False, True)), ('http://computableplant.ics.uci.edu/models/Activator/WU-Activator-Update-2010/vertices.ts', (0.0004332755632582322, False, False))])

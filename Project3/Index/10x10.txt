@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Car+Evaluation#bc80295973a43d3806ff4dfe83e5724260301c33', 0.002288329519450801, False, True), ("http://archive.ics.uci.edu/ml/support/MONK's+Problems#4695569c53cd581fcc193415a8a94a1f92abf607", 0.0038022813688212928, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Pubs/Abstracts', (0.002564102564102564, False, True)), ('https://www.ics.uci.edu/~ihler/papers/abs.html', (0.00021181952976064393, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

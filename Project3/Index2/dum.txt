@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/prog', (0.00018754688672168043, False, False)), ('https://ngs.ics.uci.edu/special-effects-in-indian-tv', (0.0012626262626262627, False, True))])

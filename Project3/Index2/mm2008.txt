@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/multimedia-teaching-need-a-real-text-book', (0.0018484288354898336, False, True))])

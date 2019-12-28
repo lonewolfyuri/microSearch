@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall?action=diff&version=6', (0.005917159763313609, False, False)), ('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.tx', (1.4223739421093806e-05, False, False))])

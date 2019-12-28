@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Singlust.htm', (0.006309148264984227, False, False)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00010884946119516709, False, False))])

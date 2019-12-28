@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2019-winter-project2?action=diff&version=', (0.0003380662609871535, False, True)), ('http://archive.ics.uci.edu/ml/datasets/HCC+Surviva', (0.0026455026455026454, False, True)), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%2', (0.0015503875968992248, False, True))])

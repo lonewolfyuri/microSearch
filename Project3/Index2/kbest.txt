@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/261/s13-hw3-answers.tx', (0.0010869565217391304, False, False)), ('https://www.ics.uci.edu/~eppstein/pubs/pubs.f', (0.00031826861871419476, False, True))])

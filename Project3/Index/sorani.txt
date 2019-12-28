@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KDC-4007+dataset+Collection', 0.005050505050505051, False, False)]

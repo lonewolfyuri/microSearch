@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Artificial+Character', (0.0016806722689075631, False, True))])

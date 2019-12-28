@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/goggles-to-cyberspace', (0.001893939393939394, False, True))])

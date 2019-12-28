@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Record', (0.005970149253731343, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/hedronometry.htm', (0.0012616704516780217, False, False))])

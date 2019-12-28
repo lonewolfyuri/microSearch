@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects', (0.021739130434782608, False, True)), ('https://www.ics.uci.edu/~eppstein/projects/splinegon', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/280g/open.htm', (0.012048192771084338, False, False))])

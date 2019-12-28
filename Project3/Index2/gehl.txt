@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/blog/page/191', (0.0019455252918287938, False, True)), ('https://ngs.ics.uci.edu/verbs-and-nouns-on-the-web', (0.00205761316872428, False, True)), ('https://ngs.ics.uci.edu/category/experiential-computing/page/54', (0.0014705882352941176, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/191', (0.0019569471624266144, False, True))])

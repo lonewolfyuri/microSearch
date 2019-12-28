@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/meshgen.bi', (0.0002955082742316785, False, False)), ('https://www.ics.uci.edu/~eppstein/gina/authors.htm', (0.008333333333333333, False, True))])

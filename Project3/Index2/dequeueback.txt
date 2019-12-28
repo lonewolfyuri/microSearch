@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics46/Notes/StacksQueuesDeques', (0.000297000297000297, False, True))])

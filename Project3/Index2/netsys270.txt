@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/Courses', (0.05555555555555555, False, True)), ('https://www.ics.uci.edu/~magda/Courses/netsys270', (0.2, True, True)), ('https://www.ics.uci.edu/~magda/netsys270.htm', (0.5, True, True))])

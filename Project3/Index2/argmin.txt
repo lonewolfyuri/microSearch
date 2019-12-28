@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/Code/Matlab-Facto', (0.0010604453870625664, False, True)), ('https://www.ics.uci.edu/~eppstein/numth/egypt/greed.htm', (0.003284072249589491, False, True)), ('https://www.ics.uci.edu/~eppstein/261/f03-outline/13.lc', (0.004424778761061947, False, False))])

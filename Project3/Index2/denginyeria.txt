@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Iri', (0.0005376344086021505, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plan', (0.0043859649122807015, False, True)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00015862944162436547, False, False))])

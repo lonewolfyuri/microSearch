@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data', 0.0010471204188481676, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0015455950540958269, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~peymano/dynamic-arch/governing-change.htm', (0.013513513513513514, False, True)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/references.htm', (0.007194244604316547, False, True))])

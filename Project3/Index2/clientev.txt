@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/docs/User.UniversalArtist.htm', (0.01098901098901099, False, False)), ('https://www.ics.uci.edu/~arcadia/Teamware/docs/User.PanelArtist.htm', (0.008, False, False))])

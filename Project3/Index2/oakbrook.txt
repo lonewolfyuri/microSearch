@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/economic-gains-are-limited-in-india', (0.0015527950310559005, False, True))])

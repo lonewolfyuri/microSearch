@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/multidisciplinary-collaborators-awarded-2-1m-to-improve-maternal-care-in-underserved-communities', (0.0010822510822510823, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=144', (0.0019120458891013384, False, False)), ('https://www.ics.uci.edu/community/news/view_news?id=144', (0.0019120458891013384, False, False))])

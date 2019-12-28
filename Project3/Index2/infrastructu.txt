@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=nalin', (0.0038314176245210726, False, False)), ('https://www.ics.uci.edu/community/news/notes/notes_2007.ph', (0.001610305958132045, False, True))])

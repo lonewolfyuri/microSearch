@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/cs122b/Project/02-TeamsAndGrading.htm', (0.0030959752321981426, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/ms-lang.ht', (0.0006285355122564425, False, True)), ('https://www.ics.uci.edu/~jacobson/ics21/LabManual/08A-PartnerSwapAndEval.htm', (0.0014005602240896359, False, True))])

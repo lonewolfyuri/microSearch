@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset', 0.0012594458438287153, False, True)]

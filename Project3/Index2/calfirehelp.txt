@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wmt/socialCodeGroup/projects.htm', (0.0004065040650406504, False, True))])

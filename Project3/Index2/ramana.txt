@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%2', (0.004081632653061225, False, True)), ('https://www.ics.uci.edu/~magda/cs620/announceOG.htm', (0.0024752475247524753, False, True)), ('https://chenli.ics.uci.edu/publications', (0.0002797202797202797, False, False))])

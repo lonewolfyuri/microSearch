@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.tx', (2.8447478842187612e-05, False, False)), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.tx', (2.8447478842187612e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.6248272193152938e-06, False, False))])

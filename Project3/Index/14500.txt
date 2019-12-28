@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Statlog+(Shuttle)#4dac55f2daa66b00a555405664b6f275370782ac', 0.0006211180124223603, False, False)]

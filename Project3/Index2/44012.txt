@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics142/MidtermScores.htm', (0.0019230769230769232, False, True))])

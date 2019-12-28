@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set', 0.004830917874396135, False, False)]

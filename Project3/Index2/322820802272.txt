@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/voila_dpsi_293wt_cfim59ko/summaries/12_293WT_CFIM59KO.deltapsi_quantify_deltapsi.htm', (0.00199203187250996, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/MAJIQ/MAJIQ-DELTAPSI/voila_dpsi_293wt_cfim59ko', (0.003067484662576687, False, True))])

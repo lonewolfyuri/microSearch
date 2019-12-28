@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/versioning/dt_oct98/minutes.tx', (0.0003549875754348598, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/versioning/dt_oct98/kaler/tsld008.ht', (0.125, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/versioning/draft-webdav-versioning-00.tx', (0.0008359456635318704, False, False))])

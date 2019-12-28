@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants', 0.004672897196261682, False, False), ('http://archive.ics.uci.edu/ml/datasets/Automobile', 0.0020325203252032522, False, True)]

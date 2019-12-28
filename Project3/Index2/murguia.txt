@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/making-a-donor-powered-difference', (0.0007587253414264037, False, True)), ('https://www.informatics.uci.edu/making-a-donor-powered-difference/', (0.0007587253414264037, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=143', (0.0017513134851138354, False, True))])

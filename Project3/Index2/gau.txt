@@ -1,0 +1,1 @@
+dict_items([('https://studentcouncil.ics.uci.edu/past.htm', (0.004366812227074236, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_student_showcase_2012.ph', (0.0008620689655172414, False, False))])

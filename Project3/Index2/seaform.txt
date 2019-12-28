@@ -1,0 +1,1 @@
+dict_items([('https://ipubmed.ics.uci.edu', (0.001607717041800643, False, True)), ('http://tastier.ics.uci.edu', (0.004219409282700422, False, True)), ('https://chenli.ics.uci.edu/publications', (0.0005219206680584551, False, True))])

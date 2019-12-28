@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Zoo', (0.0009746588693957114, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Heart+Diseas', (0.0009041591320072332, False, True)), ('http://archive.ics.uci.edu/ml/support/Mushroom', (0.000513347022587269, False, False))])

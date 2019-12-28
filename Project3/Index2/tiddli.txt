@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('http://sprout.ics.uci.edu/projects/usec/usec.htm', (2.8068599657563083e-05, False, True)), ('http://sprout.ics.uci.edu/projects/uwsnwebpage/security_uwsn.htm', (3.8028597505324e-05, False, True))])

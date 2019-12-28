@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/research/past-projects/calico', (0.0009363295880149813, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.9771784832628877e-07, False, False))])

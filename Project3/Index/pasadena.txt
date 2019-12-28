@@ -1,1 +1,0 @@
-[('http://asterix.ics.uci.edu/bigactivedata/talks.html', 0.002898550724637681, False, False), ('http://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment', 0.003861003861003861, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/mendocino3/HeadlandsInlet.htm', (0.038461538461538464, False, True))])

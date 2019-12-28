@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/machine-learning-databases/00316', (0.14285714285714285, True, True)), ('http://archive.ics.uci.edu/ml/machine-learning-databases', (0.007142857142857143, False, True)), ('https://www.ics.uci.edu/~jutts/st108/CH10HWData.tx', (0.00033534540576794097, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('http://hana.ics.uci.edu/index.html%3Fq=content%252Fmatthew-j-bietz.htm', (0.003289473684210526, False, True))])

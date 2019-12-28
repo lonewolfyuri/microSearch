@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/faculty2/sarwar-yusuf', (0.0004935834155972359, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

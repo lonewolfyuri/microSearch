@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~vazirani/WNT%20Algorytmy%20aproksymacyjne.ht', (0.013157894736842105, False, True))])

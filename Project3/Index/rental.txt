@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset', 0.004901960784313725, False, False), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime', 0.0005200208008320333, False, True), ('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 0.0006097560975609756, False, True)]

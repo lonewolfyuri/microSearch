@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~peymano/dynamic-arch/austin/brenner/tsld004.ht', (0.027777777777777776, False, True)), ('https://www.ics.uci.edu/~neno/dsl/dsl97.htm', (0.00011424654404204273, False, True)), ('https://www.ics.uci.edu/~peymano/dynamic-arch/references.htm', (0.001282051282051282, False, True))])

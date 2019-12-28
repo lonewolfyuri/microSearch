@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Landau.htm', (9.632055480639569e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.2724759553677e-07, False, False))])

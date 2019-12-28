@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Code%2FMxObject', (0.0027100271002710027, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.tx', (0.00031111456793964375, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/FP-1.tx', (0.0026246719160104987, False, False))])

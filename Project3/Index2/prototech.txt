@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/system_pages/polylithq.htm', (0.005494505494505495, False, True)), ('https://www.ics.uci.edu/~yuzok/software-architecture.htm', (0.0004452359750667854, False, True))])

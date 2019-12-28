@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/book', (2.9717682020802376e-05, False, True)), ('https://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/disput01.htm', (0.00012457178449081283, False, False)), ('https://www.ics.uci.edu/~gbowker/records.htm', (7.488953793155097e-05, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016', (0.019230769230769232, False, True)), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/tgta-plots-for-published-data', (0.07692307692307693, True, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/category/news/page/16', (0.00029282576866764275, False, True)), ('https://wics.ics.uci.edu/2nd-post/', (0.0002966478789676654, False, True)), ('https://wics.ics.uci.edu/2nd-post', (0.0002966478789676654, False, True)), ('https://wics.ics.uci.edu/category/news/page/16/', (0.00029282576866764275, False, True))])

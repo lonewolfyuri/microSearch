@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (7.240954840578311e-05, False, False)), ('https://www.ics.uci.edu/~kay/courses/139w/editing.htm', (0.004524886877828055, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

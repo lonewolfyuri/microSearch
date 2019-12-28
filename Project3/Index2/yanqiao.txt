@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/FXR/HEADER.htm', (0.019230769230769232, False, True)), ('https://cbcl.ics.uci.edu/public_data/FXR/readme.htm', (0.019230769230769232, False, True))])

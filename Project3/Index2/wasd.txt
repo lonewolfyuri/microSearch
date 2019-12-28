@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/Gallery/PongWithScenes.htm', (0.004291845493562232, False, True)), ('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/Gallery/Pong.htm', (0.004761904761904762, False, True)), ('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/Gallery/Arrownaut.htm', (0.019230769230769232, False, True))])

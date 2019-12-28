@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kobsa/privacy/Ireland-3.htm', (0.003436426116838488, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/Ireland-1.htm', (0.003436426116838488, False, True)), ('https://www.ics.uci.edu/~kobsa/privacy/Ireland-2.htm', (0.003436426116838488, False, True))])

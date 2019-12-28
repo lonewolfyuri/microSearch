@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/about/search/search_external.ph', (0.0045662100456621, False, True)), ('https://www.ics.uci.edu/involved/leadership_counci', (0.0014124293785310734, False, True)), ('https://www.ics.uci.edu/involved/leadership_council.ph', (0.0014124293785310734, False, True))])

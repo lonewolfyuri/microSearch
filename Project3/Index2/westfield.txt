@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Prokocimer.htm', (0.00048567265662943174, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Schuldenfrei.htm', (0.0007331378299120235, False, False)), ('https://www.ics.uci.edu/~pattis/quotations.htm', (4.4187176881269054e-05, False, True))])

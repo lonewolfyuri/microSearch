@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/page/5', (0.0009569377990430622, False, False)), ('http://sdcl.ics.uci.edu/category/news/page/4', (0.0009643201542912247, False, True)), ('http://sdcl.ics.uci.edu/author/andre/page/3', (0.0008688097306689834, False, True)), ('http://sdcl.ics.uci.edu/2015/02/we-won-the-reddit-hackathon', (0.0012919896640826874, False, False))])

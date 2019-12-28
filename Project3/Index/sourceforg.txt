@@ -1,1 +1,0 @@
-[('http://alderis.ics.uci.edu/downloads.html', 0.007692307692307693, False, True), ('http://alderis.ics.uci.edu/', 0.004629629629629629, False, True), ('http://alderis.ics.uci.edu/index.html', 0.004629629629629629, False, True), ('http://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics', 0.004, False, False)]

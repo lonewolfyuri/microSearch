@@ -1,0 +1,1 @@
+dict_items([('https://mswe.ics.uci.edu/program/curriculum', (0.0006626905235255136, False, True))])

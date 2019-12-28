@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32/Notes/Sockets', (0.00023234200743494423, False, False))])

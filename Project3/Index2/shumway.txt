@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/?s=publication', (0.0008223684210526315, False, True)), ('https://hombao.ics.uci.edu/R-Computing-TIMEDOMAIN.tx', (0.018867924528301886, False, False)), ('https://www.ics.uci.edu/~ejw/authoring/redmond/hotels.htm', (0.006493506493506494, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

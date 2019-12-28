@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/wics-winter-quarter-week-7wics-round-1-social', (0.0003313452617627568, False, True))])

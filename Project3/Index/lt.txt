@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset', 0.0015723270440251573, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dishonest+Internet+users+Dataset', 0.002277904328018223, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.001075268817204301, False, True)]

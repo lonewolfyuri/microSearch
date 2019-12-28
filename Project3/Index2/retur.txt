@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/covdet_8c.htm', (0.0004084967320261438, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_hikmeans.htm', (0.0029585798816568047, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/covdet_8h.htm', (0.00048828125, False, False))])

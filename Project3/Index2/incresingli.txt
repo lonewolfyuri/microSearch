@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/pattern-recognition', (0.0017482517482517483, False, True)), ('https://ngs.ics.uci.edu/language-for-experiences', (0.0012121212121212121, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~babaks/index.htm', (0.001949317738791423, False, True)), ('https://www.ics.uci.edu/~babaks', (0.001949317738791423, False, True)), ('https://www.ics.uci.edu/~gbowker/records.htm', (9.59877135726627e-05, False, False)), ('https://www.ics.uci.edu/~kobsa/privacy/Canada-private%20sector.htm', (0.002105263157894737, False, True))])

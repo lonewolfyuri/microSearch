@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~zhaoxia/publications/GGWald_manuscript/SourceCode/pvalues.tx', (5.049484952534841e-05, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/set.htm', (0.00046860356138706655, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (1.318118988841925e-07, False, False))])

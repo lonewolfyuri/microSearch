@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ReleaseNote', (9.170946441672781e-05, False, True)), ('http://sli.ics.uci.edu/PmWiki/InterMap?from=PmWiki.CustomInterMa', (0.0015015015015015015, False, True)), ('http://sli.ics.uci.edu/PmWiki/InterMa', (0.0015105740181268882, False, True))])

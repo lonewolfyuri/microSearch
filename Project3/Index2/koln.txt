@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/h76.ht', (0.00303951367781155, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/ms-lang.ht', (0.001257071024512885, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Aronsfrau.htm', (0.00156128024980484, False, False))])

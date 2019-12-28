@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/projects_old_see_AI-projects/sudoku-solver', (0.013333333333333334, False, True)), ('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/sudoku-solver', (0.02040816326530612, False, True))])

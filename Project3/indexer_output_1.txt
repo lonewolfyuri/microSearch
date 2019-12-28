@@ -1,0 +1,4 @@
+Doc Count: 55393
+Token Count: 1079566
+Index Size: 1,691,342,216 bytes
+Which is 1.613 GB

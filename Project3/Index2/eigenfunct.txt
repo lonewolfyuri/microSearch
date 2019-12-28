@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/FowlkesBCM_PAMI_2004', (0.006172839506172839, False, True)), ('http://vision.ics.uci.edu/papers/FowlkesBM_CVPR_2001', (0.005128205128205128, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

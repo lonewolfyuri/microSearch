@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/past_projects/cliques/download/READM', (0.002079002079002079, False, False)), ('http://sprout.ics.uci.edu/past_projects/cliques/download/README_certificate', (0.004032258064516129, False, False)), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-1.tx', (0.0004131093362709997, False, True))])

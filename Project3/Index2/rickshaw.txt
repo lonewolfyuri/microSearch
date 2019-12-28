@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/clickable-video-ads', (0.001287001287001287, False, True)), ('https://ngs.ics.uci.edu/where-sweatshops-are-a-dream', (0.001607717041800643, False, True))])

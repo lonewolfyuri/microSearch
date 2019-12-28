@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/2016-smrq-cs171/CS-171-SMRQ-2016.ht', (0.00021528525296017224, False, True))])

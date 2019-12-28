@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kamsler.htm', (0.0005506607929515419, False, False)), ('https://www.ics.uci.edu/~eppstein/161/people.html', (0.002347417840375587, False, True))])

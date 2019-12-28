@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/egiving/2008/video.ph', (0.003436426116838488, False, True))])

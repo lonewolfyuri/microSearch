@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Ultrasonic+flowmeter+diagnostics', 0.001893939393939394, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 0.00398406374501992, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures', 0.07142857142857142, True, True)]

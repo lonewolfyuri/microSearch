@@ -1,0 +1,1 @@
+dict_items([('https://sli.ics.uci.edu/Site/AllRecentChange', (0.0005640157924421884, False, True)), ('https://sli.ics.uci.edu/Site/UserCreatio', (0.004149377593360996, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Ihler-Private%2FAddSideBa', (0.25, True, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Johutchi-Private%2FAddSideBa', (0.25, True, True))])

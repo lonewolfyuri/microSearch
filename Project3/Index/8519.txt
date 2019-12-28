@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Labels', 0.004081632653061225, False, True)]

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Repeat+Consumption+Matrices', 0.0037593984962406013, False, True)]

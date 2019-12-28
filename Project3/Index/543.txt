@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PANDOR', 0.002457002457002457, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computing', 0.0029154518950437317, False, True)]

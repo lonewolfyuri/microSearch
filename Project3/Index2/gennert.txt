@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alexv/IWIA/ieee.macro', (0.0013605442176870747, False, False)), ('https://www.ics.uci.edu/~kay/pubs/large_intro_courses_gt_files/endnotes.html', (0.006060606060606061, False, True))])

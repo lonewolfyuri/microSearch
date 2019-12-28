@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/vincent-olivieri', (0.001349527665317139, False, True))])

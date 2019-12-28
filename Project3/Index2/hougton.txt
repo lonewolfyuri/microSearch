@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/pubs/ud_writing_gt_files/endnotes.html', (0.05263157894736842, False, True))])

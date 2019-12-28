@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://mdogucu.ics.uci.edu/teaching/stats67-fa19/slide/slide-2a-summarize-data.htm', (0.0005899705014749262, False, True))])

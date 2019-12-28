@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/sun/tsld011.ht', (0.029411764705882353, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/intelligence-analysts', (0.0016313213703099511, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mh', (0.0003368137420006736, False, False))])

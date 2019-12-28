@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~vitus/ics1c/doc/javascript.tx', (0.012658227848101266, False, True))])

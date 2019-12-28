@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://cradl.ics.uci.edu/people/benjamin-koehne-phd-student/', (0.0017513134851138354, False, False)), ('https://cradl.ics.uci.edu/people/benjamin-koehne-phd-student', (0.0017513134851138354, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Presentations/GameLab/GameLab_files/outline.ht', (0.0020964360587002098, False, True))])

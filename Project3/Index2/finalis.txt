@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/roadmap.htm', (0.0029239766081871343, False, False)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/docsrc/roadmap.htm', (0.017241379310344827, False, False))])

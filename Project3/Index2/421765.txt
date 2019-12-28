@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics46/Notes/HashTables', (0.00030156815440289503, False, True))])

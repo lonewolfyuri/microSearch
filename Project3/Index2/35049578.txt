@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/rMATs/colleen-hind-ctrl-KO-mm9-frstrand/ASEvents/fromGTF.MXE.tx', (6.242976651267325e-05, False, False)), ('https://cbcl.ics.uci.edu/public_data/shilab/forColleen/rMATs/colleen-hind-ctrl-KO-mm9/ASEvents/fromGTF.MXE.tx', (6.242976651267325e-05, False, False))])

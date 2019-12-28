@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/INFENG/TR.22', 0.005780346820809248, False, False)]

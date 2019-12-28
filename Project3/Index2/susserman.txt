@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Tilles.htm', (0.002932551319648094, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Wortsman.htm', (0.00477326968973747, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/othrmilr.ht', (0.0029154518950437317, False, True))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Movie', 0.005, False, False), ('http://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/', 0.038461538461538464, False, True), ('http://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29', 0.004694835680751174, False, False)]

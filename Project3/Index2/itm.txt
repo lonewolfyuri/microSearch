@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Dat', (0.0035971223021582736, False, False)), ('https://www.ics.uci.edu/~eppstein/eppstein.htm', (0.0019047619047619048, False, True))])

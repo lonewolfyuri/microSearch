@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/week-6-house-of-moves-tour', (0.00039556962025316455, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.590594944209626e-08, False, False))])

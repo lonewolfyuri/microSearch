@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/minneapolis01/meeting.ht', (0.02142857142857143, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/oslo/advcol_files/v3_document.ht', (0.026272577996715927, False, True)), ('https://www.ics.uci.edu/~wscacchi/Presentations/GameLab/GameLab_files/v3_document.ht', (0.04046997389033943, False, True))])

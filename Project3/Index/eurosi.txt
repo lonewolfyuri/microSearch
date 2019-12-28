@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Student+Performance', 0.001092896174863388, False, True), ('http://archive.ics.uci.edu/ml/datasets/Bank+Marketing', 0.0011389521640091116, False, True)]

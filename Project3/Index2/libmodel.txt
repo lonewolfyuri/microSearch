@@ -1,0 +1,1 @@
+dict_items([('http://plrg.ics.uci.edu/c11tester', (0.0012391573729863693, False, True)), ('http://plrg.ics.uci.edu/software_page/42-2/', (0.0007905138339920949, False, True)), ('http://plrg.ics.uci.edu/software_page/42-2', (0.0007905138339920949, False, True)), ('http://plrg.ics.uci.edu/c11tester/', (0.0012391573729863693, False, True))])

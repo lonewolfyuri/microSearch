@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/DGP2+-+The+Second+Data+Generation+Program', 0.0015360983102918587, False, True)]

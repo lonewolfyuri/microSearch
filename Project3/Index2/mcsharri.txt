@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitorin', (0.002061855670103093, False, True)), ('http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitatio', (0.001763668430335097, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Parkinson', (0.002325581395348837, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/google-maps-and-latitude', (0.0013831258644536654, False, True)), ('https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2', (0.0013679890560875513, False, True))])

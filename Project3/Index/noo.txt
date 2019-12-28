@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Demospongiae', 0.004889975550122249, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/', 0.043478260869565216, False, True)]

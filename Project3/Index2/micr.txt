@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/macrosopes', (0.001890359168241966, False, True)), ('https://ngs.ics.uci.edu/extreme-stories2', (0.0011350737797956867, False, True)), ('https://ngs.ics.uci.edu/extreme-stories-10', (0.0013698630136986301, False, True))])

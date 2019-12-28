@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Datase', (0.0017605633802816902, False, True)), ('https://www.ics.uci.edu/~arcadia/Teamware/tags/RCS/example.html,', (0.004, False, False))])

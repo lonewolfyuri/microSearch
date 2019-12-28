@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/AllinBER_NSRE_2010', (0.0037735849056603774, False, True)), ('http://vision.ics.uci.edu/people/20.htm', (0.000968054211035818, False, True)), ('http://vision.ics.uci.edu/publications.htm', (0.00043687199650502403, False, True)), ('http://vision.ics.uci.edu/projects/people', (0.001851851851851852, False, True))])

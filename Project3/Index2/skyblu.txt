@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Serie', (0.00425531914893617, False, False)), ('https://www.ics.uci.edu/~jihyunp', (0.0018115942028985507, False, True)), ('http://motifmap-rna.ics.uci.edu/hel', (0.03571428571428571, False, True)), ('http://motifmap-rna.ics.uci.edu', (0.03571428571428571, False, True))])

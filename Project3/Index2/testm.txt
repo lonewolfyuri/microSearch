@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/class/267P/datasets/speech/READM', (0.0136986301369863, False, False)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/speech', (0.04, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/draft-goland-http-webdav-00.tx', (0.0003249390739236393, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/redmond/raw_minutes.htm', (0.00033478406427854036, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

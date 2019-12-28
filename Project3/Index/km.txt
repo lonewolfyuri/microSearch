@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/EMG+dataset+in+Lower+Limb', 0.0035460992907801418, False, True), ('http://archive.ics.uci.edu/ml/datasets/GPS+Trajectories', 0.0032679738562091504, False, True)]

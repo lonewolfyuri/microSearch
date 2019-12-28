@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/teach/ics247/notes/.htpassw', (0.3333333333333333, False, False))])

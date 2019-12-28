@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/OCT+data+%26+Color+Fundus+Images+of+Left+%26+Right+Eyes', 0.0024154589371980675, False, True)]

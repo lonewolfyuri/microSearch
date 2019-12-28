@@ -1,0 +1,1 @@
+dict_items([('http://computableplant.ics.uci.edu/sw/sassign/index.ht', (0.003289473684210526, False, True))])

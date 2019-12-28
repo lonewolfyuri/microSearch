@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/talks/lifted-minischool-2014', (0.013513513513513514, False, True))])

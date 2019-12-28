@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Audiology+(Standardized', (0.0010626992561105207, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Audiology+%28Standardized%2', (0.0010626992561105207, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

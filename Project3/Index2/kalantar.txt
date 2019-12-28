@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/SCAD', (0.004310344827586207, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=115', (0.0030303030303030303, False, False)), ('https://www.ics.uci.edu/~dgillen/research.htm', (0.0012330456226880395, False, True))])

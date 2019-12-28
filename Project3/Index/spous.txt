@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Adult', 0.008241758241758242, False, True), ('http://archive.ics.uci.edu/ml/datasets/Census+Income', 0.00821917808219178, False, True)]

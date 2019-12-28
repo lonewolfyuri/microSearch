@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~magda/cs620/announceOG.htm', (0.0037735849056603774, False, True))])

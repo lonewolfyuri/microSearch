@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/solar-flare/', 0.043478260869565216, False, True), ('http://archive.ics.uci.edu/ml/datasets/Solar+Flare', 0.0032679738562091504, False, True)]

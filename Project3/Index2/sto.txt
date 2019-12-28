@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/bibs/subiso.bi', (5.203996669442132e-05, False, True)), ('https://ngs.ics.uci.edu/photo-uploads-on-facebook', (0.0009737098344693282, False, True)), ('https://ngs.ics.uci.edu/future-surveillance', (0.0011086474501108647, False, True))])

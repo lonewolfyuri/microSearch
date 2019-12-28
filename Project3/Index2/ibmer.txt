@@ -1,0 +1,1 @@
+dict_items([('http://sdcl.ics.uci.edu/page/8', (0.0007352941176470588, False, False)), ('http://sdcl.ics.uci.edu/author/andre/page/7', (0.0012004801920768306, False, True)), ('http://sdcl.ics.uci.edu/2013/10/scale-at-ibms-t-j-watson-research-center', (0.0012610340479192938, False, False)), ('http://sdcl.ics.uci.edu/category/travel/page/2', (0.0012578616352201257, False, True))])

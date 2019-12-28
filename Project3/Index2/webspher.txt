@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/pres/stc-99/tsld008.ht', (0.041666666666666664, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/implementation.htm', (0.0017064846416382253, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (9.226832921893476e-07, False, False))])

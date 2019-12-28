@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/First-order+theorem+provin', (0.0035971223021582736, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Liver+Disorders', (0.00141643059490085, False, False)), ('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)', (0.0011682242990654205, False, True)), ('http://archive.ics.uci.edu/ml/support/Primary+Tumor', (0.003067484662576687, False, True))])

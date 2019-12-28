@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-33/lectures/iterators.tx', (0.00021537798836958864, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/a-german-wedding', (0.0016051364365971107, False, True))])

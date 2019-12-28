@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/global-game-jam-spurs-inspiration-and-connectivity/', (0.0008012820512820513, False, False)), ('https://www.informatics.uci.edu/global-game-jam-spurs-inspiration-and-connectivity', (0.0008012820512820513, False, False)), ('https://www.ics.uci.edu/community/news/features/view_feature?id=6', (0.001594896331738437, False, False))])

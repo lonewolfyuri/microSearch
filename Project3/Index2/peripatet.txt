@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/classification', (0.00016652789342214822, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_hanratty.ph', (0.0013333333333333333, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

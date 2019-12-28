@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/levorato-collaborates-on-3-7-million-grant-for-electricity-distribution-cybersecurity', (0.0015748031496062992, False, False)), ('https://www.cs.uci.edu/news/page/12', (0.0007127583749109052, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=127', (0.00425531914893617, False, False))])

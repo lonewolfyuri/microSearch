@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/moa/KlixkenGukwdzi.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/moa/Dzunukwa.htm', (0.25, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/moa/Salvage.htm', (0.08333333333333333, False, True))])

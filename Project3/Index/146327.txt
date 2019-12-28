@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation', 0.004424778761061947, False, True)]

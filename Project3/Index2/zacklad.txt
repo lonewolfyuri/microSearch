@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbowker/content.ht', (0.0049261083743842365, False, True))])

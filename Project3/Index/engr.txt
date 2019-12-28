@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Series', 0.0023923444976076554, False, True), ('http://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Labels', 0.0033003300330033004, False, False)]

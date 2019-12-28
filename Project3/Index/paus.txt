@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet', 0.001440922190201729, False, True), ('http://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures', 0.002207505518763797, False, True)]

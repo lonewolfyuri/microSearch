@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics10A/CourseGrades.htm', (0.019498607242339833, False, True)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (0.00021567993098242207, False, True))])

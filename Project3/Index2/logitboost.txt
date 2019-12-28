@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Iri', (0.0015432098765432098, False, True)), ('http://archive.ics.uci.edu/ml/support/Census-Income+(KDD)', (0.003875968992248062, False, True)), ('http://archive.ics.uci.edu/ml/support/Census+Income', (0.0009823182711198428, False, True)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.004739336492890996, False, True))])

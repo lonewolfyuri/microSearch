@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/protocol/dav-08-to-09.htm', (0.003424657534246575, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (3.493015320431101e-06, False, False))])

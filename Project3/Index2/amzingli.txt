@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/need-for-theory-and-models-of-events', (0.0016891891891891893, False, True))])

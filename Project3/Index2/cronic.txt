@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Dermatolog', (0.0022222222222222222, False, True)), ('https://ngs.ics.uci.edu/from-calendars-to-chronicles-2/', (0.0009442870632672333, False, False)), ('https://ngs.ics.uci.edu/from-calendars-to-chronicles-2', (0.0009442870632672333, False, False))])

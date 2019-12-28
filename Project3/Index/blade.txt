@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise', 0.0049261083743842365, False, False), ('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.0022222222222222222, False, True)]

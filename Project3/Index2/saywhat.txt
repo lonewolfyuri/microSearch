@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/autism-appjam-highlights-academias-growing-impact-on-the-autism-community', (0.0007363770250368188, False, False)), ('https://www.informatics.uci.edu/autism-appjam-highlights-academias-growing-impact-on-the-autism-community/', (0.0007363770250368188, False, False))])

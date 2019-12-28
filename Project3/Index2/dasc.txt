@@ -1,0 +1,1 @@
+dict_items([('http://iasl.ics.uci.edu/people/rahimims', (0.0007251631617113851, False, True)), ('https://iasl.ics.uci.edu/people/rahimims/', (0.0007251631617113851, False, True)), ('https://www.ics.uci.edu/~alfchen/alfred_dasc11_cbf.bi', (0.019230769230769232, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://hombao.ics.uci.edu/hilario.htm', (0.05, False, True)), ('https://www.ics.uci.edu/~kay/malenames.tx', (0.00016605778811026238, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

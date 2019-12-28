@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/stanford-class-series-sales-and-marketing', (0.00040048057669203043, False, True)), ('https://wics.ics.uci.edu/event/week-6-study-session', (0.00040112314480545525, False, True)), ('https://wics.ics.uci.edu/event/general-meeting-2', (0.0004152823920265781, False, True))])

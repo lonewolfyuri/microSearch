@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/FactorNet/Hepg2_Haib_localmean_lstm_120_predicts/Hvmf', (0.08333333333333333, True, True)), ('https://cbcl.ics.uci.edu/public_data/FactorNet/Hepg2_Haib_localmean_lstm_120_predicts', (0.017543859649122806, False, True))])

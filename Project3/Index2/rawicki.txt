@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Geduldig.htm', (0.00141643059490085, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/raflmeir.ht', (0.0007017543859649122, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/desc-aam.ht', (0.00021181952976064393, False, True))])

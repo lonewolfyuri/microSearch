@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/kra_remuh_yizkor.ht', (0.0003966679888932963, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.tx', (0.0001401856057420024, False, False))])

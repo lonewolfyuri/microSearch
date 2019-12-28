@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/aggregating-user-generated-video', (0.0016366612111292963, False, True))])

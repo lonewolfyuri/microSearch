@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/classes/in4rmatx-295-digital-media-games', (0.0004734848484848485, False, True)), ('https://www.informatics.uci.edu/explore/department-seminars/seminar-info/?seminar_id=100', (0.0007530120481927711, False, False))])

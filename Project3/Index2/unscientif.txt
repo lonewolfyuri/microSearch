@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/darwin_design.ht', (0.006944444444444444, False, True)), ('https://www.ics.uci.edu/~asuncion/bush_science.ht', (0.003105590062111801, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/taxonomy-and-folksonomy', (0.0010152284263959391, False, False))])

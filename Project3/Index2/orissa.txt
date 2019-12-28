@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/dyn/pictures/croc/index.ht', (0.25, True, True)), ('https://www.ics.uci.edu/~mopy/personal.htm', (0.002066115702479339, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/united-india', (0.0016366612111292963, False, True))])

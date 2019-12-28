@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experimen', (0.003861003861003861, False, True)), ('http://computableplant.ics.uci.edu/alphasite/people-former.htm', (0.00625, False, False)), ('http://computableplant.ics.uci.edu/people.htm', (0.0019569471624266144, False, False))])

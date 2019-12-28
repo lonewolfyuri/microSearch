@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/SECO', (0.001447178002894356, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.470193803693989e-06, False, False))])

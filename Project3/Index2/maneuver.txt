@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (1.8180968162527466e-05, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=138', (0.0009276437847866419, False, False))])

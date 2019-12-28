@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cloud', 0.002150537634408602, False, True), ('http://archive.ics.uci.edu/ml/support/Cloud#4bcdbeaa8f46590fca87d041c66b18a6622b82b3', 0.0045662100456621, False, True)]

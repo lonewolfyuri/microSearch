@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Rauchinger.htm', (0.0029910269192422734, False, False)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_vuong.ph', (0.00234192037470726, False, True))])

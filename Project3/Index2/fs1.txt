@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+system', (0.001953125, False, True))])

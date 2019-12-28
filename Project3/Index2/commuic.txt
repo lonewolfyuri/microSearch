@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~keldefra/teaching/winter2013/uci_netsys202_ics233/outlineG.ht', (0.0003924646781789639, False, True)), ('https://www.ics.uci.edu/~keldefra/teaching/winter2014/uci_netsys202_ics233/outlineG.ht', (0.00039184952978056425, False, True))])

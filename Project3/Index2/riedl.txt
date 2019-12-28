@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/USPTO+Algorithm+Challenge%2C+run+by+NASA-Harvard+Tournament+Lab+and+TopCoder++++Problem%3A+Pa', (0.0017271157167530224, False, True)), ('https://www.ics.uci.edu/~pazzani/Publications/dica-chi96.htm', (0.0006578947368421052, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Vehicle+Silhouettes)', (0.0015735641227380016, False, False)), ('http://archive.ics.uci.edu/ml/support/Glass+Identification', (0.00041118421052631577, False, True))])

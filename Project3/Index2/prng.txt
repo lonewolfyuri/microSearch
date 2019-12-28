@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/teach/cs165/notes', (0.007142857142857143, False, True))])

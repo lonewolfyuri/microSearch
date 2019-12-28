@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics33/ProjectGuide/Assignment0/InstallMac.htm', (0.002008032128514056, False, True)), ('https://www.ics.uci.edu/~thornton/ics33/ProjectGuide/Assignment0/InstallWindows.htm', (0.0006825938566552901, False, True))])

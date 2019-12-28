@@ -1,0 +1,1 @@
+dict_items([('http://sparcfire.ics.uci.edu/query', (0.0010193679918450561, False, True))])

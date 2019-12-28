@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/milkshake-drunk-researcher-and-problem-solving', (0.001201923076923077, False, False))])

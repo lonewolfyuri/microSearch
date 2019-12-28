@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Victorian+Era+Authorship+Attribution', 0.004032258064516129, False, True)]

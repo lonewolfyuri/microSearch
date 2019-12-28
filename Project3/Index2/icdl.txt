@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Iri', (0.000513083632632119, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Mushroo', (0.0005370569280343716, False, False)), ('http://archive.ics.uci.edu/ml/support/Mushroom', (0.00038138825324180017, False, False)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00015384615384615385, False, False))])

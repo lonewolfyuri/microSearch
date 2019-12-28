@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (0.0002954209748892171, False, True)), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipyn', (0.00030525030525030525, False, True))])

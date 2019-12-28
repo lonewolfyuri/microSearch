@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/news/page/9', (0.0013192612137203166, False, False)), ('https://www.cs.uci.edu/gene-tsudik-ics-exchange-students-on-international-team-studying-information-leakage', (0.0015432098765432098, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=138', (0.004032258064516129, False, False))])

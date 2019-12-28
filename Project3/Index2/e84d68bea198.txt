@@ -1,0 +1,1 @@
+dict_items([('https://duttgroup.ics.uci.edu/sister-groups', (0.020585048754062838, False, True)), ('https://duttgroup.ics.uci.edu/sister-groups/', (0.020585048754062838, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Glass+Identification', (0.0003307972213033411, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Glass+Identificatio', (0.0007451564828614009, False, False))])

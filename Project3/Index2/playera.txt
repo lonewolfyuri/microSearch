@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~rickl/courses/cs-171/projects_old_see_AI-projects/connect-k/Tournament_small_framework/images', (0.023809523809523808, False, True))])

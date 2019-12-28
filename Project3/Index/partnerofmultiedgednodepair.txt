@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/KEGG+Metabolic+Relation+Network+%28Directed%29', 0.001968503937007874, False, True)]

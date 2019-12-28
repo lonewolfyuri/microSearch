@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (0.00025258903763576663, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Datase', (0.003048780487804878, False, True)), ('https://ngs.ics.uci.edu/web-20-hype', (0.002902757619738752, False, True))])

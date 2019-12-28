@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/releases/2.0.1/docs/FilterTreeDoc.htm', (0.0013513513513513514, False, True)), ('http://flamingo.ics.uci.edu/releases/2.0/docs/FilterTreeDoc.htm', (0.0013513513513513514, False, True))])

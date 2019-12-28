@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://duttgroup.ics.uci.edu/publications/?limit=3', (0.00013987970345502866, False, True))])

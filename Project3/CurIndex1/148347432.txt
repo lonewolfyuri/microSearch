@@ -1,0 +1,1 @@
+dict_items([(53516, (0.05, False, True)), (53518, (0.05, False, True)), (53519, (0.05, False, True)), (53523, (0.05, False, True)), (53526, (0.05, False, True)), (53530, (0.05, False, True)), (53535, (0.05, False, True)), (53537, (0.05, False, True)), (53538, (0.05, False, True)), (53540, (0.05, False, True)), (53541, (0.05, False, True)), (53544, (0.05, False, True))])

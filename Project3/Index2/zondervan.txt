@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/transmission_accuracy.ht', (0.0011148272017837235, False, False))])

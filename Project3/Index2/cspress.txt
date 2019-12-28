@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~projects/SATware/doc/copyright.htm', (0.006756756756756757, False, True)), ('https://www.ics.uci.edu/~dsm/cypress/copyright.tx', (0.002967359050445104, False, False))])

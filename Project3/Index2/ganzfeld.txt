@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jutts/response.htm', (0.008281573498964804, False, True)), ('https://www.ics.uci.edu/~jutts/is8c/Onlinestuff.htm', (0.010638297872340425, False, True)), ('https://www.ics.uci.edu/~jutts/hyman.htm', (0.0015015015015015015, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/euler/refs.htm', (0.0019569471624266144, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/all.htm', (0.0006821282401091405, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/angle.htm', (0.00546448087431694, False, True))])

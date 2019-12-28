@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/prodigy/domains/gridworld/probs/', 0.02127659574468085, False, True), ('http://archive.ics.uci.edu/ml/datasets/seismic-bumps', 0.002849002849002849, False, True)]

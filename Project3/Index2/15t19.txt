@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/event/week-2-pariveda-solutions-info-sesion', (0.00040048057669203043, False, True)), ('https://wics.ics.uci.edu/event/week-7-startup-career-fair', (0.0003972983710766786, False, True)), ('https://wics.ics.uci.edu/event/week-2-intro-to-networking-and-professional-attire-workshop', (0.00039888312724371757, False, True))])

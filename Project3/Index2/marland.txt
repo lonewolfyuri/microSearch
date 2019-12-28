@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('http://computableplant.ics.uci.edu/tut.htm', (0.0025188916876574307, False, True)), ('http://computableplant.ics.uci.edu/alphasite/tutorials.htm', (0.0029498525073746312, False, True))])

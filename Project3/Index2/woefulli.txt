@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/homochirality.ht', (0.0018181818181818182, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

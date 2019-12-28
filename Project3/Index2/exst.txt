@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics46/Notes/MoveSemantics', (0.000784313725490196, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/class.tx', (0.0003453038674033149, False, True))])

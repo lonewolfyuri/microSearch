@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Kopelik.htm', (0.0003714710252600297, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad', (0.0013020833333333333, False, True)), ('https://www.ics.uci.edu/ugrad/index.ph', (0.0013020833333333333, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/brknspir.htm', (7.60051683514479e-05, False, False)), ('https://www.ics.uci.edu/ugrad/inde', (0.0013020833333333333, False, True))])

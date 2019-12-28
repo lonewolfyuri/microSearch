@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/attending-acm-multimedia-2007', (0.0018796992481203006, False, True)), ('https://ngs.ics.uci.edu/evolving-nature-of-books-2', (0.0015698587127158557, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/shape-metric.htm', (0.0005181347150259067, False, False)), ('https://www.ics.uci.edu/~jacobson/ics45J/CourseGradesAfter.htm', (0.0072992700729927005, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data', 0.0015479876160990713, False, True)]

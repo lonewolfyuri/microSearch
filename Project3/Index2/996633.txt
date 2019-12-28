@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/ngocdo/about_me.htm', (0.0019305019305019305, False, True)), ('https://www.ics.uci.edu/~dsm/ngocdo/publications.htm', (0.0019305019305019305, False, True)), ('https://www.ics.uci.edu/~cs230/main.htm', (0.0019305019305019305, False, True)), ('https://www.ics.uci.edu/~cs230/materials.htm', (0.003048780487804878, False, True))])

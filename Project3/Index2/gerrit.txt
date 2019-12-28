@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (0.0012254901960784314, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (6.524688994767529e-06, False, False))])

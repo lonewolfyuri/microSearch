@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/US+Census+Data+(1990)#6bacbb21f7a1d6dee581f756cf326e0932446698', 0.002881844380403458, False, True)]

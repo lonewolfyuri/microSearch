@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/b.tx', (3.240230704426155e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Grunberg.htm', (0.00048007681228996637, False, False))])

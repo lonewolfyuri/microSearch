@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~jacobson/ics23/EnrollmentInformation.htm', (0.002066115702479339, False, True)), ('https://www.ics.uci.edu/~jacobson/ics45J/EnrollmentInformation.htm', (0.0021413276231263384, False, True)), ('https://www.ics.uci.edu/~jacobson/ics21/EnrollmentInformation.htm', (0.0016260162601626016, False, True))])

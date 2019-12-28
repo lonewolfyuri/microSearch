@@ -1,0 +1,1 @@
+dict_items([('http://sprout.ics.uci.edu/projects/privacy-dna/index.htm', (0.004032258064516129, False, True)), ('http://sprout.ics.uci.edu/projects/privacy-dna', (0.004032258064516129, False, True))])

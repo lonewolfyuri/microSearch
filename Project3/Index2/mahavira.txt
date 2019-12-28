@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/giving-back-to-society-gates-and-buffett', (0.0012594458438287153, False, False)), ('https://ngs.ics.uci.edu/terrorism-in-india', (0.0016611295681063123, False, True))])

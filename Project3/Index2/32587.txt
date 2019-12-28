@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame', (0.0016556291390728477, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (4.613416460946738e-07, False, False))])

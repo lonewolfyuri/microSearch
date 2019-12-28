@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/QE/QueryEngine.htm', (0.008130081300813009, False, False)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/index-files/index-1.htm', (0.003484320557491289, False, True)), ('https://www.ics.uci.edu/~raccoon/release/v2.0/doc/Raccoon/RM/ResourceManager.htm', (0.010309278350515464, False, True))])

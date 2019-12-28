@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~arcadia/Teamware/docs/Foundation.TMWFoundation.htm', (0.0006747638326585695, False, False)), ('https://www.ics.uci.edu/~arcadia/Teamware/docs/Foundation.Objv.MetaClass.htm', (0.0017482517482517483, False, False)), ('https://www.ics.uci.edu/~arcadia/Teamware/docs/Foundation.Objv.ObjectClass.htm', (0.0019569471624266144, False, False))])

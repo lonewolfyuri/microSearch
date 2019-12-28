@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/SML201', (0.00411522633744856, False, True)), ('http://archive.ics.uci.edu/ml/datasets/NoisyOffic', (0.003937007874015748, False, True)), ('https://www.ics.uci.edu/~kay/surnames.tx', (0.000166472448809722, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

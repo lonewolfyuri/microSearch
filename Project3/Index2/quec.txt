@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/steering-wheel-and-search-as-a-conversation', (0.0011312217194570137, False, True)), ('https://ngs.ics.uci.edu/human-and-search', (0.002254791431792559, False, True))])

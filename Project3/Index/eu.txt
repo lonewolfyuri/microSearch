@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE', 0.004830917874396135, False, False), ('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait', 0.0033783783783783786, False, True)]

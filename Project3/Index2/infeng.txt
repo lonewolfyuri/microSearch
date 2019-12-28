@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/INFENG/TR.2', (0.005813953488372093, False, False))])

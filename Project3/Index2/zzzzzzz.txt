@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~shendric/personal/Emily,%20Through%20December%202005/target14.htm', (0.125, False, True))])

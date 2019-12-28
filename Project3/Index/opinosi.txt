@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Opinosis+Opinion+%26frasl%3B+Review', 0.1111111111111111, True, True)]

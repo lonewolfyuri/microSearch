@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/face-recognition-one-more-claim', (0.00205761316872428, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/75', (0.0013812154696132596, False, True)), ('https://ngs.ics.uci.edu/category/technical-thoughts/page/27', (0.0016155088852988692, False, True)), ('https://ngs.ics.uci.edu/blog/page/75', (0.001375515818431912, False, True))])

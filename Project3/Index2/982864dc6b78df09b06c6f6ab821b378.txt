@@ -1,0 +1,1 @@
+dict_items([('http://flamingo.ics.uci.edu/toolkit/src/udf/mysql/ed/.svn/entrie', (0.004651162790697674, False, False))])

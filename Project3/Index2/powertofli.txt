@@ -1,0 +1,1 @@
+dict_items([('https://mcs.ics.uci.edu/career/finding-a-job-internship', (0.001287001287001287, False, True)), ('https://mswe.ics.uci.edu/career/job-search-sites', (0.0011173184357541898, False, True))])

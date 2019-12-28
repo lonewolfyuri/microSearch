@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/category/general-updates/page/85', (0.001763668430335097, False, True)), ('https://ngs.ics.uci.edu/author/ramesh/page/251', (0.001483679525222552, False, True)), ('https://ngs.ics.uci.edu/blog/page/251', (0.0014771048744460858, False, True))])

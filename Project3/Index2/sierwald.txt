@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~agarwal/bugproject/index.htm', (0.001639344262295082, False, False)), ('https://www.ics.uci.edu/~agarwal/eScience_2017.bi', (0.023255813953488372, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/max-h35.ht', (0.008064516129032258, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/eidb.ht', (0.00039184952978056425, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/yshyadvg.tx', (0.00020370747606437156, False, False))])

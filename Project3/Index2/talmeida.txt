@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collectio', (0.0020920502092050207, False, True)), ('http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collectio', (0.004132231404958678, False, True))])

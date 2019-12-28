@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-juliet-norton/', (0.0008539709649871904, False, True)), ('https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-juliet-norton', (0.0008539709649871904, False, True))])

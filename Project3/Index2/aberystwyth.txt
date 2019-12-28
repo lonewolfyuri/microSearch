@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/E.+Coli+Gene', (0.003875968992248062, False, True)), ('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Gene', (0.00392156862745098, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

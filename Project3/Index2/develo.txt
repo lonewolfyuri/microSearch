@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/ugrad/resources/ICS_StudentOrgs.ph', (0.0011111111111111111, False, True)), ('https://ngs.ics.uci.edu/lifelog-made-easy', (0.001392757660167131, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Grosshut.htm', (0.002053388090349076, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Hertzig.htm', (0.00382262996941896, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.tx', (5.607424229680096e-05, False, False))])

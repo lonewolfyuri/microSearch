@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/bulgarian-experience', (0.0011148272017837235, False, True)), ('https://ngs.ics.uci.edu/in-varna-bulgaria', (0.0009033423667570009, False, True))])

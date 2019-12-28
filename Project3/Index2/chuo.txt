@@ -1,0 +1,1 @@
+dict_items([('https://www.stat.uci.edu/seminar-series/seminar-series-2013-2014', (0.0014204545454545455, False, True))])

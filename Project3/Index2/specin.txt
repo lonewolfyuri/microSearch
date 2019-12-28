@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~alfchen/teaching/cs134-2019-Fall/index.htm', (0.0033222591362126247, False, False)), ('https://www.ics.uci.edu/~keldefra/teaching/fall2016/uci_compsci134/compsci134_outline.ht', (0.00040666937779585197, False, True)), ('http://sconce.ics.uci.edu/134-W15/book.htm', (0.0048543689320388345, False, True))])

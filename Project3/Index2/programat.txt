@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/orlando/acl_breakout.htm', (0.0015455950540958269, False, True)), ('https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization', (0.0012300123001230013, False, True))])

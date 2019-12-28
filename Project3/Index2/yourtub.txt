@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/joint-response-to-youtube', (0.001483679525222552, False, True))])

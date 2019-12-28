@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Zoo', (0.0008389261744966443, False, False)), ('http://archive.ics.uci.edu/ml/datasets/Zo', (0.001422475106685633, False, False)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (7.94912559618442e-05, False, False))])

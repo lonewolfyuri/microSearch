@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~stasio/winter06/Homeworks/sol5.tx', (0.00149812734082397, False, True))])

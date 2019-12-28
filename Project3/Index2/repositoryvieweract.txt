@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/covert/ICC_allSols.tx', (0.007308684436801376, False, False)), ('https://seal.ics.uci.edu/projects/covert/ICC_allSols.tx', (0.007308684436801376, False, False))])

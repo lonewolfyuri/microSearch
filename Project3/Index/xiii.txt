@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Echocardiogram#b6069e488f10098d50e684d245a5574aa0c50c58', 0.001841620626151013, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.00202020202020202, False, True)]

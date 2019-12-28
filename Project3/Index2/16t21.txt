@@ -1,0 +1,1 @@
+dict_items([('https://today.uci.edu/department/information_computer_sciences?calendar=', (0.0006373486297004461, False, True)), ('https://today.uci.edu/department/information_computer_science', (0.0006373486297004461, False, True)), ('https://wics.ics.uci.edu/event/southern-california-edison-info-session', (0.00041152263374485596, False, True))])

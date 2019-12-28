@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/cav-indexing-towards-contenxt', (0.0012642225031605564, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Ebersohn.htm', (0.001579778830963665, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c90.tx', (6.104260774020266e-05, False, False))])

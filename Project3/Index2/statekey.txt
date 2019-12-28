@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-CS271-Notes%2FSearchHeuristi', (0.003257328990228013, False, False))])

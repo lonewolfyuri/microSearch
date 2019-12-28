@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/mime-res/draft-stracke-webdav-mime-resource-00.tx', (0.002242152466367713, False, True))])

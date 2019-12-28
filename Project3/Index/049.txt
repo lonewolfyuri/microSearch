@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/News+Aggregator', 0.001890359168241966, False, True), ('http://archive.ics.uci.edu/ml/support/Balance+Scale#c171fe96d278ffa703aa1310c738cad8586b4cb3', 0.0011037527593818985, False, False)]

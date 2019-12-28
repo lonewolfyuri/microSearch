@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/Makefile.ma', (0.0019646365422396855, False, False)), ('https://www.ics.uci.edu/~kibler/H23Homeworks.ht', (0.00024912805181863477, False, True))])

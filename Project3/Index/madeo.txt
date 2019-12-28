@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Libras+Movement', 0.00228310502283105, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gesture+Phase+Segmentation', 0.0078125, False, True)]

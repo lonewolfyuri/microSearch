@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.0013458950201884253, False, True), ('http://archive.ics.uci.edu/ml/datasets/Zoo', 0.002403846153846154, False, True), ('http://archive.ics.uci.edu/ml/datasets/Wholesale+customers', 0.0071174377224199285, False, True)]

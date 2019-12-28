@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gbolcer', (0.000744047619047619, False, True)), ('https://www.ics.uci.edu/community/news/articles/view_article?id=5', (0.001694915254237288, False, True)), ('https://www.ics.uci.edu/ugrad/policies/Change_of_Major.ph', (0.002570694087403599, False, False))])

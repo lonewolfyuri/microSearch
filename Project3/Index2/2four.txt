@@ -1,0 +1,1 @@
+dict_items([('https://wics.ics.uci.edu/our-mentorship-program/', (0.0003020235578375113, False, True)), ('https://wics.ics.uci.edu/our-mentorship-program', (0.0003020235578375113, False, True))])

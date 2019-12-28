@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs221-2019-spring-project2/Team2StressTest.tx', (7.935815127250795e-06, False, False)), ('https://ngs.ics.uci.edu/list-of-publications', (0.0016313213703099511, False, True))])

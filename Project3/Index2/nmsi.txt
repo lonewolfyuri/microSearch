@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/frost-helps-shape-k-12-computer-science-education', (0.000942507068803016, False, False)), ('https://www.informatics.uci.edu/frost-helps-shape-k-12-computer-science-education/', (0.000942507068803016, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=103', (0.003246753246753247, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_3.html', (0.0008326394671107411, False, False)), ('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_11.html', (0.0005698005698005698, False, True)), ('https://www.ics.uci.edu/~aburtsev/143A/hw/hw1-simple-programs.htm', (0.0002726281352235551, False, True))])

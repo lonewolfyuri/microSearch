@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/friends/proj125/proj125_testimonials.ph', (0.0029940119760479044, False, True)), ('https://ngs.ics.uci.edu/nagpur', (0.000544069640914037, False, True)), ('https://ngs.ics.uci.edu/memories-from-ann-arbor-mi', (0.0012987012987012987, False, True))])

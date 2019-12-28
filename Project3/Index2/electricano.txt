@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/diverse-innovation-on-display-at-2018-capstone-game-showcase/', (0.00078125, False, False)), ('https://www.informatics.uci.edu/diverse-innovation-on-display-at-2018-capstone-game-showcase', (0.00078125, False, False)), ('https://www.ics.uci.edu/community/news/view_news.php?id=130', (0.0019011406844106464, False, False))])

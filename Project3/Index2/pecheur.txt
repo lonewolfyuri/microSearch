@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/montpellier/LaGiraffe.htm', (0.07692307692307693, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/montpellier/MarcheDesPecheurs.htm', (0.3333333333333333, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/montpellier/RooftopPoolFromArch.htm', (0.125, False, True))])

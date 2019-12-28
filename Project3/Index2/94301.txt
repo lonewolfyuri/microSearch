@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ics1c/doc/guide.61.html/guide.info.htm', (0.0045871559633027525, False, True)), ('https://www.ics.uci.edu/~maheshmn/eCACTI/license.tx', (0.0017391304347826088, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/cosmos/Lab4/alexdna.tx', (0.022727272727272728, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/.DS_Stor', (0.008888888888888889, False, False))])

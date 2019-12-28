@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~smyth/courses/stats5/onlineslides/RCode_for_Feb6th_Lecture/STAT5_GuassianMixture.', (0.022727272727272728, False, False))])

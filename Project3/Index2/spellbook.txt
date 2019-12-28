@@ -1,0 +1,1 @@
+dict_items([('https://transformativeplay.ics.uci.edu/magia-transformo', (0.004968944099378882, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/new', (5.5438518682780794e-05, False, True))])

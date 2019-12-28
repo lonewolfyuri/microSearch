@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_1.html', (0.000281610813855252, False, True)), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper', (0.003134796238244514, False, False)), ('https://www.ics.uci.edu/~ardalan/courses/os/pintos/pintos_10.html', (0.0010964912280701754, False, True))])

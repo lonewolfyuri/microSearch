@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Dishonest+Internet+users+Dataset', 0.002881844380403458, False, True), ('http://archive.ics.uci.edu/ml/datasets/Hayes-Roth', 0.002398081534772182, False, True)]

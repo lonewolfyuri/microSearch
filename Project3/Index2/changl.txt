@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/chicago/access_control/tsld013.ht', (0.00909090909090909, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/chicago/access_control/sld013.ht', (0.011363636363636364, False, True))])

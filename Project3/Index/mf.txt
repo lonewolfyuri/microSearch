@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Nursery#d342517262ff52ffd3566bd8f520b36723486aa3', 0.0021598272138228943, False, True), ('http://archive.ics.uci.edu/ml/datasets/Online+Handwritten+Assamese+Characters+Dataset', 0.0009442870632672333, False, True)]

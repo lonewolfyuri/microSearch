@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Car+Evaluation', (0.000970873786407767, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Car+Evaluatio', (0.0012484394506866417, False, True)), ('https://www.ics.uci.edu/~ardalan/publications.htm', (0.0023148148148148147, False, True))])

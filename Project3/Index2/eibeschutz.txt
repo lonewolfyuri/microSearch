@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Ehrenpreis.htm', (0.0008680555555555555, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Dalet.htm', (0.002531645569620253, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Eibuschutz.htm', (0.0012135922330097086, False, False))])

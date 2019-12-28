@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/bao-dissection-challenges.htm', (0.0007501875468867217, False, True)), ('https://www.ics.uci.edu/~eppstein/junkyard/small-dist.htm', (0.0008695652173913044, False, False))])

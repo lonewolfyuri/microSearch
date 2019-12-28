@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/31/string-formatting.htm', (0.0008532423208191126, False, False)), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/morejava/lecture.htm', (0.0005627462014631402, False, True))])

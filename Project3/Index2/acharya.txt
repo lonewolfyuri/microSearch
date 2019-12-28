@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Datase', (0.0037313432835820895, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood', (0.0010204081632653062, False, True))])

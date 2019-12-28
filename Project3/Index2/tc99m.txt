@@ -1,0 +1,1 @@
+dict_items([('http://vision.ics.uci.edu/papers/KeatorFLFPI_HBM_2012', (0.0038022813688212928, False, True)), ('https://www.ics.uci.edu/~ihler/papers/abs.html', (8.644536652835408e-05, False, True))])

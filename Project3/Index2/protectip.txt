@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~sjordan/courses/ics11/case_studies/copyright.htm', (0.008928571428571428, False, True))])

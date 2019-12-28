@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/i42/w12.fxrqans.htm', (0.0004664179104477612, False, True)), ('https://www.ics.uci.edu/~kay/courses/i42/questions.htm', (0.0005138746145940391, False, True)), ('https://www.ics.uci.edu/~kay/courses/i42/w12.fxrq.htm', (0.0005227391531625719, False, True))])

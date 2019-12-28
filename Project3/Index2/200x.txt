@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/numth/egypt/carmichael.htm', (0.0021929824561403508, False, False)), ('https://www.ics.uci.edu/~chenli/pods05/sig-alternate.cl', (0.00017208742040956807, False, True))])

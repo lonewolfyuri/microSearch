@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set', 0.0010245901639344263, False, True), ('http://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment', 0.002178649237472767, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters+%28Version+2%29', 0.0009124087591240876, False, True)]

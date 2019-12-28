@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/graphalgorithmsI.tx', (0.0006898930665746809, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/speedup.tx', (0.00641025641025641, False, False))])

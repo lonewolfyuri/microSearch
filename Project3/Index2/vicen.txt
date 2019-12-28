@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Iri', (0.0005434782608695652, False, True)), ('http://archive.ics.uci.edu/ml/support/Iris', (0.00015913430935709738, False, True)), ('https://www.ics.uci.edu/~welling/publications/publications.htm', (0.0003589375448671931, False, True))])

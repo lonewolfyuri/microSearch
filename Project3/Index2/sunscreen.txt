@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/s7bd/TobinDry.htm', (0.07142857142857142, False, True)), ('https://www.ics.uci.edu/~jutts/8/readme.htm', (0.00019308746862328635, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

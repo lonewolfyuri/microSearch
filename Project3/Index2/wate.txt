@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/courses/i141/w15enrollment.htm', (0.007518796992481203, False, False)), ('https://ngs.ics.uci.edu/person-of-the-year-you', (0.001524390243902439, False, True)), ('https://ngs.ics.uci.edu/joint-response-to-youtube', (0.001483679525222552, False, True))])

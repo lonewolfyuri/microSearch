@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/vinayak-borkar-fireeye-inc-the-x15-machine-data-management-platform', (0.00034965034965034965, False, True))])

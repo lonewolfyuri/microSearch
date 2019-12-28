@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Wave+Energy+Converters', 0.002257336343115124, False, True), ('http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data', 0.001443001443001443, False, True)]

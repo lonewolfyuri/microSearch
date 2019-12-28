@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/intriguing-observation-about-singapore', (0.0015432098765432098, False, False))])

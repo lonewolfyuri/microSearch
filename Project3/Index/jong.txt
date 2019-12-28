@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems', 0.002770083102493075, False, True), ('http://archive.ics.uci.edu/ml/datasets/Qualitative_Bankruptcy', 0.003367003367003367, False, True), ("http://archive.ics.uci.edu/ml/datasets/MONK's+Problems", 0.002770083102493075, False, True)]

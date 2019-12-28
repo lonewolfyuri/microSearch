@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition', 0.003968253968253968, False, True), ('http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait', 0.0021691973969631237, False, True), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+flow+modulation', 0.01084010840108401, False, True)]

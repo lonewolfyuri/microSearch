@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/digital-camera-sensitivity', (0.0018281535648994515, False, True))])

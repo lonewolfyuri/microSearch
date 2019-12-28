@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand', 0.004784688995215311, False, False), ('http://archive.ics.uci.edu/ml/datasets/Caesarian+Section+Classification+Dataset', 0.0030303030303030303, False, True), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.html', 9.394081728511038e-05, False, True)]

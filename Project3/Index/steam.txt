@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands', 0.004166666666666667, False, True), ('http://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant', 0.009569377990430622, False, True)]

@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/seraja-reincarnation-at-uci', (0.001277139208173691, False, True))])

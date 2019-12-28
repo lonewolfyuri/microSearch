@@ -1,0 +1,1 @@
+dict_items([('https://emj.ics.uci.edu/papers/computational-biology-papers', (0.0007107320540156361, False, False)), ('https://emj.ics.uci.edu/papers/computational-biology-papers/', (0.0007107320540156361, False, False)), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.ht', (0.00015590894917368256, False, True))])

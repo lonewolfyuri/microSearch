@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~cs237/reading/Millennium.ht', (0.0006325110689437065, False, True)), ('https://www.ics.uci.edu/~cs230/reading/Millennium.ht', (0.0006325110689437065, False, True)), ('https://ngs.ics.uci.edu/obsession-with-non-issues', (0.0015384615384615385, False, True))])

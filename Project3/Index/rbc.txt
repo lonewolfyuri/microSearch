@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients', 0.0029498525073746312, False, True), ('http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease', 0.003105590062111801, False, True)]

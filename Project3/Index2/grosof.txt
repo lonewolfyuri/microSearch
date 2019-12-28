@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/DGP2+-+The+Second+Data+Generation+Progra', (0.0015360983102918587, False, True)), ('https://www.ics.uci.edu/~gts/pubs.htm', (0.00015855398763278897, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/how-many-intersects.htm', (0.0015267175572519084, False, False))])

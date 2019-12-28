@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Competitions%2FCompetition', (0.0038314176245210726, False, True)), ('http://sli.ics.uci.edu/Competitions/Competition', (0.0038314176245210726, False, True))])

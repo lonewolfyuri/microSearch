@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/CSM+%28Conventional+and+Social+Media+Movies%29+Dataset+2014+and+2015', 0.0029585798816568047, False, True), ('http://archive.ics.uci.edu/ml/datasets/GPS+Trajectories', 0.005154639175257732, False, True), ('http://archive.ics.uci.edu/ml/datasets/Mushroom', 0.0022935779816513763, False, True)]

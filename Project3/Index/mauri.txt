@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/QSAR+aquatic+toxicity', 0.0024330900243309003, False, True), ('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 0.0027397260273972603, False, True)]

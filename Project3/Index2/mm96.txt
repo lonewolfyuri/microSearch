@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Musk+(Version+2)', (0.0007331378299120235, False, False)), ('http://archive.ics.uci.edu/ml/support/Congressional+Voting+Records', (0.0007818608287724785, False, False)), ('http://archive.ics.uci.edu/ml/support/Musk+(Version+1)', (0.0007331378299120235, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~wscacchi/Papers/NSF-Workshop-Jan02/Scacchi-Position-Paper-Jan2002a.htm', (0.00043782837127845885, False, True)), ('https://www.ics.uci.edu/~gts/pubs.htm', (0.00017027073046143367, False, True))])

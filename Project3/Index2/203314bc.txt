@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~gmark/Home_page/Videos_of_talks.htm', (0.003816793893129771, False, True))])

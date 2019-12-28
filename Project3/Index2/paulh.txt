@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Ecol', (0.003952569169960474, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Yeas', (0.003937007874015748, False, True))])

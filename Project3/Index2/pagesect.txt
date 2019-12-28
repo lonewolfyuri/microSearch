@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/Function', (0.000397456279809221, False, False)), ('http://computableplant.ics.uci.edu/sw/ldsa', (0.023809523809523808, False, True)), ('http://computableplant.ics.uci.edu/sw/gccd', (0.025, False, True)), ('http://computableplant.ics.uci.edu/sw/dd', (0.03125, False, True))])

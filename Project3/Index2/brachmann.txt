@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/p53+Mutant', (0.001869158878504673, False, True)), ('https://www.ics.uci.edu/~rickl/rickl-publication', (0.0006489292667099286, False, True)), ('https://www.ics.uci.edu/~rickl/rickl-publications.htm', (0.0006489292667099286, False, True))])

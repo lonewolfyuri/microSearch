@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Miller/shabsib.ht', (0.00032206119162640903, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/amandas/RobotLion.htm', (0.02857142857142857, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/amandas/Banana.htm', (0.03571428571428571, False, True))])

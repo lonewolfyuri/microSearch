@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/web-video-and-cable', (0.00141643059490085, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/explore/books-we-read/', (0.0009149130832570906, False, True)), ('https://www.informatics.uci.edu/explore/books-we-read', (0.0009149130832570906, False, True)), ('http://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset', (0.00392156862745098, False, False))])

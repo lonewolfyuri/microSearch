@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics45c/GradeCalculator', (0.0231023102310231, False, True)), ('https://www.ics.uci.edu/~thornton/ics32a/GradeCalculator', (0.027607361963190184, False, True))])

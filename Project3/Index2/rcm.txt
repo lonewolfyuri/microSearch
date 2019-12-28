@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dsm/compose/compose_design.htm', (0.001095290251916758, False, False)), ('https://www.ics.uci.edu/~eppstein/bibs/kpath.bi', (2.4136516135261037e-05, False, False)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (9.688174567988148e-06, False, False))])

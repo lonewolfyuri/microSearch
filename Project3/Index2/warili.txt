@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/community/news/articles/view_article?id=5', (0.0029940119760479044, False, True)), ('https://www.ics.uci.edu/~rohit/ETcon-notes.tx', (0.00045004500450045, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False))])

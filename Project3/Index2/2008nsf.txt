@@ -1,0 +1,1 @@
+dict_items([('https://sli.ics.uci.edu/Site/AllRecentChange', (0.0005757052389176742, False, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Grants-2008NSF%2FMai', (0.09090909090909091, True, True)), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Grants-2008NSF%2FHomePag', (0.25, True, True)), ('http://sli.ics.uci.edu/Grants-2008NSF/HomePag', (0.25, True, True))])

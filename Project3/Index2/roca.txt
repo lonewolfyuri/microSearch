@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPosting', (6.0379181258302136e-05, False, True)), ('http://archive.ics.uci.edu/ml/datasets/Parkinson+Dataset+with+replicated+acoustic+features', (0.0015060240963855422, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

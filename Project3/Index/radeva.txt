@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/User+Identification+From+Walking+Activity', 0.002793296089385475, False, True), ('http://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer', 0.0026666666666666666, False, True)]

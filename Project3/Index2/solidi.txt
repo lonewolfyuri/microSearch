@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (2.5972811660753522e-06, False, False)), ('https://cyberclub.ics.uci.edu/blog/wrccdc-quals-2019', (0.012345679012345678, False, True))])

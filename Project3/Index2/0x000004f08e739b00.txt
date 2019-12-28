@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics45c/Notes/PointersAndTheHeap', (0.00019876764062810574, False, True))])

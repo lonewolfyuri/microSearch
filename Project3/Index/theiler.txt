@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/Multiple+Features#4f52834d0595282e8454f617706fbec7589c8de6', 0.0023584905660377358, False, True), ('http://archive.ics.uci.edu/ml/datasets/Multiple+Features', 0.001579778830963665, False, True)]

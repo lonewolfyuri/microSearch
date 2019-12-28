@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~yug10/projects/SiggraphAsia2018/supl/dataset.htm', (0.03278688524590164, False, True)), ('https://asterix-gerrit.ics.uci.edu/elements/gr-app.htm', (0.00032206119162640903, False, True))])

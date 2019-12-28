@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/mendocino7/j4p/RescueOffroader.htm', (0.16666666666666666, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/mendocino7/j4p/Firefighter.htm', (0.09090909090909091, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/mendocino7/j4p/FireRescueJetski.htm', (0.3333333333333333, True, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/dianafall04/mayflower/Ropes.htm', (0.06666666666666667, False, True))])

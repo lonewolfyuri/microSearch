@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/icssc-presents-google-themed-hackathon', (0.0008156606851549756, False, True)), ('https://www.informatics.uci.edu/icssc-presents-google-themed-hackathon/', (0.0008156606851549756, False, True))])

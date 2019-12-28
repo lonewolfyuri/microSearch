@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/junkyard/all.htm', (5.72475383558507e-05, False, False)), ('https://www.ics.uci.edu/~eppstein/junkyard/dissect.htm', (0.001218026796589525, False, False))])

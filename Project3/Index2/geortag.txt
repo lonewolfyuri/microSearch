@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center', (0.0017241379310344827, False, True))])

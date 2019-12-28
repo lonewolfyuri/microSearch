@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/close-to-the-trenches/', (0.0005714285714285715, False, True)), ('https://www.informatics.uci.edu/close-to-the-trenches', (0.0005714285714285715, False, True)), ('https://www.ics.uci.edu/community/news/features/view_feature?id=6', (0.0009174311926605505, False, True))])

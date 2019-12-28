@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/download/c90.tx', (6.104260774020266e-05, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Infeld.htm', (0.0006887052341597796, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Poss.htm', (0.0007485029940119761, False, True))])

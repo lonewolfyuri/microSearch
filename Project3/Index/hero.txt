@@ -1,1 +1,0 @@
-[('https://aiclub.ics.uci.edu/', 0.0030581039755351682, False, True), ('https://aiclub.ics.uci.edu/#body', 0.0030581039755351682, False, True), ('https://aiclub.ics.uci.edu/index.html', 0.0030581039755351682, False, True), ('http://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results', 0.004830917874396135, False, False)]

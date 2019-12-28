@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~seal/projects/revealdroid/index.htm', (0.0025974025974025974, False, False)), ('http://seal.ics.uci.edu/projects/revealdroid', (0.0025974025974025974, False, False)), ('https://seal.ics.uci.edu/projects/revealdroid/index.htm', (0.0025974025974025974, False, False))])

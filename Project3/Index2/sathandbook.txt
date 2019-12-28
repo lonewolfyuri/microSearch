@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016', (0.0019723865877712033, False, True)), ('https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016/index.shtm', (0.0019723865877712033, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://honors.ics.uci.edu/sample-theses', (0.0015698587127158557, False, True)), ('https://www.ics.uci.edu/ugrad/honors/resources/sample-theses.ph', (0.0045871559633027525, False, True))])

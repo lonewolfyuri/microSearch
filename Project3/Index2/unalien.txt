@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/stem_cells.ht', (0.0017452006980802793, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False))])

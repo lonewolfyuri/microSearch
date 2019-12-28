@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Rosenlicht.htm', (0.004166666666666667, False, False))])

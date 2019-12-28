@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/support/LED+Display+Domain#e091a00eb65fd6124d7b0190126299db6ee8057e', 0.004728132387706856, False, True), ('http://archive.ics.uci.edu/ml/datasets/DGP2+-+The+Second+Data+Generation+Program', 0.003787878787878788, False, False)]

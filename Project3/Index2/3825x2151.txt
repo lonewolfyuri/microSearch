@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/lacma2/AgnesVardaInCalifornialand5.htm', (0.02631578947368421, False, True))])

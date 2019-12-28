@@ -1,0 +1,1 @@
+dict_items([('https://ngs.ics.uci.edu/world-wide-event-web', (0.000945179584120983, False, True))])

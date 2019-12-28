@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/machine-learning-databases/00000/', 0.0016806722689075631, False, True), ('http://archive.ics.uci.edu/ml/machine-learning-databases/00317/', 0.05, False, True), ('http://archive.ics.uci.edu/ml/datasets/Grammatical+Facial+Expressions', 0.1111111111111111, True, True)]

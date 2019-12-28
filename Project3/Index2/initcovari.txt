@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_gmm.htm', (0.002036659877800407, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/demo/vl_demo_gmm_3d.htm', (0.0019305019305019305, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/overview/gmm.htm', (0.0013386880856760374, False, False))])

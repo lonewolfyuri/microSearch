@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~irus/wisen/wisen98/program.htm', (0.002197802197802198, False, False)), ('https://www.ics.uci.edu/~peymano', (0.0028735632183908046, False, True)), ('https://www.ics.uci.edu/~peymano/', (0.0028735632183908046, False, True)), ('https://www.ics.uci.edu/~taylor/ICS280_fq01.htm', (0.0007485029940119761, False, False))])

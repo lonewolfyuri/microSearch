@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False)), ('http://www-db.ics.uci.edu/pages/research/quasar', (0.00048828125, False, True)), ('http://www-db.ics.uci.edu/pages/research/quasar/index.shtm', (0.00048828125, False, True))])

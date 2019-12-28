@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/support/Statlog+(Landsat+Satellite)', (0.0007102272727272727, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Anisfeld.htm', (0.0012594458438287153, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Stockstiel.htm', (0.0017271157167530224, False, False))])

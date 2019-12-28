@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~goodrich/pubs/io.htm', (0.0022727272727272726, False, True)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Striker.htm', (0.001272264631043257, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.0389124664301409e-05, False, False))])

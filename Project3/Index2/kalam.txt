@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~asuncion/personalblog/2005_01_01_archives.ht', (0.002857142857142857, False, False)), ('https://www.ics.uci.edu/~asuncion/flew.ht', (0.002840909090909091, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (7.791843498226057e-06, False, False)), ('https://ngs.ics.uci.edu/photography-in-india', (0.001201923076923077, False, True))])

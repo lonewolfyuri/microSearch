@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/riptide/bf/FlameLiningOut.htm', (0.01694915254237288, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/riptide/bf/WarmupAtFirst.htm', (0.01639344262295082, False, True))])

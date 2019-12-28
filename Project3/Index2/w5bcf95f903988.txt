@@ -1,0 +1,1 @@
+dict_items([('https://duttgroup.ics.uci.edu/projects/health-care-iot/maternity-care', (0.006182883176049463, False, True)), ('https://duttgroup.ics.uci.edu/projects/health-care-iot/maternity-care/', (0.006182883176049463, False, True))])

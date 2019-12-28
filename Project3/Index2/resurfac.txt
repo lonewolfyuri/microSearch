@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/gina/gis-and-cad.htm', (0.003436426116838488, False, False)), ('https://www.ics.uci.edu/~thornton/ics32/Notes/TestDrivenDevelopment', (0.00031377470975839345, False, True)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (1.5583686996452113e-05, False, False))])

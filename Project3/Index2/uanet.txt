@@ -1,0 +1,1 @@
+dict_items([('https://cbcl.ics.uci.edu/public_data/UANET', (0.2, False, False)), ('https://cbcl.ics.uci.edu/public_data', (0.043478260869565216, False, True))])

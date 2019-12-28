@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales', 0.0032258064516129032, False, True), ('http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work', 0.0016233766233766235, False, True)]

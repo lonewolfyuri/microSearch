@@ -1,0 +1,1 @@
+dict_items([('http://sli.ics.uci.edu/PmWiki/ChangeLo', (0.00015460729746444033, False, False)), ('https://www.ics.uci.edu/~alspaugh/cls/shr/glossaryExternal-goal-etym.htm', (0.0021551724137931034, False, False))])

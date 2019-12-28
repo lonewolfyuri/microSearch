@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/undergrad/special-opportunities/', (0.0007587253414264037, False, True)), ('https://www.informatics.uci.edu/undergrad/special-opportunities', (0.0007587253414264037, False, True)), ('https://www.ics.uci.edu/community/news/spotlight/spotlight_welcome_week_2013.ph', (0.001422475106685633, False, True))])

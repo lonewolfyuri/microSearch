@@ -1,0 +1,1 @@
+dict_items([('https://today.uci.edu/department/information_computer_sciences?calendar=', (0.00039952057530962844, False, True)), ('https://today.uci.edu/department/information_computer_science', (0.00039952057530962844, False, True)), ('http://mondego.ics.uci.edu/datasets/maven-contents.tx', (5.602005702578182e-06, False, False))])

@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~ejw/authoring/protocol/dav-08-to-09.htm', (0.014925373134328358, False, True)), ('https://www.ics.uci.edu/~ejw/authoring/protocol/dav-09-to-10.htm', (0.003067484662576687, False, True))])

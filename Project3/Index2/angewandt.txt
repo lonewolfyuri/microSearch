@@ -1,0 +1,1 @@
+dict_items([('http://archive.ics.uci.edu/ml/datasets/Dataset+for+Sensorless+Drive+Diagnosi', (0.0022026431718061676, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-vita.htm', (0.0005636978579481398, False, True)), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.ht', (0.00045682960255824577, False, True))])

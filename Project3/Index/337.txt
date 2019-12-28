@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/PANDOR', 0.003367003367003367, False, True), ('http://archive.ics.uci.edu/ml/datasets/Perfume+Data', 0.0025974025974025974, False, True)]

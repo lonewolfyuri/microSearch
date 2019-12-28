@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/insulindeplein/Steps.htm', (0.07692307692307693, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/insulindeplein/Psychadelic.htm', (1.0, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/insulindeplein/Spiky.htm', (0.3333333333333333, False, True))])

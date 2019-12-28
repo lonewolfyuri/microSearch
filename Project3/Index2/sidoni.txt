@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Liebgold.htm', (0.0014367816091954023, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Markheim.htm', (0.0002035002035002035, False, False)), ('https://www.ics.uci.edu/~kay/wordlist.tx', (5.1945623321507045e-06, False, False))])

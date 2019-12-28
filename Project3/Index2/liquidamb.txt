@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/pix/modernist/wyb-i.htm', (0.125, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/westyalebridge/I.htm', (0.125, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/westyalebridge/II.htm', (0.05263157894736842, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/westyalebridge/III.htm', (0.25, True, True))])

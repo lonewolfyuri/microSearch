@@ -1,0 +1,1 @@
+dict_items([('https://www.informatics.uci.edu/all-work-and-game-play/', (0.000777000777000777, False, True)), ('https://www.informatics.uci.edu/all-work-and-game-play', (0.000777000777000777, False, True)), ('https://www.ics.uci.edu/community/news/view_news.php?id=110', (0.00186219739292365, False, True))])

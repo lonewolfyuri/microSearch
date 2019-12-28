@@ -1,0 +1,1 @@
+dict_items([('https://frost.ics.uci.edu/Ucigame/Ucigame-20101216/reference-keyboard.htm', (0.009708737864077669, False, True)), ('https://www.ics.uci.edu/~pattis/common/handouts/introtopythonineclipse/lecture.htm', (0.0003536067892503536, False, True))])

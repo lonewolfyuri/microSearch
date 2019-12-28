@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Goldstoff.htm', (0.0010471204188481676, False, False))])

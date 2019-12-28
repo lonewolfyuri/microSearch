@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~theory/269/980501.htm', (0.027777777777777776, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/reykjanes/Kleifarvatn4.htm', (0.1, False, True)), ('https://www.ics.uci.edu/~eppstein/pix/reykjanes/MagnusHalldorsson.htm', (0.5, True, True)), ('https://www.ics.uci.edu/~eppstein/pix/reykjanes/Kleifarvatn5.htm', (0.2, False, True))])

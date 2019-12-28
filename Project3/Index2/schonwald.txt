@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Spanlang.htm', (0.0021645021645021645, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Trinkenreich.htm', (0.0016313213703099511, False, False))])

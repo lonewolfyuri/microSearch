@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~thornton/ics32a/Notes/TypeAnnotations', (0.0007204610951008645, False, False)), ('https://www.ics.uci.edu/~thornton/ics32/Notes/TypeAnnotations', (0.0007168458781362007, False, False))])

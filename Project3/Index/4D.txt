@@ -1,1 +1,0 @@
-[('http://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset', 0.0015923566878980893, False, True), ('http://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs', 0.0033003300330033004, False, True)]

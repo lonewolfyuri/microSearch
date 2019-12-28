@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed', (0.009345794392523364, False, True)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/Random.c', (0.024390243902439025, False, True)), ('https://www.ics.uci.edu/~eppstein/projects/pairs/Source/testbed/rand48', (0.125, True, True))])

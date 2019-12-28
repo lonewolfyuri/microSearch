@@ -1,0 +1,1 @@
+dict_items([('https://www.cs.uci.edu/cardiovascular-business-nih-provides-researchers-8-6-million-to-map-hearts-anatomy-fowlkes-mentioned', (0.0014144271570014145, False, False)), ('https://www.cs.uci.edu/news/page/18', (0.0005858230814294083, False, False))])

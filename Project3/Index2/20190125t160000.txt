@@ -1,0 +1,1 @@
+dict_items([('https://isg.ics.uci.edu/event/speaker-david-lomet-microsoft-research-cost-performance-in-modern-data-stores-how-data-caching-systems-succeed/?ical=', (0.0016556291390728477, False, False))])

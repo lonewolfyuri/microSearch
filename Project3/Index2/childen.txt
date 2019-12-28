@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/b-tree.tx', (0.003236245954692557, False, False)), ('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/shalev.ht', (0.0009285051067780873, False, True)), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/generaltrees.tx', (0.003875968992248062, False, False))])

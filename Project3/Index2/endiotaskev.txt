@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~schark/simulator/javadoc/AllNames.htm', (0.002369668246445498, False, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/EndIOTaskEvent.html', (0.5, True, True)), ('https://www.ics.uci.edu/~schark/simulator/javadoc/tree.htm', (0.014084507042253521, False, True))])

@@ -1,0 +1,1 @@
+dict_items([('https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project2?action=diff&version=', (0.00398406374501992, False, True)), ('https://ngs.ics.uci.edu/china-trip-nov-20063', (0.0017035775127768314, False, True))])

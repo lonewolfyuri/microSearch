@@ -1,0 +1,1 @@
+dict_items([('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/functions_vars_g.htm', (0.003115264797507788, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/functions_g.htm', (0.0029239766081871343, False, True)), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/structVlSiftFilt.htm', (0.0028089887640449437, False, True))])
